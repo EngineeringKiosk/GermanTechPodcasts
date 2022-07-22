@@ -29,5 +29,5 @@ jobs:
       - name: Build
         run: make build
 
-      - name: GermanTechPodcasts: convertYamlToJson
+      - name: GermanTechPodcasts convertYamlToJson
         run: ./GermanTechPodcasts convertYamlToJson --yaml-directory ../podcasts --json-directory ../generated
