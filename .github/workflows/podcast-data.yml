@@ -1,0 +1,33 @@
+name: Podcast data
+
+on:
+  #push:
+  workflow_dispatch:
+
+jobs:
+  data_workflow:
+    name: Test- and linting
+    runs-on: ubuntu-20.04
+    defaults:
+      run:
+        working-directory: app
+
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-go@v3
+        with:
+          go-version: 1.18
+
+      # Caching go modules to speed up the run
+      - uses: actions/cache@v3
+        with:
+          path: ~/go/pkg/mod
+          key: ${{ runner.os }}-go-${{ hashFiles('**/go.sum') }}
+          restore-keys: |
+            ${{ runner.os }}-go-
+
+      - name: Build
+        run: make build
+
+      - name: GermanTechPodcasts: convertYamlToJson
+        run: ./GermanTechPodcasts convertYamlToJson --yaml-directory ../podcasts --json-directory ../generated
