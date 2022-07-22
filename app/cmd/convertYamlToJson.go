@@ -40,7 +40,6 @@ type PodcastInformation struct {
 	RSSFeed        string `yaml:"rssFeed" json:"rssFeed"` // TODO Should be better a url.URL
 	Spotify        string `yaml:"spotify" json:"spotify"` // TODO Should be better a url.URL
 	Description    string `yaml:"description" json:"description"`
-	Foo            string `json:"foo"`
 }
 
 func cmdConvertYamlToJson(cmd *cobra.Command, args []string) error {
