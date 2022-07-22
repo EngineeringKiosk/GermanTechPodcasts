@@ -31,3 +31,14 @@ jobs:
 
       - name: GermanTechPodcasts convertYamlToJson
         run: ./GermanTechPodcasts convertYamlToJson --yaml-directory ../podcasts --json-directory ../generated
+
+      # Commit results back to repository
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          commit_message: Update generated JSON podcast data content
+          branch: main
+          commit_user_name: Podcast data update bot
+          commit_user_email: stehtisch@engineeringkiosk.dev
+          commit_author: Podcast data update bot <stehtisch@engineeringkiosk.dev>
