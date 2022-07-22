@@ -6,7 +6,7 @@ on:
 
 jobs:
   data_workflow:
-    name: Test- and linting
+    name: Data workflow
     runs-on: ubuntu-20.04
     defaults:
       run:
