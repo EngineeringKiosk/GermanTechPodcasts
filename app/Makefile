@@ -10,7 +10,7 @@ build: ## Compiles the application
 
 .PHONY: staticcheck
 staticcheck: ## Runs static code analyzer staticcheck
-	go get -u honnef.co/go/tools/cmd/staticcheck
+	go install honnef.co/go/tools/cmd/staticcheck@latest
 	staticcheck ./...
 
 .PHONY: vet
