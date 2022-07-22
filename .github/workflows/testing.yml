@@ -1,0 +1,71 @@
+name: Testing
+
+on:
+  push:
+  workflow_dispatch:
+
+jobs:
+  testing:
+    name: Test- and linting
+    runs-on: ubuntu-20.04
+    defaults:
+      run:
+        working-directory: app
+
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-go@v3
+        with:
+          go-version: 1.18
+
+      # Caching go modules to speed up the run
+      - uses: actions/cache@v3
+        with:
+          path: ~/go/pkg/mod
+          key: ${{ runner.os }}-go-${{ hashFiles('**/go.sum') }}
+          restore-keys: |
+            ${{ runner.os }}-go-
+
+      #
+      # If you seek for more static checks and code quality, check out
+      # https://github.com/golangci/golangci-lint
+      #
+      # Linters that might be useful (for sure):
+      # - ineffassign (also used by goreportcard)
+      # - misspell (also used by goreportcard)
+      #
+
+      - name: Run go fmt
+        if: runner.os != 'Windows'
+        run: diff -u <(echo -n) <(gofmt -d -s .)
+
+      - name: Run go vet
+        run: make vet
+
+      - name: Run staticcheck
+        run: make staticcheck
+
+  compile:
+    name: Compile application
+    runs-on: ubuntu-20.04
+    needs: [testing]
+    defaults:
+      run:
+        working-directory: app
+
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-go@v3
+        with:
+          go-version: 1.18
+
+      # Caching go modules to speed up the run
+      - uses: actions/cache@v3
+        with:
+          path: ~/go/pkg/mod
+          key: ${{ runner.os }}-go-${{ hashFiles('**/go.sum') }}
+          restore-keys: |
+            ${{ runner.os }}-go-
+
+      - name: Build
+        run: make build
