@@ -1,0 +1,43 @@
+# GermanTechPodcasts
+
+A curated list of German Tech Podcasts
+
+## Table of Contents
+
+### [Podcasts](#Podcasts)
+
+<ul>
+  {{- range $podcast := . }}
+    <li><a href="#{{ $podcast.Name }}">{{ $podcast.Name }}</a></li>
+  {{- end }}
+</ul>
+
+## Podcasts
+
+{{ range $podcast := . }}
+<h3 id="{{ $podcast.Slug }}">{{ $podcast.Name }}</h3>
+
+{{ $podcast.Description }}
+
+* [Website]({{ $podcast.Website }})
+* [{{ $podcast.Name }} @ Spotify]({{ $podcast.Spotify }})
+* [{{ $podcast.Name }} Podcast RSS]({{ $podcast.RSSFeed }})
+{{ end }}
+
+## How to insert a new podcast
+
+TODO
+
+### Fields / Structure
+
+- `name` name of the podcast
+- `feed` URL to the podcast feed
+- `tags` array of tags (string) describing the content
+- `[podcastindex_id]` podcast ID in podcastindex.org  (optional)
+- `weekly_downloads` average weekly downloads
+
+## Criteria to be accepted
+
+- Has to be a podcast
+- Published using RSS feed
+- Podcast language: German
