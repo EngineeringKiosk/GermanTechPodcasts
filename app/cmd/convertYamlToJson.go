@@ -7,6 +7,7 @@ import (
 	"path/filepath"
 
 	"github.com/EngineeringKiosk/GermanTechPodcasts/io"
+	"github.com/gosimple/slug"
 	"github.com/spf13/cobra"
 	"gopkg.in/yaml.v2"
 )
@@ -31,15 +32,6 @@ func init() {
 	convertYamlToJsonCmd.MarkFlagRequired("yaml-directory")
 	convertYamlToJsonCmd.MarkFlagRequired("json-directory")
 	convertYamlToJsonCmd.MarkFlagsRequiredTogether("yaml-directory", "json-directory")
-}
-
-type PodcastInformation struct {
-	Name           string `yaml:"name" json:"name"`
-	Website        string `yaml:"website" json:"website"`
-	PodcastIndexID int64  `yaml:"podcastIndexID" json:"podcastIndexID"`
-	RSSFeed        string `yaml:"rssFeed" json:"rssFeed"` // TODO Should be better a url.URL
-	Spotify        string `yaml:"spotify" json:"spotify"` // TODO Should be better a url.URL
-	Description    string `yaml:"description" json:"description"`
 }
 
 func cmdConvertYamlToJson(cmd *cobra.Command, args []string) error {
@@ -101,6 +93,10 @@ func cmdConvertYamlToJson(cmd *cobra.Command, args []string) error {
 			}
 
 			podcastInfo = mergePodcastInformation(podcastInfo, podcastJsonInfo)
+
+			// Add generated fields
+			// TODO Maybe this should be an own command
+			podcastInfo.Slug = slug.Make(podcastInfo.Name)
 		}
 
 		// Dump data into JSON file
