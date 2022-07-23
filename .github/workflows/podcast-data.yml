@@ -40,7 +40,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          commit_message: Update generated JSON podcast data content
+          commit_message: Update generated podcast content
           branch: main
           commit_user_name: Podcast data update bot
           commit_user_email: stehtisch@engineeringkiosk.dev
