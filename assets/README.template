@@ -1,10 +1,10 @@
 # GermanTechPodcasts
 
-A curated list of German Tech Podcasts
+A curated list of German Tech Podcasts :de:
 
 ## Table of Contents
 
-### [Podcasts](#Podcasts)
+### [Podcasts](#podcasts-1)
 
 <ul>
   {{- range $podcast := . }}
@@ -24,20 +24,8 @@ A curated list of German Tech Podcasts
 * [{{ $podcast.Name }} Podcast RSS]({{ $podcast.RSSFeed }})
 {{ end }}
 
-## How to insert a new podcast
+## How to contribute
 
-TODO
-
-### Fields / Structure
-
-- `name` name of the podcast
-- `feed` URL to the podcast feed
-- `tags` array of tags (string) describing the content
-- `[podcastindex_id]` podcast ID in podcastindex.org  (optional)
-- `weekly_downloads` average weekly downloads
-
-## Criteria to be accepted
-
-- Has to be a podcast
-- Published using RSS feed
-- Podcast language: German
+If you want to 
+* add a new podcast to the list, check out our [Contribution Guide](/CONTRIBUTING.md)
+* modify the tooling and structure, check out our [Development Guide](/DEVELOPMENT.md)
