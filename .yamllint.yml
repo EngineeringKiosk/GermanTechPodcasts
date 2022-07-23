@@ -1,0 +1,8 @@
+# Docs: https://yamllint.readthedocs.io/en/stable/configuration.html
+extends: default
+
+rules:
+  # Standard conf is 80 chars. We don't care here.
+  line-length: disable
+  # Our document start don't need to be "---"
+  document-start: disable
