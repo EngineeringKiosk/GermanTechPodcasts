@@ -29,8 +29,11 @@ jobs:
       - name: Build
         run: make build
 
-      - name: GermanTechPodcasts convertYamlToJson
+      - name: GermanTechPodcasts Convert YAML to JSON
         run: ./GermanTechPodcasts convertYamlToJson --yaml-directory ../podcasts --json-directory ../generated
+
+      - name: GermanTechPodcasts Convert JSON to README
+        run: ./GermanTechPodcasts convertJsonToReadme --json-directory ../generated --readme-template ../assets/README.template --readme-output ../README.md
 
       # Commit results back to repository
       - uses: stefanzweifel/git-auto-commit-action@v4
