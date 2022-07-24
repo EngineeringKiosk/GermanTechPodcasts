@@ -5,6 +5,8 @@ import (
 	"io/ioutil"
 	"os"
 	"path/filepath"
+	"sort"
+	"strings"
 
 	"github.com/EngineeringKiosk/GermanTechPodcasts/io"
 	"github.com/spf13/cobra"
@@ -74,6 +76,11 @@ func cmdConvertJsonToReadme(cmd *cobra.Command, args []string) error {
 
 		podcasts = append(podcasts, podcastInfo)
 	}
+
+	// Sort list by name
+	sort.Slice(podcasts, func(i, j int) bool {
+		return strings.ToLower(podcasts[i].Name) < strings.ToLower(podcasts[j].Name)
+	})
 
 	readmeTemplateContent, err := ioutil.ReadFile(readmeTemplate)
 	if err != nil {
