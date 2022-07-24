@@ -17,7 +17,7 @@ A curated list of German Tech Podcasts :de:
 {{ range $podcast := . }}
 <h3 id="{{ $podcast.Slug }}">{{ $podcast.Name }}</h3>
 
-<img align="left" width="300" height="300" src="./generated/{{ $podcast.Image }}" />
+<img align="left" width="215" height="215" src="./generated/{{ $podcast.Image }}" />
 
 {{ $podcast.Description }}
 
@@ -27,6 +27,8 @@ A curated list of German Tech Podcasts :de:
 * [{{ $podcast.Name }} @ Spotify]({{ $podcast.Spotify }})
 * [{{ $podcast.Name }} @ Apple Podcasts](https://podcasts.apple.com/de/podcast/{{ $podcast.ItunesID }})
 * [{{ $podcast.Name }} Podcast RSS]({{ $podcast.RSSFeed }})
+
+---
 {{ end }}
 
 ## How to contribute
