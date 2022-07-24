@@ -4,12 +4,11 @@ A curated list of German Tech Podcasts :de:
 
 ## Table of Contents
 
-### [Podcasts](#podcasts-1)
-
-<ul>
+* [Podcasts](#podcasts-1)
   {{- range $podcast := . }}
-    <li><a href="#{{ $podcast.Slug }}">{{ $podcast.Name }}</a></li>
+  * [{{ $podcast.Name }}](#{{ $podcast.Slug }})
   {{- end }}
+* [How to contribute](how-to-contribute)
 </ul>
 
 ## Podcasts
