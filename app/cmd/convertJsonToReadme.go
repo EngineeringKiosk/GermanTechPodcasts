@@ -1,6 +1,7 @@
 package cmd
 
 import (
+	"encoding/json"
 	"html/template"
 	"io/ioutil"
 	"os"
@@ -10,7 +11,6 @@ import (
 
 	"github.com/EngineeringKiosk/GermanTechPodcasts/io"
 	"github.com/spf13/cobra"
-	"gopkg.in/yaml.v2"
 )
 
 // convertJsonToReadmeCmd represents the convertJsonToReadme command
@@ -69,7 +69,7 @@ func cmdConvertJsonToReadme(cmd *cobra.Command, args []string) error {
 		}
 
 		podcastInfo := &PodcastInformation{}
-		err = yaml.Unmarshal(jsonFileContent, podcastInfo)
+		err = json.Unmarshal(jsonFileContent, podcastInfo)
 		if err != nil {
 			return err
 		}
