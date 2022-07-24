@@ -28,7 +28,7 @@ A curated list of German Tech Podcasts :de:
 * [{{ $podcast.Name }} @ Apple Podcasts](https://podcasts.apple.com/de/podcast/{{ $podcast.ItunesID }})
 * [{{ $podcast.Name }} Podcast RSS]({{ $podcast.RSSFeed }})
 
----
+----
 {{ end }}
 
 ## How to contribute
