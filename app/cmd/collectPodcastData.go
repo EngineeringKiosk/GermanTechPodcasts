@@ -90,7 +90,6 @@ func cmdCollectPodcastData(cmd *cobra.Command, args []string) error {
 
 		// Set basic podcast data
 		podcastInfo.EpisodeCount = p.Feed.EpisodeCount
-		podcastInfo.LastUpdateTime = p.Feed.LastUpdateTime
 		podcastInfo.ItunesID = p.Feed.ItunesID
 
 		categories := make([]string, 0)
@@ -112,15 +111,19 @@ func cmdCollectPodcastData(cmd *cobra.Command, args []string) error {
 		podcastInfo.Image = filepath.Join(imageFolder, imageFileName)
 
 		// Get Podcast Episodes info
-		// We skip this for now, we don't need it yet.
-		// However, if you wanna implement this at some point in time, here would be the code
-		//
-		// e, _, err := c.Episodes.GetByFeedID(context.Background(), int(podcastInfo.PodcastIndexID))
-		// if err != nil {
-		// 	return err
-		// }
-		//
-		// To access a single episode, run e.Items[0]
+		episodes, _, err := c.Episodes.GetByFeedID(context.Background(), int(podcastInfo.PodcastIndexID), 1000)
+		if err != nil {
+			return err
+		}
+
+		// Determine time/date of latest episode published
+		latestEpisodePublished := int64(0)
+		for _, e := range episodes.Items {
+			if latestEpisodePublished < e.DatePublished {
+				latestEpisodePublished = e.DatePublished
+			}
+		}
+		podcastInfo.LatestEpisodePublished = latestEpisodePublished
 
 		// Write the information back to the JSON file
 		// Dump data into JSON file

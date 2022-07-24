@@ -21,10 +21,11 @@ A curated list of German Tech Podcasts :de:
 
 {{ $podcast.Description }}
 
-* [Website]({{ $podcast.Website }})
+* Number of published episodes: {{ $podcast.EpisodeCount }}
+* Last episode published: {{ $podcast.GetHumanReadableDate }}
+* [{{ $podcast.Name }} Website]({{ $podcast.Website }})
 * [{{ $podcast.Name }} @ Spotify]({{ $podcast.Spotify }})
 * [{{ $podcast.Name }} Podcast RSS]({{ $podcast.RSSFeed }})
-
 {{ end }}
 
 ## How to contribute
