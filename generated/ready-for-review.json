@@ -10,10 +10,10 @@
  "latestEpisodePublished": 1658253391,
  "itunesID": 1535026156,
  "categories": [
-  "Technology",
-  "Education",
   "How To",
-  "News"
+  "News",
+  "Technology",
+  "Education"
  ],
  "image": "images/ready-for-review.png"
 }
