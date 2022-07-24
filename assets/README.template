@@ -17,7 +17,7 @@ A curated list of German Tech Podcasts :de:
 {{ range $podcast := . }}
 <h3 id="{{ $podcast.Slug }}">{{ $podcast.Name }}</h3>
 
-<img align="left" width="215" height="215" src="./generated/{{ $podcast.Image }}" />
+<img align="right" width="215" height="215" src="./generated/{{ $podcast.Image }}" />
 
 {{ $podcast.Description }}
 
