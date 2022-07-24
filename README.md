@@ -4,13 +4,13 @@ A curated list of German Tech Podcasts :de:
 
 ## Table of Contents
 
-* [Podcasts](#podcasts-1)
+* [Podcasts](#podcasts)
   * [Engineering Kiosk](#engineering-kiosk)
   * [programmier.bar](#programmier-bar)
   * [Ready for Review](#ready-for-review)
   * [Wo wir sind ist vorne](#wo-wir-sind-ist-vorne)
   * [Working Draft](#working-draft)
-* [How to contribute](how-to-contribute)
+* [How to contribute](#how-to-contribute)
 </ul>
 
 ## Podcasts
