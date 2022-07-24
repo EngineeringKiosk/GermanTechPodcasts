@@ -42,7 +42,7 @@ Mit geballter Dev-Power nehmen Dennis, Fabi, Sebi und Jojo neue Podcastfolgen au
 * [programmier.bar Website](https://www.programmier.bar/podcast)
 * [programmier.bar @ Spotify](https://open.spotify.com/show/0ik0sXv9paTQCeThcOLCCJ)
 * [programmier.bar @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1371409964)
-* [programmier.bar Podcast RSS](TODO)
+* [programmier.bar Podcast RSS](https://feeds.buzzsprout.com/176239.rss)
 
 ----
 
