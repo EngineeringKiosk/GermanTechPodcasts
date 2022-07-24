@@ -32,6 +32,9 @@ jobs:
       - name: GermanTechPodcasts Convert YAML to JSON
         run: ./GermanTechPodcasts convertYamlToJson --yaml-directory ../podcasts --json-directory ../generated
 
+      - name: GermanTechPodcasts Gather additional podcast data
+        run: ./GermanTechPodcasts collectPodcastData --api-key ${{ secrets.PODCASTINDEX_API_KEY }} --api-secret ${{ secrets.PODCASTINDEX_API_SECRET }} --json-directory ../generated
+
       - name: GermanTechPodcasts Convert JSON to README
         run: ./GermanTechPodcasts convertJsonToReadme --json-directory ../generated --readme-template ../assets/README.template --readme-output ../README.md
 
