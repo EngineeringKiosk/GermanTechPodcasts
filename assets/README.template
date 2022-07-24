@@ -8,7 +8,7 @@ A curated list of German Tech Podcasts :de:
 
 <ul>
   {{- range $podcast := . }}
-    <li><a href="#{{ $podcast.Name }}">{{ $podcast.Name }}</a></li>
+    <li><a href="#{{ $podcast.Slug }}">{{ $podcast.Name }}</a></li>
   {{- end }}
 </ul>
 
