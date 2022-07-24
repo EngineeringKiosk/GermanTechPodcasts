@@ -5,5 +5,15 @@
  "podcastIndexID": 1982599,
  "rssFeed": "https://ready-for-review.podigee.io/feed/mp3",
  "spotify": "https://open.spotify.com/show/7dxK2wi4ZMGEYO3UHhTSc4",
- "description": "Sandra Parsick \u0026 Daniel Zenzes präsentieren mit Ready for Review einen bunten Mix aus aktuellen IT-Themen und ihrem täglichen Entwickler-Alltag."
+ "description": "Sandra Parsick \u0026 Daniel Zenzes präsentieren mit Ready for Review einen bunten Mix aus aktuellen IT-Themen und ihrem täglichen Entwickler-Alltag.",
+ "episodeCount": 28,
+ "lastUpdateTime": 1658278380,
+ "itunesID": 1535026156,
+ "categories": [
+  "News",
+  "Technology",
+  "Education",
+  "How To"
+ ],
+ "image": "images/ready-for-review.png"
 }
