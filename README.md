@@ -10,6 +10,7 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
   * [Ready for Review](#ready-for-review)
   * [Wo wir sind ist vorne](#wo-wir-sind-ist-vorne)
   * [Working Draft](#working-draft)
+* [Legend](#legend)
 * [How to contribute](#how-to-contribute)
 </ul>
 
@@ -93,6 +94,13 @@ Wöchentlicher Podcast für Webdesigner:innen und -entwickler:innen
 
 ----
 
+
+## Legend
+
+We calculate a traffic light indicator on when the last podcast episode was published:
+* 🔴 Last Episode published > 6 months ago
+* 🟡 Last Episode published something between 2 months and 6 months ago
+* 🟢 Last Episode published within today and last 2 month
 
 ## How to contribute
 
