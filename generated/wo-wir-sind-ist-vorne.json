@@ -6,11 +6,13 @@
  "rssFeed": "https://wowirsindistvorne.show/feed/mp3/",
  "spotify": "https://open.spotify.com/show/54K1DpiQYHBHSnIO6OzSKs",
  "description": "Latenight-Frontend-Talkshow rund um Webdesign und Entwicklung. Es reden sich um \u003cHEAD\u003e und Kragen: HTML-Fundamentalist Moritz Gießmann und JavaScript Jongleur Constantin Groß.",
+ "tags": null,
+ "weekly_downloads_avg": {
+  "value": 0,
+  "updated": ""
+ },
  "episodeCount": 44,
  "latestEpisodePublished": 1652003109,
  "itunesID": 1500485579,
- "categories": [
-  "Technology"
- ],
  "image": "images/wo-wir-sind-ist-vorne.png"
 }

@@ -92,12 +92,6 @@ func cmdCollectPodcastData(cmd *cobra.Command, args []string) error {
 		podcastInfo.EpisodeCount = p.Feed.EpisodeCount
 		podcastInfo.ItunesID = p.Feed.ItunesID
 
-		categories := make([]string, 0)
-		for _, v := range p.Feed.Categories {
-			categories = append(categories, v)
-		}
-		podcastInfo.Categories = categories
-
 		// Download cover-image
 		imageFileExtension := path.Ext(p.Feed.Artwork)
 		jsonFileExtension := path.Ext(f.Name())

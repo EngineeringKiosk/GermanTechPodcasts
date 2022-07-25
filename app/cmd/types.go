@@ -17,7 +17,6 @@ type PodcastInformation struct {
 	EpisodeCount           int       `json:"episodeCount"`
 	LatestEpisodePublished int64     `json:"latestEpisodePublished"`
 	ItunesID               int64     `json:"itunesID"`
-	Categories             []string  `json:"categories"`
 	Image                  string    `json:"image"`
 }
 
