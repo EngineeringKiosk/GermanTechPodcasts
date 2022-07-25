@@ -1,6 +1,7 @@
 package cmd
 
 import (
+	"strings"
 	"time"
 )
 
@@ -28,6 +29,15 @@ type Statistic struct {
 func (p PodcastInformation) GetHumanReadableDate() string {
 	t := time.Unix(p.LatestEpisodePublished, 0)
 	s := t.Format("Monday, 02 January 2006")
+
+	return s
+}
+
+func (p PodcastInformation) TagsAsList() string {
+	s := ""
+	if len(p.Tags) > 0 {
+		s = strings.Join(p.Tags, ", ")
+	}
 
 	return s
 }
