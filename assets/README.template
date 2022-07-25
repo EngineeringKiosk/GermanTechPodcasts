@@ -21,13 +21,13 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
 {{ $podcast.Description }}
 
 * Number of published episodes: {{ $podcast.EpisodeCount }}
-* Last episode published: {{ $podcast.GetHumanReadableDate }}
-{{ if $podcast.WeeklyDownloadsAVG.Updated }}* Weekly downloads (avg): {{ $podcast.WeeklyDownloadsAVG.Value }} (updated: {{ $podcast.WeeklyDownloadsAVG.Updated }}){{end}}
+* Last episode published: {{ $podcast.GetHumanReadableDate }}{{ if $podcast.WeeklyDownloadsAVG.Updated }}
+* Weekly downloads (avg): {{ $podcast.WeeklyDownloadsAVG.Value }} (updated: {{ $podcast.WeeklyDownloadsAVG.Updated }}){{- end }}
 * [{{ $podcast.Name }} Website]({{ $podcast.Website }})
 * [{{ $podcast.Name }} @ Spotify]({{ $podcast.Spotify }})
 * [{{ $podcast.Name }} @ Apple Podcasts](https://podcasts.apple.com/de/podcast/{{ $podcast.ItunesID }})
-* [{{ $podcast.Name }} Podcast RSS]({{ $podcast.RSSFeed }})
-{{ if $podcast.Tags }}* Tags: {{ $podcast.TagsAsList }}{{end}}
+* [{{ $podcast.Name }} Podcast RSS]({{ $podcast.RSSFeed }}){{ if $podcast.Tags }}
+* Tags: {{ $podcast.TagsAsList }}{{end}}
 
 ----
 {{ end }}
