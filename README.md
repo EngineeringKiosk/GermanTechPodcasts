@@ -25,7 +25,7 @@ Der Engineering Kiosk ist der deutschsprachige Software-Engineering-Podcast mit 
 
 * Number of published episodes: 29
 * Last episode published: 🟢 Tuesday, 19 July 2022
-* Weekly downloads (avg): 413 (updated: 2022-07-25)
+* Weekly downloads (avg): 473 (updated: 2022-07-25)
 * [Engineering Kiosk Website](https://engineeringkiosk.dev/)
 * [Engineering Kiosk @ Spotify](https://open.spotify.com/show/0tJRC0UsObPCWLmmzmOkIs)
 * [Engineering Kiosk @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1603082924)
