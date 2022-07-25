@@ -124,6 +124,8 @@ func mergePodcastInformation(source, target *PodcastInformation) *PodcastInforma
 	target.RSSFeed = source.RSSFeed
 	target.Spotify = source.Spotify
 	target.Description = source.Description
+	target.Tags = source.Tags
+	target.WeeklyDownloadsAVG = source.WeeklyDownloadsAVG
 
 	return target
 }
