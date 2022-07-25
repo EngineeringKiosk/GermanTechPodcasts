@@ -29,7 +29,7 @@ Der Engineering Kiosk ist der deutschsprachige Software-Engineering-Podcast mit 
 * [Engineering Kiosk @ Spotify](https://open.spotify.com/show/0tJRC0UsObPCWLmmzmOkIs)
 * [Engineering Kiosk @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1603082924)
 * [Engineering Kiosk Podcast RSS](https://feeds.redcircle.com/0ecfdfd7-fda1-4c3d-9515-476727f9df5e)
-* Tags: Development, Tech-Kultur, Open Source (updated: 2022-07-25)
+* Tags: Development, Tech-Kultur, Open Source
 
 ----
 
@@ -41,12 +41,10 @@ Mit geballter Dev-Power nehmen Dennis, Fabi, Sebi und Jojo neue Podcastfolgen au
 
 * Number of published episodes: 184
 * Last episode published: Friday, 15 July 2022
-
 * [programmier.bar Website](https://www.programmier.bar/podcast)
 * [programmier.bar @ Spotify](https://open.spotify.com/show/0ik0sXv9paTQCeThcOLCCJ)
 * [programmier.bar @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1371409964)
 * [programmier.bar Podcast RSS](https://feeds.buzzsprout.com/176239.rss)
-
 
 ----
 
@@ -58,12 +56,10 @@ Sandra Parsick &amp; Daniel Zenzes präsentieren mit Ready for Review einen bunt
 
 * Number of published episodes: 28
 * Last episode published: Tuesday, 19 July 2022
-
 * [Ready for Review Website](https://ready-for-review.dev/)
 * [Ready for Review @ Spotify](https://open.spotify.com/show/7dxK2wi4ZMGEYO3UHhTSc4)
 * [Ready for Review @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1535026156)
 * [Ready for Review Podcast RSS](https://ready-for-review.podigee.io/feed/mp3)
-
 
 ----
 
@@ -75,12 +71,10 @@ Latenight-Frontend-Talkshow rund um Webdesign und Entwicklung. Es reden sich um 
 
 * Number of published episodes: 44
 * Last episode published: Sunday, 08 May 2022
-
 * [Wo wir sind ist vorne Website](https://wowirsindistvorne.show/)
 * [Wo wir sind ist vorne @ Spotify](https://open.spotify.com/show/54K1DpiQYHBHSnIO6OzSKs)
 * [Wo wir sind ist vorne @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1500485579)
 * [Wo wir sind ist vorne Podcast RSS](https://wowirsindistvorne.show/feed/mp3/)
-
 
 ----
 
@@ -92,12 +86,10 @@ Wöchentlicher Podcast für Webdesigner:innen und -entwickler:innen
 
 * Number of published episodes: 552
 * Last episode published: Wednesday, 29 June 2022
-
 * [Working Draft Website](https://workingdraft.de/)
 * [Working Draft @ Spotify](https://open.spotify.com/show/78iH7cIFzu1ejoB6aQUsIh)
 * [Working Draft @ Apple Podcasts](https://podcasts.apple.com/de/podcast/402204581)
 * [Working Draft Podcast RSS](https://workingdraft.de/feed/)
-
 
 ----
 
