@@ -5,6 +5,8 @@ on:
     branches:
      - 'main'
   workflow_dispatch:
+  schedule:
+    - cron: "5 11 * * 3" # Run at 11:05 on Wednesday.
 
 jobs:
   data_workflow:
