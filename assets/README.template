@@ -27,7 +27,7 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
 * [{{ $podcast.Name }} @ Spotify]({{ $podcast.Spotify }})
 * [{{ $podcast.Name }} @ Apple Podcasts](https://podcasts.apple.com/de/podcast/{{ $podcast.ItunesID }})
 * [{{ $podcast.Name }} Podcast RSS]({{ $podcast.RSSFeed }})
-{{ if $podcast.Tags }}* Tags: {{ $podcast.TagsAsList }} (updated: {{ $podcast.WeeklyDownloadsAVG.Updated }}){{end}}
+{{ if $podcast.Tags }}* Tags: {{ $podcast.TagsAsList }}{{end}}
 
 ----
 {{ end }}
