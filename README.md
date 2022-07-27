@@ -23,8 +23,8 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
 
 Der Engineering Kiosk ist der deutschsprachige Software-Engineering-Podcast mit Wolfgang Gassler und Andy Grunwald rund um die Themen Engineering-Kultur, Open Source, Menschen, Technologie und allen anderen Bereichen, die damit in Verbindung stehen.
 
-* Number of published episodes: 29
-* Last episode published: 🟢 Tuesday, 19 July 2022
+* Number of published episodes: 30
+* Last episode published: 🟢 Tuesday, 26 July 2022
 * Weekly downloads (avg): 473 (updated: 2022-07-25)
 * [Engineering Kiosk Website](https://engineeringkiosk.dev/)
 * [Engineering Kiosk @ Spotify](https://open.spotify.com/show/0tJRC0UsObPCWLmmzmOkIs)
