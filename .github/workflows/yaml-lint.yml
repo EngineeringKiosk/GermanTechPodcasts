@@ -1,8 +1,11 @@
 name: YAML lint
 
 on:
-  push:
   workflow_dispatch:
+  push:
+    branches:
+      - master
+  pull_request:
 
 jobs:
   yaml:
