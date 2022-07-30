@@ -11,6 +11,7 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
   * [programmier.bar](#programmier-bar)
   * [Ready for Review](#ready-for-review)
   * [todo:cast](#todo-cast)
+  * [Wartungsfenster](#)
   * [Wo wir sind ist vorne](#wo-wir-sind-ist-vorne)
   * [Working Draft](#working-draft)
 * [Legend](#legend)
@@ -112,6 +113,22 @@ todo:cast ist ein deutschsprachiger Podcast für die großen und kleinen Fragen 
 * [todo:cast @ Spotify](https://open.spotify.com/show/2tIlVD6vBAtEhOZM4jS1mw)
 * [todo:cast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1467179396)
 * [todo:cast Podcast RSS](https://feeds.soundcloud.com/users/soundcloud:users:637814493/sounds.rss)
+
+----
+
+<h3 id="">Wartungsfenster</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/wartungsfenster.jpg" />
+
+Alle 14 Tage laden wir zu einer kleinen Kaminzimmerrunde rund um den Themenkomplex Datacenter, Cloud und IT ein. In Ermangelung eines Kaminzimmers sitzen wir in der Hot Aisle eines Datacenters, statt feudaler Sessel gibt es faltbare Campingstühle, und die Cognacschwenker durften wir auch nicht mit reinnehmen. :/
+
+* Number of published episodes: 12
+* Last episode published: 🟢 Tuesday, 19 July 2022
+* [Wartungsfenster Website](https://wartungsfenster.podigee.io/)
+* [Wartungsfenster @ Spotify](https://open.spotify.com/show/063YcVklbp1N8z1ZHSA709)
+* [Wartungsfenster @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1607047978)
+* [Wartungsfenster Podcast RSS](https://wartungsfenster.podigee.io/feed/mp3)
+* Tags: Microsoft, Datacenter
 
 ----
 
