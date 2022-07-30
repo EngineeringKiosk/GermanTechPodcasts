@@ -52,3 +52,10 @@ jobs:
           commit_user_name: Podcast data update bot
           commit_user_email: stehtisch@engineeringkiosk.dev
           commit_author: Podcast data update bot <stehtisch@engineeringkiosk.dev>
+
+      - name: Trigger webpage to sync
+        uses: peter-evans/repository-dispatch@v2
+        with:
+          token: ${{ secrets.REPOSITORY_DISPATCH_TOKEN }}
+          repository: EngineeringKiosk/webpage
+          event-type: podcast-list-update
