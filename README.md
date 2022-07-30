@@ -7,9 +7,10 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
 * [Podcasts](#podcasts)
   * [Engineering Kiosk](#engineering-kiosk)
   * [Open Source Couch](#open-source-couch)
-  * [Open Source in der Industrie](#)
+  * [Open Source in der Industrie](#open-source-in-der-industrie)
   * [programmier.bar](#programmier-bar)
   * [Ready for Review](#ready-for-review)
+  * [todo:cast](#)
   * [Wo wir sind ist vorne](#wo-wir-sind-ist-vorne)
   * [Working Draft](#working-draft)
 * [Legend](#legend)
@@ -52,7 +53,7 @@ Oli und Michael sprechen über alles Wichtige aus der Welt der Open Source, Tech
 
 ----
 
-<h3 id="">Open Source in der Industrie</h3>
+<h3 id="open-source-in-der-industrie">Open Source in der Industrie</h3>
 
 <img align="right" width="215" height="215" src="./generated/images/open-source-in-der-industrie.jpg" />
 
@@ -97,6 +98,21 @@ Sandra Parsick &amp; Daniel Zenzes präsentieren mit Ready for Review einen bunt
 * [Ready for Review @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1535026156)
 * [Ready for Review Podcast RSS](https://ready-for-review.podigee.io/feed/mp3)
 * Tags: Software Development, Kochen, Klingel, Comics, IT Family Support, Filme, Brettspiele, Serien, Java, JavaScript
+
+----
+
+<h3 id="">todo:cast</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/todo-cast.jpg" />
+
+todo:cast ist ein deutschsprachiger Podcast für die großen und kleinen Fragen des Entwickler*innenalltags. Schon seit Langem tauschen sich Malte und Robin-Manuel in regelmäßigen Abständen über diverse Themen aus ihrem Alltag in der Softwareentwicklung aus. Dabei lernen sie jedes Mal etwas Neues! Warum also das Ganze nicht aufzeichnen und als Podcast zur Verfügung stellen?
+
+* Number of published episodes: 43
+* Last episode published: 🟢 Monday, 25 July 2022
+* [todo:cast Website](https://todocast.io/)
+* [todo:cast @ Spotify](https://open.spotify.com/show/2tIlVD6vBAtEhOZM4jS1mw)
+* [todo:cast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1467179396)
+* [todo:cast Podcast RSS](https://feeds.soundcloud.com/users/soundcloud:users:637814493/sounds.rss)
 
 ----
 
