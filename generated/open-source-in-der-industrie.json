@@ -1,0 +1,21 @@
+{
+ "name": "Open Source in der Industrie",
+ "slug": "",
+ "website": "https://opensourcepodcast.podigee.io/",
+ "podcastIndexID": 5604983,
+ "rssFeed": "https://opensourcepodcast.podigee.io/feed/mp3",
+ "spotify": "https://open.spotify.com/show/7e0khh6f5m1NArO3ggwCSH",
+ "description": "Wir berichten alle zwei Wochen über Open Source Anwendungen, Ideen und Konzepte aus der Industrie.",
+ "tags": [
+  "Industrie",
+  "Open Source"
+ ],
+ "weekly_downloads_avg": {
+  "value": 0,
+  "updated": ""
+ },
+ "episodeCount": 17,
+ "latestEpisodePublished": 1657663260,
+ "itunesID": 0,
+ "image": "images/open-source-in-der-industrie.jpg"
+}

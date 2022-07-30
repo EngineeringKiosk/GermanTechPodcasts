@@ -7,6 +7,7 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
 * [Podcasts](#podcasts)
   * [Engineering Kiosk](#engineering-kiosk)
   * [Open Source Couch](#open-source-couch)
+  * [Open Source in der Industrie](#)
   * [programmier.bar](#programmier-bar)
   * [Ready for Review](#ready-for-review)
   * [Wo wir sind ist vorne](#wo-wir-sind-ist-vorne)
@@ -48,6 +49,22 @@ Oli und Michael sprechen über alles Wichtige aus der Welt der Open Source, Tech
 * [Open Source Couch @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1529154227)
 * [Open Source Couch Podcast RSS](https://letscast.fm/podcasts/die-open-source-couch-0743e028/feed)
 * Tags: Open Source
+
+----
+
+<h3 id="">Open Source in der Industrie</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/open-source-in-der-industrie.jpg" />
+
+Wir berichten alle zwei Wochen über Open Source Anwendungen, Ideen und Konzepte aus der Industrie.
+
+* Number of published episodes: 17
+* Last episode published: 🟢 Tuesday, 12 July 2022
+* [Open Source in der Industrie Website](https://opensourcepodcast.podigee.io/)
+* [Open Source in der Industrie @ Spotify](https://open.spotify.com/show/7e0khh6f5m1NArO3ggwCSH)
+* [Open Source in der Industrie @ Apple Podcasts](https://podcasts.apple.com/de/podcast/0)
+* [Open Source in der Industrie Podcast RSS](https://opensourcepodcast.podigee.io/feed/mp3)
+* Tags: Industrie, Open Source
 
 ----
 
