@@ -6,6 +6,7 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
 
 * [Podcasts](#podcasts)
   * [Engineering Kiosk](#engineering-kiosk)
+  * [Open Source Couch](#)
   * [programmier.bar](#programmier-bar)
   * [Ready for Review](#ready-for-review)
   * [Wo wir sind ist vorne](#wo-wir-sind-ist-vorne)
@@ -31,6 +32,22 @@ Der Engineering Kiosk ist der deutschsprachige Software-Engineering-Podcast mit 
 * [Engineering Kiosk @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1603082924)
 * [Engineering Kiosk Podcast RSS](https://feeds.redcircle.com/0ecfdfd7-fda1-4c3d-9515-476727f9df5e)
 * Tags: Development, Tech-Kultur, Open Source
+
+----
+
+<h3 id="">Open Source Couch</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/open-source-couch.png?t=1655195362" />
+
+Oli und Michael sprechen über alles Wichtige aus der Welt der Open Source, Technologie und dem Geek-tum.
+
+* Number of published episodes: 30
+* Last episode published: 🟢 Tuesday, 14 June 2022
+* [Open Source Couch Website](https://www.opensourcecouch.de/)
+* [Open Source Couch @ Spotify](https://open.spotify.com/show/3fNThjRvMKJhhyg7eCTY8v)
+* [Open Source Couch @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1529154227)
+* [Open Source Couch Podcast RSS](https://letscast.fm/podcasts/die-open-source-couch-0743e028/feed)
+* Tags: Open Source
 
 ----
 
