@@ -93,11 +93,11 @@ func cmdConvertYamlToJson(cmd *cobra.Command, args []string) error {
 			}
 
 			podcastInfo = mergePodcastInformation(podcastInfo, podcastJsonInfo)
-
-			// Add generated fields
-			// TODO Maybe this should be an own command
-			podcastInfo.Slug = slug.Make(podcastInfo.Name)
 		}
+
+		// Add generated fields
+		// TODO Maybe this should be an own command
+		podcastInfo.Slug = slug.Make(podcastInfo.Name)
 
 		// Dump data into JSON file
 		err = io.WriteJSONFile(absJsonFilePath, podcastInfo)
