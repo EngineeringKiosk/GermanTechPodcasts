@@ -6,7 +6,7 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
 
 * [Podcasts](#podcasts)
   * [Engineering Kiosk](#engineering-kiosk)
-  * [Open Source Couch](#)
+  * [Open Source Couch](#open-source-couch)
   * [programmier.bar](#programmier-bar)
   * [Ready for Review](#ready-for-review)
   * [Wo wir sind ist vorne](#wo-wir-sind-ist-vorne)
@@ -35,9 +35,9 @@ Der Engineering Kiosk ist der deutschsprachige Software-Engineering-Podcast mit 
 
 ----
 
-<h3 id="">Open Source Couch</h3>
+<h3 id="open-source-couch">Open Source Couch</h3>
 
-<img align="right" width="215" height="215" src="./generated/images/open-source-couch.png?t=1655195362" />
+<img align="right" width="215" height="215" src="./generated/images/open-source-couch.png" />
 
 Oli und Michael sprechen über alles Wichtige aus der Welt der Open Source, Technologie und dem Geek-tum.
 

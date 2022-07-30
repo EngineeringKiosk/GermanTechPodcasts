@@ -1,6 +1,6 @@
 {
  "name": "Open Source Couch",
- "slug": "",
+ "slug": "open-source-couch",
  "website": "https://www.opensourcecouch.de/",
  "podcastIndexID": 2013997,
  "rssFeed": "https://letscast.fm/podcasts/die-open-source-couch-0743e028/feed",
@@ -16,5 +16,5 @@
  "episodeCount": 30,
  "latestEpisodePublished": 1655193600,
  "itunesID": 1529154227,
- "image": "images/open-source-couch.png?t=1655195362"
+ "image": "images/open-source-couch.png"
 }
