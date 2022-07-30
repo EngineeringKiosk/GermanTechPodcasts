@@ -10,7 +10,7 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
   * [Open Source in der Industrie](#open-source-in-der-industrie)
   * [programmier.bar](#programmier-bar)
   * [Ready for Review](#ready-for-review)
-  * [todo:cast](#)
+  * [todo:cast](#todo-cast)
   * [Wo wir sind ist vorne](#wo-wir-sind-ist-vorne)
   * [Working Draft](#working-draft)
 * [Legend](#legend)
@@ -63,7 +63,6 @@ Wir berichten alle zwei Wochen über Open Source Anwendungen, Ideen und Konzepte
 * Last episode published: 🟢 Tuesday, 12 July 2022
 * [Open Source in der Industrie Website](https://opensourcepodcast.podigee.io/)
 * [Open Source in der Industrie @ Spotify](https://open.spotify.com/show/7e0khh6f5m1NArO3ggwCSH)
-* [Open Source in der Industrie @ Apple Podcasts](https://podcasts.apple.com/de/podcast/0)
 * [Open Source in der Industrie Podcast RSS](https://opensourcepodcast.podigee.io/feed/mp3)
 * Tags: Industrie, Open Source
 
@@ -101,7 +100,7 @@ Sandra Parsick &amp; Daniel Zenzes präsentieren mit Ready for Review einen bunt
 
 ----
 
-<h3 id="">todo:cast</h3>
+<h3 id="todo-cast">todo:cast</h3>
 
 <img align="right" width="215" height="215" src="./generated/images/todo-cast.jpg" />
 
