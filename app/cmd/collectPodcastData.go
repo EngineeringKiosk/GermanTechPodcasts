@@ -11,6 +11,7 @@ import (
 	"os"
 	"path"
 	"path/filepath"
+	"strings"
 
 	libIO "github.com/EngineeringKiosk/GermanTechPodcasts/io"
 	"github.com/EngineeringKiosk/GermanTechPodcasts/podcastindex"
@@ -94,6 +95,11 @@ func cmdCollectPodcastData(cmd *cobra.Command, args []string) error {
 
 		// Download cover-image
 		imageFileExtension := path.Ext(p.Feed.Artwork)
+		// Sometimes we have file extensions like .png?t=1655195362
+		// but we only want .png
+		if strings.Contains(imageFileExtension, "?") {
+			imageFileExtension, _, _ = strings.Cut(imageFileExtension, "?")
+		}
 		jsonFileExtension := path.Ext(f.Name())
 		imageFileName := f.Name()[0:len(f.Name())-len(jsonFileExtension)] + imageFileExtension
 		absImageFilePath := filepath.Join(jsonDir, imageFolder, imageFileName)
