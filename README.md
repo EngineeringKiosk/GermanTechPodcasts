@@ -1,6 +1,6 @@
 # GermanTechPodcasts
 
-A curated list of German Tech Podcasts :de: :austria: :switzerland:
+Eine kuratierte Liste deutscher Tech Podcasts :de: :austria: :switzerland:
 
 ## Table of Contents
 
