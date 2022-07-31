@@ -13,6 +13,7 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
   * [Open Source in der Industrie](#open-source-in-der-industrie)
   * [programmier.bar](#programmier-bar)
   * [Ready for Review](#ready-for-review)
+  * [Speak 1337](#speak-1337)
   * [Techtiefen](#techtiefen)
   * [todo:cast](#todo-cast)
   * [Wartungsfenster](#wartungsfenster)
@@ -149,6 +150,22 @@ Sandra Parsick &amp; Daniel Zenzes präsentieren mit Ready for Review einen bunt
 * [Ready for Review @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1535026156)
 * [Ready for Review Podcast RSS](https://ready-for-review.podigee.io/feed/mp3)
 * Tags: Software Development, Kochen, Klingel, Comics, IT Family Support, Filme, Brettspiele, Serien, Java, JavaScript
+
+----
+
+<h3 id="speak-1337">Speak 1337</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/speak-1337.jpg" />
+
+Ich bin Cedric und in diesem Podcast rede ich immer wieder mal über Informatik, Datenschutz, Sicherheit und alles erwähnenswerte. Mit dabei sind immer wieder sehr bekannte und engagierte Menschen, die Experte auf ihrem Gebiet sind.
+
+* Number of published episodes: 28
+* Last episode published: 🟢 Friday, 24 June 2022
+* [Speak 1337 Website](https://the-morpheus.de/)
+* [Speak 1337 @ Spotify](https://open.spotify.com/show/0xlIih789FcMbZaASyhuAm)
+* [Speak 1337 @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1577956101)
+* [Speak 1337 Podcast RSS](https://anchor.fm/s/c821b10/podcast/rss)
+* Tags: Informatik, Datenschutz, Sicherheit
 
 ----
 
