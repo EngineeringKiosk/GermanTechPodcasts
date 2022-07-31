@@ -87,7 +87,6 @@ Logbuch:Netzpolitik ist ein in der Regel wöchentlich erscheinender Podcast, der
 * Number of published episodes: 438
 * Last episode published: 🟢 Thursday, 14 July 2022
 * [Logbuch: Netzpolitik Website](https://logbuch-netzpolitik.de/)
-* [Logbuch: Netzpolitik @ Spotify]()
 * [Logbuch: Netzpolitik @ Apple Podcasts](https://podcasts.apple.com/de/podcast/476856034)
 * [Logbuch: Netzpolitik Podcast RSS](https://feeds.metaebene.me/lnp/m4a)
 * Tags: Politik, Gesellschaft, Internet
