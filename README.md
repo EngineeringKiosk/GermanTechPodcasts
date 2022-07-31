@@ -8,6 +8,7 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
   * [Engineering Kiosk](#engineering-kiosk)
   * [FOCUS ON: DevOps](#focus-on-devops)
   * [FOCUS ON: Linux](#focus-on-linux)
+  * [Logbuch: Netzpolitik](#logbuch-netzpolitik)
   * [Macht der Craft](#macht-der-craft)
   * [Netzpolitik](#netzpolitik)
   * [Open Source Couch](#open-source-couch)
@@ -74,6 +75,22 @@ Der FOCUS ON: Linux Podcast beschäftigt sich mit verschiedenen Themen rund um L
 * [FOCUS ON: Linux @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1606139089)
 * [FOCUS ON: Linux Podcast RSS](https://ageofdevops.de/feed/podcast/fol)
 * Tags: Linux, Open Source
+
+----
+
+<h3 id="logbuch-netzpolitik">Logbuch: Netzpolitik</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/logbuch-netzpolitik.jpg" />
+
+Logbuch:Netzpolitik ist ein in der Regel wöchentlich erscheinender Podcast, der im Dialog zwischen Linus Neumann und Tim Pritlove die wichtigsten Themen und Ereignisse mit netzpolitischem Bezug aufgreift und diskutiert.
+
+* Number of published episodes: 438
+* Last episode published: 🟢 Thursday, 14 July 2022
+* [Logbuch: Netzpolitik Website](https://logbuch-netzpolitik.de/)
+* [Logbuch: Netzpolitik @ Spotify]()
+* [Logbuch: Netzpolitik @ Apple Podcasts](https://podcasts.apple.com/de/podcast/476856034)
+* [Logbuch: Netzpolitik Podcast RSS](https://feeds.metaebene.me/lnp/m4a)
+* Tags: Politik, Gesellschaft, Internet
 
 ----
 

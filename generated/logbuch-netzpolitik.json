@@ -1,0 +1,22 @@
+{
+ "name": "Logbuch: Netzpolitik",
+ "slug": "logbuch-netzpolitik",
+ "website": "https://logbuch-netzpolitik.de/",
+ "podcastIndexID": 314260,
+ "rssFeed": "https://feeds.metaebene.me/lnp/m4a",
+ "spotify": "",
+ "description": "Logbuch:Netzpolitik ist ein in der Regel wöchentlich erscheinender Podcast, der im Dialog zwischen Linus Neumann und Tim Pritlove die wichtigsten Themen und Ereignisse mit netzpolitischem Bezug aufgreift und diskutiert.",
+ "tags": [
+  "Politik",
+  "Gesellschaft",
+  "Internet"
+ ],
+ "weekly_downloads_avg": {
+  "value": 0,
+  "updated": ""
+ },
+ "episodeCount": 438,
+ "latestEpisodePublished": 1657814223,
+ "itunesID": 476856034,
+ "image": "images/logbuch-netzpolitik.jpg"
+}
