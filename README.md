@@ -7,6 +7,7 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
 * [Podcasts](#podcasts)
   * [Engineering Kiosk](#engineering-kiosk)
   * [FOCUS ON: DevOps](#focus-on-devops)
+  * [FOCUS ON: Linux](#focus-on-linux)
   * [Open Source Couch](#open-source-couch)
   * [Open Source in der Industrie](#open-source-in-der-industrie)
   * [programmier.bar](#programmier-bar)
@@ -52,6 +53,22 @@ Der FOCUS ON: DevOps Podcast beschäftigt sich mit verschiedenen Methoden und We
 * [FOCUS ON: DevOps @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1542623849)
 * [FOCUS ON: DevOps Podcast RSS](https://ageofdevops.de/feed/podcast/fodo)
 * Tags: DevOps, Cloud
+
+----
+
+<h3 id="focus-on-linux">FOCUS ON: Linux</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/focus-on-linux.png" />
+
+Der FOCUS ON: Linux Podcast beschäftigt sich mit verschiedenen Themen rund um Linux. Unser Ziel ist es, euch monatlich über die Entwicklungen und Neuigkeiten zu informieren und auch praktische Tool-Tipps an die Hand zu geben.
+
+* Number of published episodes: 11
+* Last episode published: 🟢 Friday, 29 July 2022
+* [FOCUS ON: Linux Website](https://ageofdevops.de/index.php/series/fol/)
+* [FOCUS ON: Linux @ Spotify](https://open.spotify.com/show/4Yj9EaidQuwEZL0NkAafzh)
+* [FOCUS ON: Linux @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1606139089)
+* [FOCUS ON: Linux Podcast RSS](https://ageofdevops.de/feed/podcast/fol)
+* Tags: Linux, Open Source
 
 ----
 
