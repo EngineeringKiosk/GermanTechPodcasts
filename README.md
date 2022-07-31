@@ -8,6 +8,7 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
   * [Engineering Kiosk](#engineering-kiosk)
   * [FOCUS ON: DevOps](#focus-on-devops)
   * [FOCUS ON: Linux](#focus-on-linux)
+  * [Macht der Craft](#macht-der-craft)
   * [Open Source Couch](#open-source-couch)
   * [Open Source in der Industrie](#open-source-in-der-industrie)
   * [programmier.bar](#programmier-bar)
@@ -69,6 +70,21 @@ Der FOCUS ON: Linux Podcast beschäftigt sich mit verschiedenen Themen rund um L
 * [FOCUS ON: Linux @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1606139089)
 * [FOCUS ON: Linux Podcast RSS](https://ageofdevops.de/feed/podcast/fol)
 * Tags: Linux, Open Source
+
+----
+
+<h3 id="macht-der-craft">Macht der Craft</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/macht-der-craft.jpg" />
+
+Von Menschen für Menschen, die Software entwickeln, ist dieser Podcast gedacht. Damit Du in diesem Leben durch stetiges Lernen, den bestmöglichen Code kreieren kannst. Wir erzählen dir von agiler Softwareentwicklung, Software Craft, Methoden, Techniken und allem, was dazu gehört, um deine Fähigkeiten zu verbessern. Das Bestmögliche zu erschaffen, bedeutet mit dem Puls der Zeit zu gehen und ständig zu lernen.
+
+* Number of published episodes: 10
+* Last episode published: 🟢 Monday, 06 June 2022
+* [Macht der Craft Website](https://macht-der-craft.soler-sanandres.net/)
+* [Macht der Craft @ Spotify](https://open.spotify.com/show/5232Av5Ibaf4shvJzpSKEa)
+* [Macht der Craft Podcast RSS](https://macht-der-craft.soler-sanandres.net/feed/podcast)
+* Tags: Development
 
 ----
 
