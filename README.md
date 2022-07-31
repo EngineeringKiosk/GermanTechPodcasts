@@ -14,6 +14,7 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
   * [programmier.bar](#programmier-bar)
   * [Ready for Review](#ready-for-review)
   * [Speak 1337](#speak-1337)
+  * [t3n](#t3n)
   * [Techtiefen](#techtiefen)
   * [todo:cast](#todo-cast)
   * [Wartungsfenster](#wartungsfenster)
@@ -166,6 +167,22 @@ Ich bin Cedric und in diesem Podcast rede ich immer wieder mal über Informatik,
 * [Speak 1337 @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1577956101)
 * [Speak 1337 Podcast RSS](https://anchor.fm/s/c821b10/podcast/rss)
 * Tags: Informatik, Datenschutz, Sicherheit
+
+----
+
+<h3 id="t3n">t3n</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/t3n.jpg" />
+
+Im t3n Podcast diskutiert die t3n-Redaktion mit prominenten Gästen über die spannendsten digitalen Themen unserer Zeit. Ob innovative Führungskonzepte, die Digitalisierung der Gesellschaft, smarte Gadgets, neue Mobilität oder Zukunftstechnologien. Das Update für digitale Pioniere – jede Woche neu!
+
+* Number of published episodes: 422
+* Last episode published: 🟢 Friday, 29 July 2022
+* [t3n Website](https://t3n.de/podcast/)
+* [t3n @ Spotify](https://open.spotify.com/show/7obTbZaywhQEiUUOMswQBQ)
+* [t3n @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1115601393)
+* [t3n Podcast RSS](https://t3n-podcast.podigee.io/feed/mp3)
+* Tags: News, Business
 
 ----
 
