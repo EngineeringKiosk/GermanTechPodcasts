@@ -9,6 +9,7 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
   * [FOCUS ON: DevOps](#focus-on-devops)
   * [FOCUS ON: Linux](#focus-on-linux)
   * [Macht der Craft](#macht-der-craft)
+  * [Netzpolitik](#netzpolitik)
   * [Open Source Couch](#open-source-couch)
   * [Open Source in der Industrie](#open-source-in-der-industrie)
   * [programmier.bar](#programmier-bar)
@@ -88,6 +89,22 @@ Von Menschen für Menschen, die Software entwickeln, ist dieser Podcast gedacht.
 * [Macht der Craft @ Spotify](https://open.spotify.com/show/5232Av5Ibaf4shvJzpSKEa)
 * [Macht der Craft Podcast RSS](https://macht-der-craft.soler-sanandres.net/feed/podcast)
 * Tags: Development
+
+----
+
+<h3 id="netzpolitik">Netzpolitik</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/netzpolitik.jpg" />
+
+Wir thematisieren die wichtigen Fragestellungen rund um Internet, Gesellschaft und Politik und zeigen Wege auf, wie man sich auch selbst mit Hilfe des Netzes für digitale Freiheiten und Offenheit engagieren kann. Mit netzpolitik.org beschreiben wir, wie die Politik das Internet durch Regulierung verändert und wie das Netz Politik, Öffentlichkeiten und alles andere verändert.
+
+* Number of published episodes: 25
+* Last episode published: 🟢 Saturday, 09 July 2022
+* [Netzpolitik Website](https://netzpolitik.org/podcast/)
+* [Netzpolitik @ Spotify](https://open.spotify.com/show/2GLuMhSNEFzUIXfx9BDxBt)
+* [Netzpolitik @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1281525246)
+* [Netzpolitik Podcast RSS](https://netzpolitik.org/category/netzpolitik-podcast/?feed=itunes&amp;)
+* Tags: Internet, Gesellschaft, Politik
 
 ----
 
