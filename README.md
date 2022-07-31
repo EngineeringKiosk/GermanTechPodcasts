@@ -6,6 +6,7 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
 
 * [Podcasts](#podcasts)
   * [Engineering Kiosk](#engineering-kiosk)
+  * [FOCUS ON: DevOps](#focus-on-devops)
   * [Open Source Couch](#open-source-couch)
   * [Open Source in der Industrie](#open-source-in-der-industrie)
   * [programmier.bar](#programmier-bar)
@@ -35,6 +36,22 @@ Der Engineering Kiosk ist der deutschsprachige Software-Engineering-Podcast mit 
 * [Engineering Kiosk @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1603082924)
 * [Engineering Kiosk Podcast RSS](https://feeds.redcircle.com/0ecfdfd7-fda1-4c3d-9515-476727f9df5e)
 * Tags: Development, Tech-Kultur, Open Source
+
+----
+
+<h3 id="focus-on-devops">FOCUS ON: DevOps</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/focus-on-devops.jpg" />
+
+Der FOCUS ON: DevOps Podcast beschäftigt sich mit verschiedenen Methoden und Werkzeugen rund um das Thema DevOps. Dabei wechseln sich technische mit methodischen Folgen ab. Unser Ziel ist es über relevante Themen zu informieren und auch die Hersteller auf dem Markt als Gäste mit einzubinden.
+
+* Number of published episodes: 45
+* Last episode published: 🟢 Wednesday, 27 July 2022
+* [FOCUS ON: DevOps Website](https://ageofdevops.de/index.php/series/fodo/)
+* [FOCUS ON: DevOps @ Spotify](https://open.spotify.com/show/0gXBw5mGcqXQkPW9h2JTaa)
+* [FOCUS ON: DevOps @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1542623849)
+* [FOCUS ON: DevOps Podcast RSS](https://ageofdevops.de/feed/podcast/fodo)
+* Tags: DevOps, Cloud
 
 ----
 
