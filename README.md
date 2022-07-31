@@ -13,6 +13,7 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
   * [Open Source in der Industrie](#open-source-in-der-industrie)
   * [programmier.bar](#programmier-bar)
   * [Ready for Review](#ready-for-review)
+  * [Techtiefen](#techtiefen)
   * [todo:cast](#todo-cast)
   * [Wartungsfenster](#wartungsfenster)
   * [Wo wir sind ist vorne](#wo-wir-sind-ist-vorne)
@@ -148,6 +149,21 @@ Sandra Parsick &amp; Daniel Zenzes präsentieren mit Ready for Review einen bunt
 * [Ready for Review @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1535026156)
 * [Ready for Review Podcast RSS](https://ready-for-review.podigee.io/feed/mp3)
 * Tags: Software Development, Kochen, Klingel, Comics, IT Family Support, Filme, Brettspiele, Serien, Java, JavaScript
+
+----
+
+<h3 id="techtiefen">Techtiefen</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/techtiefen.jpg" />
+
+Ausführliche Gespräche zu wechselnden IT-Themen, von Nerds, für Nerds
+
+* Number of published episodes: 36
+* Last episode published: 🔴 Wednesday, 21 July 2021
+* [Techtiefen Website](https://techtiefen.de/)
+* [Techtiefen @ Spotify](https://open.spotify.com/show/6hyfYJi5yvjWgcqOTtNzRo)
+* [Techtiefen @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1349481289)
+* [Techtiefen Podcast RSS](https://techtiefen.de//index.php/feed/mp3/)
 
 ----
 
