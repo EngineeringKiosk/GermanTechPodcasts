@@ -7,12 +7,14 @@
  "spotify": "https://open.spotify.com/show/063YcVklbp1N8z1ZHSA709",
  "description": "Alle 14 Tage laden wir zu einer kleinen Kaminzimmerrunde rund um den Themenkomplex Datacenter, Cloud und IT ein. In Ermangelung eines Kaminzimmers sitzen wir in der Hot Aisle eines Datacenters, statt feudaler Sessel gibt es faltbare Campingstühle, und die Cognacschwenker durften wir auch nicht mit reinnehmen. :/",
  "tags": [
+  "Datacenter",
+  "Cloud",
   "Microsoft",
-  "Datacenter"
+  "Security"
  ],
  "weekly_downloads_avg": {
-  "value": 0,
-  "updated": ""
+  "value": 100,
+  "updated": "2022-07-31"
  },
  "episodeCount": 12,
  "latestEpisodePublished": 1658268000,

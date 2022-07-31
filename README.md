@@ -174,11 +174,12 @@ Alle 14 Tage laden wir zu einer kleinen Kaminzimmerrunde rund um den Themenkompl
 
 * Number of published episodes: 12
 * Last episode published: 🟢 Tuesday, 19 July 2022
+* Weekly downloads (avg): 100 (updated: 2022-07-31)
 * [Wartungsfenster Website](https://wartungsfenster.podigee.io/)
 * [Wartungsfenster @ Spotify](https://open.spotify.com/show/063YcVklbp1N8z1ZHSA709)
 * [Wartungsfenster @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1607047978)
 * [Wartungsfenster Podcast RSS](https://wartungsfenster.podigee.io/feed/mp3)
-* Tags: Microsoft, Datacenter
+* Tags: Datacenter, Cloud, Microsoft, Security
 
 ----
 
