@@ -5,11 +5,17 @@
  "podcastIndexID": 5607979,
  "rssFeed": "https://techtiefen.de//index.php/feed/mp3/",
  "spotify": "https://open.spotify.com/show/6hyfYJi5yvjWgcqOTtNzRo",
- "description": "Ausführliche Gespräche zu wechselnden IT-Themen, von Nerds, für Nerds",
- "tags": null,
+ "description": "Ausführliche, häufig zeitlose Gespräche von Gastgeber Nico Kreiling mit wechselnden Gästen der IT-Welt zu deren Fach-Gebieten. Von Nerds, für Nerds!",
+ "tags": [
+  "Development",
+  "IT",
+  "Data Science",
+  "Machine Learning",
+  "Interviews"
+ ],
  "weekly_downloads_avg": {
-  "value": 0,
-  "updated": ""
+  "value": 900,
+  "updated": "2022-08-01"
  },
  "episodeCount": 39,
  "latestEpisodePublished": 1656362040,

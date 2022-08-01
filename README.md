@@ -223,13 +223,15 @@ Im t3n Podcast diskutiert die t3n-Redaktion mit prominenten Gästen über die sp
 
 <img align="right" width="215" height="215" src="./generated/images/techtiefen.jpg" />
 
-Ausführliche Gespräche zu wechselnden IT-Themen, von Nerds, für Nerds
+Ausführliche, häufig zeitlose Gespräche von Gastgeber Nico Kreiling mit wechselnden Gästen der IT-Welt zu deren Fach-Gebieten. Von Nerds, für Nerds!
 
 * Number of published episodes: 39
 * Last episode published: 🟢 Monday, 27 June 2022
+* Weekly downloads (avg): 900 (updated: 2022-08-01)
 * [Techtiefen Website](https://techtiefen.de/)
 * [Techtiefen @ Spotify](https://open.spotify.com/show/6hyfYJi5yvjWgcqOTtNzRo)
 * [Techtiefen Podcast RSS](https://techtiefen.de//index.php/feed/mp3/)
+* Tags: Development, IT, Data Science, Machine Learning, Interviews
 
 ----
 
