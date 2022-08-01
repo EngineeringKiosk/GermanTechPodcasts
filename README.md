@@ -195,6 +195,7 @@ Ich bin Cedric und in diesem Podcast rede ich immer wieder mal über Informatik,
 
 * Number of published episodes: 28
 * Last episode published: 🟢 Friday, 24 June 2022
+* Weekly downloads (avg): 180 (updated: 2022-08-01)
 * [Speak 1337 Website](https://the-morpheus.de/)
 * [Speak 1337 @ Spotify](https://open.spotify.com/show/0xlIih789FcMbZaASyhuAm)
 * [Speak 1337 @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1577956101)
