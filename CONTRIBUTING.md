@@ -13,17 +13,20 @@ Each podcast on the list should be
 - published using RSS feed
 - in German :de: :austria: :switzerland:
 - at least 3 consecutive episodes and at least 2 months old
-- main content is `tech` (tech context should be clearly visible)
+- majority of content is `tech` (tech context should be clearly visible and more than 70% of all episodes)
 
 What is `tech` in this context?
 
-- Software, hardware, data science, UI/UX, architecture, algorithms
+- Software, hardware, data science, AI, UI/UX, architecture, algorithms, security
 - Dev culture, team culture of tech/product teams
 - Worklife of devs and tech people (e.g. coping with stress, imposter, etc.)
+- Research of topics mentioned above
 
 What is not `tech` in this context?
 
 - Economy/finance podcasts about tech companies
+- Tech topics explained for non-tech people
+- Tech influence on society (AI, security, etc)
 
 ### Format
 
