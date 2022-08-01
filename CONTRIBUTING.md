@@ -13,12 +13,13 @@ Each podcast on the list should be
 - published using RSS feed
 - in German :de: :austria: :switzerland:
 - at least 3 consecutive episodes and at least 2 months old
-- main content is `tech`
+- main content is `tech` (tech context should be clearly visible)
 
 What is `tech` in this context?
 
-- Software, hardware, data science
+- Software, hardware, data science, UI/UX, architecture, algorithms
 - Dev culture, team culture of tech/product teams
+- Worklife of devs and tech people (e.g. coping with stress, imposter, etc.)
 
 What is not `tech` in this context?
 
