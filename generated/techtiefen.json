@@ -2,7 +2,7 @@
  "name": "Techtiefen",
  "slug": "techtiefen",
  "website": "https://techtiefen.de/",
- "podcastIndexID": 954413,
+ "podcastIndexID": 5607979,
  "rssFeed": "https://techtiefen.de//index.php/feed/mp3/",
  "spotify": "https://open.spotify.com/show/6hyfYJi5yvjWgcqOTtNzRo",
  "description": "Ausführliche Gespräche zu wechselnden IT-Themen, von Nerds, für Nerds",
@@ -11,8 +11,8 @@
   "value": 0,
   "updated": ""
  },
- "episodeCount": 36,
- "latestEpisodePublished": 1626897667,
- "itunesID": 1349481289,
+ "episodeCount": 39,
+ "latestEpisodePublished": 1656362040,
+ "itunesID": 0,
  "image": "images/techtiefen.jpg"
 }

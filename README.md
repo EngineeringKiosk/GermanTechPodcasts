@@ -209,8 +209,8 @@ Ich bin Cedric und in diesem Podcast rede ich immer wieder mal über Informatik,
 
 Im t3n Podcast diskutiert die t3n-Redaktion mit prominenten Gästen über die spannendsten digitalen Themen unserer Zeit. Ob innovative Führungskonzepte, die Digitalisierung der Gesellschaft, smarte Gadgets, neue Mobilität oder Zukunftstechnologien. Das Update für digitale Pioniere – jede Woche neu!
 
-* Number of published episodes: 422
-* Last episode published: 🟢 Friday, 29 July 2022
+* Number of published episodes: 423
+* Last episode published: 🟢 Monday, 01 August 2022
 * [t3n Website](https://t3n.de/podcast/)
 * [t3n @ Spotify](https://open.spotify.com/show/7obTbZaywhQEiUUOMswQBQ)
 * [t3n @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1115601393)
@@ -225,11 +225,10 @@ Im t3n Podcast diskutiert die t3n-Redaktion mit prominenten Gästen über die sp
 
 Ausführliche Gespräche zu wechselnden IT-Themen, von Nerds, für Nerds
 
-* Number of published episodes: 36
-* Last episode published: 🔴 Wednesday, 21 July 2021
+* Number of published episodes: 39
+* Last episode published: 🟢 Monday, 27 June 2022
 * [Techtiefen Website](https://techtiefen.de/)
 * [Techtiefen @ Spotify](https://open.spotify.com/show/6hyfYJi5yvjWgcqOTtNzRo)
-* [Techtiefen @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1349481289)
 * [Techtiefen Podcast RSS](https://techtiefen.de//index.php/feed/mp3/)
 
 ----
