@@ -12,6 +12,17 @@ Each podcast on the list should be
 - a podcast :smiley:
 - published using RSS feed
 - in German :de: :austria: :switzerland:
+- at least 3 consecutive episodes and at least 2 months old
+- main content is `tech`
+
+What is `tech` in this context?
+
+- Software, hardware, data science
+- Dev culture, team culture of tech/product teams
+
+What is not `tech` in this context?
+
+- Economy/finance podcasts about tech companies
 
 ### Format
 
