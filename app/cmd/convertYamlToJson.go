@@ -3,6 +3,7 @@ package cmd
 import (
 	"encoding/json"
 	"io/ioutil"
+	"log"
 	"path"
 	"path/filepath"
 
@@ -45,15 +46,19 @@ func cmdConvertYamlToJson(cmd *cobra.Command, args []string) error {
 		return err
 	}
 
+	log.Printf("Reading files with extension %s from directory %s", io.YAMLExtension, yamlDir)
 	yamlFiles, err := io.GetAllFilesFromDirectory(yamlDir, io.YAMLExtension)
 	if err != nil {
 		return err
 	}
+	log.Printf("%d files found with extension %s in directory %s", len(yamlFiles), io.YAMLExtension, yamlDir)
 
+	log.Printf("Reading files with extension %s from directory %s", io.JSONExtension, jsonDir)
 	jsonFiles, err := io.GetAllFilesFromDirectory(jsonDir, io.JSONExtension)
 	if err != nil {
 		return err
 	}
+	log.Printf("%d files found with extension %s in directory %s", len(jsonFiles), io.JSONExtension, jsonDir)
 
 	// Process every YAML file found and dump it into a JSON
 	// file with the same name.
@@ -61,6 +66,7 @@ func cmdConvertYamlToJson(cmd *cobra.Command, args []string) error {
 	// that is available in the YAML file.
 	for _, f := range yamlFiles {
 		absYamlFilePath := filepath.Join(yamlDir, f.Name())
+		log.Printf("Processing file %s", absYamlFilePath)
 		yamlFileContent, err := ioutil.ReadFile(absYamlFilePath)
 		if err != nil {
 			return err
@@ -75,6 +81,8 @@ func cmdConvertYamlToJson(cmd *cobra.Command, args []string) error {
 		currentFileExtension := path.Ext(f.Name())
 		jsonFileName := f.Name()[0:len(f.Name())-len(currentFileExtension)] + io.JSONExtension
 		absJsonFilePath := filepath.Join(jsonDir, jsonFileName)
+
+		log.Printf("Converting %s to %s", absYamlFilePath, absJsonFilePath)
 
 		// Check if we have a related json file already
 		if _, ok := jsonFiles[jsonFileName]; ok {
@@ -100,12 +108,15 @@ func cmdConvertYamlToJson(cmd *cobra.Command, args []string) error {
 		podcastInfo.Slug = slug.Make(podcastInfo.Name)
 
 		// Dump data into JSON file
+		log.Printf("Write %s to disk ...", absJsonFilePath)
 		err = io.WriteJSONFile(absJsonFilePath, podcastInfo)
 		if err != nil {
 			return err
 		}
+		log.Printf("Write %s to disk ... successful", absJsonFilePath)
 	}
 
+	log.Printf("Converting of YAML to JSON ... successful")
 	return nil
 }
 

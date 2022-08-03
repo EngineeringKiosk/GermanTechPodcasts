@@ -7,6 +7,7 @@ import (
 	"fmt"
 	"io"
 	"io/ioutil"
+	"log"
 	"net/http"
 	"os"
 	"path"
@@ -63,15 +64,18 @@ func cmdCollectPodcastData(cmd *cobra.Command, args []string) error {
 		return err
 	}
 
+	log.Printf("Reading files with extension %s from directory %s", libIO.JSONExtension, jsonDir)
 	jsonFiles, err := libIO.GetAllFilesFromDirectory(jsonDir, libIO.JSONExtension)
 	if err != nil {
 		return err
 	}
+	log.Printf("%d files found with extension %s in directory %s", len(jsonFiles), libIO.JSONExtension, jsonDir)
 
 	c := podcastindex.NewClient(nil, apiKey, apiSecret)
 
 	for _, f := range jsonFiles {
 		absJsonFilePath := filepath.Join(jsonDir, f.Name())
+		log.Printf("Processing file %s", absJsonFilePath)
 		jsonFileContent, err := ioutil.ReadFile(absJsonFilePath)
 		if err != nil {
 			return err
@@ -84,6 +88,7 @@ func cmdCollectPodcastData(cmd *cobra.Command, args []string) error {
 		}
 
 		// Get Podcast info
+		log.Printf("Requesting 'Podcasts.GetByFeedID' data from podcast index for feed id %d", int(podcastInfo.PodcastIndexID))
 		p, _, err := c.Podcasts.GetByFeedID(context.Background(), int(podcastInfo.PodcastIndexID))
 		if err != nil {
 			return err
@@ -103,6 +108,7 @@ func cmdCollectPodcastData(cmd *cobra.Command, args []string) error {
 		jsonFileExtension := path.Ext(f.Name())
 		imageFileName := f.Name()[0:len(f.Name())-len(jsonFileExtension)] + imageFileExtension
 		absImageFilePath := filepath.Join(jsonDir, imageFolder, imageFileName)
+		log.Printf("Downloading %s into %s", p.Feed.Artwork, absImageFilePath)
 		err = downloadFile(p.Feed.Artwork, absImageFilePath)
 		if err != nil {
 			return err
@@ -111,6 +117,7 @@ func cmdCollectPodcastData(cmd *cobra.Command, args []string) error {
 		podcastInfo.Image = filepath.Join(imageFolder, imageFileName)
 
 		// Get Podcast Episodes info
+		log.Printf("Requesting 'Episodes.GetByFeedID' data from podcast index for feed id %d", int(podcastInfo.PodcastIndexID))
 		episodes, _, err := c.Episodes.GetByFeedID(context.Background(), int(podcastInfo.PodcastIndexID), 1000)
 		if err != nil {
 			return err
@@ -127,10 +134,12 @@ func cmdCollectPodcastData(cmd *cobra.Command, args []string) error {
 
 		// Write the information back to the JSON file
 		// Dump data into JSON file
+		log.Printf("Write %s to disk ...", absJsonFilePath)
 		err = libIO.WriteJSONFile(absJsonFilePath, podcastInfo)
 		if err != nil {
 			return err
 		}
+		log.Printf("Write %s to disk ... successful", absJsonFilePath)
 	}
 
 	return nil
