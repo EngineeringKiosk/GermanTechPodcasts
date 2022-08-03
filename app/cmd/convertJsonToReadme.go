@@ -4,6 +4,7 @@ import (
 	"encoding/json"
 	"html/template"
 	"io/ioutil"
+	"log"
 	"os"
 	"path/filepath"
 	"sort"
@@ -55,14 +56,17 @@ func cmdConvertJsonToReadme(cmd *cobra.Command, args []string) error {
 		return err
 	}
 
+	log.Printf("Reading files with extension %s from directory %s", io.JSONExtension, jsonDir)
 	jsonFiles, err := io.GetAllFilesFromDirectory(jsonDir, io.JSONExtension)
 	if err != nil {
 		return err
 	}
+	log.Printf("%d files found with extension %s in directory %s", len(jsonFiles), io.JSONExtension, jsonDir)
 
 	podcasts := make([]*PodcastInformation, 0)
 	for _, f := range jsonFiles {
 		absJsonFilePath := filepath.Join(jsonDir, f.Name())
+		log.Printf("Processing file %s", absJsonFilePath)
 		jsonFileContent, err := ioutil.ReadFile(absJsonFilePath)
 		if err != nil {
 			return err
@@ -77,27 +81,32 @@ func cmdConvertJsonToReadme(cmd *cobra.Command, args []string) error {
 		podcasts = append(podcasts, podcastInfo)
 	}
 
+	log.Printf("Sorting %d podcasts by name", len(podcasts))
 	// Sort list by name
 	sort.Slice(podcasts, func(i, j int) bool {
 		return strings.ToLower(podcasts[i].Name) < strings.ToLower(podcasts[j].Name)
 	})
 
+	log.Printf("Read template file %s from disk", readmeTemplate)
 	readmeTemplateContent, err := ioutil.ReadFile(readmeTemplate)
 	if err != nil {
 		return err
 	}
 
+	log.Printf("Create target file %s", readmeOutput)
 	readmeTarget, err := os.Create(readmeOutput)
 	if err != nil {
 		return err
 	}
 
 	// Render the template
+	log.Printf("Render template and write it into %s ...", readmeOutput)
 	t := template.Must(template.New("readme-template").Parse(string(readmeTemplateContent)))
 	err = t.Execute(readmeTarget, podcasts)
 	if err != nil {
 		return err
 	}
+	log.Printf("Render template and write it into %s ... successful", readmeOutput)
 
 	return nil
 }
