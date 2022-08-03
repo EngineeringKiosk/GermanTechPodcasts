@@ -17,7 +17,6 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
   * [Ready for Review](#ready-for-review)
   * [Speak 1337](#speak-1337)
   * [t3n](#t3n)
-  * [Techtiefen](#techtiefen)
   * [todo:cast](#todo-cast)
   * [Wartungsfenster](#wartungsfenster)
   * [Wo wir sind ist vorne](#wo-wir-sind-ist-vorne)
@@ -35,8 +34,8 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
 
 Der Engineering Kiosk ist der deutschsprachige Software-Engineering-Podcast mit Wolfgang Gassler und Andy Grunwald rund um die Themen Engineering-Kultur, Open Source, Menschen, Technologie und allen anderen Bereichen, die damit in Verbindung stehen.
 
-* Number of published episodes: 30
-* Last episode published: 🟢 Tuesday, 26 July 2022
+* Number of published episodes: 31
+* Last episode published: 🟢 Tuesday, 02 August 2022
 * Weekly downloads (avg): 473 (updated: 2022-07-25)
 * [Engineering Kiosk Website](https://engineeringkiosk.dev/)
 * [Engineering Kiosk @ Spotify](https://open.spotify.com/show/0tJRC0UsObPCWLmmzmOkIs)
@@ -176,8 +175,8 @@ Mit geballter Dev-Power nehmen Dennis, Fabi, Sebi und Jojo neue Podcastfolgen au
 
 Sandra Parsick &amp; Daniel Zenzes präsentieren mit Ready for Review einen bunten Mix aus aktuellen IT-Themen und ihrem täglichen Entwickler-Alltag.
 
-* Number of published episodes: 28
-* Last episode published: 🟢 Tuesday, 19 July 2022
+* Number of published episodes: 29
+* Last episode published: 🟢 Wednesday, 03 August 2022
 * Weekly downloads (avg): 66 (updated: 2022-07-29)
 * [Ready for Review Website](https://ready-for-review.dev/)
 * [Ready for Review @ Spotify](https://open.spotify.com/show/7dxK2wi4ZMGEYO3UHhTSc4)
@@ -220,22 +219,6 @@ Im t3n Podcast diskutiert die t3n-Redaktion mit prominenten Gästen über die sp
 
 ----
 
-<h3 id="techtiefen">Techtiefen</h3>
-
-<img align="right" width="215" height="215" src="./generated/images/techtiefen.jpg" />
-
-Ausführliche, häufig zeitlose Gespräche von Gastgeber Nico Kreiling mit wechselnden Gästen der IT-Welt zu deren Fach-Gebieten. Von Nerds, für Nerds!
-
-* Number of published episodes: 39
-* Last episode published: 🟢 Monday, 27 June 2022
-* Weekly downloads (avg): 900 (updated: 2022-08-01)
-* [Techtiefen Website](https://techtiefen.de/)
-* [Techtiefen @ Spotify](https://open.spotify.com/show/6hyfYJi5yvjWgcqOTtNzRo)
-* [Techtiefen Podcast RSS](https://techtiefen.de//index.php/feed/mp3/)
-* Tags: Development, IT, Data Science, Machine Learning, Interviews
-
-----
-
 <h3 id="todo-cast">todo:cast</h3>
 
 <img align="right" width="215" height="215" src="./generated/images/todo-cast.jpg" />
@@ -257,8 +240,8 @@ todo:cast ist ein deutschsprachiger Podcast für die großen und kleinen Fragen 
 
 Alle 14 Tage laden wir zu einer kleinen Kaminzimmerrunde rund um den Themenkomplex Datacenter, Cloud und IT ein. In Ermangelung eines Kaminzimmers sitzen wir in der Hot Aisle eines Datacenters, statt feudaler Sessel gibt es faltbare Campingstühle, und die Cognacschwenker durften wir auch nicht mit reinnehmen. :/
 
-* Number of published episodes: 12
-* Last episode published: 🟢 Tuesday, 19 July 2022
+* Number of published episodes: 13
+* Last episode published: 🟢 Tuesday, 02 August 2022
 * Weekly downloads (avg): 100 (updated: 2022-07-31)
 * [Wartungsfenster Website](https://wartungsfenster.podigee.io/)
 * [Wartungsfenster @ Spotify](https://open.spotify.com/show/063YcVklbp1N8z1ZHSA709)
