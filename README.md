@@ -162,6 +162,7 @@ Mit geballter Dev-Power nehmen Dennis, Fabi, Sebi und Jojo neue Podcastfolgen au
 
 * Number of published episodes: 187
 * Last episode published: 🟢 Friday, 29 July 2022
+* Weekly downloads (avg): 8936 (updated: 2022-08-04)
 * [programmier.bar Website](https://www.programmier.bar/podcast)
 * [programmier.bar @ Spotify](https://open.spotify.com/show/0ik0sXv9paTQCeThcOLCCJ)
 * [programmier.bar @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1371409964)
