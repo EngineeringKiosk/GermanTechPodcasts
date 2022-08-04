@@ -14,6 +14,7 @@ Each podcast on the list should be
 - in German :de: :austria: :switzerland:
 - at least 3 consecutive episodes and at least 2 months old
 - majority of content is `tech` (tech context should be clearly visible and more than 60% of all episodes)
+- reasonable audio quality
 
 #### What is `tech` in this context?
 
@@ -23,6 +24,7 @@ When it deals with things like ...
 - Dev culture, team culture of tech/product teams
 - Worklife of devs and tech people (e.g. coping with stress, imposter, etc.)
 - Research of topics mentioned above
+- Tech influence/impact on society (Artificial intelligence (AI), security, etc)
 
 #### What is not `tech` in this context?
 
@@ -30,7 +32,6 @@ When it deals (mainly) with things like ...
 
 - Economy/finance podcasts about tech companies
 - Tech topics explained for non-tech people
-- Tech influence on society (Artificial intelligence (AI), security, etc)
 
 ### Format
 
