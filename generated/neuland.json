@@ -1,0 +1,18 @@
+{
+ "name": "Neuland",
+ "slug": "neuland",
+ "website": "https://podcast.hpi.de/",
+ "podcastIndexID": 77949,
+ "rssFeed": "https://podcast.hpi.de/feed.xml",
+ "spotify": "https://open.spotify.com/show/0kd8vXJDv3sN7VMtcLRsH9",
+ "description": "Mehr Wissen über die digitale Welt. Experten des Hasso-Plattner-Instituts sprechen verständlich über digitale Entwicklungen und Trends, über Chancen und Risiken der Digitalisierung. Jede Sendung widmet sich einem gesellschaftlich relevanten Thema: Von der Macht der Künstlichen Intelligenz über die Blockchain bis zu Hetze in den sozialen Medien.",
+ "tags": null,
+ "weekly_downloads_avg": {
+  "value": 0,
+  "updated": ""
+ },
+ "episodeCount": 59,
+ "latestEpisodePublished": 1658293200,
+ "itunesID": 1448992875,
+ "image": "images/neuland.jpg"
+}

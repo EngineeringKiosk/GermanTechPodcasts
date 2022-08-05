@@ -11,6 +11,7 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
   * [Logbuch: Netzpolitik](#logbuch-netzpolitik)
   * [Macht der Craft](#macht-der-craft)
   * [Netzpolitik](#netzpolitik)
+  * [Neuland](#neuland)
   * [Open Source Couch](#open-source-couch)
   * [Open Source in der Industrie](#open-source-in-der-industrie)
   * [programmier.bar](#programmier-bar)
@@ -123,14 +124,29 @@ Wir thematisieren die wichtigen Fragestellungen rund um Internet, Gesellschaft u
 
 ----
 
+<h3 id="neuland">Neuland</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/neuland.jpg" />
+
+Mehr Wissen über die digitale Welt. Experten des Hasso-Plattner-Instituts sprechen verständlich über digitale Entwicklungen und Trends, über Chancen und Risiken der Digitalisierung. Jede Sendung widmet sich einem gesellschaftlich relevanten Thema: Von der Macht der Künstlichen Intelligenz über die Blockchain bis zu Hetze in den sozialen Medien.
+
+* Number of published episodes: 59
+* Last episode published: 🟢 Wednesday, 20 July 2022
+* [Neuland Website](https://podcast.hpi.de/)
+* [Neuland @ Spotify](https://open.spotify.com/show/0kd8vXJDv3sN7VMtcLRsH9)
+* [Neuland @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1448992875)
+* [Neuland Podcast RSS](https://podcast.hpi.de/feed.xml)
+
+----
+
 <h3 id="open-source-couch">Open Source Couch</h3>
 
 <img align="right" width="215" height="215" src="./generated/images/open-source-couch.png" />
 
 Oli und Michael sprechen über alles Wichtige aus der Welt der Open Source, Technologie und dem Geek-tum.
 
-* Number of published episodes: 30
-* Last episode published: 🟢 Tuesday, 14 June 2022
+* Number of published episodes: 31
+* Last episode published: 🟢 Friday, 05 August 2022
 * [Open Source Couch Website](https://www.opensourcecouch.de/)
 * [Open Source Couch @ Spotify](https://open.spotify.com/show/3fNThjRvMKJhhyg7eCTY8v)
 * [Open Source Couch @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1529154227)
@@ -160,8 +176,8 @@ Wir berichten alle zwei Wochen über Open Source Anwendungen, Ideen und Konzepte
 
 Mit geballter Dev-Power nehmen Dennis, Fabi, Sebi und Jojo neue Podcastfolgen auf und werden dabei regelmäßig von Gäst:innen aus der Branche unterstützt. Taucht in unseren Deep Dives mit uns in Frameworks und Datenbanken ein, hört euch in den CTO-Specials die Erfahrungen führender Persönlichkeiten großer Unternehmen an und bleibt mit unseren News-Folgen stets am Ball in der Welt der App- und Webentwicklung.
 
-* Number of published episodes: 187
-* Last episode published: 🟢 Friday, 29 July 2022
+* Number of published episodes: 189
+* Last episode published: 🟢 Friday, 05 August 2022
 * Weekly downloads (avg): 8936 (updated: 2022-08-04)
 * [programmier.bar Website](https://www.programmier.bar/podcast)
 * [programmier.bar @ Spotify](https://open.spotify.com/show/0ik0sXv9paTQCeThcOLCCJ)
