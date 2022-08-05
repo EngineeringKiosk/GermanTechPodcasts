@@ -6,6 +6,7 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
 
 * [Podcasts](#podcasts)
   * [Click! Clack! Hack!](#click-clack-hack)
+  * [DevCouch](#devcouch)
   * [Engineering Kiosk](#engineering-kiosk)
   * [FOCUS ON: DevOps](#focus-on-devops)
   * [FOCUS ON: Linux](#focus-on-linux)
@@ -43,6 +44,22 @@ Ein Podcast über den nahezu unendlich tiefen Kaninchenbau der mechanische Tasta
 * [Click! Clack! Hack! @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1551770169)
 * [Click! Clack! Hack! Podcast RSS](https://www.nerdbude.com/podcast/feed/feed.xml)
 * Tags: Hardware, Tastaturen
+
+----
+
+<h3 id="devcouch">DevCouch</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/devcouch.jpg" />
+
+Der Unterhaltungs-Podcast für .NET Entwickler
+
+* Number of published episodes: 86
+* Last episode published: 🟡 Sunday, 05 June 2022
+* [DevCouch Website](https://devcouch.de/)
+* [DevCouch @ Spotify](https://open.spotify.com/show/0MfjnJ0I7SxJ89JIBWIcJJ)
+* [DevCouch @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1249563765)
+* [DevCouch Podcast RSS](https://devcouch.de/feed/mp4/)
+* Tags: .NET
 
 ----
 
