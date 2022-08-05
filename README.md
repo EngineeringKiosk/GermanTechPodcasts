@@ -11,6 +11,7 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
   * [FOCUS ON: Linux](#focus-on-linux)
   * [Logbuch: Netzpolitik](#logbuch-netzpolitik)
   * [Macht der Craft](#macht-der-craft)
+  * [Mein Scrum ist kaputt!](#mein-scrum-ist-kaputt)
   * [Netzpolitik](#netzpolitik)
   * [Neuland](#neuland)
   * [Open Source Couch](#open-source-couch)
@@ -121,6 +122,22 @@ Von Menschen für Menschen, die Software entwickeln, ist dieser Podcast gedacht.
 * [Macht der Craft @ Spotify](https://open.spotify.com/show/5232Av5Ibaf4shvJzpSKEa)
 * [Macht der Craft Podcast RSS](https://macht-der-craft.soler-sanandres.net/feed/podcast)
 * Tags: Development
+
+----
+
+<h3 id="mein-scrum-ist-kaputt">Mein Scrum ist kaputt!</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/mein-scrum-ist-kaputt.jpeg" />
+
+Scrum kann doch inzwischen eh jeder? Von wegen! Denn - ganz unter uns: genug falsch machen kann man ohne Probleme. Daher möchten wir über Stolpersteine sprechen, über Smells und unsere Erfahrungen mitteilen, die wir mit Scrum, Kanban und Agil im Allgemeinen gemacht haben.
+
+* Number of published episodes: 115
+* Last episode published: 🟢 Tuesday, 26 July 2022
+* [Mein Scrum ist kaputt! Website](https://meinscrumistkaputt.de/)
+* [Mein Scrum ist kaputt! @ Spotify](https://open.spotify.com/show/7lECdowQCq0OWlf0EZnSpL)
+* [Mein Scrum ist kaputt! @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1150361013)
+* [Mein Scrum ist kaputt! Podcast RSS](https://meinscrumistkaputt.de/feed/podcast/)
+* Tags: Agilität, Scrum, Kanban
 
 ----
 
@@ -242,8 +259,8 @@ Ich bin Cedric und in diesem Podcast rede ich immer wieder mal über Informatik,
 
 Im t3n Podcast diskutiert die t3n-Redaktion mit prominenten Gästen über die spannendsten digitalen Themen unserer Zeit. Ob innovative Führungskonzepte, die Digitalisierung der Gesellschaft, smarte Gadgets, neue Mobilität oder Zukunftstechnologien. Das Update für digitale Pioniere – jede Woche neu!
 
-* Number of published episodes: 423
-* Last episode published: 🟢 Monday, 01 August 2022
+* Number of published episodes: 424
+* Last episode published: 🟢 Friday, 05 August 2022
 * [t3n Website](https://t3n.de/podcast/)
 * [t3n @ Spotify](https://open.spotify.com/show/7obTbZaywhQEiUUOMswQBQ)
 * [t3n @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1115601393)

@@ -1,0 +1,22 @@
+{
+ "name": "Mein Scrum ist kaputt!",
+ "slug": "mein-scrum-ist-kaputt",
+ "website": "https://meinscrumistkaputt.de/",
+ "podcastIndexID": 876710,
+ "rssFeed": "https://meinscrumistkaputt.de/feed/podcast/",
+ "spotify": "https://open.spotify.com/show/7lECdowQCq0OWlf0EZnSpL",
+ "description": "Scrum kann doch inzwischen eh jeder? Von wegen! Denn - ganz unter uns: genug falsch machen kann man ohne Probleme. Daher möchten wir über Stolpersteine sprechen, über Smells und unsere Erfahrungen mitteilen, die wir mit Scrum, Kanban und Agil im Allgemeinen gemacht haben.",
+ "tags": [
+  "Agilität",
+  "Scrum",
+  "Kanban"
+ ],
+ "weekly_downloads_avg": {
+  "value": 0,
+  "updated": ""
+ },
+ "episodeCount": 115,
+ "latestEpisodePublished": 1658831400,
+ "itunesID": 1150361013,
+ "image": "images/mein-scrum-ist-kaputt.jpeg"
+}
