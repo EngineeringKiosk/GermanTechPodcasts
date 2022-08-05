@@ -1,0 +1,22 @@
+{
+ "name": "GeekWeek",
+ "slug": "geekweek",
+ "website": "https://geek-week.de/",
+ "podcastIndexID": 2059673,
+ "rssFeed": "https://geekweekde.libsyn.com/rss",
+ "spotify": "https://open.spotify.com/show/4GrgnNFNgHNbZxu6DVxJIy?si=5d2fb5a2e6bd4639",
+ "description": "Nothing But Tech - Aus Deutschland, der Schweiz und den USA. geek-week.de berichtet jede Woche über jüngste Entwicklungen aus der Online- und Tech-Welt.",
+ "tags": [
+  "News",
+  "Hardware",
+  "Cloud"
+ ],
+ "weekly_downloads_avg": {
+  "value": 0,
+  "updated": ""
+ },
+ "episodeCount": 100,
+ "latestEpisodePublished": 1658165038,
+ "itunesID": 0,
+ "image": "images/geekweek.jpg"
+}

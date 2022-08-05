@@ -7,10 +7,12 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
 * [Podcasts](#podcasts)
   * [Click! Clack! Hack!](#click-clack-hack)
   * [Codestammtisch](#codestammtisch)
+  * [Codestammtisch](#codestammtisch)
   * [DevCouch](#devcouch)
   * [Engineering Kiosk](#engineering-kiosk)
   * [FOCUS ON: DevOps](#focus-on-devops)
   * [FOCUS ON: Linux](#focus-on-linux)
+  * [GeekWeek](#geekweek)
   * [IT ist alles](#it-ist-alles)
   * [IT-Berufe Podcast](#it-berufe-podcast)
   * [Logbuch: Netzpolitik](#logbuch-netzpolitik)
@@ -47,6 +49,20 @@ Ein Podcast über den nahezu unendlich tiefen Kaninchenbau der mechanische Tasta
 * [Click! Clack! Hack! @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1551770169)
 * [Click! Clack! Hack! Podcast RSS](https://www.nerdbude.com/podcast/feed/feed.xml)
 * Tags: Hardware, Tastaturen
+
+----
+
+<h3 id="codestammtisch">Codestammtisch</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/codestammtisch.jpg" />
+
+Zwei Softwareentwickler — Max und Nathan — unterhalten sich ein Getränk lang über Themen aus der Softwareentwicklung. Da beide keine Ahnung von Bier haben, aber es gerne trinken, trinken die beiden meistens Bier.
+
+* Number of published episodes: 91
+* Last episode published: 🟡 Monday, 25 April 2022
+* [Codestammtisch Website](https://codestammtis.ch/)
+* [Codestammtisch @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1410854302)
+* [Codestammtisch Podcast RSS](https://codestammtis.ch/feed/mp3/)
 
 ----
 
@@ -126,6 +142,21 @@ Der FOCUS ON: Linux Podcast beschäftigt sich mit verschiedenen Themen rund um L
 * [FOCUS ON: Linux @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1606139089)
 * [FOCUS ON: Linux Podcast RSS](https://ageofdevops.de/feed/podcast/fol)
 * Tags: Linux, Open Source
+
+----
+
+<h3 id="geekweek">GeekWeek</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/geekweek.jpg" />
+
+Nothing But Tech - Aus Deutschland, der Schweiz und den USA. geek-week.de berichtet jede Woche über jüngste Entwicklungen aus der Online- und Tech-Welt.
+
+* Number of published episodes: 100
+* Last episode published: 🟢 Monday, 18 July 2022
+* [GeekWeek Website](https://geek-week.de/)
+* [GeekWeek @ Spotify](https://open.spotify.com/show/4GrgnNFNgHNbZxu6DVxJIy?si=5d2fb5a2e6bd4639)
+* [GeekWeek Podcast RSS](https://geekweekde.libsyn.com/rss)
+* Tags: News, Hardware, Cloud
 
 ----
 
