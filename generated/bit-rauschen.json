@@ -1,0 +1,21 @@
+{
+ "name": "Bit-Rauschen",
+ "slug": "bit-rauschen",
+ "website": "https://www.ct.de/bit-rauschen",
+ "podcastIndexID": 3047512,
+ "rssFeed": "https://bit-rauschen.podigee.io/feed/mp3",
+ "spotify": "https://open.spotify.com/show/6JD6gwqgVR27GYZACrWOT1",
+ "description": "Prozessoren, Grafikkarten, Notebooks, Desktop-PCs, Server, KI, Rechenzentren und IT-Markt: In \"Bit-Rauschen\", dem Prozessor-Podcast des Computermagazins c’t, dreht sich alles um Chips.",
+ "tags": [
+  "Hardware",
+  "CPU"
+ ],
+ "weekly_downloads_avg": {
+  "value": 0,
+  "updated": ""
+ },
+ "episodeCount": 42,
+ "latestEpisodePublished": 1659501000,
+ "itunesID": 1549821753,
+ "image": "images/bit-rauschen.jpg"
+}

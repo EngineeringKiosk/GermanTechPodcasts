@@ -5,6 +5,7 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
 ## Table of Contents
 
 * [Podcasts](#podcasts)
+  * [Bit-Rauschen](#bit-rauschen)
   * [Click! Clack! Hack!](#click-clack-hack)
   * [Codestammtisch](#codestammtisch)
   * [DevCouch](#devcouch)
@@ -17,6 +18,7 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
   * [IT-Berufe Podcast](#it-berufe-podcast)
   * [IT@DB](#itatdb)
   * [Logbuch: Netzpolitik](#logbuch-netzpolitik)
+  * [Mac &amp; I](#mac-and-i)
   * [Macht der Craft](#macht-der-craft)
   * [Mein Scrum ist kaputt!](#mein-scrum-ist-kaputt)
   * [Netzpolitik](#netzpolitik)
@@ -37,6 +39,22 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
 
 ## Podcasts
 
+
+<h3 id="bit-rauschen">Bit-Rauschen</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/bit-rauschen.jpg" />
+
+Prozessoren, Grafikkarten, Notebooks, Desktop-PCs, Server, KI, Rechenzentren und IT-Markt: In &#34;Bit-Rauschen&#34;, dem Prozessor-Podcast des Computermagazins c’t, dreht sich alles um Chips.
+
+* Number of published episodes: 42
+* Last episode published: 🟢 Wednesday, 03 August 2022
+* [Bit-Rauschen Website](https://www.ct.de/bit-rauschen)
+* [Bit-Rauschen @ Spotify](https://open.spotify.com/show/6JD6gwqgVR27GYZACrWOT1)
+* [Bit-Rauschen @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1549821753)
+* [Bit-Rauschen Podcast RSS](https://bit-rauschen.podigee.io/feed/mp3)
+* Tags: Hardware, CPU
+
+----
 
 <h3 id="click-clack-hack">Click! Clack! Hack!</h3>
 
@@ -155,7 +173,7 @@ Der Podcast für den praktizierenden Softwarearchitekten
 
 * Number of published episodes: 92
 * Last episode published: 🟢 Wednesday, 08 June 2022
-* [heise Developer: SoftwareArchitekTOUR Website](https://www.heise.de/Hoeren-Sie-von-uns-unsere-Podcasts-4206659.html#anchor_4)
+* [heise Developer: SoftwareArchitekTOUR Website](https://www.heise.de/developer/SoftwareArchitekTOUR-4076349.html)
 * [heise Developer: SoftwareArchitekTOUR @ Spotify](https://open.spotify.com/show/2Uc7vL8U6kUZYSCOvDIJ67)
 * [heise Developer: SoftwareArchitekTOUR @ Apple Podcasts](https://podcasts.apple.com/de/podcast/313825047)
 * [heise Developer: SoftwareArchitekTOUR Podcast RSS](https://softwarearchitektour.podigee.io/feed/mp3)
@@ -221,6 +239,22 @@ Logbuch:Netzpolitik ist ein in der Regel wöchentlich erscheinender Podcast, der
 * [Logbuch: Netzpolitik @ Apple Podcasts](https://podcasts.apple.com/de/podcast/476856034)
 * [Logbuch: Netzpolitik Podcast RSS](https://feeds.metaebene.me/lnp/m4a)
 * Tags: Politik, Gesellschaft, Internet
+
+----
+
+<h3 id="mac-and-i">Mac &amp; I</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/mac-and-i.png" />
+
+Redakteure von heise Mac &amp; i beschäftigen sich jeden Monat mit Apple-Produkten, -Betriebssystemen und dem Drumherum, stellen Testergebnisse vor und geben Tipps.
+
+* Number of published episodes: 30
+* Last episode published: 🟢 Thursday, 14 July 2022
+* [Mac &amp; I Website](https://www.heise.de/mac-and-i/meldung/Mac-i-Der-Apple-Podcast-4681220.html)
+* [Mac &amp; I @ Spotify](https://open.spotify.com/show/5Tcgc97HvYREYM7kIRsxii)
+* [Mac &amp; I @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1499510618)
+* [Mac &amp; I Podcast RSS](https://mac-and-i.podigee.io/feed/mp3)
+* Tags: Hardware, Apple
 
 ----
 

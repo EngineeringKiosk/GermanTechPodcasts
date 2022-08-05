@@ -1,0 +1,21 @@
+{
+ "name": "Mac \u0026 I",
+ "slug": "mac-and-i",
+ "website": "https://www.heise.de/mac-and-i/meldung/Mac-i-Der-Apple-Podcast-4681220.html",
+ "podcastIndexID": 112364,
+ "rssFeed": "https://mac-and-i.podigee.io/feed/mp3",
+ "spotify": "https://open.spotify.com/show/5Tcgc97HvYREYM7kIRsxii",
+ "description": "Redakteure von heise Mac \u0026 i beschäftigen sich jeden Monat mit Apple-Produkten, -Betriebssystemen und dem Drumherum, stellen Testergebnisse vor und geben Tipps.",
+ "tags": [
+  "Hardware",
+  "Apple"
+ ],
+ "weekly_downloads_avg": {
+  "value": 0,
+  "updated": ""
+ },
+ "episodeCount": 30,
+ "latestEpisodePublished": 1657786137,
+ "itunesID": 1499510618,
+ "image": "images/mac-and-i.png"
+}
