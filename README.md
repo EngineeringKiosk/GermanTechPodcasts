@@ -5,6 +5,7 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
 ## Table of Contents
 
 * [Podcasts](#podcasts)
+  * [Click! Clack! Hack!](#click-clack-hack)
   * [Engineering Kiosk](#engineering-kiosk)
   * [FOCUS ON: DevOps](#focus-on-devops)
   * [FOCUS ON: Linux](#focus-on-linux)
@@ -28,6 +29,21 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
 
 ## Podcasts
 
+
+<h3 id="click-clack-hack">Click! Clack! Hack!</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/click-clack-hack.png" />
+
+Ein Podcast über den nahezu unendlich tiefen Kaninchenbau der mechanische Tastaturen. Ich erzähle euch was es neues im Hobby der mechanical Keyboards gibt, Groupbuys, Interestchecks, Neue Keyboards, Keycaps und Switches und noch viel viel mehr....
+
+* Number of published episodes: 41
+* Last episode published: 🟢 Monday, 25 July 2022
+* [Click! Clack! Hack! Website](https://www.nerdbude.com/podcast/)
+* [Click! Clack! Hack! @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1551770169)
+* [Click! Clack! Hack! Podcast RSS](https://www.nerdbude.com/podcast/feed/feed.xml)
+* Tags: Hardware, Tastaturen
+
+----
 
 <h3 id="engineering-kiosk">Engineering Kiosk</h3>
 
