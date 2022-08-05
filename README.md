@@ -11,6 +11,7 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
   * [Engineering Kiosk](#engineering-kiosk)
   * [FOCUS ON: DevOps](#focus-on-devops)
   * [FOCUS ON: Linux](#focus-on-linux)
+  * [IT ist alles](#it-ist-alles)
   * [IT-Berufe Podcast](#it-berufe-podcast)
   * [Logbuch: Netzpolitik](#logbuch-netzpolitik)
   * [Macht der Craft](#macht-der-craft)
@@ -125,6 +126,22 @@ Der FOCUS ON: Linux Podcast beschäftigt sich mit verschiedenen Themen rund um L
 * [FOCUS ON: Linux @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1606139089)
 * [FOCUS ON: Linux Podcast RSS](https://ageofdevops.de/feed/podcast/fol)
 * Tags: Linux, Open Source
+
+----
+
+<h3 id="it-ist-alles">IT ist alles</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/it-ist-alles.png" />
+
+Nur etwas mehr als 60 Jahre liegen zwischen dem ersten Start eines Motorflugzeugs und dem ersten bemannten Flug zum Mond. Das Handy wurde in nur 30 Jahren zum wichtigsten Kommunikationskanal unserer Zeit. Und IT? Die entwickelt sich nicht weniger rasant und macht in einer vernetzten und digitalen Welt vor keinem Bereich mehr halt. Im Podcast sprechen wir über Trendthemen, die zwar nichts mit Raketenwissenschaft zu tun haben, dafür aber Menschen auf dem Weg in eine digitale Zukunft begleiten. Bist Du bereit?
+
+* Number of published episodes: 40
+* Last episode published: 🟢 Wednesday, 27 July 2022
+* [IT ist alles Website](https://www.pco-online.de/magazin/2020/07/podcast)
+* [IT ist alles @ Spotify](https://open.spotify.com/show/46EUTeJsHSfscbkrI38f6p)
+* [IT ist alles @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1524049773)
+* [IT ist alles Podcast RSS](https://it-ist-alles.podigee.io/feed/mp3)
+* Tags: Security
 
 ----
 
