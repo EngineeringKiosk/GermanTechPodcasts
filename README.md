@@ -7,7 +7,6 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
 * [Podcasts](#podcasts)
   * [Click! Clack! Hack!](#click-clack-hack)
   * [Codestammtisch](#codestammtisch)
-  * [Codestammtisch](#codestammtisch)
   * [DevCouch](#devcouch)
   * [Engineering Kiosk](#engineering-kiosk)
   * [FOCUS ON: DevOps](#focus-on-devops)
@@ -15,6 +14,7 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
   * [GeekWeek](#geekweek)
   * [IT ist alles](#it-ist-alles)
   * [IT-Berufe Podcast](#it-berufe-podcast)
+  * [IT@DB](#itatdb)
   * [Logbuch: Netzpolitik](#logbuch-netzpolitik)
   * [Macht der Craft](#macht-der-craft)
   * [Mein Scrum ist kaputt!](#mein-scrum-ist-kaputt)
@@ -55,20 +55,6 @@ Ein Podcast über den nahezu unendlich tiefen Kaninchenbau der mechanische Tasta
 <h3 id="codestammtisch">Codestammtisch</h3>
 
 <img align="right" width="215" height="215" src="./generated/images/codestammtisch.jpg" />
-
-Zwei Softwareentwickler — Max und Nathan — unterhalten sich ein Getränk lang über Themen aus der Softwareentwicklung. Da beide keine Ahnung von Bier haben, aber es gerne trinken, trinken die beiden meistens Bier.
-
-* Number of published episodes: 91
-* Last episode published: 🟡 Monday, 25 April 2022
-* [Codestammtisch Website](https://codestammtis.ch/)
-* [Codestammtisch @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1410854302)
-* [Codestammtisch Podcast RSS](https://codestammtis.ch/feed/mp3/)
-
-----
-
-<h3 id="codestammtisch">Codestammtisch</h3>
-
-<img align="right" width="215" height="215" src="./generated/images/Codestammtisch.jpg" />
 
 Zwei Softwareentwickler — Max und Nathan — unterhalten sich ein Getränk lang über Themen aus der Softwareentwicklung. Da beide keine Ahnung von Bier haben, aber es gerne trinken, trinken die beiden meistens Bier.
 
@@ -189,6 +175,21 @@ Der Podcast für Auszubildende, Ausbilder und IHK-Prüfer in den IT-Berufen (Fac
 * [IT-Berufe Podcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/979050513)
 * [IT-Berufe Podcast Podcast RSS](https://it-berufe-podcast.de/feed/podcast/)
 * Tags: IT-Berufe, Ausbildung
+
+----
+
+<h3 id="itatdb">IT@DB</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/it-at-db.png" />
+
+IT@DB ist ein Podcast für IT Fach- und Führungskräfte (w/m/d). Hier erhältst du einen exklusiven Einblick zu spannenden IT Projekten der Deutschen Bahn.
+
+* Number of published episodes: 54
+* Last episode published: 🟢 Friday, 22 July 2022
+* [IT@DB Website](https://cqlshb.podcaster.de/)
+* [IT@DB @ Spotify](https://open.spotify.com/show/3uV0oOeigGJCAAQbXZ49Dv)
+* [IT@DB @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1462447493)
+* [IT@DB Podcast RSS](https://cqlshb.podcaster.de/it-at-db.rss)
 
 ----
 

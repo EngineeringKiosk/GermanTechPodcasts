@@ -1,0 +1,18 @@
+{
+ "name": "IT@DB",
+ "slug": "itatdb",
+ "website": "https://cqlshb.podcaster.de/",
+ "podcastIndexID": 685245,
+ "rssFeed": "https://cqlshb.podcaster.de/it-at-db.rss",
+ "spotify": "https://open.spotify.com/show/3uV0oOeigGJCAAQbXZ49Dv",
+ "description": "IT@DB ist ein Podcast für IT Fach- und Führungskräfte (w/m/d). Hier erhältst du einen exklusiven Einblick zu spannenden IT Projekten der Deutschen Bahn.",
+ "tags": null,
+ "weekly_downloads_avg": {
+  "value": 0,
+  "updated": ""
+ },
+ "episodeCount": 54,
+ "latestEpisodePublished": 1658466540,
+ "itunesID": 1462447493,
+ "image": "images/it-at-db.png"
+}
