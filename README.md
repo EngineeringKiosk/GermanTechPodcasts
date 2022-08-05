@@ -10,6 +10,7 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
   * [Engineering Kiosk](#engineering-kiosk)
   * [FOCUS ON: DevOps](#focus-on-devops)
   * [FOCUS ON: Linux](#focus-on-linux)
+  * [IT-Berufe Podcast](#it-berufe-podcast)
   * [Logbuch: Netzpolitik](#logbuch-netzpolitik)
   * [Macht der Craft](#macht-der-craft)
   * [Mein Scrum ist kaputt!](#mein-scrum-ist-kaputt)
@@ -109,6 +110,22 @@ Der FOCUS ON: Linux Podcast beschäftigt sich mit verschiedenen Themen rund um L
 * [FOCUS ON: Linux @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1606139089)
 * [FOCUS ON: Linux Podcast RSS](https://ageofdevops.de/feed/podcast/fol)
 * Tags: Linux, Open Source
+
+----
+
+<h3 id="it-berufe-podcast">IT-Berufe Podcast</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/it-berufe-podcast.jpg" />
+
+Der Podcast für Auszubildende, Ausbilder und IHK-Prüfer in den IT-Berufen (Fachinformatiker für Anwendungsentwicklung/Systemintegration/Daten- und Prozessanalyse/Digitale Vernetzung, IT-Systemelektroniker, Kaufmann für IT-Systemmanagement, Kaufmann für Digitalisierungsmanagement).
+
+* Number of published episodes: 187
+* Last episode published: 🟡 Friday, 01 April 2022
+* [IT-Berufe Podcast Website](https://it-berufe-podcast.de/episoden/)
+* [IT-Berufe Podcast @ Spotify](https://open.spotify.com/show/3Z9nS0wsn9akCfo6zrmNb1)
+* [IT-Berufe Podcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/979050513)
+* [IT-Berufe Podcast Podcast RSS](https://it-berufe-podcast.de/feed/podcast/)
+* Tags: IT-Berufe, Ausbildung
 
 ----
 
