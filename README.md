@@ -17,6 +17,7 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
   * [IT ist alles](#it-ist-alles)
   * [IT-Berufe Podcast](#it-berufe-podcast)
   * [IT@DB](#itatdb)
+  * [Kurz informiert by heise online](#kurz-informiert-by-heise-online)
   * [Logbuch: Netzpolitik](#logbuch-netzpolitik)
   * [Mac &amp; I](#mac-and-i)
   * [Macht der Craft](#macht-der-craft)
@@ -224,6 +225,21 @@ IT@DB ist ein Podcast für IT Fach- und Führungskräfte (w/m/d). Hier erhältst
 * [IT@DB @ Spotify](https://open.spotify.com/show/3uV0oOeigGJCAAQbXZ49Dv)
 * [IT@DB @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1462447493)
 * [IT@DB Podcast RSS](https://cqlshb.podcaster.de/it-at-db.rss)
+
+----
+
+<h3 id="kurz-informiert-by-heise-online">Kurz informiert by heise online</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/kurz-informiert.jpg" />
+
+Die IT-News des Tages von heise online
+
+* Number of published episodes: 500
+* Last episode published: 🟢 Friday, 05 August 2022
+* [Kurz informiert by heise online Website](http://www.heise.de/)
+* [Kurz informiert by heise online @ Spotify](https://open.spotify.com/show/2etf1jog8leNHbnhIArM9Z)
+* [Kurz informiert by heise online Podcast RSS](https://feeds.soundcloud.com/users/soundcloud:users:316654023/sounds.rss)
+* Tags: News, Business
 
 ----
 
