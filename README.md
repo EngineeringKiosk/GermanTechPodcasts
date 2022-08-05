@@ -6,6 +6,7 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
 
 * [Podcasts](#podcasts)
   * [Click! Clack! Hack!](#click-clack-hack)
+  * [Codestammtisch](#codestammtisch)
   * [DevCouch](#devcouch)
   * [Engineering Kiosk](#engineering-kiosk)
   * [FOCUS ON: DevOps](#focus-on-devops)
@@ -45,6 +46,20 @@ Ein Podcast über den nahezu unendlich tiefen Kaninchenbau der mechanische Tasta
 * [Click! Clack! Hack! @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1551770169)
 * [Click! Clack! Hack! Podcast RSS](https://www.nerdbude.com/podcast/feed/feed.xml)
 * Tags: Hardware, Tastaturen
+
+----
+
+<h3 id="codestammtisch">Codestammtisch</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/Codestammtisch.jpg" />
+
+Zwei Softwareentwickler — Max und Nathan — unterhalten sich ein Getränk lang über Themen aus der Softwareentwicklung. Da beide keine Ahnung von Bier haben, aber es gerne trinken, trinken die beiden meistens Bier.
+
+* Number of published episodes: 91
+* Last episode published: 🟡 Monday, 25 April 2022
+* [Codestammtisch Website](https://codestammtis.ch/)
+* [Codestammtisch @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1410854302)
+* [Codestammtisch Podcast RSS](https://codestammtis.ch/feed/mp3/)
 
 ----
 
