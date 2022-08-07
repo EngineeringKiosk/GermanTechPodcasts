@@ -31,7 +31,7 @@ type Episode struct {
 // Get all episodes by Feed ID.
 //
 // PodcastIndex API docs: https://podcastindex-org.github.io/docs-api/#get-/episodes/byfeedid
-func (s *EpisodesService) GetByFeedID(ctx context.Context, feedID, max int) (*Episodes, *http.Response, error) {
+func (s *EpisodesService) GetByFeedID(ctx context.Context, feedID int64, max int) (*Episodes, *http.Response, error) {
 	u := fmt.Sprintf("episodes/byfeedid?id=%d&max=%d", feedID, max)
 	req, err := s.client.NewRequest("GET", u, nil)
 	if err != nil {

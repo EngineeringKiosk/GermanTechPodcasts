@@ -30,7 +30,7 @@ type PodcastFeed struct {
 // Get a single Podcast by Feed ID.
 //
 // PodcastIndex API docs: https://podcastindex-org.github.io/docs-api/#get-/podcasts/byfeedid
-func (s *PodcastsService) GetByFeedID(ctx context.Context, feedID int) (*Podcast, *http.Response, error) {
+func (s *PodcastsService) GetByFeedID(ctx context.Context, feedID int64) (*Podcast, *http.Response, error) {
 	u := fmt.Sprintf("podcasts/byfeedid?id=%d", feedID)
 	req, err := s.client.NewRequest("GET", u, nil)
 	if err != nil {
