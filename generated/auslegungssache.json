@@ -1,0 +1,20 @@
+{
+ "name": "Auslegungssache",
+ "slug": "auslegungssache",
+ "website": "https://heise.de/-4571821",
+ "podcastIndexID": 1011013,
+ "rssFeed": "https://ct-auslegungssache.podigee.io/feed/mp3",
+ "spotify": "https://open.spotify.com/show/3Jrnu7vrTurguBaCiPapkA",
+ "description": "Sie möchten beim Thema Datenschutz auf dem Laufenden bleiben, aber keine seitenlange Literatur wälzen? Dann wenden Sie sich vertrauensvoll an unser Juristen-Redakteurs-Duo. Alle 14 Tage bespricht c't-Redakteur Holger Bleich mit Joerg Heidrich aktuelle Entwicklungen rund um den Datenschutz. Joerg ist beim c't-Mutterschiff Heise Medien als Justiziar für das Thema zuständig und hat täglich mit der europäischen Datenschutz-Grundverordnung (DSGVO) zu tun. Wechselnde Gäste ergänzen das Duo.",
+ "tags": [
+  "Datenschutz"
+ ],
+ "weekly_downloads_avg": {
+  "value": 0,
+  "updated": ""
+ },
+ "episodeCount": 68,
+ "latestEpisodePublished": 1659067200,
+ "itunesID": 1485860893,
+ "image": "images/auslegungssache.png"
+}

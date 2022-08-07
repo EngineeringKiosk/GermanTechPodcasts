@@ -1,0 +1,18 @@
+{
+ "name": "c't uplink",
+ "slug": "ct-uplink",
+ "website": "https://www.heise.de/ct/entdecken/?hauptrubrik=%40ctmagazin\u0026unterrubrik=c%27t+uplink",
+ "podcastIndexID": 1089321,
+ "rssFeed": "https://ct-uplink.podigee.io/feed/mp3",
+ "spotify": "https://open.spotify.com/show/4LdN7lGr9winLtQSqoIjVD",
+ "description": "Mitglieder der c't-Redaktion diskutieren über die aktuellen Themen aus dem c’t Magazin und was sonst noch so in der IT-Welt passiert.",
+ "tags": null,
+ "weekly_downloads_avg": {
+  "value": 0,
+  "updated": ""
+ },
+ "episodeCount": 446,
+ "latestEpisodePublished": 1659760200,
+ "itunesID": 835717958,
+ "image": "images/ct-uplink.jpg"
+}

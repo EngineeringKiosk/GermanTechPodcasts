@@ -5,7 +5,9 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
 ## Table of Contents
 
 * [Podcasts](#podcasts)
+  * [Auslegungssache](#auslegungssache)
   * [Bit-Rauschen](#bit-rauschen)
+  * [c&#39;t uplink](#ct-uplink)
   * [Click! Clack! Hack!](#click-clack-hack)
   * [Codestammtisch](#codestammtisch)
   * [DevCouch](#devcouch)
@@ -41,6 +43,22 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
 ## Podcasts
 
 
+<h3 id="auslegungssache">Auslegungssache</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/auslegungssache.png" />
+
+Sie möchten beim Thema Datenschutz auf dem Laufenden bleiben, aber keine seitenlange Literatur wälzen? Dann wenden Sie sich vertrauensvoll an unser Juristen-Redakteurs-Duo. Alle 14 Tage bespricht c&#39;t-Redakteur Holger Bleich mit Joerg Heidrich aktuelle Entwicklungen rund um den Datenschutz. Joerg ist beim c&#39;t-Mutterschiff Heise Medien als Justiziar für das Thema zuständig und hat täglich mit der europäischen Datenschutz-Grundverordnung (DSGVO) zu tun. Wechselnde Gäste ergänzen das Duo.
+
+* Number of published episodes: 68
+* Last episode published: 🟢 Friday, 29 July 2022
+* [Auslegungssache Website](https://heise.de/-4571821)
+* [Auslegungssache @ Spotify](https://open.spotify.com/show/3Jrnu7vrTurguBaCiPapkA)
+* [Auslegungssache @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1485860893)
+* [Auslegungssache Podcast RSS](https://ct-auslegungssache.podigee.io/feed/mp3)
+* Tags: Datenschutz
+
+----
+
 <h3 id="bit-rauschen">Bit-Rauschen</h3>
 
 <img align="right" width="215" height="215" src="./generated/images/bit-rauschen.jpg" />
@@ -54,6 +72,21 @@ Prozessoren, Grafikkarten, Notebooks, Desktop-PCs, Server, KI, Rechenzentren und
 * [Bit-Rauschen @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1549821753)
 * [Bit-Rauschen Podcast RSS](https://bit-rauschen.podigee.io/feed/mp3)
 * Tags: Hardware, CPU
+
+----
+
+<h3 id="ct-uplink">c&#39;t uplink</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/ct-uplink.jpg" />
+
+Mitglieder der c&#39;t-Redaktion diskutieren über die aktuellen Themen aus dem c’t Magazin und was sonst noch so in der IT-Welt passiert.
+
+* Number of published episodes: 446
+* Last episode published: 🟢 Saturday, 06 August 2022
+* [c&#39;t uplink Website](https://www.heise.de/ct/entdecken/?hauptrubrik=%40ctmagazin&amp;unterrubrik=c%27t&#43;uplink)
+* [c&#39;t uplink @ Spotify](https://open.spotify.com/show/4LdN7lGr9winLtQSqoIjVD)
+* [c&#39;t uplink @ Apple Podcasts](https://podcasts.apple.com/de/podcast/835717958)
+* [c&#39;t uplink Podcast RSS](https://ct-uplink.podigee.io/feed/mp3)
 
 ----
 
@@ -281,7 +314,7 @@ Redakteure von heise Mac &amp; i beschäftigen sich jeden Monat mit Apple-Produk
 Von Menschen für Menschen, die Software entwickeln, ist dieser Podcast gedacht. Damit Du in diesem Leben durch stetiges Lernen, den bestmöglichen Code kreieren kannst. Wir erzählen dir von agiler Softwareentwicklung, Software Craft, Methoden, Techniken und allem, was dazu gehört, um deine Fähigkeiten zu verbessern. Das Bestmögliche zu erschaffen, bedeutet mit dem Puls der Zeit zu gehen und ständig zu lernen.
 
 * Number of published episodes: 10
-* Last episode published: 🟢 Monday, 06 June 2022
+* Last episode published: 🟡 Monday, 06 June 2022
 * [Macht der Craft Website](https://macht-der-craft.soler-sanandres.net/)
 * [Macht der Craft @ Spotify](https://open.spotify.com/show/5232Av5Ibaf4shvJzpSKEa)
 * [Macht der Craft Podcast RSS](https://macht-der-craft.soler-sanandres.net/feed/podcast)
