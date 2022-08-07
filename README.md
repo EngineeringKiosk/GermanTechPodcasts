@@ -4,7 +4,7 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
 
 ## Table of Contents
 
-* [Podcasts](#podcasts)
+* [Podcasts](#podcasts) (32 podcasts)
   * [Auslegungssache](#auslegungssache)
   * [Binärgewitter](#binargewitter)
   * [Bit-Rauschen](#bit-rauschen)
