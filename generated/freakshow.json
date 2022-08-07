@@ -1,0 +1,18 @@
+{
+ "name": "Freakshow",
+ "slug": "freakshow",
+ "website": "https://freakshow.fm/",
+ "podcastIndexID": 608171,
+ "rssFeed": "https://feeds.metaebene.me/freakshow/m4a",
+ "spotify": "",
+ "description": "Freak Show ist ein Podcast, der sich mit dem Leben mit Technik im 21. Jahrhundert auseinandersetzt und dabei eine Vielzahl von Themen anschneidet. Es ist kein Geheimnis, dass das Team sich viel und gerne mit Apple und seinen Produkten, Programmierung, Bitcoin, Gitarren, Podcasting und anderen Lastern herumschlägt. Aber wir reden auch über was anderes.",
+ "tags": null,
+ "weekly_downloads_avg": {
+  "value": 0,
+  "updated": ""
+ },
+ "episodeCount": 264,
+ "latestEpisodePublished": 1636680313,
+ "itunesID": 277518737,
+ "image": "images/freakshow.jpg"
+}
