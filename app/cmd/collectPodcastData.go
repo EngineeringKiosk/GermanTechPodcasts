@@ -87,50 +87,54 @@ func cmdCollectPodcastData(cmd *cobra.Command, args []string) error {
 			return err
 		}
 
-		// Get Podcast info
-		log.Printf("Requesting 'Podcasts.GetByFeedID' data from podcast index for feed id %d", int(podcastInfo.PodcastIndexID))
-		p, _, err := c.Podcasts.GetByFeedID(context.Background(), int(podcastInfo.PodcastIndexID))
-		if err != nil {
-			return err
-		}
-
-		// Set basic podcast data
-		podcastInfo.EpisodeCount = p.Feed.EpisodeCount
-		podcastInfo.ItunesID = p.Feed.ItunesID
-
-		// Download cover-image
-		imageFileExtension := path.Ext(p.Feed.Artwork)
-		// Sometimes we have file extensions like .png?t=1655195362
-		// but we only want .png
-		if strings.Contains(imageFileExtension, "?") {
-			imageFileExtension, _, _ = strings.Cut(imageFileExtension, "?")
-		}
-		jsonFileExtension := path.Ext(f.Name())
-		imageFileName := f.Name()[0:len(f.Name())-len(jsonFileExtension)] + imageFileExtension
-		absImageFilePath := filepath.Join(jsonDir, imageFolder, imageFileName)
-		log.Printf("Downloading %s into %s", p.Feed.Artwork, absImageFilePath)
-		err = downloadFile(p.Feed.Artwork, absImageFilePath)
-		if err != nil {
-			return err
-		}
-
-		podcastInfo.Image = filepath.Join(imageFolder, imageFileName)
-
-		// Get Podcast Episodes info
-		log.Printf("Requesting 'Episodes.GetByFeedID' data from podcast index for feed id %d", int(podcastInfo.PodcastIndexID))
-		episodes, _, err := c.Episodes.GetByFeedID(context.Background(), int(podcastInfo.PodcastIndexID), 1000)
-		if err != nil {
-			return err
-		}
-
-		// Determine time/date of latest episode published
-		latestEpisodePublished := int64(0)
-		for _, e := range episodes.Items {
-			if latestEpisodePublished < e.DatePublished {
-				latestEpisodePublished = e.DatePublished
+		if podcastInfo.PodcastIndexID > 0 {
+			// Get Podcast info
+			log.Printf("Requesting 'Podcasts.GetByFeedID' data from podcast index for feed id %d", podcastInfo.PodcastIndexID)
+			p, _, err := c.Podcasts.GetByFeedID(context.Background(), podcastInfo.PodcastIndexID)
+			if err != nil {
+				return err
 			}
+
+			// Set basic podcast data
+			podcastInfo.EpisodeCount = p.Feed.EpisodeCount
+			podcastInfo.ItunesID = p.Feed.ItunesID
+
+			// Download cover-image
+			imageFileExtension := path.Ext(p.Feed.Artwork)
+			// Sometimes we have file extensions like .png?t=1655195362
+			// but we only want .png
+			if strings.Contains(imageFileExtension, "?") {
+				imageFileExtension, _, _ = strings.Cut(imageFileExtension, "?")
+			}
+			jsonFileExtension := path.Ext(f.Name())
+			imageFileName := f.Name()[0:len(f.Name())-len(jsonFileExtension)] + imageFileExtension
+			absImageFilePath := filepath.Join(jsonDir, imageFolder, imageFileName)
+			log.Printf("Downloading %s into %s", p.Feed.Artwork, absImageFilePath)
+			err = downloadFile(p.Feed.Artwork, absImageFilePath)
+			if err != nil {
+				return err
+			}
+
+			podcastInfo.Image = filepath.Join(imageFolder, imageFileName)
+
+			// Get Podcast Episodes info
+			log.Printf("Requesting 'Episodes.GetByFeedID' data from podcast index for feed id %d", podcastInfo.PodcastIndexID)
+			episodes, _, err := c.Episodes.GetByFeedID(context.Background(), podcastInfo.PodcastIndexID, 1000)
+			if err != nil {
+				return err
+			}
+
+			// Determine time/date of latest episode published
+			latestEpisodePublished := int64(0)
+			for _, e := range episodes.Items {
+				if latestEpisodePublished < e.DatePublished {
+					latestEpisodePublished = e.DatePublished
+				}
+			}
+			podcastInfo.LatestEpisodePublished = latestEpisodePublished
+		} else {
+			log.Printf("Skipping data retrieval from PodcastIndex for %s, because PodcastIndex is %d", absJsonFilePath, podcastInfo.PodcastIndexID)
 		}
-		podcastInfo.LatestEpisodePublished = latestEpisodePublished
 
 		// Write the information back to the JSON file
 		// Dump data into JSON file
