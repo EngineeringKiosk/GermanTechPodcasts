@@ -4,10 +4,11 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (33 podcasts)
+* [Podcasts](#podcasts) (34 podcasts)
   * [Auslegungssache](#auslegungssache)
   * [Binärgewitter](#binargewitter)
   * [Bit-Rauschen](#bit-rauschen)
+  * [Bits und so](#bits-und-so)
   * [c&#39;t uplink](#ct-uplink)
   * [Click! Clack! Hack!](#click-clack-hack)
   * [Codestammtisch](#codestammtisch)
@@ -90,6 +91,21 @@ Prozessoren, Grafikkarten, Notebooks, Desktop-PCs, Server, KI, Rechenzentren und
 * [Bit-Rauschen @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1549821753)
 * [Bit-Rauschen Podcast RSS](https://bit-rauschen.podigee.io/feed/mp3)
 * Tags: Hardware, CPU
+
+----
+
+<h3 id="bits-und-so">Bits und so</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/bits-und-so.jpg" />
+
+Die wöchentliche Talkrunde rund um Apple, Mac, iPod &#43; iPhone, Gadgets und so. Fast live aus München.
+
+* Number of published episodes: 10
+* Last episode published: 🟢 Monday, 01 August 2022
+* [Bits und so Website](http://www.bitsundso.de/)
+* [Bits und so @ Apple Podcasts](https://podcasts.apple.com/de/podcast/202753375)
+* [Bits und so Podcast RSS](http://www.bitsundso.de/feed/)
+* Tags: Hardware
 
 ----
 

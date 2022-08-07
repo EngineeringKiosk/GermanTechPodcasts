@@ -1,0 +1,20 @@
+{
+ "name": "Bits und so",
+ "slug": "bits-und-so",
+ "website": "http://www.bitsundso.de/",
+ "podcastIndexID": 748617,
+ "rssFeed": "http://www.bitsundso.de/feed/",
+ "spotify": "",
+ "description": "Die wöchentliche Talkrunde rund um Apple, Mac, iPod + iPhone, Gadgets und so. Fast live aus München.",
+ "tags": [
+  "Hardware"
+ ],
+ "weekly_downloads_avg": {
+  "value": 0,
+  "updated": ""
+ },
+ "episodeCount": 10,
+ "latestEpisodePublished": 1659335864,
+ "itunesID": 202753375,
+ "image": "images/bits-und-so.jpg"
+}
