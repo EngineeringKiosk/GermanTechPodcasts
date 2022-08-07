@@ -1,0 +1,21 @@
+{
+ "name": "Chaosradio",
+ "slug": "chaosradio",
+ "website": "https://chaosradio.de/",
+ "podcastIndexID": 842996,
+ "rssFeed": "https://chaosradio.de/feed/m4a",
+ "spotify": "",
+ "description": "Im monatlichen Chaosradio informiert der Chaos Computer Club Berlin seit 1995 über die Auswirkungen von Technik auf die Gesellschaft.",
+ "tags": [
+  "Chaos Computer Club",
+  "Gesellschaft"
+ ],
+ "weekly_downloads_avg": {
+  "value": 0,
+  "updated": ""
+ },
+ "episodeCount": 267,
+ "latestEpisodePublished": 1656204202,
+ "itunesID": 135057225,
+ "image": "images/chaosradio.png"
+}

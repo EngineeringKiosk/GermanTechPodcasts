@@ -4,13 +4,14 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (35 podcasts)
+* [Podcasts](#podcasts) (36 podcasts)
   * [Apfelfunk](#apfelfunk)
   * [Auslegungssache](#auslegungssache)
   * [Binärgewitter](#binargewitter)
   * [Bit-Rauschen](#bit-rauschen)
   * [Bits und so](#bits-und-so)
   * [c&#39;t uplink](#ct-uplink)
+  * [Chaosradio](#chaosradio)
   * [Click! Clack! Hack!](#click-clack-hack)
   * [Codestammtisch](#codestammtisch)
   * [DevCouch](#devcouch)
@@ -138,6 +139,21 @@ Mitglieder der c&#39;t-Redaktion diskutieren über die aktuellen Themen aus dem 
 * [c&#39;t uplink @ Spotify](https://open.spotify.com/show/4LdN7lGr9winLtQSqoIjVD)
 * [c&#39;t uplink @ Apple Podcasts](https://podcasts.apple.com/de/podcast/835717958)
 * [c&#39;t uplink Podcast RSS](https://ct-uplink.podigee.io/feed/mp3)
+
+----
+
+<h3 id="chaosradio">Chaosradio</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/chaosradio.png" />
+
+Im monatlichen Chaosradio informiert der Chaos Computer Club Berlin seit 1995 über die Auswirkungen von Technik auf die Gesellschaft.
+
+* Number of published episodes: 267
+* Last episode published: 🟢 Sunday, 26 June 2022
+* [Chaosradio Website](https://chaosradio.de/)
+* [Chaosradio @ Apple Podcasts](https://podcasts.apple.com/de/podcast/135057225)
+* [Chaosradio Podcast RSS](https://chaosradio.de/feed/m4a)
+* Tags: Chaos Computer Club, Gesellschaft
 
 ----
 
