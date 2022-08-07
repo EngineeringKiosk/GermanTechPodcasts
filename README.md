@@ -4,7 +4,7 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (32 podcasts)
+* [Podcasts](#podcasts) (33 podcasts)
   * [Auslegungssache](#auslegungssache)
   * [Binärgewitter](#binargewitter)
   * [Bit-Rauschen](#bit-rauschen)
@@ -15,6 +15,7 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
   * [Engineering Kiosk](#engineering-kiosk)
   * [FOCUS ON: DevOps](#focus-on-devops)
   * [FOCUS ON: Linux](#focus-on-linux)
+  * [Freakshow](#freakshow)
   * [GeekWeek](#geekweek)
   * [heise Developer: SoftwareArchitekTOUR](#heise-developer-softwarearchitektour)
   * [IT ist alles](#it-ist-alles)
@@ -142,8 +143,8 @@ Zwei Softwareentwickler — Max und Nathan — unterhalten sich ein Getränk lan
 
 Der Unterhaltungs-Podcast für .NET Entwickler
 
-* Number of published episodes: 86
-* Last episode published: 🟡 Sunday, 05 June 2022
+* Number of published episodes: 87
+* Last episode published: 🟢 Sunday, 07 August 2022
 * [DevCouch Website](https://devcouch.de/)
 * [DevCouch @ Spotify](https://open.spotify.com/show/0MfjnJ0I7SxJ89JIBWIcJJ)
 * [DevCouch @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1249563765)
@@ -198,6 +199,20 @@ Der FOCUS ON: Linux Podcast beschäftigt sich mit verschiedenen Themen rund um L
 * [FOCUS ON: Linux @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1606139089)
 * [FOCUS ON: Linux Podcast RSS](https://ageofdevops.de/feed/podcast/fol)
 * Tags: Linux, Open Source
+
+----
+
+<h3 id="freakshow">Freakshow</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/freakshow.jpg" />
+
+Freak Show ist ein Podcast, der sich mit dem Leben mit Technik im 21. Jahrhundert auseinandersetzt und dabei eine Vielzahl von Themen anschneidet. Es ist kein Geheimnis, dass das Team sich viel und gerne mit Apple und seinen Produkten, Programmierung, Bitcoin, Gitarren, Podcasting und anderen Lastern herumschlägt. Aber wir reden auch über was anderes.
+
+* Number of published episodes: 264
+* Last episode published: 🔴 Friday, 12 November 2021
+* [Freakshow Website](https://freakshow.fm/)
+* [Freakshow @ Apple Podcasts](https://podcasts.apple.com/de/podcast/277518737)
+* [Freakshow Podcast RSS](https://feeds.metaebene.me/freakshow/m4a)
 
 ----
 
