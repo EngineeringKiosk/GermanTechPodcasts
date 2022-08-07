@@ -6,6 +6,7 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
 
 * [Podcasts](#podcasts)
   * [Auslegungssache](#auslegungssache)
+  * [Binärgewitter](#binargewitter)
   * [Bit-Rauschen](#bit-rauschen)
   * [c&#39;t uplink](#ct-uplink)
   * [Click! Clack! Hack!](#click-clack-hack)
@@ -56,6 +57,22 @@ Sie möchten beim Thema Datenschutz auf dem Laufenden bleiben, aber keine seiten
 * [Auslegungssache @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1485860893)
 * [Auslegungssache Podcast RSS](https://ct-auslegungssache.podigee.io/feed/mp3)
 * Tags: Datenschutz
+
+----
+
+<h3 id="binargewitter">Binärgewitter</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/binaergewitter.png" />
+
+ein Podcast über Web, Entwicklung, Mobile und Technologie. Betrachtet aus der Sicht von Entwicklern bzw. Open Source Begeisterten. Das heißt aber nicht, dass wir alles mit einer Rosa-Roten Brille sehen. Wir suchen bei Apple und Microsoft genauso das Gute und Schlechte wie auch bei Linux und anderen Open Source Projekten. Wir wollen realistisch sein. Auch wenn wir damit anecken sollten.
+
+* Number of published episodes: 50
+* Last episode published: 🟢 Thursday, 04 August 2022
+* [Binärgewitter Website](http://blog.binaergewitter.de/)
+* [Binärgewitter @ Spotify](https://open.spotify.com/show/19LedqK0fGWfzfKzySDoVW)
+* [Binärgewitter @ Apple Podcasts](https://podcasts.apple.com/de/podcast/216877594)
+* [Binärgewitter Podcast RSS](http://feed.binaergewitter.de/binaergewitter_mp3.xml)
+* Tags: Open Source, Software Development, Web
 
 ----
 
