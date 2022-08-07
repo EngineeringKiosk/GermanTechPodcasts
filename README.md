@@ -4,7 +4,8 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (34 podcasts)
+* [Podcasts](#podcasts) (35 podcasts)
+  * [Apfelfunk](#apfelfunk)
   * [Auslegungssache](#auslegungssache)
   * [Binärgewitter](#binargewitter)
   * [Bit-Rauschen](#bit-rauschen)
@@ -45,6 +46,22 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
 
 ## Podcasts
 
+
+<h3 id="apfelfunk">Apfelfunk</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/apfelfunk.jpg" />
+
+Apfelfunk ist ein wöchentlicher Podcast über Apple-Themen. Jean-Claude Frick und Malte Kirchner berichten und bewerten darin die Neuigkeiten über den wichtigsten Computerkonzern der Welt.
+
+* Number of published episodes: 339
+* Last episode published: 🟢 Wednesday, 03 August 2022
+* [Apfelfunk Website](http://www.apfelfunk.com/)
+* [Apfelfunk @ Spotify](https://open.spotify.com/show/7FQLyWiNhMR0KS93ReaI4h)
+* [Apfelfunk @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1081146940)
+* [Apfelfunk Podcast RSS](https://feeds.soundcloud.com/users/soundcloud:users:201768667/sounds.rss)
+* Tags: Apple
+
+----
 
 <h3 id="auslegungssache">Auslegungssache</h3>
 

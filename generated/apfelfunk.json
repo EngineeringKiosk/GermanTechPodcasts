@@ -1,0 +1,20 @@
+{
+ "name": "Apfelfunk",
+ "slug": "apfelfunk",
+ "website": "http://www.apfelfunk.com/",
+ "podcastIndexID": 1048632,
+ "rssFeed": "https://feeds.soundcloud.com/users/soundcloud:users:201768667/sounds.rss",
+ "spotify": "https://open.spotify.com/show/7FQLyWiNhMR0KS93ReaI4h",
+ "description": "Apfelfunk ist ein wöchentlicher Podcast über Apple-Themen. Jean-Claude Frick und Malte Kirchner berichten und bewerten darin die Neuigkeiten über den wichtigsten Computerkonzern der Welt.",
+ "tags": [
+  "Apple"
+ ],
+ "weekly_downloads_avg": {
+  "value": 0,
+  "updated": ""
+ },
+ "episodeCount": 339,
+ "latestEpisodePublished": 1659561907,
+ "itunesID": 1081146940,
+ "image": "images/apfelfunk.jpg"
+}
