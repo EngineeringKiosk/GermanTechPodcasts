@@ -4,7 +4,7 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) ({{ len($podcast) }} podcasts)
+* [Podcasts](#podcasts) ({{ len $podcast }} podcasts)
   {{- range $podcast := . }}
   * [{{ $podcast.Name }}](#{{ $podcast.Slug }})
   {{- end }}
