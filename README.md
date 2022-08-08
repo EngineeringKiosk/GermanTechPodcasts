@@ -4,7 +4,7 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (38 podcasts)
+* [Podcasts](#podcasts) (39 podcasts)
   * [Apfelfunk](#apfelfunk)
   * [Auslegungssache](#auslegungssache)
   * [Binärgewitter](#binargewitter)
@@ -13,6 +13,7 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
   * [c&#39;t uplink](#ct-uplink)
   * [Chaosradio](#chaosradio)
   * [Click! Clack! Hack!](#click-clack-hack)
+  * [Code Culture](#code-culture)
   * [Codestammtisch](#codestammtisch)
   * [DevCouch](#devcouch)
   * [Engineering Kiosk](#engineering-kiosk)
@@ -171,6 +172,21 @@ Ein Podcast über den nahezu unendlich tiefen Kaninchenbau der mechanische Tasta
 * [Click! Clack! Hack! @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1551770169)
 * [Click! Clack! Hack! Podcast RSS](https://www.nerdbude.com/podcast/feed/feed.xml)
 * Tags: Hardware, Tastaturen
+
+----
+
+<h3 id="code-culture">Code Culture</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/code-culture.jpg" />
+
+Lucas Rott und Markus Herhoffer erzählen von Code und Nerd-Kultur.
+
+* Number of published episodes: 86
+* Last episode published: 🟢 Sunday, 24 July 2022
+* [Code Culture Website](https://codeculture.podigee.io/)
+* [Code Culture @ Spotify](https://open.spotify.com/show/01ZL2aPP50lLW51u2aTOkN?si=634b3a94fc844b0e)
+* [Code Culture @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1516904389)
+* [Code Culture Podcast RSS](https://codeculture.podigee.io/feed/mp3)
 
 ----
 
