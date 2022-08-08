@@ -4,7 +4,7 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (39 podcasts)
+* [Podcasts](#podcasts) (41 podcasts)
   * [Apfelfunk](#apfelfunk)
   * [Auslegungssache](#auslegungssache)
   * [Binärgewitter](#binargewitter)
@@ -22,9 +22,11 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
   * [Freakshow](#freakshow)
   * [GeekWeek](#geekweek)
   * [heise Developer: SoftwareArchitekTOUR](#heise-developer-softwarearchitektour)
+  * [INNOQ Podcast](#innoq-podcast)
   * [IT ist alles](#it-ist-alles)
   * [IT-Berufe Podcast](#it-berufe-podcast)
   * [IT@DB](#itatdb)
+  * [knowIT](#knowit)
   * [Kurz informiert by heise online](#kurz-informiert-by-heise-online)
   * [Logbuch: Netzpolitik](#logbuch-netzpolitik)
   * [Mac &amp; I](#mac-and-i)
@@ -313,6 +315,22 @@ Der Podcast für den praktizierenden Softwarearchitekten
 
 ----
 
+<h3 id="innoq-podcast">INNOQ Podcast</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/innoq-podcast.jpg" />
+
+In dieser Serie diskutieren wir interessante Themen aus Software-Entwicklung und -Architektur – immer mit dem Fokus auf Praxistauglichkeit.
+
+* Number of published episodes: 109
+* Last episode published: 🟢 Monday, 01 August 2022
+* [INNOQ Podcast Website](https://www.innoq.com/de/podcast/)
+* [INNOQ Podcast @ Spotify](https://open.spotify.com/show/20svL8wDDgtidO2Qwf3EWx?si=c91210785679436e)
+* [INNOQ Podcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/672695146)
+* [INNOQ Podcast Podcast RSS](https://innoq.podigee.io/feed/aac)
+* Tags: Software-Entwicklung, Software-Architektur
+
+----
+
 <h3 id="it-ist-alles">IT ist alles</h3>
 
 <img align="right" width="215" height="215" src="./generated/images/it-ist-alles.png" />
@@ -357,6 +375,21 @@ IT@DB ist ein Podcast für IT Fach- und Führungskräfte (w/m/d). Hier erhältst
 * [IT@DB @ Spotify](https://open.spotify.com/show/3uV0oOeigGJCAAQbXZ49Dv)
 * [IT@DB @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1462447493)
 * [IT@DB Podcast RSS](https://cqlshb.podcaster.de/it-at-db.rss)
+
+----
+
+<h3 id="knowit">knowIT</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/know-it.jpg" />
+
+know Information Technology (kurz knowIT) - in diesem Sinne behandelt der Podcast aktuelle und zukünftige Themen der Informatik, mit Blick auf die wissenschaftliche Relevanz und die praktische Anwendbarkeit. Wir, das sind Prof. Dr. Claudia Heß und Prof. Dr. Sibylle Kunz, greifen Themen auf die euch und uns interessieren und besprechen diese mit Expert:innen und interessanten Gästen.
+
+* Number of published episodes: 14
+* Last episode published: 🟢 Friday, 22 July 2022
+* [knowIT Website](https://inside.iu-fernstudium.de/knowit/)
+* [knowIT @ Spotify](https://open.spotify.com/show/3DPCT4FTVIhmllxyZ31Z3l?si=cfb32232c536414a)
+* [knowIT @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1564646449)
+* [knowIT Podcast RSS](https://anchor.fm/s/57935150/podcast/rss)
 
 ----
 

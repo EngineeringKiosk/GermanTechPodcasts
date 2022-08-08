@@ -1,0 +1,18 @@
+{
+ "name": "knowIT",
+ "slug": "knowit",
+ "website": "https://inside.iu-fernstudium.de/knowit/",
+ "podcastIndexID": 3748417,
+ "rssFeed": "https://anchor.fm/s/57935150/podcast/rss",
+ "spotify": "https://open.spotify.com/show/3DPCT4FTVIhmllxyZ31Z3l?si=cfb32232c536414a",
+ "description": "know Information Technology (kurz knowIT) - in diesem Sinne behandelt der Podcast aktuelle und zukünftige Themen der Informatik, mit Blick auf die wissenschaftliche Relevanz und die praktische Anwendbarkeit. Wir, das sind Prof. Dr. Claudia Heß und Prof. Dr. Sibylle Kunz, greifen Themen auf die euch und uns interessieren und besprechen diese mit Expert:innen und interessanten Gästen.",
+ "tags": null,
+ "weekly_downloads_avg": {
+  "value": 0,
+  "updated": ""
+ },
+ "episodeCount": 14,
+ "latestEpisodePublished": 1658493178,
+ "itunesID": 1564646449,
+ "image": "images/know-it.jpg"
+}
