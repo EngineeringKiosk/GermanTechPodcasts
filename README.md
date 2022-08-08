@@ -4,9 +4,10 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (43 podcasts)
+* [Podcasts](#podcasts) (44 podcasts)
   * [Apfelfunk](#apfelfunk)
   * [Auslegungssache](#auslegungssache)
+  * [Autoweird](#autoweird)
   * [Binärgewitter](#binargewitter)
   * [Bit-Rauschen](#bit-rauschen)
   * [Bits und so](#bits-und-so)
@@ -84,6 +85,21 @@ Sie möchten beim Thema Datenschutz auf dem Laufenden bleiben, aber keine seiten
 * [Auslegungssache @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1485860893)
 * [Auslegungssache Podcast RSS](https://ct-auslegungssache.podigee.io/feed/mp3)
 * Tags: Datenschutz
+
+----
+
+<h3 id="autoweird">Autoweird</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/autoweird.png" />
+
+@Autoweird.fm ist der regelmäßig erscheinende Podcast rund um die Themen Software Entwicklung, Agilität und Software Crafting.
+
+* Number of published episodes: 118
+* Last episode published: 🟡 Tuesday, 24 May 2022
+* [Autoweird Website](https://autoweird.fm/)
+* [Autoweird @ Spotify](https://open.spotify.com/show/6TDrYLHYxoo7VjvSglunew?si=5a668ec0ee144db2)
+* [Autoweird @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1180414602)
+* [Autoweird Podcast RSS](http://autoweird.fm/feed/podcast/)
 
 ----
 
