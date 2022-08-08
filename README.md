@@ -4,7 +4,7 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (42 podcasts)
+* [Podcasts](#podcasts) (43 podcasts)
   * [Apfelfunk](#apfelfunk)
   * [Auslegungssache](#auslegungssache)
   * [Binärgewitter](#binargewitter)
@@ -15,6 +15,7 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
   * [Click! Clack! Hack!](#click-clack-hack)
   * [Code Culture](#code-culture)
   * [Codestammtisch](#codestammtisch)
+  * [Computer und Kommunikation (Deutschlandfunk)](#computer-und-kommunikation-deutschlandfunk)
   * [DevCouch](#devcouch)
   * [DevCouch](#devcouch)
   * [Engineering Kiosk](#engineering-kiosk)
@@ -207,9 +208,25 @@ Zwei Softwareentwickler — Max und Nathan — unterhalten sich ein Getränk lan
 
 ----
 
+<h3 id="computer-und-kommunikation-deutschlandfunk">Computer und Kommunikation (Deutschlandfunk)</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/computer-und-kommunikation-deutschlandfunk.jpg" />
+
+Jeden Samstag das Neueste aus Computertechnik und Informationstechnologie. Beiträge, Reportagen und Interviews zu IT-Sicherheit, Informatik, Datenschutz, Smartphones, Cloud-Computing und IT-Politik. Die Trends der IT werden kompakt und informativ zusammengefasst.
+
+* Number of published episodes: 20
+* Last episode published: 🟢 Saturday, 06 August 2022
+* [Computer und Kommunikation (Deutschlandfunk) Website](https://www.deutschlandfunk.de/computer-und-kommunikation-102.html)
+* [Computer und Kommunikation (Deutschlandfunk) @ Spotify](https://open.spotify.com/episode/3G8QHJpZPeD40gJ3YkEQoP?si=7e3e754187514d57)
+* [Computer und Kommunikation (Deutschlandfunk) @ Apple Podcasts](https://podcasts.apple.com/de/podcast/173754605)
+* [Computer und Kommunikation (Deutschlandfunk) Podcast RSS](https://www.deutschlandfunk.de/computer-und-kommunikation-102.xml)
+* Tags: News
+
+----
+
 <h3 id="devcouch">DevCouch</h3>
 
-<img align="right" width="215" height="215" src="./generated/images/devcouch.jpg" />
+<img align="right" width="215" height="215" src="./generated/images/herzbergs-hoersaal.jpg" />
 
 Der Unterhaltungs-Podcast für .NET Entwickler
 
@@ -225,7 +242,7 @@ Der Unterhaltungs-Podcast für .NET Entwickler
 
 <h3 id="devcouch">DevCouch</h3>
 
-<img align="right" width="215" height="215" src="./generated/images/herzbergs-hoersaal.jpg" />
+<img align="right" width="215" height="215" src="./generated/images/devcouch.jpg" />
 
 Der Unterhaltungs-Podcast für .NET Entwickler
 

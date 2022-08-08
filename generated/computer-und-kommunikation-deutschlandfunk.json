@@ -1,0 +1,20 @@
+{
+ "name": "Computer und Kommunikation (Deutschlandfunk)",
+ "slug": "computer-und-kommunikation-deutschlandfunk",
+ "website": "https://www.deutschlandfunk.de/computer-und-kommunikation-102.html",
+ "podcastIndexID": 159703,
+ "rssFeed": "https://www.deutschlandfunk.de/computer-und-kommunikation-102.xml",
+ "spotify": "https://open.spotify.com/episode/3G8QHJpZPeD40gJ3YkEQoP?si=7e3e754187514d57",
+ "description": "Jeden Samstag das Neueste aus Computertechnik und Informationstechnologie. Beiträge, Reportagen und Interviews zu IT-Sicherheit, Informatik, Datenschutz, Smartphones, Cloud-Computing und IT-Politik. Die Trends der IT werden kompakt und informativ zusammengefasst.",
+ "tags": [
+  "News"
+ ],
+ "weekly_downloads_avg": {
+  "value": 0,
+  "updated": ""
+ },
+ "episodeCount": 20,
+ "latestEpisodePublished": 1659796216,
+ "itunesID": 173754605,
+ "image": "images/computer-und-kommunikation-deutschlandfunk.jpg"
+}
