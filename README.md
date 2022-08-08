@@ -4,7 +4,7 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (36 podcasts)
+* [Podcasts](#podcasts) (37 podcasts)
   * [Apfelfunk](#apfelfunk)
   * [Auslegungssache](#auslegungssache)
   * [Binärgewitter](#binargewitter)
@@ -37,6 +37,7 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
   * [Ready for Review](#ready-for-review)
   * [Speak 1337](#speak-1337)
   * [t3n](#t3n)
+  * [Techtiefen](#techtiefen)
   * [todo:cast](#todo-cast)
   * [Wartungsfenster](#wartungsfenster)
   * [Wo wir sind ist vorne](#wo-wir-sind-ist-vorne)
@@ -119,7 +120,7 @@ Prozessoren, Grafikkarten, Notebooks, Desktop-PCs, Server, KI, Rechenzentren und
 Die wöchentliche Talkrunde rund um Apple, Mac, iPod &#43; iPhone, Gadgets und so. Fast live aus München.
 
 * Number of published episodes: 10
-* Last episode published: 🟢 Monday, 01 August 2022
+* Last episode published: 🟢 Sunday, 07 August 2022
 * [Bits und so Website](http://www.bitsundso.de/)
 * [Bits und so @ Apple Podcasts](https://podcasts.apple.com/de/podcast/202753375)
 * [Bits und so Podcast RSS](http://www.bitsundso.de/feed/)
@@ -163,8 +164,8 @@ Im monatlichen Chaosradio informiert der Chaos Computer Club Berlin seit 1995 ü
 
 Ein Podcast über den nahezu unendlich tiefen Kaninchenbau der mechanische Tastaturen. Ich erzähle euch was es neues im Hobby der mechanical Keyboards gibt, Groupbuys, Interestchecks, Neue Keyboards, Keycaps und Switches und noch viel viel mehr....
 
-* Number of published episodes: 41
-* Last episode published: 🟢 Monday, 25 July 2022
+* Number of published episodes: 42
+* Last episode published: 🟢 Monday, 08 August 2022
 * [Click! Clack! Hack! Website](https://www.nerdbude.com/podcast/)
 * [Click! Clack! Hack! @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1551770169)
 * [Click! Clack! Hack! Podcast RSS](https://www.nerdbude.com/podcast/feed/feed.xml)
@@ -287,7 +288,7 @@ Nothing But Tech - Aus Deutschland, der Schweiz und den USA. geek-week.de berich
 Der Podcast für den praktizierenden Softwarearchitekten
 
 * Number of published episodes: 92
-* Last episode published: 🟢 Wednesday, 08 June 2022
+* Last episode published: 🟡 Wednesday, 08 June 2022
 * [heise Developer: SoftwareArchitekTOUR Website](https://www.heise.de/developer/SoftwareArchitekTOUR-4076349.html)
 * [heise Developer: SoftwareArchitekTOUR @ Spotify](https://open.spotify.com/show/2Uc7vL8U6kUZYSCOvDIJ67)
 * [heise Developer: SoftwareArchitekTOUR @ Apple Podcasts](https://podcasts.apple.com/de/podcast/313825047)
@@ -349,7 +350,7 @@ IT@DB ist ein Podcast für IT Fach- und Führungskräfte (w/m/d). Hier erhältst
 Die IT-News des Tages von heise online
 
 * Number of published episodes: 500
-* Last episode published: 🟢 Friday, 05 August 2022
+* Last episode published: 🟢 Monday, 08 August 2022
 * [Kurz informiert by heise online Website](http://www.heise.de/)
 * [Kurz informiert by heise online @ Spotify](https://open.spotify.com/show/2etf1jog8leNHbnhIArM9Z)
 * [Kurz informiert by heise online Podcast RSS](https://feeds.soundcloud.com/users/soundcloud:users:316654023/sounds.rss)
@@ -537,13 +538,30 @@ Ich bin Cedric und in diesem Podcast rede ich immer wieder mal über Informatik,
 
 Im t3n Podcast diskutiert die t3n-Redaktion mit prominenten Gästen über die spannendsten digitalen Themen unserer Zeit. Ob innovative Führungskonzepte, die Digitalisierung der Gesellschaft, smarte Gadgets, neue Mobilität oder Zukunftstechnologien. Das Update für digitale Pioniere – jede Woche neu!
 
-* Number of published episodes: 424
-* Last episode published: 🟢 Friday, 05 August 2022
+* Number of published episodes: 425
+* Last episode published: 🟢 Monday, 08 August 2022
 * [t3n Website](https://t3n.de/podcast/)
 * [t3n @ Spotify](https://open.spotify.com/show/7obTbZaywhQEiUUOMswQBQ)
 * [t3n @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1115601393)
 * [t3n Podcast RSS](https://t3n-podcast.podigee.io/feed/mp3)
 * Tags: News, Business
+
+----
+
+<h3 id="techtiefen">Techtiefen</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/techtiefen.jpg" />
+
+Ausführliche, häufig zeitlose Gespräche von Gastgeber Nico Kreiling mit wechselnden Gästen der IT-Welt zu deren Fach-Gebieten. Von Nerds, für Nerds!
+
+* Number of published episodes: 39
+* Last episode published: 🟢 Monday, 27 June 2022
+* Weekly downloads (avg): 900 (updated: 2022-08-01)
+* [Techtiefen Website](https://techtiefen.de/)
+* [Techtiefen @ Spotify](https://open.spotify.com/show/6hyfYJi5yvjWgcqOTtNzRo)
+* [Techtiefen @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1349481289)
+* [Techtiefen Podcast RSS](https://techtiefen.de//index.php/feed/mp3/)
+* Tags: Development, IT, Data Science, Machine Learning, Interviews
 
 ----
 
@@ -553,8 +571,8 @@ Im t3n Podcast diskutiert die t3n-Redaktion mit prominenten Gästen über die sp
 
 todo:cast ist ein deutschsprachiger Podcast für die großen und kleinen Fragen des Entwickler*innenalltags. Schon seit Langem tauschen sich Malte und Robin-Manuel in regelmäßigen Abständen über diverse Themen aus ihrem Alltag in der Softwareentwicklung aus. Dabei lernen sie jedes Mal etwas Neues! Warum also das Ganze nicht aufzeichnen und als Podcast zur Verfügung stellen?
 
-* Number of published episodes: 43
-* Last episode published: 🟢 Monday, 25 July 2022
+* Number of published episodes: 44
+* Last episode published: 🟢 Monday, 08 August 2022
 * [todo:cast Website](https://todocast.io/)
 * [todo:cast @ Spotify](https://open.spotify.com/show/2tIlVD6vBAtEhOZM4jS1mw)
 * [todo:cast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1467179396)
