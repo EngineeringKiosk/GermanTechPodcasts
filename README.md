@@ -4,7 +4,7 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (41 podcasts)
+* [Podcasts](#podcasts) (42 podcasts)
   * [Apfelfunk](#apfelfunk)
   * [Auslegungssache](#auslegungssache)
   * [Binärgewitter](#binargewitter)
@@ -15,6 +15,7 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
   * [Click! Clack! Hack!](#click-clack-hack)
   * [Code Culture](#code-culture)
   * [Codestammtisch](#codestammtisch)
+  * [DevCouch](#devcouch)
   * [DevCouch](#devcouch)
   * [Engineering Kiosk](#engineering-kiosk)
   * [FOCUS ON: DevOps](#focus-on-devops)
@@ -209,6 +210,22 @@ Zwei Softwareentwickler — Max und Nathan — unterhalten sich ein Getränk lan
 <h3 id="devcouch">DevCouch</h3>
 
 <img align="right" width="215" height="215" src="./generated/images/devcouch.jpg" />
+
+Der Unterhaltungs-Podcast für .NET Entwickler
+
+* Number of published episodes: 87
+* Last episode published: 🟢 Sunday, 07 August 2022
+* [DevCouch Website](https://devcouch.de/)
+* [DevCouch @ Spotify](https://open.spotify.com/show/0MfjnJ0I7SxJ89JIBWIcJJ)
+* [DevCouch @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1249563765)
+* [DevCouch Podcast RSS](https://devcouch.de/feed/mp4/)
+* Tags: .NET
+
+----
+
+<h3 id="devcouch">DevCouch</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/herzbergs-hoersaal.jpg" />
 
 Der Unterhaltungs-Podcast für .NET Entwickler
 

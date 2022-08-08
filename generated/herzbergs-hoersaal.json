@@ -1,0 +1,20 @@
+{
+ "name": "DevCouch",
+ "slug": "devcouch",
+ "website": "https://devcouch.de/",
+ "podcastIndexID": 8203,
+ "rssFeed": "https://devcouch.de/feed/mp4/",
+ "spotify": "https://open.spotify.com/show/0MfjnJ0I7SxJ89JIBWIcJJ",
+ "description": "Der Unterhaltungs-Podcast für .NET Entwickler",
+ "tags": [
+  ".NET"
+ ],
+ "weekly_downloads_avg": {
+  "value": 0,
+  "updated": ""
+ },
+ "episodeCount": 87,
+ "latestEpisodePublished": 1659869846,
+ "itunesID": 1249563765,
+ "image": "images/herzbergs-hoersaal.jpg"
+}
