@@ -4,7 +4,7 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (37 podcasts)
+* [Podcasts](#podcasts) (38 podcasts)
   * [Apfelfunk](#apfelfunk)
   * [Auslegungssache](#auslegungssache)
   * [Binärgewitter](#binargewitter)
@@ -35,6 +35,7 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
   * [Open Source in der Industrie](#open-source-in-der-industrie)
   * [programmier.bar](#programmier-bar)
   * [Ready for Review](#ready-for-review)
+  * [Request for Comments](#request-for-comments)
   * [Speak 1337](#speak-1337)
   * [t3n](#t3n)
   * [Techtiefen](#techtiefen)
@@ -512,6 +513,20 @@ Sandra Parsick &amp; Daniel Zenzes präsentieren mit Ready for Review einen bunt
 * [Ready for Review @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1535026156)
 * [Ready for Review Podcast RSS](https://ready-for-review.podigee.io/feed/mp3)
 * Tags: Software Development, Kochen, Klingel, Comics, IT Family Support, Filme, Brettspiele, Serien, Java, JavaScript
+
+----
+
+<h3 id="request-for-comments">Request for Comments</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/requests-for-comments.jpg" />
+
+RFC definieren das Internet. Nahezu jeder Informationsaustausch zwischen zwei Rechnern verläuft über Protokolle, die einmal durch einen Request for Comments definiert und standardisiert wurden. Genug Material, um darüber zu reden.
+
+* Number of published episodes: 20
+* Last episode published: 🔴 Monday, 18 May 2020
+* [Request for Comments Website](https://requestforcomments.de/)
+* [Request for Comments @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1082223939)
+* [Request for Comments Podcast RSS](https://requestforcomments.de/feed/m4a)
 
 ----
 

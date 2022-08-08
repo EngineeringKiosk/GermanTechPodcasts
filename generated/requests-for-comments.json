@@ -1,0 +1,18 @@
+{
+ "name": "Request for Comments",
+ "slug": "request-for-comments",
+ "website": "https://requestforcomments.de/",
+ "podcastIndexID": 217565,
+ "rssFeed": "https://requestforcomments.de/feed/m4a",
+ "spotify": "",
+ "description": "RFC definieren das Internet. Nahezu jeder Informationsaustausch zwischen zwei Rechnern verläuft über Protokolle, die einmal durch einen Request for Comments definiert und standardisiert wurden. Genug Material, um darüber zu reden.",
+ "tags": null,
+ "weekly_downloads_avg": {
+  "value": 0,
+  "updated": ""
+ },
+ "episodeCount": 20,
+ "latestEpisodePublished": 1589796350,
+ "itunesID": 1082223939,
+ "image": "images/requests-for-comments.jpg"
+}
