@@ -243,22 +243,6 @@ Jeden Samstag das Neueste aus Computertechnik und Informationstechnologie. Beitr
 
 <h3 id="devcouch">DevCouch</h3>
 
-<img align="right" width="215" height="215" src="./generated/images/devcouch.jpg" />
-
-Der Unterhaltungs-Podcast für .NET Entwickler
-
-* Number of published episodes: 87
-* Last episode published: 🟢 Sunday, 07 August 2022
-* [DevCouch Website](https://devcouch.de/)
-* [DevCouch @ Spotify](https://open.spotify.com/show/0MfjnJ0I7SxJ89JIBWIcJJ)
-* [DevCouch @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1249563765)
-* [DevCouch Podcast RSS](https://devcouch.de/feed/mp4/)
-* Tags: .NET
-
-----
-
-<h3 id="devcouch">DevCouch</h3>
-
 <img align="right" width="215" height="215" src="./generated/images/herzbergs-hoersaal.jpg" />
 
 Der Unterhaltungs-Podcast für .NET Entwickler
