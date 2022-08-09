@@ -359,7 +359,7 @@ Dieser Podcast ist ein Hörsaal für die Ohren meiner Studierenden an der THM un
 * Number of published episodes: 98
 * Last episode published: 🟢 Wednesday, 20 July 2022
 * [Herzbergs Hörsaal Website](https://www.thm.de/site/hochschule/service/schulportal/lehrerinnen-und-lehrer/studieren-probieren/podcast-herzbergs-hoersaal.html)
-* [Herzbergs Hörsaal @ Spotify](hhttps://open.spotify.com/show/5FDlXkn4fnAgp2ucaT7hL6?si=58a125e167084ed8)
+* [Herzbergs Hörsaal @ Spotify](https://open.spotify.com/show/5FDlXkn4fnAgp2ucaT7hL6)
 * [Herzbergs Hörsaal @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1510742953)
 * [Herzbergs Hörsaal Podcast RSS](https://anchor.fm/s/ba9c0bc/podcast/rss)
 * Tags: Bildung
