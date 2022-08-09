@@ -18,13 +18,13 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
   * [Codestammtisch](#codestammtisch)
   * [Computer und Kommunikation (Deutschlandfunk)](#computer-und-kommunikation-deutschlandfunk)
   * [DevCouch](#devcouch)
-  * [DevCouch](#devcouch)
   * [Engineering Kiosk](#engineering-kiosk)
   * [FOCUS ON: DevOps](#focus-on-devops)
   * [FOCUS ON: Linux](#focus-on-linux)
   * [Freakshow](#freakshow)
   * [GeekWeek](#geekweek)
   * [heise Developer: SoftwareArchitekTOUR](#heise-developer-softwarearchitektour)
+  * [Herzbergs Hörsaal](#herzbergs-horsaal)
   * [INNOQ Podcast](#innoq-podcast)
   * [IT ist alles](#it-ist-alles)
   * [IT-Berufe Podcast](#it-berufe-podcast)
@@ -257,22 +257,6 @@ Der Unterhaltungs-Podcast für .NET Entwickler
 
 ----
 
-<h3 id="devcouch">DevCouch</h3>
-
-<img align="right" width="215" height="215" src="./generated/images/herzbergs-hoersaal.jpg" />
-
-Der Unterhaltungs-Podcast für .NET Entwickler
-
-* Number of published episodes: 87
-* Last episode published: 🟢 Sunday, 07 August 2022
-* [DevCouch Website](https://devcouch.de/)
-* [DevCouch @ Spotify](https://open.spotify.com/show/0MfjnJ0I7SxJ89JIBWIcJJ)
-* [DevCouch @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1249563765)
-* [DevCouch Podcast RSS](https://devcouch.de/feed/mp4/)
-* Tags: .NET
-
-----
-
 <h3 id="engineering-kiosk">Engineering Kiosk</h3>
 
 <img align="right" width="215" height="215" src="./generated/images/engineering-kiosk.jpg" />
@@ -363,6 +347,22 @@ Der Podcast für den praktizierenden Softwarearchitekten
 * [heise Developer: SoftwareArchitekTOUR @ Spotify](https://open.spotify.com/show/2Uc7vL8U6kUZYSCOvDIJ67)
 * [heise Developer: SoftwareArchitekTOUR @ Apple Podcasts](https://podcasts.apple.com/de/podcast/313825047)
 * [heise Developer: SoftwareArchitekTOUR Podcast RSS](https://softwarearchitektour.podigee.io/feed/mp3)
+
+----
+
+<h3 id="herzbergs-horsaal">Herzbergs Hörsaal</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/herzbergs-hoersaal.jpg" />
+
+Dieser Podcast ist ein Hörsaal für die Ohren meiner Studierenden an der THM und alle Interessierten. Die Themen sind u.a.: Grundlagen der Informatik (GDI), Objekt-Orientierte Programmierung (OOP/Java), Programmierung interaktiver Systeme (PiS), Quantencomputing (QC), Wissenschaftliches Arbeiten (in der Informatik) (WA bzw. WAI), Bits und Bäume: Digitalisierung nachhaltig gestalten (BuB).
+
+* Number of published episodes: 98
+* Last episode published: 🟢 Wednesday, 20 July 2022
+* [Herzbergs Hörsaal Website](https://www.thm.de/site/hochschule/service/schulportal/lehrerinnen-und-lehrer/studieren-probieren/podcast-herzbergs-hoersaal.html)
+* [Herzbergs Hörsaal @ Spotify](hhttps://open.spotify.com/show/5FDlXkn4fnAgp2ucaT7hL6?si=58a125e167084ed8)
+* [Herzbergs Hörsaal @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1510742953)
+* [Herzbergs Hörsaal Podcast RSS](https://anchor.fm/s/ba9c0bc/podcast/rss)
+* Tags: Bildung
 
 ----
 
