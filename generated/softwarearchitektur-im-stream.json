@@ -1,0 +1,22 @@
+{
+ "name": "SoftwareArchitektur im Stream",
+ "slug": "softwarearchitektur-im-stream",
+ "website": "https://software-architektur.tv/",
+ "podcastIndexID": 3090375,
+ "rssFeed": "https://1evriw.podcaster.de/software-architektur-im-stream.rss",
+ "spotify": "https://open.spotify.com/show/7ySg1eZoWYBshd6QpGaW8B",
+ "description": "Live-Diskussion zu Software-Architektur im Stream. Einmal in der Woche diskutiert Eberhard Wolff Software-Architektur im Live-Stream auf YouTube und Twitch - oft zusammen mit einem Gast. Zuschauer können über den Chat mitdiskutieren oder Fragen stellen. Der Podcast enthält die Audio-Spur des Streams.",
+ "tags": [
+  "Bildung",
+  "How To",
+  "Technologie"
+ ],
+ "weekly_downloads_avg": {
+  "value": 0,
+  "updated": ""
+ },
+ "episodeCount": 127,
+ "latestEpisodePublished": 1659702180,
+ "itunesID": 1538545458,
+ "image": "images/softwarearchitektur-im-stream.jpg"
+}

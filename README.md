@@ -4,7 +4,7 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (44 podcasts)
+* [Podcasts](#podcasts) (45 podcasts)
   * [Apfelfunk](#apfelfunk)
   * [Auslegungssache](#auslegungssache)
   * [Autoweird](#autoweird)
@@ -42,6 +42,7 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
   * [programmier.bar](#programmier-bar)
   * [Ready for Review](#ready-for-review)
   * [Request for Comments](#request-for-comments)
+  * [SoftwareArchitektur im Stream](#softwarearchitektur-im-stream)
   * [Speak 1337](#speak-1337)
   * [t3n](#t3n)
   * [Techtiefen](#techtiefen)
@@ -242,7 +243,7 @@ Jeden Samstag das Neueste aus Computertechnik und Informationstechnologie. Beitr
 
 <h3 id="devcouch">DevCouch</h3>
 
-<img align="right" width="215" height="215" src="./generated/images/herzbergs-hoersaal.jpg" />
+<img align="right" width="215" height="215" src="./generated/images/devcouch.jpg" />
 
 Der Unterhaltungs-Podcast für .NET Entwickler
 
@@ -258,7 +259,7 @@ Der Unterhaltungs-Podcast für .NET Entwickler
 
 <h3 id="devcouch">DevCouch</h3>
 
-<img align="right" width="215" height="215" src="./generated/images/devcouch.jpg" />
+<img align="right" width="215" height="215" src="./generated/images/herzbergs-hoersaal.jpg" />
 
 Der Unterhaltungs-Podcast für .NET Entwickler
 
@@ -278,8 +279,8 @@ Der Unterhaltungs-Podcast für .NET Entwickler
 
 Der Engineering Kiosk ist der deutschsprachige Software-Engineering-Podcast mit Wolfgang Gassler und Andy Grunwald rund um die Themen Engineering-Kultur, Open Source, Menschen, Technologie und allen anderen Bereichen, die damit in Verbindung stehen.
 
-* Number of published episodes: 31
-* Last episode published: 🟢 Tuesday, 02 August 2022
+* Number of published episodes: 32
+* Last episode published: 🟢 Tuesday, 09 August 2022
 * Weekly downloads (avg): 473 (updated: 2022-07-25)
 * [Engineering Kiosk Website](https://engineeringkiosk.dev/)
 * [Engineering Kiosk @ Spotify](https://open.spotify.com/show/0tJRC0UsObPCWLmmzmOkIs)
@@ -626,6 +627,22 @@ RFC definieren das Internet. Nahezu jeder Informationsaustausch zwischen zwei Re
 * [Request for Comments Website](https://requestforcomments.de/)
 * [Request for Comments @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1082223939)
 * [Request for Comments Podcast RSS](https://requestforcomments.de/feed/m4a)
+
+----
+
+<h3 id="softwarearchitektur-im-stream">SoftwareArchitektur im Stream</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/softwarearchitektur-im-stream.jpg" />
+
+Live-Diskussion zu Software-Architektur im Stream. Einmal in der Woche diskutiert Eberhard Wolff Software-Architektur im Live-Stream auf YouTube und Twitch - oft zusammen mit einem Gast. Zuschauer können über den Chat mitdiskutieren oder Fragen stellen. Der Podcast enthält die Audio-Spur des Streams.
+
+* Number of published episodes: 127
+* Last episode published: 🟢 Friday, 05 August 2022
+* [SoftwareArchitektur im Stream Website](https://software-architektur.tv/)
+* [SoftwareArchitektur im Stream @ Spotify](https://open.spotify.com/show/7ySg1eZoWYBshd6QpGaW8B)
+* [SoftwareArchitektur im Stream @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1538545458)
+* [SoftwareArchitektur im Stream Podcast RSS](https://1evriw.podcaster.de/software-architektur-im-stream.rss)
+* Tags: Bildung, How To, Technologie
 
 ----
 
