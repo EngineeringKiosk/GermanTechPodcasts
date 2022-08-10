@@ -4,7 +4,7 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (45 podcasts)
+* [Podcasts](#podcasts) (46 podcasts)
   * [Apfelfunk](#apfelfunk)
   * [Auslegungssache](#auslegungssache)
   * [Autoweird](#autoweird)
@@ -42,6 +42,7 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
   * [programmier.bar](#programmier-bar)
   * [Ready for Review](#ready-for-review)
   * [Request for Comments](#request-for-comments)
+  * [Schwarz, Code, Gold – Deutschland, Entwicklungsland?](#schwarz-code-gold-deutschland-entwicklungsland)
   * [SoftwareArchitektur im Stream](#softwarearchitektur-im-stream)
   * [Speak 1337](#speak-1337)
   * [t3n](#t3n)
@@ -451,7 +452,7 @@ know Information Technology (kurz knowIT) - in diesem Sinne behandelt der Podcas
 Die IT-News des Tages von heise online
 
 * Number of published episodes: 500
-* Last episode published: 🟢 Tuesday, 09 August 2022
+* Last episode published: 🟢 Wednesday, 10 August 2022
 * [Kurz informiert by heise online Website](http://www.heise.de/)
 * [Kurz informiert by heise online @ Spotify](https://open.spotify.com/show/2etf1jog8leNHbnhIArM9Z)
 * [Kurz informiert by heise online Podcast RSS](https://feeds.soundcloud.com/users/soundcloud:users:316654023/sounds.rss)
@@ -627,6 +628,22 @@ RFC definieren das Internet. Nahezu jeder Informationsaustausch zwischen zwei Re
 * [Request for Comments Website](https://requestforcomments.de/)
 * [Request for Comments @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1082223939)
 * [Request for Comments Podcast RSS](https://requestforcomments.de/feed/m4a)
+
+----
+
+<h3 id="schwarz-code-gold-deutschland-entwicklungsland">Schwarz, Code, Gold – Deutschland, Entwicklungsland?</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/schwarz-code-gold-deutschland-entwicklungsland.jpeg" />
+
+Digitalisierung in Deutschland? Sagen wir mal so: Niemand klebt sich heute das Qualitätssiegel „Made in Germany“ stolz auf den Laptop-Deckel. Als IT-Standort sind wir zurecht digitales Schlusslicht in Europa. Aber, halt, Moment! Das wollen wir so nicht akzeptieren! Wir suchen jenseits vergeigter IT-Projekte, knapp vorbei an der Breitband-Wüste und mittendrin im LTE-Flickenteppich auf die Antwort nach einer zentralen Frage: Ist Deutschland ein Software-Entwicklungsland?
+
+* Number of published episodes: 10
+* Last episode published: 🟢 Monday, 04 July 2022
+* [Schwarz, Code, Gold – Deutschland, Entwicklungsland? Website](https://www.brandad-systems.de/podcast-schwarz-code-gold-deutschland-entwicklungsland)
+* [Schwarz, Code, Gold – Deutschland, Entwicklungsland? @ Spotify](https://open.spotify.com/show/5hXUx2Y3sbCL9O5xPdE8i6)
+* [Schwarz, Code, Gold – Deutschland, Entwicklungsland? @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1597296417)
+* [Schwarz, Code, Gold – Deutschland, Entwicklungsland? Podcast RSS](https://feed.schwarz-code-gold.de)
+* Tags: Softwarentwicklung, Made in Germany, Computerspiele, Digtalisierung, E-Health, Startups
 
 ----
 
