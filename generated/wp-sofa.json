@@ -1,0 +1,20 @@
+{
+ "name": "WP Sofa",
+ "slug": "wp-sofa",
+ "website": "https://wp-sofa.de/",
+ "podcastIndexID": 1604351,
+ "rssFeed": "https://wp-sofa.de/feed/mp3/",
+ "spotify": "https://open.spotify.com/show/5deyJkxMw1cAMKGxnrx5wO",
+ "description": "Wir berichten zweiwöchentlich über News und Updates aus dem WordPress Universum.",
+ "tags": [
+  "Wordpress"
+ ],
+ "weekly_downloads_avg": {
+  "value": 0,
+  "updated": ""
+ },
+ "episodeCount": 161,
+ "latestEpisodePublished": 1658563200,
+ "itunesID": 0,
+ "image": "images/wp-sofa.png"
+}
