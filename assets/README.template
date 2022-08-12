@@ -51,7 +51,7 @@ If you want to
 
 ### Why is this repository in English?
 
-... but it has mainly german content?
+... but it has mainly German content?
 
 Tricky question and both languages (German or English) would be feasible candidates for this repository's primary language.
 Eventually, we decided to do a split:
@@ -60,10 +60,11 @@ Eventually, we decided to do a split:
 
 On GitHub, the primary language is English.
 Mainly because the engineering community primarily communicates in English (yeah, there are also a lot of Chinese repositories).
-Hence we went for English in the GitHub version because this repository contains software written/commented in English.
-This leads to a language mix in the README.md because the titles and descriptions of the podcasts are german.
-I think this is the tradeoff for our decision here.
+For all German speaking people, we also did an episode and talked about this topic why [https://engineeringkiosk.dev/podcast/episode/26-my-english-is-not-the-yellow-from-the-egg-arbeiten-in-internationalen-teams/](English is an important language in software engineering).
+Hence, we went for English in the GitHub version because this repository contains software written/commented in English.
+This leads to a language mix in the README.md because the titles and descriptions of the podcasts are German.
+This is a tradeoff we took, at least for now.
 
 ### On the website: German
 
-We have a german version available on the [Engineering Kiosk website](https://engineeringkiosk.dev/deutsche-tech-podcasts/) because the complete website is german.
+We have a German version available on the [Engineering Kiosk website](https://engineeringkiosk.dev/deutsche-tech-podcasts/) because the whole website is German.
