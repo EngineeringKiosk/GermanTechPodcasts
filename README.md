@@ -836,9 +836,10 @@ Eventually, we decided to do a split:
 
 On GitHub, the primary language is English.
 Mainly because the engineering community primarily communicates in English (yeah, there are also a lot of Chinese repositories).
-For all German speaking people, we also did an episode and talked about this topic why [English is an important language in software engineering](https://engineeringkiosk.dev/podcast/episode/26-my-english-is-not-the-yellow-from-the-egg-arbeiten-in-internationalen-teams/).
+For all German speaking people, we also did an episode and talked about this topic why
+[English is an important language in software engineering](https://engineeringkiosk.dev/podcast/episode/26-my-english-is-not-the-yellow-from-the-egg-arbeiten-in-internationalen-teams/).
 Hence, we went for English in the GitHub version because this repository contains software written/commented in English.
-This leads to a language mix in the `README.md` because the titles and descriptions of the podcasts are German.
+This leads to a language mix in the README.md because the titles and descriptions of the podcasts are German.
 This is a tradeoff we took, at least for now.
 
 ### On the website: German
