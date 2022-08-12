@@ -4,7 +4,7 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (47 podcasts)
+* [Podcasts](#podcasts) (48 podcasts)
   * [Apfelfunk](#apfelfunk)
   * [Auslegungssache](#auslegungssache)
   * [Autoweird](#autoweird)
@@ -31,6 +31,7 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
   * [IT@DB](#itatdb)
   * [knowIT](#knowit)
   * [Kurz informiert by heise online](#kurz-informiert-by-heise-online)
+  * [Logbuch Digitalien](#logbuch-digitalien)
   * [Logbuch: Netzpolitik](#logbuch-netzpolitik)
   * [Mac &amp; I](#mac-and-i)
   * [Macht der Craft](#macht-der-craft)
@@ -458,6 +459,22 @@ Die IT-News des Tages von heise online
 * [Kurz informiert by heise online @ Spotify](https://open.spotify.com/show/2etf1jog8leNHbnhIArM9Z)
 * [Kurz informiert by heise online Podcast RSS](https://feeds.soundcloud.com/users/soundcloud:users:316654023/sounds.rss)
 * Tags: News, Business
+
+----
+
+<h3 id="logbuch-digitalien">Logbuch Digitalien</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/logbuch-digitalien.jpg" />
+
+Der Podcast über unsere digitale Lebens- und Arbeitswelt mit Markus Hörster und Christian Cordes. Alle vier Wochen dienstags um 19.00 Uhr im Radio auf Radio Okerwelle (UKW 104,6 in der Region Braunschweig) und nach der Ausstrahlung als Podcast. Wir beschäftigen uns mit allen Themen, die etwas mit Digitalien zu tun haben.
+
+* Number of published episodes: 67
+* Last episode published: 🟢 Sunday, 31 July 2022
+* [Logbuch Digitalien Website](https://www.logbuch-digitalien.de/)
+* [Logbuch Digitalien @ Spotify](https://open.spotify.com/show/5HxbvAOx6qOMOXbtulHji1)
+* [Logbuch Digitalien @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1240755398)
+* [Logbuch Digitalien Podcast RSS](https://www.logbuch-digitalien.de/feed/podcast/)
+* Tags: News, Digitalisierung
 
 ----
 
