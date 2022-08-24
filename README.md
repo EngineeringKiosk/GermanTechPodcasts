@@ -67,8 +67,8 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
 
 Apfelfunk ist ein wöchentlicher Podcast über Apple-Themen. Jean-Claude Frick und Malte Kirchner berichten und bewerten darin die Neuigkeiten über den wichtigsten Computerkonzern der Welt.
 
-* Number of published episodes: 340
-* Last episode published: 🟢 Wednesday, 10 August 2022
+* Number of published episodes: 341
+* Last episode published: 🟢 Wednesday, 17 August 2022
 * [Apfelfunk Website](http://www.apfelfunk.com/)
 * [Apfelfunk @ Spotify](https://open.spotify.com/show/7FQLyWiNhMR0KS93ReaI4h)
 * [Apfelfunk @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1081146940)
@@ -130,8 +130,8 @@ ein Podcast über Web, Entwicklung, Mobile und Technologie. Betrachtet aus der S
 
 Prozessoren, Grafikkarten, Notebooks, Desktop-PCs, Server, KI, Rechenzentren und IT-Markt: In &#34;Bit-Rauschen&#34;, dem Prozessor-Podcast des Computermagazins c’t, dreht sich alles um Chips.
 
-* Number of published episodes: 42
-* Last episode published: 🟢 Wednesday, 03 August 2022
+* Number of published episodes: 43
+* Last episode published: 🟢 Wednesday, 17 August 2022
 * [Bit-Rauschen Website](https://www.ct.de/bit-rauschen)
 * [Bit-Rauschen @ Spotify](https://open.spotify.com/show/6JD6gwqgVR27GYZACrWOT1)
 * [Bit-Rauschen @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1549821753)
@@ -147,7 +147,7 @@ Prozessoren, Grafikkarten, Notebooks, Desktop-PCs, Server, KI, Rechenzentren und
 Die wöchentliche Talkrunde rund um Apple, Mac, iPod &#43; iPhone, Gadgets und so. Fast live aus München.
 
 * Number of published episodes: 10
-* Last episode published: 🟢 Sunday, 14 August 2022
+* Last episode published: 🟢 Sunday, 21 August 2022
 * [Bits und so Website](http://www.bitsundso.de/)
 * [Bits und so @ Apple Podcasts](https://podcasts.apple.com/de/podcast/202753375)
 * [Bits und so Podcast RSS](http://www.bitsundso.de/feed/)
@@ -161,8 +161,8 @@ Die wöchentliche Talkrunde rund um Apple, Mac, iPod &#43; iPhone, Gadgets und s
 
 Mitglieder der c&#39;t-Redaktion diskutieren über die aktuellen Themen aus dem c’t Magazin und was sonst noch so in der IT-Welt passiert.
 
-* Number of published episodes: 447
-* Last episode published: 🟢 Saturday, 13 August 2022
+* Number of published episodes: 448
+* Last episode published: 🟢 Saturday, 20 August 2022
 * [c&#39;t uplink Website](https://www.heise.de/ct/entdecken/?hauptrubrik=%40ctmagazin&amp;unterrubrik=c%27t&#43;uplink)
 * [c&#39;t uplink @ Spotify](https://open.spotify.com/show/4LdN7lGr9winLtQSqoIjVD)
 * [c&#39;t uplink @ Apple Podcasts](https://podcasts.apple.com/de/podcast/835717958)
@@ -191,8 +191,8 @@ Im monatlichen Chaosradio informiert der Chaos Computer Club Berlin seit 1995 ü
 
 Ein Podcast über den nahezu unendlich tiefen Kaninchenbau der mechanische Tastaturen. Ich erzähle euch was es neues im Hobby der mechanical Keyboards gibt, Groupbuys, Interestchecks, Neue Keyboards, Keycaps und Switches und noch viel viel mehr....
 
-* Number of published episodes: 42
-* Last episode published: 🟢 Monday, 08 August 2022
+* Number of published episodes: 43
+* Last episode published: 🟢 Monday, 22 August 2022
 * [Click! Clack! Hack! Website](https://www.nerdbude.com/podcast/)
 * [Click! Clack! Hack! @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1551770169)
 * [Click! Clack! Hack! Podcast RSS](https://www.nerdbude.com/podcast/feed/feed.xml)
@@ -236,7 +236,7 @@ Zwei Softwareentwickler — Max und Nathan — unterhalten sich ein Getränk lan
 Jeden Samstag das Neueste aus Computertechnik und Informationstechnologie. Beiträge, Reportagen und Interviews zu IT-Sicherheit, Informatik, Datenschutz, Smartphones, Cloud-Computing und IT-Politik. Die Trends der IT werden kompakt und informativ zusammengefasst.
 
 * Number of published episodes: 20
-* Last episode published: 🟢 Saturday, 13 August 2022
+* Last episode published: 🟢 Saturday, 20 August 2022
 * [Computer und Kommunikation (Deutschlandfunk) Website](https://www.deutschlandfunk.de/computer-und-kommunikation-102.html)
 * [Computer und Kommunikation (Deutschlandfunk) @ Spotify](https://open.spotify.com/episode/3G8QHJpZPeD40gJ3YkEQoP?si=7e3e754187514d57)
 * [Computer und Kommunikation (Deutschlandfunk) @ Apple Podcasts](https://podcasts.apple.com/de/podcast/173754605)
@@ -267,8 +267,8 @@ Der Unterhaltungs-Podcast für .NET Entwickler
 
 Der Engineering Kiosk ist der deutschsprachige Software-Engineering-Podcast mit Wolfgang Gassler und Andy Grunwald rund um die Themen Engineering-Kultur, Open Source, Menschen, Technologie und allen anderen Bereichen, die damit in Verbindung stehen.
 
-* Number of published episodes: 33
-* Last episode published: 🟢 Tuesday, 16 August 2022
+* Number of published episodes: 34
+* Last episode published: 🟢 Tuesday, 23 August 2022
 * Weekly downloads (avg): 473 (updated: 2022-07-25)
 * [Engineering Kiosk Website](https://engineeringkiosk.dev/)
 * [Engineering Kiosk @ Spotify](https://open.spotify.com/show/0tJRC0UsObPCWLmmzmOkIs)
@@ -376,8 +376,8 @@ Dieser Podcast ist ein Hörsaal für die Ohren meiner Studierenden an der THM un
 
 In dieser Serie diskutieren wir interessante Themen aus Software-Entwicklung und -Architektur – immer mit dem Fokus auf Praxistauglichkeit.
 
-* Number of published episodes: 109
-* Last episode published: 🟢 Monday, 01 August 2022
+* Number of published episodes: 110
+* Last episode published: 🟢 Monday, 22 August 2022
 * [INNOQ Podcast Website](https://www.innoq.com/de/podcast/)
 * [INNOQ Podcast @ Spotify](https://open.spotify.com/show/20svL8wDDgtidO2Qwf3EWx?si=c91210785679436e)
 * [INNOQ Podcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/672695146)
@@ -455,7 +455,7 @@ know Information Technology (kurz knowIT) - in diesem Sinne behandelt der Podcas
 Die IT-News des Tages von heise online
 
 * Number of published episodes: 500
-* Last episode published: 🟢 Tuesday, 16 August 2022
+* Last episode published: 🟢 Tuesday, 23 August 2022
 * [Kurz informiert by heise online Website](http://www.heise.de/)
 * [Kurz informiert by heise online @ Spotify](https://open.spotify.com/show/2etf1jog8leNHbnhIArM9Z)
 * [Kurz informiert by heise online Podcast RSS](https://feeds.soundcloud.com/users/soundcloud:users:316654023/sounds.rss)
@@ -485,8 +485,8 @@ Der Podcast über unsere digitale Lebens- und Arbeitswelt mit Markus Hörster un
 
 Logbuch:Netzpolitik ist ein in der Regel wöchentlich erscheinender Podcast, der im Dialog zwischen Linus Neumann und Tim Pritlove die wichtigsten Themen und Ereignisse mit netzpolitischem Bezug aufgreift und diskutiert.
 
-* Number of published episodes: 438
-* Last episode published: 🟢 Thursday, 14 July 2022
+* Number of published episodes: 439
+* Last episode published: 🟢 Tuesday, 23 August 2022
 * [Logbuch: Netzpolitik Website](https://logbuch-netzpolitik.de/)
 * [Logbuch: Netzpolitik @ Apple Podcasts](https://podcasts.apple.com/de/podcast/476856034)
 * [Logbuch: Netzpolitik Podcast RSS](https://feeds.metaebene.me/lnp/m4a)
@@ -563,8 +563,8 @@ Wir thematisieren die wichtigen Fragestellungen rund um Internet, Gesellschaft u
 
 Mehr Wissen über die digitale Welt. Experten des Hasso-Plattner-Instituts sprechen verständlich über digitale Entwicklungen und Trends, über Chancen und Risiken der Digitalisierung. Jede Sendung widmet sich einem gesellschaftlich relevanten Thema: Von der Macht der Künstlichen Intelligenz über die Blockchain bis zu Hetze in den sozialen Medien.
 
-* Number of published episodes: 59
-* Last episode published: 🟢 Wednesday, 20 July 2022
+* Number of published episodes: 60
+* Last episode published: 🟢 Tuesday, 16 August 2022
 * [Neuland Website](https://podcast.hpi.de/)
 * [Neuland @ Spotify](https://open.spotify.com/show/0kd8vXJDv3sN7VMtcLRsH9)
 * [Neuland @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1448992875)
@@ -625,8 +625,8 @@ Mit geballter Dev-Power nehmen Dennis, Fabi, Sebi und Jojo neue Podcastfolgen au
 
 Sandra Parsick &amp; Daniel Zenzes präsentieren mit Ready for Review einen bunten Mix aus aktuellen IT-Themen und ihrem täglichen Entwickler-Alltag.
 
-* Number of published episodes: 29
-* Last episode published: 🟢 Wednesday, 03 August 2022
+* Number of published episodes: 30
+* Last episode published: 🟢 Sunday, 21 August 2022
 * Weekly downloads (avg): 66 (updated: 2022-07-29)
 * [Ready for Review Website](https://ready-for-review.dev/)
 * [Ready for Review @ Spotify](https://open.spotify.com/show/7dxK2wi4ZMGEYO3UHhTSc4)
@@ -688,8 +688,8 @@ Live-Diskussion zu Software-Architektur im Stream. Einmal in der Woche diskutier
 
 Ich bin Cedric und in diesem Podcast rede ich immer wieder mal über Informatik, Datenschutz, Sicherheit und alles erwähnenswerte. Mit dabei sind immer wieder sehr bekannte und engagierte Menschen, die Experte auf ihrem Gebiet sind.
 
-* Number of published episodes: 28
-* Last episode published: 🟢 Friday, 24 June 2022
+* Number of published episodes: 29
+* Last episode published: 🟢 Thursday, 18 August 2022
 * Weekly downloads (avg): 180 (updated: 2022-08-01)
 * [Speak 1337 Website](https://the-morpheus.de/)
 * [Speak 1337 @ Spotify](https://open.spotify.com/show/0xlIih789FcMbZaASyhuAm)
@@ -705,8 +705,8 @@ Ich bin Cedric und in diesem Podcast rede ich immer wieder mal über Informatik,
 
 Im t3n Podcast diskutiert die t3n-Redaktion mit prominenten Gästen über die spannendsten digitalen Themen unserer Zeit. Ob innovative Führungskonzepte, die Digitalisierung der Gesellschaft, smarte Gadgets, neue Mobilität oder Zukunftstechnologien. Das Update für digitale Pioniere – jede Woche neu!
 
-* Number of published episodes: 427
-* Last episode published: 🟢 Monday, 15 August 2022
+* Number of published episodes: 429
+* Last episode published: 🟢 Monday, 22 August 2022
 * [t3n Website](https://t3n.de/podcast/)
 * [t3n @ Spotify](https://open.spotify.com/show/7obTbZaywhQEiUUOMswQBQ)
 * [t3n @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1115601393)
@@ -738,8 +738,8 @@ Ausführliche, häufig zeitlose Gespräche von Gastgeber Nico Kreiling mit wechs
 
 todo:cast ist ein deutschsprachiger Podcast für die großen und kleinen Fragen des Entwickler*innenalltags. Schon seit Langem tauschen sich Malte und Robin-Manuel in regelmäßigen Abständen über diverse Themen aus ihrem Alltag in der Softwareentwicklung aus. Dabei lernen sie jedes Mal etwas Neues! Warum also das Ganze nicht aufzeichnen und als Podcast zur Verfügung stellen?
 
-* Number of published episodes: 44
-* Last episode published: 🟢 Monday, 08 August 2022
+* Number of published episodes: 45
+* Last episode published: 🟢 Monday, 22 August 2022
 * [todo:cast Website](https://todocast.io/)
 * [todo:cast @ Spotify](https://open.spotify.com/show/2tIlVD6vBAtEhOZM4jS1mw)
 * [todo:cast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1467179396)
@@ -785,8 +785,8 @@ Latenight-Frontend-Talkshow rund um Webdesign und Entwicklung. Es reden sich um 
 
 Wöchentlicher Podcast für Webdesigner:innen und -entwickler:innen
 
-* Number of published episodes: 553
-* Last episode published: 🟢 Tuesday, 16 August 2022
+* Number of published episodes: 554
+* Last episode published: 🟢 Tuesday, 23 August 2022
 * [Working Draft Website](https://workingdraft.de/)
 * [Working Draft @ Spotify](https://open.spotify.com/show/78iH7cIFzu1ejoB6aQUsIh)
 * [Working Draft @ Apple Podcasts](https://podcasts.apple.com/de/podcast/402204581)
