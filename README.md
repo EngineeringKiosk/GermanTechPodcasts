@@ -4,7 +4,7 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (49 podcasts)
+* [Podcasts](#podcasts) (50 podcasts)
   * [Apfelfunk](#apfelfunk)
   * [Auslegungssache](#auslegungssache)
   * [Autoweird](#autoweird)
@@ -45,6 +45,7 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
   * [Ready for Review](#ready-for-review)
   * [Request for Comments](#request-for-comments)
   * [Schwarz, Code, Gold – Deutschland, Entwicklungsland?](#schwarz-code-gold-deutschland-entwicklungsland)
+  * [SELECTrageFROMit;](#selectragefromit)
   * [SoftwareArchitektur im Stream](#softwarearchitektur-im-stream)
   * [Speak 1337](#speak-1337)
   * [t3n](#t3n)
@@ -84,8 +85,8 @@ Apfelfunk ist ein wöchentlicher Podcast über Apple-Themen. Jean-Claude Frick u
 
 Sie möchten beim Thema Datenschutz auf dem Laufenden bleiben, aber keine seitenlange Literatur wälzen? Dann wenden Sie sich vertrauensvoll an unser Juristen-Redakteurs-Duo. Alle 14 Tage bespricht c&#39;t-Redakteur Holger Bleich mit Joerg Heidrich aktuelle Entwicklungen rund um den Datenschutz. Joerg ist beim c&#39;t-Mutterschiff Heise Medien als Justiziar für das Thema zuständig und hat täglich mit der europäischen Datenschutz-Grundverordnung (DSGVO) zu tun. Wechselnde Gäste ergänzen das Duo.
 
-* Number of published episodes: 69
-* Last episode published: 🟢 Friday, 12 August 2022
+* Number of published episodes: 70
+* Last episode published: 🟢 Friday, 26 August 2022
 * [Auslegungssache Website](https://heise.de/-4571821)
 * [Auslegungssache @ Spotify](https://open.spotify.com/show/3Jrnu7vrTurguBaCiPapkA)
 * [Auslegungssache @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1485860893)
@@ -178,7 +179,7 @@ Mitglieder der c&#39;t-Redaktion diskutieren über die aktuellen Themen aus dem 
 Im monatlichen Chaosradio informiert der Chaos Computer Club Berlin seit 1995 über die Auswirkungen von Technik auf die Gesellschaft.
 
 * Number of published episodes: 267
-* Last episode published: 🟢 Sunday, 26 June 2022
+* Last episode published: 🟡 Sunday, 26 June 2022
 * [Chaosradio Website](https://chaosradio.de/)
 * [Chaosradio @ Apple Podcasts](https://podcasts.apple.com/de/podcast/135057225)
 * [Chaosradio Podcast RSS](https://chaosradio.de/feed/m4a)
@@ -316,8 +317,8 @@ Der FOCUS ON: DevOps Podcast beschäftigt sich mit verschiedenen Methoden und We
 
 Der FOCUS ON: Linux Podcast beschäftigt sich mit verschiedenen Themen rund um Linux. Unser Ziel ist es, euch monatlich über die Entwicklungen und Neuigkeiten zu informieren und auch praktische Tool-Tipps an die Hand zu geben.
 
-* Number of published episodes: 11
-* Last episode published: 🟢 Friday, 29 July 2022
+* Number of published episodes: 12
+* Last episode published: 🟢 Friday, 26 August 2022
 * [FOCUS ON: Linux Website](https://ageofdevops.de/index.php/series/fol/)
 * [FOCUS ON: Linux @ Spotify](https://open.spotify.com/show/4Yj9EaidQuwEZL0NkAafzh)
 * [FOCUS ON: Linux @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1606139089)
@@ -471,7 +472,7 @@ know Information Technology (kurz knowIT) - in diesem Sinne behandelt der Podcas
 Die IT-News des Tages von heise online
 
 * Number of published episodes: 500
-* Last episode published: 🟢 Wednesday, 24 August 2022
+* Last episode published: 🟢 Friday, 26 August 2022
 * [Kurz informiert by heise online Website](http://www.heise.de/)
 * [Kurz informiert by heise online @ Spotify](https://open.spotify.com/show/2etf1jog8leNHbnhIArM9Z)
 * [Kurz informiert by heise online Podcast RSS](https://feeds.soundcloud.com/users/soundcloud:users:316654023/sounds.rss)
@@ -679,6 +680,22 @@ Digitalisierung in Deutschland? Sagen wir mal so: Niemand klebt sich heute das Q
 * [Schwarz, Code, Gold – Deutschland, Entwicklungsland? @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1597296417)
 * [Schwarz, Code, Gold – Deutschland, Entwicklungsland? Podcast RSS](https://feed.schwarz-code-gold.de)
 * Tags: Softwarentwicklung, Made in Germany, Computerspiele, Digtalisierung, E-Health, Startups
+
+----
+
+<h3 id="selectragefromit">SELECTrageFROMit;</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/select-rage-from-it.jpeg" />
+
+Der etwas andere Podcast über IT-Themen. Echte Erfahrungen aus dem Feld. Ungefiltert, ehrlich, ungeschnitten. (Mitschnitt von Twitch Live Diskussionen zwischen IT-Administratoren)
+
+* Number of published episodes: 3
+* Last episode published: 🔴 Wednesday, 03 February 2021
+* [SELECTrageFROMit; Website](https://linktr.ee/selectragefromit)
+* [SELECTrageFROMit; @ Spotify](https://open.spotify.com/show/0grOBOKTLvtBKwj9ZpxpAW)
+* [SELECTrageFROMit; @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1547576873)
+* [SELECTrageFROMit; Podcast RSS](https://anchor.fm/s/6c46c0c8/podcast/rss)
+* Tags: DevOps, Admin, Hardware
 
 ----
 
