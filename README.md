@@ -4,7 +4,7 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (51 podcasts)
+* [Podcasts](#podcasts) (52 podcasts)
   * [Apfelfunk](#apfelfunk)
   * [Auslegungssache](#auslegungssache)
   * [Autoweird](#autoweird)
@@ -51,6 +51,7 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
   * [Speak 1337](#speak-1337)
   * [t3n](#t3n)
   * [Techtiefen](#techtiefen)
+  * [TILpod](#tilpod)
   * [todo:cast](#todo-cast)
   * [Wartungsfenster](#wartungsfenster)
   * [Wo wir sind ist vorne](#wo-wir-sind-ist-vorne)
@@ -778,6 +779,22 @@ Ausführliche, häufig zeitlose Gespräche von Gastgeber Nico Kreiling mit wechs
 * [Techtiefen @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1349481289)
 * [Techtiefen Podcast RSS](https://techtiefen.de//index.php/feed/mp3/)
 * Tags: Development, IT, Data Science, Machine Learning, Interviews
+
+----
+
+<h3 id="tilpod">TILpod</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/tilpod.png" />
+
+Sujeevan und Dirk reden über Themen, die Ihnen in der letzten Zeit untergekommen sind. Die Abkürzung &#34;TIL&#34; steht für &#34;Today I learned&#34;, es geht also um Themen, die neu für die beiden waren oder die sie in der letzten Zeit erst so richtig verstanden haben. Dazu kommen Hinweise, wie sie versuchen, ihr Arbeitsleben zu verbessern und zusätzlich gibt es auch den einen oder anderen Karrierehinweis.
+
+* Number of published episodes: 24
+* Last episode published: 🟢 Wednesday, 31 August 2022
+* [TILpod Website](https://tilpod.net/)
+* [TILpod @ Spotify](https://open.spotify.com/show/53zmbsz2sGO4UoSe8Qviyu)
+* [TILpod @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1542159410)
+* [TILpod Podcast RSS](https://tilpod.net/feed/mp3)
+* Tags: Tech-Kultur, Open Source, Karriere, DevOps, Selfimprovement
 
 ----
 
