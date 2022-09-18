@@ -13,6 +13,7 @@ Each podcast on the list should be
 - published using RSS feed
 - in German :de: :austria: :switzerland:
 - at least 3 consecutive episodes and at least 2 months old
+- still active or relevant timeless content
 - majority of content is `tech` (tech context should be clearly visible and more than 60% of all episodes)
 - reasonable audio quality
 
