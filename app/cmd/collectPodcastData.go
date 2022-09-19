@@ -128,6 +128,9 @@ func cmdCollectPodcastData(cmd *cobra.Command, args []string) error {
 				_, imageExistErr := os.Stat(absImageFilePath)
 				if resp.StatusCode != 200 && errors.Is(imageExistErr, os.ErrNotExist) {
 					return err
+				} else {
+					log.Printf("We were not able to download the new image %s", p.Feed.Artwork)
+					log.Printf("The pipeline didn't fail, because the previous version %s exists", absImageFilePath)
 				}
 			}
 
