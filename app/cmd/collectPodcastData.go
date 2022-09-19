@@ -110,9 +110,26 @@ func cmdCollectPodcastData(cmd *cobra.Command, args []string) error {
 			imageFileName := f.Name()[0:len(f.Name())-len(jsonFileExtension)] + imageFileExtension
 			absImageFilePath := filepath.Join(jsonDir, imageFolder, imageFileName)
 			log.Printf("Downloading %s into %s", p.Feed.Artwork, absImageFilePath)
-			err = downloadFile(p.Feed.Artwork, absImageFilePath)
+			resp, err := downloadFile(p.Feed.Artwork, absImageFilePath)
 			if err != nil {
-				return err
+				// This is not very great to check the status code.
+				// We do this already in downloadFile.
+				// A better solution would be to create a "status code error" type and check
+				// this one. But this is now quick and dirty and it works :)
+				//
+				// If this is any kind of error, exit here.
+				if resp == nil || resp.StatusCode == 200 {
+					return err
+				}
+
+				// If we get a non 200 status code, but we have a target image already
+				// (like an old one), it is better to use the old one than failing.
+				//
+				// Having the latest up to date image is not the highest priority here.
+				_, imageExistErr := os.Stat(absImageFilePath)
+				if resp.StatusCode != 200 && errors.Is(imageExistErr, os.ErrNotExist) {
+					return err
+				}
 			}
 
 			podcastInfo.Image = filepath.Join(imageFolder, imageFileName)
@@ -149,36 +166,35 @@ func cmdCollectPodcastData(cmd *cobra.Command, args []string) error {
 	return nil
 }
 
-func downloadFile(address, fileName string) error {
+func downloadFile(address, fileName string) (*http.Response, error) {
 	client := &http.Client{}
 
 	req, err := http.NewRequest(http.MethodGet, address, nil)
 	if err != nil {
-		return err
+		return nil, err
 	}
 	req.Header.Set("User-Agent", defaultUserAgent)
 	response, err := client.Do(req)
 
 	if err != nil {
-		return err
+		return response, err
 	}
 	defer response.Body.Close()
 
 	if response.StatusCode != 200 {
-		fmt.Println(response.StatusCode)
-		return errors.New("received non 200 response code")
+		return response, fmt.Errorf("received %d as status code, expected 200", response.StatusCode)
 	}
 
 	file, err := os.Create(fileName)
 	if err != nil {
-		return err
+		return response, err
 	}
 	defer file.Close()
 
 	_, err = io.Copy(file, response.Body)
 	if err != nil {
-		return err
+		return response, err
 	}
 
-	return nil
+	return response, nil
 }
