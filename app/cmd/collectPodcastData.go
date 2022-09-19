@@ -12,6 +12,7 @@ import (
 	"path"
 	"path/filepath"
 	"strings"
+	"time"
 
 	libIO "github.com/EngineeringKiosk/GermanTechPodcasts/io"
 	"github.com/EngineeringKiosk/GermanTechPodcasts/podcastindex"
@@ -169,7 +170,12 @@ func cmdCollectPodcastData(cmd *cobra.Command, args []string) error {
 }
 
 func downloadFile(address, fileName string) (*http.Response, error) {
-	client := &http.Client{}
+	client := &http.Client{
+		Timeout: 20 * time.Second,
+		Transport: &http.Transport{
+			TLSHandshakeTimeout: 15 * time.Second,
+		},
+	}
 
 	req, err := http.NewRequest(http.MethodGet, address, nil)
 	if err != nil {
