@@ -3,7 +3,6 @@ package cmd
 import (
 	"encoding/json"
 	"html/template"
-	"io/ioutil"
 	"log"
 	"os"
 	"path/filepath"
@@ -67,7 +66,7 @@ func cmdConvertJsonToReadme(cmd *cobra.Command, args []string) error {
 	for _, f := range jsonFiles {
 		absJsonFilePath := filepath.Join(jsonDir, f.Name())
 		log.Printf("Processing file %s", absJsonFilePath)
-		jsonFileContent, err := ioutil.ReadFile(absJsonFilePath)
+		jsonFileContent, err := os.ReadFile(absJsonFilePath)
 		if err != nil {
 			return err
 		}
@@ -88,7 +87,7 @@ func cmdConvertJsonToReadme(cmd *cobra.Command, args []string) error {
 	})
 
 	log.Printf("Read template file %s from disk", readmeTemplate)
-	readmeTemplateContent, err := ioutil.ReadFile(readmeTemplate)
+	readmeTemplateContent, err := os.ReadFile(readmeTemplate)
 	if err != nil {
 		return err
 	}

@@ -2,7 +2,7 @@ package io
 
 import (
 	"encoding/json"
-	"io/ioutil"
+	"os"
 )
 
 // WriteJSONFile will write v into absFilePath.
@@ -13,6 +13,6 @@ func WriteJSONFile(absFilePath string, v any) error {
 		return err
 	}
 
-	err = ioutil.WriteFile(absFilePath, content, 0644)
+	err = os.WriteFile(absFilePath, content, 0644)
 	return err
 }
