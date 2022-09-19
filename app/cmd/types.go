@@ -46,9 +46,10 @@ func (p PodcastInformation) TagsAsList() string {
 // on when the last episode was published.
 //
 // Legend:
+//
 //	🔴 Last Episode published > 6 months ago
 //	🟡 Last Episode published something between 2 months and 6 months ago
-// 	🟢 Last Episode published within today and last 2 month
+//	🟢 Last Episode published within today and last 2 month
 func (p PodcastInformation) GetLastEpisodeStatus() string {
 	t := time.Unix(p.LatestEpisodePublished, 0)
 

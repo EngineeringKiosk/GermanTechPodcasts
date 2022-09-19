@@ -6,7 +6,6 @@ import (
 	"errors"
 	"fmt"
 	"io"
-	"io/ioutil"
 	"log"
 	"net/http"
 	"os"
@@ -76,7 +75,7 @@ func cmdCollectPodcastData(cmd *cobra.Command, args []string) error {
 	for _, f := range jsonFiles {
 		absJsonFilePath := filepath.Join(jsonDir, f.Name())
 		log.Printf("Processing file %s", absJsonFilePath)
-		jsonFileContent, err := ioutil.ReadFile(absJsonFilePath)
+		jsonFileContent, err := os.ReadFile(absJsonFilePath)
 		if err != nil {
 			return err
 		}

@@ -2,8 +2,8 @@ package cmd
 
 import (
 	"encoding/json"
-	"io/ioutil"
 	"log"
+	"os"
 	"path"
 	"path/filepath"
 
@@ -67,7 +67,7 @@ func cmdConvertYamlToJson(cmd *cobra.Command, args []string) error {
 	for _, f := range yamlFiles {
 		absYamlFilePath := filepath.Join(yamlDir, f.Name())
 		log.Printf("Processing file %s", absYamlFilePath)
-		yamlFileContent, err := ioutil.ReadFile(absYamlFilePath)
+		yamlFileContent, err := os.ReadFile(absYamlFilePath)
 		if err != nil {
 			return err
 		}
@@ -89,7 +89,7 @@ func cmdConvertYamlToJson(cmd *cobra.Command, args []string) error {
 			// JSON file exists.
 			// Read JSON file into Podcast Information structure
 			// and overwrite yaml information
-			jsonFileContent, err := ioutil.ReadFile(absJsonFilePath)
+			jsonFileContent, err := os.ReadFile(absJsonFilePath)
 			if err != nil {
 				return err
 			}
