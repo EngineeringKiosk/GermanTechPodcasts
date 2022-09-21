@@ -301,8 +301,8 @@ Der Unterhaltungs-Podcast für .NET Entwickler
 
 Der Engineering Kiosk ist der deutschsprachige Software-Engineering-Podcast mit Wolfgang Gassler und Andy Grunwald rund um die Themen Engineering-Kultur, Open Source, Menschen, Technologie und allen anderen Bereichen, die damit in Verbindung stehen.
 
-* Number of published episodes: 37
-* Last episode published: 🟢 Tuesday, 13 September 2022
+* Number of published episodes: 38
+* Last episode published: 🟢 Tuesday, 20 September 2022
 * Weekly downloads (avg): 473 (updated: 2022-07-25)
 * [Engineering Kiosk Website](https://engineeringkiosk.dev/)
 * [Engineering Kiosk @ Spotify](https://open.spotify.com/show/0tJRC0UsObPCWLmmzmOkIs)
@@ -489,7 +489,7 @@ know Information Technology (kurz knowIT) - in diesem Sinne behandelt der Podcas
 Die IT-News des Tages von heise online
 
 * Number of published episodes: 500
-* Last episode published: 🟢 Friday, 16 September 2022
+* Last episode published: 🟢 Tuesday, 20 September 2022
 * [Kurz informiert by heise online Website](http://www.heise.de/)
 * [Kurz informiert by heise online @ Spotify](https://open.spotify.com/show/2etf1jog8leNHbnhIArM9Z)
 * [Kurz informiert by heise online Podcast RSS](https://feeds.soundcloud.com/users/soundcloud:users:316654023/sounds.rss)
@@ -628,8 +628,8 @@ Oli und Michael sprechen über alles Wichtige aus der Welt der Open Source, Tech
 
 Wir berichten alle zwei Wochen über Open Source Anwendungen, Ideen und Konzepte aus der Industrie.
 
-* Number of published episodes: 17
-* Last episode published: 🟡 Tuesday, 12 July 2022
+* Number of published episodes: 18
+* Last episode published: 🟢 Tuesday, 20 September 2022
 * [Open Source in der Industrie Website](https://opensourcepodcast.podigee.io/)
 * [Open Source in der Industrie @ Spotify](https://open.spotify.com/show/7e0khh6f5m1NArO3ggwCSH)
 * [Open Source in der Industrie Podcast RSS](https://opensourcepodcast.podigee.io/feed/mp3)
@@ -851,8 +851,8 @@ Latenight-Frontend-Talkshow rund um Webdesign und Entwicklung. Es reden sich um 
 
 Wöchentlicher Podcast für Webdesigner:innen und -entwickler:innen
 
-* Number of published episodes: 557
-* Last episode published: 🟢 Tuesday, 13 September 2022
+* Number of published episodes: 558
+* Last episode published: 🟢 Tuesday, 20 September 2022
 * [Working Draft Website](https://workingdraft.de/)
 * [Working Draft @ Spotify](https://open.spotify.com/show/78iH7cIFzu1ejoB6aQUsIh)
 * [Working Draft @ Apple Podcasts](https://podcasts.apple.com/de/podcast/402204581)
