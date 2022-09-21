@@ -4,7 +4,7 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (52 podcasts)
+* [Podcasts](#podcasts) (53 podcasts)
   * [Apfelfunk](#apfelfunk)
   * [Auslegungssache](#auslegungssache)
   * [Autoweird](#autoweird)
@@ -47,6 +47,7 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
   * [Request for Comments](#request-for-comments)
   * [Schwarz, Code, Gold – Deutschland, Entwicklungsland?](#schwarz-code-gold-deutschland-entwicklungsland)
   * [SELECTrageFROMit;](#selectragefromit)
+  * [Software-Architektur als Beruf](#software-architektur-als-beruf)
   * [SoftwareArchitektur im Stream](#softwarearchitektur-im-stream)
   * [Speak 1337](#speak-1337)
   * [t3n](#t3n)
@@ -643,8 +644,8 @@ Wir berichten alle zwei Wochen über Open Source Anwendungen, Ideen und Konzepte
 
 Mit geballter Dev-Power nehmen Dennis, Fabi, Sebi und Jojo neue Podcastfolgen auf und werden dabei regelmäßig von Gäst:innen aus der Branche unterstützt. Taucht in unseren Deep Dives mit uns in Frameworks und Datenbanken ein, hört euch in den CTO-Specials die Erfahrungen führender Persönlichkeiten großer Unternehmen an und bleibt mit unseren News-Folgen stets am Ball in der Welt der App- und Webentwicklung.
 
-* Number of published episodes: 191
-* Last episode published: 🟢 Wednesday, 14 September 2022
+* Number of published episodes: 192
+* Last episode published: 🟢 Wednesday, 21 September 2022
 * Weekly downloads (avg): 8936 (updated: 2022-08-04)
 * [programmier.bar Website](https://www.programmier.bar/podcast)
 * [programmier.bar @ Spotify](https://open.spotify.com/show/0ik0sXv9paTQCeThcOLCCJ)
@@ -713,6 +714,22 @@ Der etwas andere Podcast über IT-Themen. Echte Erfahrungen aus dem Feld. Ungefi
 * [SELECTrageFROMit; @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1547576873)
 * [SELECTrageFROMit; Podcast RSS](https://anchor.fm/s/6c46c0c8/podcast/rss)
 * Tags: DevOps, Admin, Hardware
+
+----
+
+<h3 id="software-architektur-als-beruf">Software-Architektur als Beruf</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/softwarearchitektur-als-beruf.png" />
+
+Bei &#34;Software-Architektur als Beruf&#34; erzählen Menschen, wie ihr beruflicher Werdegang aussieht und welche Rolle Software-Architektur dabei spielt.
+
+* Number of published episodes: 14
+* Last episode published: 🟢 Tuesday, 20 September 2022
+* [Software-Architektur als Beruf Website](https://software-architektur.tv/beruf.html)
+* [Software-Architektur als Beruf @ Spotify](https://open.spotify.com/show/2DpgXYFgzqOvNy30pLRj0S)
+* [Software-Architektur als Beruf @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1609845784)
+* [Software-Architektur als Beruf Podcast RSS](https://1evriw.podcaster.de/software-architektur-als-beruf.rss)
+* Tags: Karriere, Technologie
 
 ----
 
