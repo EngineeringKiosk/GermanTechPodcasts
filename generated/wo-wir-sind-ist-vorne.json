@@ -6,7 +6,16 @@
  "rssFeed": "https://wowirsindistvorne.show/feed/mp3/",
  "spotify": "https://open.spotify.com/show/54K1DpiQYHBHSnIO6OzSKs",
  "description": "Latenight-Frontend-Talkshow rund um Webdesign und Entwicklung. Es reden sich um \u003cHEAD\u003e und Kragen: HTML-Fundamentalist Moritz Gießmann und JavaScript Jongleur Constantin Groß.",
- "tags": null,
+ "tags": [
+  "Frontend",
+  "UX",
+  "HTML",
+  "CSS",
+  "JavaScript",
+  "Tooling",
+  "Frameworks",
+  "Accessibility"
+ ],
  "weekly_downloads_avg": {
   "value": 0,
   "updated": ""
