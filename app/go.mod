@@ -3,7 +3,7 @@ module github.com/EngineeringKiosk/GermanTechPodcasts
 go 1.19
 
 require (
-	github.com/gosimple/slug v1.13.0
+	github.com/gosimple/slug v1.13.1
 	github.com/spf13/cobra v1.5.0
 	gopkg.in/yaml.v2 v2.4.0
 )
