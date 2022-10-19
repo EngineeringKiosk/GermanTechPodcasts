@@ -490,7 +490,7 @@ know Information Technology (kurz knowIT) - in diesem Sinne behandelt der Podcas
 Die IT-News des Tages von heise online
 
 * Number of published episodes: 500
-* Last episode published: 🟢 Monday, 17 October 2022
+* Last episode published: 🟢 Tuesday, 18 October 2022
 * [Kurz informiert by heise online Website](http://www.heise.de/)
 * [Kurz informiert by heise online @ Spotify](https://open.spotify.com/show/2etf1jog8leNHbnhIArM9Z)
 * [Kurz informiert by heise online Podcast RSS](https://feeds.soundcloud.com/users/soundcloud:users:316654023/sounds.rss)
@@ -629,8 +629,8 @@ Oli und Michael sprechen über alles Wichtige aus der Welt der Open Source, Tech
 
 Wir berichten alle zwei Wochen über Open Source Anwendungen, Ideen und Konzepte aus der Industrie.
 
-* Number of published episodes: 19
-* Last episode published: 🟢 Tuesday, 04 October 2022
+* Number of published episodes: 20
+* Last episode published: 🟢 Tuesday, 18 October 2022
 * [Open Source in der Industrie Website](https://opensourcepodcast.podigee.io/)
 * [Open Source in der Industrie @ Spotify](https://open.spotify.com/show/7e0khh6f5m1NArO3ggwCSH)
 * [Open Source in der Industrie Podcast RSS](https://opensourcepodcast.podigee.io/feed/mp3)
