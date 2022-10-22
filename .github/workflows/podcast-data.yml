@@ -17,13 +17,13 @@ jobs:
         working-directory: app
 
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-go@v3
+      - uses: actions/checkout@v3.1.0
+      - uses: actions/setup-go@v3.3.1
         with:
           go-version: 1.19
 
       # Caching go modules to speed up the run
-      - uses: actions/cache@v3
+      - uses: actions/cache@v3.0.11
         with:
           path: ~/go/pkg/mod
           key: ${{ runner.os }}-go-${{ hashFiles('**/go.sum') }}
@@ -43,7 +43,7 @@ jobs:
         run: ./GermanTechPodcasts convertJsonToReadme --json-directory ../generated --readme-template ../assets/README.template --readme-output ../README.md
 
       # Commit results back to repository
-      - uses: stefanzweifel/git-auto-commit-action@v4
+      - uses: stefanzweifel/git-auto-commit-action@v4.15.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
@@ -54,7 +54,7 @@ jobs:
           commit_author: Podcast data update bot <stehtisch@engineeringkiosk.dev>
 
       - name: Trigger webpage to sync
-        uses: peter-evans/repository-dispatch@v2
+        uses: peter-evans/repository-dispatch@v2.1.0
         with:
           token: ${{ secrets.REPOSITORY_DISPATCH_TOKEN }}
           repository: EngineeringKiosk/webpage
