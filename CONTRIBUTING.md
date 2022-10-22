@@ -7,14 +7,18 @@ If you're in doubt if a particular podcast is a good fit for the list, **don't o
 
 ### Criteria to be accepted
 
-Each podcast on the list should be
+Each podcast on the list should adhere to the following criteria
 
-- a podcast :smiley:
-- published using RSS feed
-- in German :de: :austria: :switzerland:
-- at least 3 consecutive episodes and at least 2 months old
+- is a podcast :smiley:
+- is published using a RSS feed and is not behind a paywall
+- published in German :de: :austria: :switzerland:
+- has published at least 3 consecutive episodes
+- is at least 2 months old
 - majority of content is `tech` (tech context should be clearly visible and more than 60% of all episodes)
 - reasonable audio quality
+- is still active (new episode published within one month) or has timeless/relevant content (e.g. a news episode won't be relevant months later)
+
+Podcasts can be removed from the list if a criteria is no longer met.
 
 #### What is `tech` in this context?
 
