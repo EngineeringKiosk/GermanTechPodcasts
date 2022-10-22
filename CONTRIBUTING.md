@@ -16,7 +16,7 @@ Each podcast on the list should adhere to the following criteria
 - is at least 2 months old
 - majority of content is `tech` (tech context should be clearly visible and more than 60% of all episodes)
 - reasonable audio quality
-- is still active (new episode published within one month) or has timeless/relevant content (e.g. a news episode won't be relevant months later)
+- is still active (new episode published within two months) or has timeless/relevant content (e.g. a news episode won't be relevant months later)
 
 Podcasts can be removed from the list if a criteria is no longer met.
 
