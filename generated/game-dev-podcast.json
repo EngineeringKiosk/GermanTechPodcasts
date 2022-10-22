@@ -1,0 +1,20 @@
+{
+ "name": "Der GameDev Podcast",
+ "slug": "der-gamedev-podcast",
+ "website": "https://gamedevpodcast.de/",
+ "podcastIndexID": 452333,
+ "rssFeed": "http://feed.gamedevpodcast.de/",
+ "spotify": "https://open.spotify.com/show/1AyPHtyeaeROvPtLsw1prl",
+ "description": "Wir reden über Spieleentwicklung und allgemein über die Branche aber gehen auch ins Detail wenn es um Software, Tipps und Fragen geht.",
+ "tags": [
+  "Game Development"
+ ],
+ "weekly_downloads_avg": {
+  "value": 0,
+  "updated": ""
+ },
+ "episodeCount": 61,
+ "latestEpisodePublished": 1664301622,
+ "itunesID": 1143613851,
+ "image": "images/game-dev-podcast.png"
+}

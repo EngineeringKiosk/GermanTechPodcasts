@@ -4,7 +4,7 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (53 podcasts)
+* [Podcasts](#podcasts) (57 podcasts)
   * [Apfelfunk](#apfelfunk)
   * [Auslegungssache](#auslegungssache)
   * [Autoweird](#autoweird)
@@ -14,11 +14,13 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
   * [c&#39;t uplink](#ct-uplink)
   * [Chaosradio](#chaosradio)
   * [Click! Clack! Hack!](#click-clack-hack)
+  * [Code and Ship](#code-and-ship)
   * [Code Culture](#code-culture)
   * [Codestammtisch](#codestammtisch)
   * [Computer und Kommunikation (Deutschlandfunk)](#computer-und-kommunikation-deutschlandfunk)
   * [Das Duumvirat](#das-duumvirat)
   * [DAS WAR SCHON KAPUTT](#das-war-schon-kaputt)
+  * [Der GameDev Podcast](#der-gamedev-podcast)
   * [DevCouch](#devcouch)
   * [Engineering Kiosk](#engineering-kiosk)
   * [FOCUS ON: DevOps](#focus-on-devops)
@@ -27,6 +29,7 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
   * [GeekWeek](#geekweek)
   * [heise Developer: SoftwareArchitekTOUR](#heise-developer-softwarearchitektour)
   * [Herzbergs Hörsaal](#herzbergs-horsaal)
+  * [Index out of bounds](#index-out-of-bounds)
   * [INNOQ Podcast](#innoq-podcast)
   * [IT ist alles](#it-ist-alles)
   * [IT-Berufe Podcast](#it-berufe-podcast)
@@ -55,6 +58,7 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
   * [TILpod](#tilpod)
   * [todo:cast](#todo-cast)
   * [Wartungsfenster](#wartungsfenster)
+  * [Web &amp; Design Podcast](#web-and-design-podcast)
   * [Wo wir sind ist vorne](#wo-wir-sind-ist-vorne)
   * [Working Draft](#working-draft)
   * [WP Sofa](#wp-sofa)
@@ -88,8 +92,8 @@ Apfelfunk ist ein wöchentlicher Podcast über Apple-Themen. Jean-Claude Frick u
 
 Sie möchten beim Thema Datenschutz auf dem Laufenden bleiben, aber keine seitenlange Literatur wälzen? Dann wenden Sie sich vertrauensvoll an unser Juristen-Redakteurs-Duo. Alle 14 Tage bespricht c&#39;t-Redakteur Holger Bleich mit Joerg Heidrich aktuelle Entwicklungen rund um den Datenschutz. Joerg ist beim c&#39;t-Mutterschiff Heise Medien als Justiziar für das Thema zuständig und hat täglich mit der europäischen Datenschutz-Grundverordnung (DSGVO) zu tun. Wechselnde Gäste ergänzen das Duo.
 
-* Number of published episodes: 72
-* Last episode published: 🟢 Friday, 23 September 2022
+* Number of published episodes: 73
+* Last episode published: 🟢 Friday, 21 October 2022
 * [Auslegungssache Website](https://heise.de/-4571821)
 * [Auslegungssache @ Spotify](https://open.spotify.com/show/3Jrnu7vrTurguBaCiPapkA)
 * [Auslegungssache @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1485860893)
@@ -166,8 +170,8 @@ Die wöchentliche Talkrunde rund um Apple, Mac, iPod &#43; iPhone, Gadgets und s
 
 Mitglieder der c&#39;t-Redaktion diskutieren über die aktuellen Themen aus dem c’t Magazin und was sonst noch so in der IT-Welt passiert.
 
-* Number of published episodes: 456
-* Last episode published: 🟢 Saturday, 15 October 2022
+* Number of published episodes: 457
+* Last episode published: 🟢 Saturday, 22 October 2022
 * [c&#39;t uplink Website](https://www.heise.de/ct/entdecken/?hauptrubrik=%40ctmagazin&amp;unterrubrik=c%27t&#43;uplink)
 * [c&#39;t uplink @ Spotify](https://open.spotify.com/show/4LdN7lGr9winLtQSqoIjVD)
 * [c&#39;t uplink @ Apple Podcasts](https://podcasts.apple.com/de/podcast/835717958)
@@ -202,6 +206,21 @@ Ein Podcast über den nahezu unendlich tiefen Kaninchenbau der mechanische Tasta
 * [Click! Clack! Hack! @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1551770169)
 * [Click! Clack! Hack! Podcast RSS](https://www.nerdbude.com/podcast/feed/feed.xml)
 * Tags: Hardware, Tastaturen
+
+----
+
+<h3 id="code-and-ship">Code and Ship</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/code-and-ship.jpg" />
+
+Jonathan und Ingmar sprechen übers Programmieren und Ausliefern von Software Projekten. Außerdem tauschen die beiden Bremer sich über Tools, Frameworks und das Leben als Softwareentwickler aus.
+
+* Number of published episodes: 46
+* Last episode published: 🟡 Tuesday, 28 June 2022
+* [Code and Ship Website](https://codeandship.rocks/)
+* [Code and Ship @ Spotify](https://open.spotify.com/show/68VGe4DFCUxvcJp44VDVL3)
+* [Code and Ship @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1458278980)
+* [Code and Ship Podcast RSS](https://codeandship.rocks/podcast/index.xml)
 
 ----
 
@@ -277,6 +296,22 @@ Wir sind ein Laber-Technik-Lebensweisheiten-Podcast, mit News, Retrogeschichten 
 * [DAS WAR SCHON KAPUTT @ Spotify](https://open.spotify.com/show/5F92Db3OFLQXxdh2OIXEzI)
 * [DAS WAR SCHON KAPUTT Podcast RSS](https://daswarschonkaputt.tech/feed/dwsk.xml)
 * Tags: Technews, Linux, Darknet, Retro-Tech
+
+----
+
+<h3 id="der-gamedev-podcast">Der GameDev Podcast</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/game-dev-podcast.png" />
+
+Wir reden über Spieleentwicklung und allgemein über die Branche aber gehen auch ins Detail wenn es um Software, Tipps und Fragen geht.
+
+* Number of published episodes: 61
+* Last episode published: 🟢 Tuesday, 27 September 2022
+* [Der GameDev Podcast Website](https://gamedevpodcast.de/)
+* [Der GameDev Podcast @ Spotify](https://open.spotify.com/show/1AyPHtyeaeROvPtLsw1prl)
+* [Der GameDev Podcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1143613851)
+* [Der GameDev Podcast Podcast RSS](http://feed.gamedevpodcast.de/)
+* Tags: Game Development
 
 ----
 
@@ -405,6 +440,21 @@ Dieser Podcast ist ein Hörsaal für die Ohren meiner Studierenden an der THM un
 
 ----
 
+<h3 id="index-out-of-bounds">Index out of bounds</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/index-out-of-bounds.jpg" />
+
+Du bist Entwickler/Developer? Dann Lauscher auf! Thomas und Christian sprechen im &#34;Index out of bounds&#34; Entwickler/Developer Podcast über ihre persönlichen Erfahrungen aus der Welt der Programmierung von Software, Websites, Apps und was es sonst noch so gibt. Schon seit Jahren tauschen sich die beiden leidenschaftlich gerne über Entwicklung/Development, den Spaß am Programmieren und Technologie aus. Hin und wieder sind da auch ein paar helle Momente dabei! Ein Podcast von Programmierern für Programmierer.
+
+* Number of published episodes: 37
+* Last episode published: 🟢 Sunday, 09 October 2022
+* [Index out of bounds Website](https://anchor.fm/indexoutofbounds)
+* [Index out of bounds @ Spotify](https://open.spotify.com/show/2r1FGvYRkSYq4SmXyVKmnA)
+* [Index out of bounds @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1564647339)
+* [Index out of bounds Podcast RSS](https://anchor.fm/s/54509264/podcast/rss)
+
+----
+
 <h3 id="innoq-podcast">INNOQ Podcast</h3>
 
 <img align="right" width="215" height="215" src="./generated/images/innoq-podcast.jpg" />
@@ -490,7 +540,7 @@ know Information Technology (kurz knowIT) - in diesem Sinne behandelt der Podcas
 Die IT-News des Tages von heise online
 
 * Number of published episodes: 500
-* Last episode published: 🟢 Thursday, 20 October 2022
+* Last episode published: 🟢 Friday, 21 October 2022
 * [Kurz informiert by heise online Website](http://www.heise.de/)
 * [Kurz informiert by heise online @ Spotify](https://open.spotify.com/show/2etf1jog8leNHbnhIArM9Z)
 * [Kurz informiert by heise online Podcast RSS](https://feeds.soundcloud.com/users/soundcloud:users:316654023/sounds.rss)
@@ -644,8 +694,8 @@ Wir berichten alle zwei Wochen über Open Source Anwendungen, Ideen und Konzepte
 
 Mit geballter Dev-Power nehmen Dennis, Fabi, Sebi und Jojo neue Podcastfolgen auf und werden dabei regelmäßig von Gäst:innen aus der Branche unterstützt. Taucht in unseren Deep Dives mit uns in Frameworks und Datenbanken ein, hört euch in den CTO-Specials die Erfahrungen führender Persönlichkeiten großer Unternehmen an und bleibt mit unseren News-Folgen stets am Ball in der Welt der App- und Webentwicklung.
 
-* Number of published episodes: 199
-* Last episode published: 🟢 Wednesday, 19 October 2022
+* Number of published episodes: 200
+* Last episode published: 🟢 Friday, 21 October 2022
 * Weekly downloads (avg): 8936 (updated: 2022-08-04)
 * [programmier.bar Website](https://www.programmier.bar/podcast)
 * [programmier.bar @ Spotify](https://open.spotify.com/show/0ik0sXv9paTQCeThcOLCCJ)
@@ -739,8 +789,8 @@ Bei &#34;Software-Architektur als Beruf&#34; erzählen Menschen, wie ihr berufli
 
 Live-Diskussion zu Software-Architektur im Stream. Einmal in der Woche diskutiert Eberhard Wolff Software-Architektur im Live-Stream auf YouTube und Twitch - oft zusammen mit einem Gast. Zuschauer können über den Chat mitdiskutieren oder Fragen stellen. Der Podcast enthält die Audio-Spur des Streams.
 
-* Number of published episodes: 135
-* Last episode published: 🟢 Friday, 14 October 2022
+* Number of published episodes: 136
+* Last episode published: 🟢 Friday, 21 October 2022
 * [SoftwareArchitektur im Stream Website](https://software-architektur.tv/)
 * [SoftwareArchitektur im Stream @ Spotify](https://open.spotify.com/show/7ySg1eZoWYBshd6QpGaW8B)
 * [SoftwareArchitektur im Stream @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1538545458)
@@ -772,8 +822,8 @@ Ich bin Cedric und in diesem Podcast rede ich immer wieder mal über Informatik,
 
 Im t3n Podcast diskutiert die t3n-Redaktion mit prominenten Gästen über die spannendsten digitalen Themen unserer Zeit. Ob innovative Führungskonzepte, die Digitalisierung der Gesellschaft, smarte Gadgets, neue Mobilität oder Zukunftstechnologien. Das Update für digitale Pioniere – jede Woche neu!
 
-* Number of published episodes: 445
-* Last episode published: 🟢 Monday, 17 October 2022
+* Number of published episodes: 446
+* Last episode published: 🟢 Friday, 21 October 2022
 * [t3n Website](https://t3n.de/podcast/)
 * [t3n @ Spotify](https://open.spotify.com/show/7obTbZaywhQEiUUOMswQBQ)
 * [t3n @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1115601393)
@@ -847,6 +897,22 @@ Alle 14 Tage laden wir zu einer kleinen Kaminzimmerrunde rund um den Themenkompl
 
 ----
 
+<h3 id="web-and-design-podcast">Web &amp; Design Podcast</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/web-und-design-podcast.jpg" />
+
+In diesem Podcast geht es um Web und User Interface Design, Freelancing, Arbeitsprozesse, Kunden und alles, wo sich diese Bereiche überschneiden.
+
+* Number of published episodes: 173
+* Last episode published: 🟢 Monday, 10 October 2022
+* [Web &amp; Design Podcast Website](https://www.jonasarleth.com/podcast)
+* [Web &amp; Design Podcast @ Spotify](https://open.spotify.com/show/6P3ovTvnUXUQZdjEMLEBer)
+* [Web &amp; Design Podcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1197452865)
+* [Web &amp; Design Podcast Podcast RSS](https://feeds.soundcloud.com/users/soundcloud:users:283362505/sounds.rss)
+* Tags: User Interface Design, Web Design, Freelancing
+
+----
+
 <h3 id="wo-wir-sind-ist-vorne">Wo wir sind ist vorne</h3>
 
 <img align="right" width="215" height="215" src="./generated/images/wo-wir-sind-ist-vorne.png" />
@@ -884,8 +950,8 @@ Wöchentlicher Podcast für Webdesigner:innen und -entwickler:innen
 
 Wir berichten zweiwöchentlich über News und Updates aus dem WordPress Universum.
 
-* Number of published episodes: 166
-* Last episode published: 🟢 Monday, 10 October 2022
+* Number of published episodes: 167
+* Last episode published: 🟢 Saturday, 22 October 2022
 * [WP Sofa Website](https://wp-sofa.de/)
 * [WP Sofa @ Spotify](https://open.spotify.com/show/5deyJkxMw1cAMKGxnrx5wO)
 * [WP Sofa Podcast RSS](https://wp-sofa.de/feed/mp3/)
