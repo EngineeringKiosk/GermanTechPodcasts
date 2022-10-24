@@ -43,7 +43,7 @@ jobs:
         run: ./GermanTechPodcasts convertJsonToReadme --json-directory ../generated --readme-template ../assets/README.template --readme-output ../README.md
 
       # Commit results back to repository
-      - uses: stefanzweifel/git-auto-commit-action@v4.15.1
+      - uses: stefanzweifel/git-auto-commit-action@v4.15.2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
