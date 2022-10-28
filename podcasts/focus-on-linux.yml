@@ -1,3 +1,4 @@
+---
 name: "FOCUS ON: Linux"
 website: https://ageofdevops.de/index.php/series/fol/
 podcastIndexID: 4808340
@@ -7,3 +8,6 @@ description: "Der FOCUS ON: Linux Podcast beschäftigt sich mit verschiedenen Th
 tags:
   - Linux
   - Open Source
+weekly_downloads_avg:
+  value: 710
+  updated: "2022-10-26"
