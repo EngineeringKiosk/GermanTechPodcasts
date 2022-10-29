@@ -172,9 +172,9 @@ func cmdCollectPodcastData(cmd *cobra.Command, args []string) error {
 
 func downloadFile(address, fileName string) (*http.Response, error) {
 	client := &http.Client{
-		Timeout: 20 * time.Second,
+		Timeout: 45 * time.Second,
 		Transport: &http.Transport{
-			TLSHandshakeTimeout: 15 * time.Second,
+			TLSHandshakeTimeout: 30 * time.Second,
 		},
 	}
 
