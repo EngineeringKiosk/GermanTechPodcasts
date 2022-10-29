@@ -89,11 +89,12 @@ func cmdCollectPodcastData(cmd *cobra.Command, args []string) error {
 
 		if podcastInfo.PodcastIndexID > 0 {
 			// Get Podcast info
-			log.Printf("Requesting 'Podcasts.GetByFeedID' data from podcast index for feed id %d", podcastInfo.PodcastIndexID)
+			log.Printf("Requesting 'Podcasts.GetByFeedID' data from podcast index for feed id %d ...", podcastInfo.PodcastIndexID)
 			p, _, err := c.Podcasts.GetByFeedID(context.Background(), podcastInfo.PodcastIndexID)
 			if err != nil {
 				return err
 			}
+			log.Printf("Requesting 'Podcasts.GetByFeedID' data from podcast index for feed id %d ... successful", podcastInfo.PodcastIndexID)
 
 			// Set basic podcast data
 			podcastInfo.EpisodeCount = p.Feed.EpisodeCount
