@@ -2,8 +2,8 @@
  "name": "Kurz informiert by heise online",
  "slug": "kurz-informiert-by-heise-online",
  "website": "http://www.heise.de/",
- "podcastIndexID": 1639771,
- "rssFeed": "https://feeds.soundcloud.com/users/soundcloud:users:316654023/sounds.rss",
+ "podcastIndexID": 791274,
+ "rssFeed": "https://www.heise.de/rss/topnews-audio.rss",
  "spotify": "https://open.spotify.com/show/2etf1jog8leNHbnhIArM9Z",
  "description": "Die IT-News des Tages von heise online",
  "tags": [
@@ -14,8 +14,8 @@
   "value": 0,
   "updated": ""
  },
- "episodeCount": 500,
- "latestEpisodePublished": 1666915200,
- "itunesID": 0,
+ "episodeCount": 295,
+ "latestEpisodePublished": 1665672540,
+ "itunesID": 1485884061,
  "image": "images/kurz-informiert.jpg"
 }

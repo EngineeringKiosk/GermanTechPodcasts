@@ -540,11 +540,12 @@ know Information Technology (kurz knowIT) - in diesem Sinne behandelt der Podcas
 
 Die IT-News des Tages von heise online
 
-* Number of published episodes: 500
-* Last episode published: 🟢 Friday, 28 October 2022
+* Number of published episodes: 295
+* Last episode published: 🟢 Thursday, 13 October 2022
 * [Kurz informiert by heise online Website](http://www.heise.de/)
 * [Kurz informiert by heise online @ Spotify](https://open.spotify.com/show/2etf1jog8leNHbnhIArM9Z)
-* [Kurz informiert by heise online Podcast RSS](https://feeds.soundcloud.com/users/soundcloud:users:316654023/sounds.rss)
+* [Kurz informiert by heise online @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1485884061)
+* [Kurz informiert by heise online Podcast RSS](https://www.heise.de/rss/topnews-audio.rss)
 * Tags: News, Business
 
 ----
