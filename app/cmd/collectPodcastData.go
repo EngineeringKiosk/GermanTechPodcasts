@@ -3,7 +3,6 @@ package cmd
 import (
 	"context"
 	"encoding/json"
-	"errors"
 	"fmt"
 	"io"
 	"log"
@@ -110,30 +109,26 @@ func cmdCollectPodcastData(cmd *cobra.Command, args []string) error {
 			jsonFileExtension := path.Ext(f.Name())
 			imageFileName := f.Name()[0:len(f.Name())-len(jsonFileExtension)] + imageFileExtension
 			absImageFilePath := filepath.Join(jsonDir, imageFolder, imageFileName)
-			log.Printf("Downloading %s into %s", p.Feed.Artwork, absImageFilePath)
+			log.Printf("Downloading %s into %s ...", p.Feed.Artwork, absImageFilePath)
 			resp, err := downloadFile(p.Feed.Artwork, absImageFilePath)
 			if err != nil {
-				// This is not very great to check the status code.
-				// We do this already in downloadFile.
-				// A better solution would be to create a "status code error" type and check
-				// this one. But this is now quick and dirty and it works :)
-				//
-				// If this is any kind of error, exit here.
-				if resp == nil || resp.StatusCode == 200 {
-					return err
-				}
+				// Sometimes we get errors like
+				// Error: Get "http://media.gamedevpodcast.de/logo_2800.png": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+				log.Printf("Downloading %s into %s ... error: %v, status code %d", p.Feed.Artwork, absImageFilePath, err, resp.StatusCode)
 
-				// If we get a non 200 status code, but we have a target image already
+				// If we get an error, but we have a target image already
 				// (like an old one), it is better to use the old one than failing.
 				//
 				// Having the latest up to date image is not the highest priority here.
-				_, imageExistErr := os.Stat(absImageFilePath)
-				if resp.StatusCode != 200 && errors.Is(imageExistErr, os.ErrNotExist) {
-					return err
-				} else {
+				if _, imageExistErr := os.Stat(absImageFilePath); imageExistErr == nil {
 					log.Printf("We were not able to download the new image %s", p.Feed.Artwork)
 					log.Printf("The pipeline didn't fail, because the previous version %s exists", absImageFilePath)
+
+				} else {
+					return err
 				}
+			} else {
+				log.Printf("Downloading %s into %s ... successful", p.Feed.Artwork, absImageFilePath)
 			}
 
 			podcastInfo.Image = filepath.Join(imageFolder, imageFileName)
