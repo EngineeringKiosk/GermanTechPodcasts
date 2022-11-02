@@ -156,7 +156,7 @@ Prozessoren, Grafikkarten, Notebooks, Desktop-PCs, Server, KI, Rechenzentren und
 Die wöchentliche Talkrunde rund um Apple, Mac, iPod &#43; iPhone, Gadgets und so. Fast live aus München.
 
 * Number of published episodes: 10
-* Last episode published: 🟢 Sunday, 23 October 2022
+* Last episode published: 🟢 Monday, 31 October 2022
 * [Bits und so Website](http://www.bitsundso.de/)
 * [Bits und so @ Apple Podcasts](https://podcasts.apple.com/de/podcast/202753375)
 * [Bits und so Podcast RSS](http://www.bitsundso.de/feed/)
@@ -305,8 +305,8 @@ Wir sind ein Laber-Technik-Lebensweisheiten-Podcast, mit News, Retrogeschichten 
 
 Wir reden über Spieleentwicklung und allgemein über die Branche aber gehen auch ins Detail wenn es um Software, Tipps und Fragen geht.
 
-* Number of published episodes: 61
-* Last episode published: 🟢 Tuesday, 27 September 2022
+* Number of published episodes: 62
+* Last episode published: 🟢 Tuesday, 01 November 2022
 * [Der GameDev Podcast Website](https://gamedevpodcast.de/)
 * [Der GameDev Podcast @ Spotify](https://open.spotify.com/show/1AyPHtyeaeROvPtLsw1prl)
 * [Der GameDev Podcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1143613851)
@@ -337,8 +337,8 @@ Der Unterhaltungs-Podcast für .NET Entwickler
 
 Der Engineering Kiosk ist der deutschsprachige Software-Engineering-Podcast mit Wolfgang Gassler und Andy Grunwald rund um die Themen Engineering-Kultur, Open Source, Menschen, Technologie und allen anderen Bereichen, die damit in Verbindung stehen.
 
-* Number of published episodes: 43
-* Last episode published: 🟢 Tuesday, 25 October 2022
+* Number of published episodes: 44
+* Last episode published: 🟢 Tuesday, 01 November 2022
 * Weekly downloads (avg): 473 (updated: 2022-07-25)
 * [Engineering Kiosk Website](https://engineeringkiosk.dev/)
 * [Engineering Kiosk @ Spotify](https://open.spotify.com/show/0tJRC0UsObPCWLmmzmOkIs)
@@ -432,7 +432,7 @@ Der Podcast für den praktizierenden Softwarearchitekten
 Dieser Podcast ist ein Hörsaal für die Ohren meiner Studierenden an der THM und alle Interessierten. Die Themen sind u.a.: Grundlagen der Informatik (GDI), Objekt-Orientierte Programmierung (OOP/Java), Programmierung interaktiver Systeme (PiS), Quantencomputing (QC), Wissenschaftliches Arbeiten (in der Informatik) (WA bzw. WAI), Bits und Bäume: Digitalisierung nachhaltig gestalten (BuB).
 
 * Number of published episodes: 99
-* Last episode published: 🟢 Wednesday, 31 August 2022
+* Last episode published: 🟡 Wednesday, 31 August 2022
 * [Herzbergs Hörsaal Website](https://www.thm.de/site/hochschule/service/schulportal/lehrerinnen-und-lehrer/studieren-probieren/podcast-herzbergs-hoersaal.html)
 * [Herzbergs Hörsaal @ Spotify](https://open.spotify.com/show/5FDlXkn4fnAgp2ucaT7hL6)
 * [Herzbergs Hörsaal @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1510742953)
@@ -525,8 +525,8 @@ IT@DB ist ein Podcast für IT Fach- und Führungskräfte (w/m/d). Hier erhältst
 
 know Information Technology (kurz knowIT) - in diesem Sinne behandelt der Podcast aktuelle und zukünftige Themen der Informatik, mit Blick auf die wissenschaftliche Relevanz und die praktische Anwendbarkeit. Wir, das sind Prof. Dr. Claudia Heß und Prof. Dr. Sibylle Kunz, greifen Themen auf die euch und uns interessieren und besprechen diese mit Expert:innen und interessanten Gästen.
 
-* Number of published episodes: 15
-* Last episode published: 🟡 Friday, 12 August 2022
+* Number of published episodes: 16
+* Last episode published: 🟢 Monday, 31 October 2022
 * [knowIT Website](https://inside.iu-fernstudium.de/knowit/)
 * [knowIT @ Spotify](https://open.spotify.com/show/3DPCT4FTVIhmllxyZ31Z3l?si=cfb32232c536414a)
 * [knowIT @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1564646449)
@@ -556,8 +556,8 @@ Die IT-News des Tages von heise online
 
 Der Podcast über unsere digitale Lebens- und Arbeitswelt mit Markus Hörster und Christian Cordes. Alle vier Wochen dienstags um 19.00 Uhr im Radio auf Radio Okerwelle (UKW 104,6 in der Region Braunschweig) und nach der Ausstrahlung als Podcast. Wir beschäftigen uns mit allen Themen, die etwas mit Digitalien zu tun haben.
 
-* Number of published episodes: 67
-* Last episode published: 🟡 Sunday, 31 July 2022
+* Number of published episodes: 68
+* Last episode published: 🟢 Monday, 31 October 2022
 * [Logbuch Digitalien Website](https://www.logbuch-digitalien.de/)
 * [Logbuch Digitalien @ Spotify](https://open.spotify.com/show/5HxbvAOx6qOMOXbtulHji1)
 * [Logbuch Digitalien @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1240755398)
@@ -681,8 +681,8 @@ Oli und Michael sprechen über alles Wichtige aus der Welt der Open Source, Tech
 
 Wir berichten alle zwei Wochen über Open Source Anwendungen, Ideen und Konzepte aus der Industrie.
 
-* Number of published episodes: 20
-* Last episode published: 🟢 Tuesday, 18 October 2022
+* Number of published episodes: 21
+* Last episode published: 🟢 Tuesday, 01 November 2022
 * [Open Source in der Industrie Website](https://opensourcepodcast.podigee.io/)
 * [Open Source in der Industrie @ Spotify](https://open.spotify.com/show/7e0khh6f5m1NArO3ggwCSH)
 * [Open Source in der Industrie Podcast RSS](https://opensourcepodcast.podigee.io/feed/mp3)
@@ -775,8 +775,8 @@ Der etwas andere Podcast über IT-Themen. Echte Erfahrungen aus dem Feld. Ungefi
 
 Bei &#34;Software-Architektur als Beruf&#34; erzählen Menschen, wie ihr beruflicher Werdegang aussieht und welche Rolle Software-Architektur dabei spielt.
 
-* Number of published episodes: 14
-* Last episode published: 🟢 Tuesday, 20 September 2022
+* Number of published episodes: 15
+* Last episode published: 🟢 Tuesday, 01 November 2022
 * [Software-Architektur als Beruf Website](https://software-architektur.tv/beruf.html)
 * [Software-Architektur als Beruf @ Spotify](https://open.spotify.com/show/2DpgXYFgzqOvNy30pLRj0S)
 * [Software-Architektur als Beruf @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1609845784)
@@ -857,8 +857,8 @@ Ausführliche, häufig zeitlose Gespräche von Gastgeber Nico Kreiling mit wechs
 
 Sujeevan und Dirk reden über Themen, die Ihnen in der letzten Zeit untergekommen sind. Die Abkürzung &#34;TIL&#34; steht für &#34;Today I learned&#34;, es geht also um Themen, die neu für die beiden waren oder die sie in der letzten Zeit erst so richtig verstanden haben. Dazu kommen Hinweise, wie sie versuchen, ihr Arbeitsleben zu verbessern und zusätzlich gibt es auch den einen oder anderen Karrierehinweis.
 
-* Number of published episodes: 25
-* Last episode published: 🟢 Friday, 30 September 2022
+* Number of published episodes: 26
+* Last episode published: 🟢 Monday, 31 October 2022
 * [TILpod Website](https://tilpod.net/)
 * [TILpod @ Spotify](https://open.spotify.com/show/53zmbsz2sGO4UoSe8Qviyu)
 * [TILpod @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1542159410)
