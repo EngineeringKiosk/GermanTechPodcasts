@@ -92,8 +92,8 @@ Apfelfunk ist ein wöchentlicher Podcast über Apple-Themen. Jean-Claude Frick u
 
 Sie möchten beim Thema Datenschutz auf dem Laufenden bleiben, aber keine seitenlange Literatur wälzen? Dann wenden Sie sich vertrauensvoll an unser Juristen-Redakteurs-Duo. Alle 14 Tage bespricht c&#39;t-Redakteur Holger Bleich mit Joerg Heidrich aktuelle Entwicklungen rund um den Datenschutz. Joerg ist beim c&#39;t-Mutterschiff Heise Medien als Justiziar für das Thema zuständig und hat täglich mit der europäischen Datenschutz-Grundverordnung (DSGVO) zu tun. Wechselnde Gäste ergänzen das Duo.
 
-* Number of published episodes: 73
-* Last episode published: 🟢 Friday, 21 October 2022
+* Number of published episodes: 74
+* Last episode published: 🟢 Friday, 04 November 2022
 * [Auslegungssache Website](https://heise.de/-4571821)
 * [Auslegungssache @ Spotify](https://open.spotify.com/show/3Jrnu7vrTurguBaCiPapkA)
 * [Auslegungssache @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1485860893)
@@ -170,8 +170,8 @@ Die wöchentliche Talkrunde rund um Apple, Mac, iPod &#43; iPhone, Gadgets und s
 
 Mitglieder der c&#39;t-Redaktion diskutieren über die aktuellen Themen aus dem c’t Magazin und was sonst noch so in der IT-Welt passiert.
 
-* Number of published episodes: 458
-* Last episode published: 🟢 Saturday, 29 October 2022
+* Number of published episodes: 459
+* Last episode published: 🟢 Saturday, 05 November 2022
 * [c&#39;t uplink Website](https://www.heise.de/ct/entdecken/?hauptrubrik=%40ctmagazin&amp;unterrubrik=c%27t&#43;uplink)
 * [c&#39;t uplink @ Spotify](https://open.spotify.com/show/4LdN7lGr9winLtQSqoIjVD)
 * [c&#39;t uplink @ Apple Podcasts](https://podcasts.apple.com/de/podcast/835717958)
@@ -260,7 +260,7 @@ Zwei Softwareentwickler — Max und Nathan — unterhalten sich ein Getränk lan
 Jeden Samstag das Neueste aus Computertechnik und Informationstechnologie. Beiträge, Reportagen und Interviews zu IT-Sicherheit, Informatik, Datenschutz, Smartphones, Cloud-Computing und IT-Politik. Die Trends der IT werden kompakt und informativ zusammengefasst.
 
 * Number of published episodes: 20
-* Last episode published: 🟢 Saturday, 29 October 2022
+* Last episode published: 🟢 Saturday, 05 November 2022
 * [Computer und Kommunikation (Deutschlandfunk) Website](https://www.deutschlandfunk.de/computer-und-kommunikation-102.html)
 * [Computer und Kommunikation (Deutschlandfunk) @ Spotify](https://open.spotify.com/episode/3G8QHJpZPeD40gJ3YkEQoP?si=7e3e754187514d57)
 * [Computer und Kommunikation (Deutschlandfunk) @ Apple Podcasts](https://podcasts.apple.com/de/podcast/173754605)
@@ -447,8 +447,8 @@ Dieser Podcast ist ein Hörsaal für die Ohren meiner Studierenden an der THM un
 
 Du bist Entwickler/Developer? Dann Lauscher auf! Thomas und Christian sprechen im &#34;Index out of bounds&#34; Entwickler/Developer Podcast über ihre persönlichen Erfahrungen aus der Welt der Programmierung von Software, Websites, Apps und was es sonst noch so gibt. Schon seit Jahren tauschen sich die beiden leidenschaftlich gerne über Entwicklung/Development, den Spaß am Programmieren und Technologie aus. Hin und wieder sind da auch ein paar helle Momente dabei! Ein Podcast von Programmierern für Programmierer.
 
-* Number of published episodes: 38
-* Last episode published: 🟢 Sunday, 23 October 2022
+* Number of published episodes: 39
+* Last episode published: 🟢 Sunday, 06 November 2022
 * [Index out of bounds Website](https://anchor.fm/indexoutofbounds)
 * [Index out of bounds @ Spotify](https://open.spotify.com/show/2r1FGvYRkSYq4SmXyVKmnA)
 * [Index out of bounds @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1564647339)
@@ -541,7 +541,7 @@ know Information Technology (kurz knowIT) - in diesem Sinne behandelt der Podcas
 Die IT-News des Tages von heise online
 
 * Number of published episodes: 294
-* Last episode published: 🟢 Thursday, 27 October 2022
+* Last episode published: 🟢 Friday, 04 November 2022
 * [Kurz informiert by heise online Website](http://www.heise.de/)
 * [Kurz informiert by heise online @ Spotify](https://open.spotify.com/show/2etf1jog8leNHbnhIArM9Z)
 * [Kurz informiert by heise online @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1485884061)
@@ -618,8 +618,8 @@ Von Menschen für Menschen, die Software entwickeln, ist dieser Podcast gedacht.
 
 Scrum kann doch inzwischen eh jeder? Von wegen! Denn - ganz unter uns: genug falsch machen kann man ohne Probleme. Daher möchten wir über Stolpersteine sprechen, über Smells und unsere Erfahrungen mitteilen, die wir mit Scrum, Kanban und Agil im Allgemeinen gemacht haben.
 
-* Number of published episodes: 116
-* Last episode published: 🟡 Thursday, 11 August 2022
+* Number of published episodes: 117
+* Last episode published: 🟢 Friday, 04 November 2022
 * [Mein Scrum ist kaputt! Website](https://meinscrumistkaputt.de/)
 * [Mein Scrum ist kaputt! @ Spotify](https://open.spotify.com/show/7lECdowQCq0OWlf0EZnSpL)
 * [Mein Scrum ist kaputt! @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1150361013)
@@ -696,8 +696,8 @@ Wir berichten alle zwei Wochen über Open Source Anwendungen, Ideen und Konzepte
 
 Mit geballter Dev-Power nehmen Dennis, Fabi, Sebi und Jojo neue Podcastfolgen auf und werden dabei regelmäßig von Gäst:innen aus der Branche unterstützt. Taucht in unseren Deep Dives mit uns in Frameworks und Datenbanken ein, hört euch in den CTO-Specials die Erfahrungen führender Persönlichkeiten großer Unternehmen an und bleibt mit unseren News-Folgen stets am Ball in der Welt der App- und Webentwicklung.
 
-* Number of published episodes: 202
-* Last episode published: 🟢 Friday, 28 October 2022
+* Number of published episodes: 204
+* Last episode published: 🟢 Friday, 04 November 2022
 * Weekly downloads (avg): 8936 (updated: 2022-08-04)
 * [programmier.bar Website](https://www.programmier.bar/podcast)
 * [programmier.bar @ Spotify](https://open.spotify.com/show/0ik0sXv9paTQCeThcOLCCJ)
@@ -712,8 +712,8 @@ Mit geballter Dev-Power nehmen Dennis, Fabi, Sebi und Jojo neue Podcastfolgen au
 
 Sandra Parsick &amp; Daniel Zenzes präsentieren mit Ready for Review einen bunten Mix aus aktuellen IT-Themen und ihrem täglichen Entwickler-Alltag.
 
-* Number of published episodes: 34
-* Last episode published: 🟢 Tuesday, 25 October 2022
+* Number of published episodes: 35
+* Last episode published: 🟢 Sunday, 06 November 2022
 * Weekly downloads (avg): 66 (updated: 2022-07-29)
 * [Ready for Review Website](https://ready-for-review.dev/)
 * [Ready for Review @ Spotify](https://open.spotify.com/show/7dxK2wi4ZMGEYO3UHhTSc4)
@@ -791,8 +791,8 @@ Bei &#34;Software-Architektur als Beruf&#34; erzählen Menschen, wie ihr berufli
 
 Live-Diskussion zu Software-Architektur im Stream. Einmal in der Woche diskutiert Eberhard Wolff Software-Architektur im Live-Stream auf YouTube und Twitch - oft zusammen mit einem Gast. Zuschauer können über den Chat mitdiskutieren oder Fragen stellen. Der Podcast enthält die Audio-Spur des Streams.
 
-* Number of published episodes: 137
-* Last episode published: 🟢 Friday, 28 October 2022
+* Number of published episodes: 138
+* Last episode published: 🟢 Friday, 04 November 2022
 * [SoftwareArchitektur im Stream Website](https://software-architektur.tv/)
 * [SoftwareArchitektur im Stream @ Spotify](https://open.spotify.com/show/7ySg1eZoWYBshd6QpGaW8B)
 * [SoftwareArchitektur im Stream @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1538545458)
@@ -824,8 +824,8 @@ Ich bin Cedric und in diesem Podcast rede ich immer wieder mal über Informatik,
 
 Im t3n Podcast diskutiert die t3n-Redaktion mit prominenten Gästen über die spannendsten digitalen Themen unserer Zeit. Ob innovative Führungskonzepte, die Digitalisierung der Gesellschaft, smarte Gadgets, neue Mobilität oder Zukunftstechnologien. Das Update für digitale Pioniere – jede Woche neu!
 
-* Number of published episodes: 448
-* Last episode published: 🟢 Friday, 28 October 2022
+* Number of published episodes: 449
+* Last episode published: 🟢 Friday, 04 November 2022
 * [t3n Website](https://t3n.de/podcast/)
 * [t3n @ Spotify](https://open.spotify.com/show/7obTbZaywhQEiUUOMswQBQ)
 * [t3n @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1115601393)
@@ -921,8 +921,8 @@ In diesem Podcast geht es um Web und User Interface Design, Freelancing, Arbeits
 
 Latenight-Frontend-Talkshow rund um Webdesign und Entwicklung. Es reden sich um &lt;HEAD&gt; und Kragen: HTML-Fundamentalist Moritz Gießmann und JavaScript Jongleur Constantin Groß.
 
-* Number of published episodes: 47
-* Last episode published: 🟢 Saturday, 29 October 2022
+* Number of published episodes: 48
+* Last episode published: 🟢 Sunday, 06 November 2022
 * [Wo wir sind ist vorne Website](https://wowirsindistvorne.show/)
 * [Wo wir sind ist vorne @ Spotify](https://open.spotify.com/show/54K1DpiQYHBHSnIO6OzSKs)
 * [Wo wir sind ist vorne @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1500485579)
@@ -952,8 +952,8 @@ Wöchentlicher Podcast für Webdesigner:innen und -entwickler:innen
 
 Wir berichten zweiwöchentlich über News und Updates aus dem WordPress Universum.
 
-* Number of published episodes: 167
-* Last episode published: 🟢 Saturday, 22 October 2022
+* Number of published episodes: 168
+* Last episode published: 🟢 Saturday, 05 November 2022
 * [WP Sofa Website](https://wp-sofa.de/)
 * [WP Sofa @ Spotify](https://open.spotify.com/show/5deyJkxMw1cAMKGxnrx5wO)
 * [WP Sofa Podcast RSS](https://wp-sofa.de/feed/mp3/)
