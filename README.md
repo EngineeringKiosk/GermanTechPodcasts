@@ -156,7 +156,7 @@ Prozessoren, Grafikkarten, Notebooks, Desktop-PCs, Server, KI, Rechenzentren und
 Die wöchentliche Talkrunde rund um Apple, Mac, iPod &#43; iPhone, Gadgets und so. Fast live aus München.
 
 * Number of published episodes: 10
-* Last episode published: 🟢 Monday, 31 October 2022
+* Last episode published: 🟢 Monday, 07 November 2022
 * [Bits und so Website](http://www.bitsundso.de/)
 * [Bits und so @ Apple Podcasts](https://podcasts.apple.com/de/podcast/202753375)
 * [Bits und so Podcast RSS](http://www.bitsundso.de/feed/)
@@ -337,8 +337,8 @@ Der Unterhaltungs-Podcast für .NET Entwickler
 
 Der Engineering Kiosk ist der deutschsprachige Software-Engineering-Podcast mit Wolfgang Gassler und Andy Grunwald rund um die Themen Engineering-Kultur, Open Source, Menschen, Technologie und allen anderen Bereichen, die damit in Verbindung stehen.
 
-* Number of published episodes: 44
-* Last episode published: 🟢 Tuesday, 01 November 2022
+* Number of published episodes: 45
+* Last episode published: 🟢 Tuesday, 08 November 2022
 * Weekly downloads (avg): 473 (updated: 2022-07-25)
 * [Engineering Kiosk Website](https://engineeringkiosk.dev/)
 * [Engineering Kiosk @ Spotify](https://open.spotify.com/show/0tJRC0UsObPCWLmmzmOkIs)
@@ -807,8 +807,8 @@ Live-Diskussion zu Software-Architektur im Stream. Einmal in der Woche diskutier
 
 Ich bin Cedric und in diesem Podcast rede ich immer wieder mal über Informatik, Datenschutz, Sicherheit und alles erwähnenswerte. Mit dabei sind immer wieder sehr bekannte und engagierte Menschen, die Experte auf ihrem Gebiet sind.
 
-* Number of published episodes: 31
-* Last episode published: 🟢 Tuesday, 27 September 2022
+* Number of published episodes: 32
+* Last episode published: 🟢 Monday, 07 November 2022
 * Weekly downloads (avg): 180 (updated: 2022-08-01)
 * [Speak 1337 Website](https://the-morpheus.de/)
 * [Speak 1337 @ Spotify](https://open.spotify.com/show/0xlIih789FcMbZaASyhuAm)
@@ -824,8 +824,8 @@ Ich bin Cedric und in diesem Podcast rede ich immer wieder mal über Informatik,
 
 Im t3n Podcast diskutiert die t3n-Redaktion mit prominenten Gästen über die spannendsten digitalen Themen unserer Zeit. Ob innovative Führungskonzepte, die Digitalisierung der Gesellschaft, smarte Gadgets, neue Mobilität oder Zukunftstechnologien. Das Update für digitale Pioniere – jede Woche neu!
 
-* Number of published episodes: 449
-* Last episode published: 🟢 Friday, 04 November 2022
+* Number of published episodes: 450
+* Last episode published: 🟢 Monday, 07 November 2022
 * [t3n Website](https://t3n.de/podcast/)
 * [t3n @ Spotify](https://open.spotify.com/show/7obTbZaywhQEiUUOMswQBQ)
 * [t3n @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1115601393)
@@ -873,8 +873,8 @@ Sujeevan und Dirk reden über Themen, die Ihnen in der letzten Zeit untergekomme
 
 todo:cast ist ein deutschsprachiger Podcast für die großen und kleinen Fragen des Entwickler*innenalltags. Schon seit Langem tauschen sich Malte und Robin-Manuel in regelmäßigen Abständen über diverse Themen aus ihrem Alltag in der Softwareentwicklung aus. Dabei lernen sie jedes Mal etwas Neues! Warum also das Ganze nicht aufzeichnen und als Podcast zur Verfügung stellen?
 
-* Number of published episodes: 49
-* Last episode published: 🟢 Sunday, 16 October 2022
+* Number of published episodes: 50
+* Last episode published: 🟢 Monday, 07 November 2022
 * [todo:cast Website](https://todocast.io/)
 * [todo:cast @ Spotify](https://open.spotify.com/show/2tIlVD6vBAtEhOZM4jS1mw)
 * [todo:cast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1467179396)
