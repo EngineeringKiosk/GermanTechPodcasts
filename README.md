@@ -76,8 +76,8 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
 
 Apfelfunk ist ein wöchentlicher Podcast über Apple-Themen. Jean-Claude Frick und Malte Kirchner berichten und bewerten darin die Neuigkeiten über den wichtigsten Computerkonzern der Welt.
 
-* Number of published episodes: 355
-* Last episode published: 🟢 Wednesday, 23 November 2022
+* Number of published episodes: 356
+* Last episode published: 🟢 Wednesday, 30 November 2022
 * [Apfelfunk Website](http://www.apfelfunk.com/)
 * [Apfelfunk @ Spotify](https://open.spotify.com/show/7FQLyWiNhMR0KS93ReaI4h)
 * [Apfelfunk @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1081146940)
@@ -305,8 +305,8 @@ Wir sind ein Laber-Technik-Lebensweisheiten-Podcast, mit News, Retrogeschichten 
 
 Wir reden über Spieleentwicklung und allgemein über die Branche aber gehen auch ins Detail wenn es um Software, Tipps und Fragen geht.
 
-* Number of published episodes: 62
-* Last episode published: 🟢 Tuesday, 01 November 2022
+* Number of published episodes: 63
+* Last episode published: 🟢 Thursday, 01 December 2022
 * [Der GameDev Podcast Website](https://gamedevpodcast.de/)
 * [Der GameDev Podcast @ Spotify](https://open.spotify.com/show/1AyPHtyeaeROvPtLsw1prl)
 * [Der GameDev Podcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1143613851)
@@ -370,8 +370,8 @@ Der FOCUS ON: DevOps Podcast beschäftigt sich mit verschiedenen Methoden und We
 
 Der FOCUS ON: Linux Podcast beschäftigt sich mit verschiedenen Themen rund um Linux. Unser Ziel ist es, euch monatlich über die Entwicklungen und Neuigkeiten zu informieren und auch praktische Tool-Tipps an die Hand zu geben.
 
-* Number of published episodes: 18
-* Last episode published: 🟢 Friday, 25 November 2022
+* Number of published episodes: 19
+* Last episode published: 🟢 Thursday, 01 December 2022
 * Weekly downloads (avg): 710 (updated: 2022-10-26)
 * [FOCUS ON: Linux Website](https://ageofdevops.de/index.php/series/fol/)
 * [FOCUS ON: Linux @ Spotify](https://open.spotify.com/show/4Yj9EaidQuwEZL0NkAafzh)
@@ -478,8 +478,8 @@ In dieser Serie diskutieren wir interessante Themen aus Software-Entwicklung und
 
 Nur etwas mehr als 60 Jahre liegen zwischen dem ersten Start eines Motorflugzeugs und dem ersten bemannten Flug zum Mond. Das Handy wurde in nur 30 Jahren zum wichtigsten Kommunikationskanal unserer Zeit. Und IT? Die entwickelt sich nicht weniger rasant und macht in einer vernetzten und digitalen Welt vor keinem Bereich mehr halt. Im Podcast sprechen wir über Trendthemen, die zwar nichts mit Raketenwissenschaft zu tun haben, dafür aber Menschen auf dem Weg in eine digitale Zukunft begleiten. Bist Du bereit?
 
-* Number of published episodes: 48
-* Last episode published: 🟢 Wednesday, 16 November 2022
+* Number of published episodes: 49
+* Last episode published: 🟢 Wednesday, 30 November 2022
 * [IT ist alles Website](https://www.pco-online.de/magazin/2020/07/podcast)
 * [IT ist alles @ Spotify](https://open.spotify.com/show/46EUTeJsHSfscbkrI38f6p)
 * [IT ist alles @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1524049773)
@@ -696,8 +696,8 @@ Wir berichten alle zwei Wochen über Open Source Anwendungen, Ideen und Konzepte
 
 Mit geballter Dev-Power nehmen Dennis, Fabi, Sebi und Jojo neue Podcastfolgen auf und werden dabei regelmäßig von Gäst:innen aus der Branche unterstützt. Taucht in unseren Deep Dives mit uns in Frameworks und Datenbanken ein, hört euch in den CTO-Specials die Erfahrungen führender Persönlichkeiten großer Unternehmen an und bleibt mit unseren News-Folgen stets am Ball in der Welt der App- und Webentwicklung.
 
-* Number of published episodes: 208
-* Last episode published: 🟢 Wednesday, 23 November 2022
+* Number of published episodes: 209
+* Last episode published: 🟢 Wednesday, 30 November 2022
 * Weekly downloads (avg): 8936 (updated: 2022-08-04)
 * [programmier.bar Website](https://www.programmier.bar/podcast)
 * [programmier.bar @ Spotify](https://open.spotify.com/show/0ik0sXv9paTQCeThcOLCCJ)
@@ -857,8 +857,8 @@ Ausführliche, häufig zeitlose Gespräche von Gastgeber Nico Kreiling mit wechs
 
 Sujeevan und Dirk reden über Themen, die Ihnen in der letzten Zeit untergekommen sind. Die Abkürzung &#34;TIL&#34; steht für &#34;Today I learned&#34;, es geht also um Themen, die neu für die beiden waren oder die sie in der letzten Zeit erst so richtig verstanden haben. Dazu kommen Hinweise, wie sie versuchen, ihr Arbeitsleben zu verbessern und zusätzlich gibt es auch den einen oder anderen Karrierehinweis.
 
-* Number of published episodes: 26
-* Last episode published: 🟢 Monday, 31 October 2022
+* Number of published episodes: 27
+* Last episode published: 🟢 Wednesday, 30 November 2022
 * [TILpod Website](https://tilpod.net/)
 * [TILpod @ Spotify](https://open.spotify.com/show/53zmbsz2sGO4UoSe8Qviyu)
 * [TILpod @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1542159410)
