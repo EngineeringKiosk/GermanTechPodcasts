@@ -110,11 +110,11 @@ func cmdCollectPodcastData(cmd *cobra.Command, args []string) error {
 			imageFileName := f.Name()[0:len(f.Name())-len(jsonFileExtension)] + imageFileExtension
 			absImageFilePath := filepath.Join(jsonDir, imageFolder, imageFileName)
 			log.Printf("Downloading %s into %s ...", p.Feed.Artwork, absImageFilePath)
-			resp, err := downloadFile(p.Feed.Artwork, absImageFilePath)
+			_, err = downloadFile(p.Feed.Artwork, absImageFilePath)
 			if err != nil {
 				// Sometimes we get errors like
 				// Error: Get "http://media.gamedevpodcast.de/logo_2800.png": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
-				log.Printf("Downloading %s into %s ... error: %v, status code %d", p.Feed.Artwork, absImageFilePath, err, resp.StatusCode)
+				log.Printf("Downloading %s into %s ... error: %v", p.Feed.Artwork, absImageFilePath, err)
 
 				// If we get an error, but we have a target image already
 				// (like an old one), it is better to use the old one than failing.
@@ -179,7 +179,6 @@ func downloadFile(address, fileName string) (*http.Response, error) {
 	}
 	req.Header.Set("User-Agent", defaultUserAgent)
 	response, err := client.Do(req)
-
 	if err != nil {
 		return response, err
 	}
