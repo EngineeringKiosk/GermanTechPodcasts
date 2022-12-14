@@ -635,7 +635,7 @@ Scrum kann doch inzwischen eh jeder? Von wegen! Denn - ganz unter uns: genug fal
 Wir thematisieren die wichtigen Fragestellungen rund um Internet, Gesellschaft und Politik und zeigen Wege auf, wie man sich auch selbst mit Hilfe des Netzes für digitale Freiheiten und Offenheit engagieren kann. Mit netzpolitik.org beschreiben wir, wie die Politik das Internet durch Regulierung verändert und wie das Netz Politik, Öffentlichkeiten und alles andere verändert.
 
 * Number of published episodes: 25
-* Last episode published: 🟢 Saturday, 10 December 2022
+* Last episode published: 🟢 Wednesday, 14 December 2022
 * [Netzpolitik Website](https://netzpolitik.org/podcast/)
 * [Netzpolitik @ Spotify](https://open.spotify.com/show/2GLuMhSNEFzUIXfx9BDxBt)
 * [Netzpolitik @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1281525246)
@@ -696,8 +696,8 @@ Wir berichten alle zwei Wochen über Open Source Anwendungen, Ideen und Konzepte
 
 Mit geballter Dev-Power nehmen Dennis, Fabi, Sebi und Jojo neue Podcastfolgen auf und werden dabei regelmäßig von Gäst:innen aus der Branche unterstützt. Taucht in unseren Deep Dives mit uns in Frameworks und Datenbanken ein, hört euch in den CTO-Specials die Erfahrungen führender Persönlichkeiten großer Unternehmen an und bleibt mit unseren News-Folgen stets am Ball in der Welt der App- und Webentwicklung.
 
-* Number of published episodes: 211
-* Last episode published: 🟢 Wednesday, 07 December 2022
+* Number of published episodes: 212
+* Last episode published: 🟢 Wednesday, 14 December 2022
 * Weekly downloads (avg): 8936 (updated: 2022-08-04)
 * [programmier.bar Website](https://www.programmier.bar/podcast)
 * [programmier.bar @ Spotify](https://open.spotify.com/show/0ik0sXv9paTQCeThcOLCCJ)
