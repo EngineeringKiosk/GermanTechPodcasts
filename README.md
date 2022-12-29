@@ -4,7 +4,7 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (62 podcasts)
+* [Podcasts](#podcasts) (63 podcasts)
   * [Apfelfunk](#apfelfunk)
   * [Auslegungssache](#auslegungssache)
   * [Autoweird](#autoweird)
@@ -52,6 +52,7 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
   * [Request for Comments](#request-for-comments)
   * [Schwarz, Code, Gold – Deutschland, Entwicklungsland?](#schwarz-code-gold-deutschland-entwicklungsland)
   * [SELECTrageFROMit;](#selectragefromit)
+  * [She for what? She for IT!](#she-for-what-she-for-it)
   * [She Likes Tech](#she-likes-tech)
   * [Software-Architektur als Beruf](#software-architektur-als-beruf)
   * [SoftwareArchitektur im Stream](#softwarearchitektur-im-stream)
@@ -806,6 +807,21 @@ Der etwas andere Podcast über IT-Themen. Echte Erfahrungen aus dem Feld. Ungefi
 * [SELECTrageFROMit; @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1547576873)
 * [SELECTrageFROMit; Podcast RSS](https://anchor.fm/s/6c46c0c8/podcast/rss)
 * Tags: DevOps, Admin, Hardware
+
+----
+
+<h3 id="she-for-what-she-for-it">She for what? She for IT!</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/she-for-what-she-for-it.jpg" />
+
+Fünf schnelle Fragen an…. In unserem She for IT Podcast geht es um Themen rund um IT und digitale Transformation – und das mit der besonderen weiblichen Note. Unsere Moderatorinnen interviewen IT-Frauen, die etwas zu sagen haben. Locker, spannend und kurzweilig. Hören Sie rein, wo immer Sie auch sind. Langeweile ist woanders!
+
+* Number of published episodes: 33
+* Last episode published: 🟢 Thursday, 08 December 2022
+* [She for what? She for IT! Website](https://www.adesso.de/de/unternehmen/she-for-it/podcasts.jsp)
+* [She for what? She for IT! @ Spotify](https://open.spotify.com/show/2WKgGIRsBWp7VkC5hMI66p)
+* [She for what? She for IT! @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1538127890)
+* [She for what? She for IT! Podcast RSS](https://sheforwhat-sheforit.podigee.io/feed/mp3)
 
 ----
 
