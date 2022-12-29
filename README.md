@@ -4,7 +4,7 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (58 podcasts)
+* [Podcasts](#podcasts) (59 podcasts)
   * [Apfelfunk](#apfelfunk)
   * [Auslegungssache](#auslegungssache)
   * [Autoweird](#autoweird)
@@ -23,6 +23,7 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
   * [Der GameDev Podcast](#der-gamedev-podcast)
   * [DevCouch](#devcouch)
   * [Engineering Kiosk](#engineering-kiosk)
+  * [Female TechTalk](#female-techtalk)
   * [FOCUS ON: DevOps](#focus-on-devops)
   * [FOCUS ON: Linux](#focus-on-linux)
   * [Freakshow](#freakshow)
@@ -348,6 +349,21 @@ Der Engineering Kiosk ist der deutschsprachige Software-Engineering-Podcast mit 
 * [Engineering Kiosk @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1603082924)
 * [Engineering Kiosk Podcast RSS](https://feeds.redcircle.com/0ecfdfd7-fda1-4c3d-9515-476727f9df5e)
 * Tags: Development, Tech-Kultur, Open Source
+
+----
+
+<h3 id="female-techtalk">Female TechTalk</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/female-tech-talk.jpg" />
+
+Student*innen der Informatik, die einen Podcast machen, damit ihr alle checkt wie geil Informatik eigentlich ist.
+
+* Number of published episodes: 26
+* Last episode published: 🟢 Wednesday, 14 December 2022
+* [Female TechTalk Website](https://www.female-techtalk.com/)
+* [Female TechTalk @ Spotify](https://open.spotify.com/show/23CmXEDANTleEB6hmeVj4W)
+* [Female TechTalk @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1589781968)
+* [Female TechTalk Podcast RSS](https://anchor.fm/s/58b9bd94/podcast/rss)
 
 ----
 
