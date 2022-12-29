@@ -4,7 +4,7 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (57 podcasts)
+* [Podcasts](#podcasts) (58 podcasts)
   * [Apfelfunk](#apfelfunk)
   * [Auslegungssache](#auslegungssache)
   * [Autoweird](#autoweird)
@@ -53,6 +53,7 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
   * [Software-Architektur als Beruf](#software-architektur-als-beruf)
   * [SoftwareArchitektur im Stream](#softwarearchitektur-im-stream)
   * [Speak 1337](#speak-1337)
+  * [Super Duper Developers Club](#super-duper-developers-club)
   * [t3n](#t3n)
   * [Techtiefen](#techtiefen)
   * [TILpod](#tilpod)
@@ -470,7 +471,7 @@ In dieser Serie diskutieren wir interessante Themen aus Software-Entwicklung und
 * [INNOQ Podcast @ Spotify](https://open.spotify.com/show/20svL8wDDgtidO2Qwf3EWx?si=c91210785679436e)
 * [INNOQ Podcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/672695146)
 * [INNOQ Podcast Podcast RSS](https://innoq.podigee.io/feed/aac)
-* Tags: Software-Entwicklung, Software-Architektur
+* Tags: Softwareentwicklung, Software-Architektur
 
 ----
 
@@ -753,7 +754,7 @@ Digitalisierung in Deutschland? Sagen wir mal so: Niemand klebt sich heute das Q
 * [Schwarz, Code, Gold – Deutschland, Entwicklungsland? @ Spotify](https://open.spotify.com/show/5hXUx2Y3sbCL9O5xPdE8i6)
 * [Schwarz, Code, Gold – Deutschland, Entwicklungsland? @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1597296417)
 * [Schwarz, Code, Gold – Deutschland, Entwicklungsland? Podcast RSS](https://feed.schwarz-code-gold.de)
-* Tags: Softwarentwicklung, Made in Germany, Computerspiele, Digtalisierung, E-Health, Startups
+* Tags: Softwareentwicklung, Made in Germany, Computerspiele, Digtalisierung, E-Health, Startups
 
 ----
 
@@ -819,6 +820,22 @@ Ich bin Cedric und in diesem Podcast rede ich immer wieder mal über Informatik,
 * [Speak 1337 @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1577956101)
 * [Speak 1337 Podcast RSS](https://anchor.fm/s/c821b10/podcast/rss)
 * Tags: Informatik, Datenschutz, Sicherheit
+
+----
+
+<h3 id="super-duper-developers-club">Super Duper Developers Club</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/super-duper-developers-club.jpg" />
+
+Jede Woche setzen wir uns mit Expert:innen aus der Webentwicklung zusammen. Immer eine Stunde und immer ein neues Thema. Wir glauben, dass zu guten und erfolgreichen Web-Projekte immer mehr gehört, als nur Programmierung. All diese Bestandteile werden in unserem Podcast besprochen.
+
+* Number of published episodes: 11
+* Last episode published: 🟢 Tuesday, 13 December 2022
+* [Super Duper Developers Club Website](https://superdev.club/podcasts/)
+* [Super Duper Developers Club @ Spotify](https://open.spotify.com/show/5Ax1DMiSeTUTHMZwxtX1yR)
+* [Super Duper Developers Club @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1649104892)
+* [Super Duper Developers Club Podcast RSS](https://anchor.fm/s/bcd04b04/podcast/rss)
+* Tags: Webentwicklung, Softwareentwicklung, Web
 
 ----
 
