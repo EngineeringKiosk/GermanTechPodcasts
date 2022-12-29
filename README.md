@@ -4,7 +4,7 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (60 podcasts)
+* [Podcasts](#podcasts) (61 podcasts)
   * [Apfelfunk](#apfelfunk)
   * [Auslegungssache](#auslegungssache)
   * [Autoweird](#autoweird)
@@ -46,6 +46,7 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
   * [Neuland](#neuland)
   * [Open Source Couch](#open-source-couch)
   * [Open Source in der Industrie](#open-source-in-der-industrie)
+  * [Percepticon](#percepticon)
   * [programmier.bar](#programmier-bar)
   * [Ready for Review](#ready-for-review)
   * [Request for Comments](#request-for-comments)
@@ -709,6 +710,22 @@ Wir berichten alle zwei Wochen über Open Source Anwendungen, Ideen und Konzepte
 * [Open Source in der Industrie @ Spotify](https://open.spotify.com/show/7e0khh6f5m1NArO3ggwCSH)
 * [Open Source in der Industrie Podcast RSS](https://opensourcepodcast.podigee.io/feed/mp3)
 * Tags: Industrie, Open Source
+
+----
+
+<h3 id="percepticon">Percepticon</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/percepticon.jpg" />
+
+Ein Podcast über die dunkle Seite der Digitalisierung: Spionage, Hacker, Sabotage, Subversion, Desinformation und die Cyber Konflikte der Vergangenheit und Zukunft. Irgendwo zwischen IT-Sicherheit und Cyber Security geht es um die großen Linien, um eine kritische, politik- bzw. sozialwissenschaftliche Einordnung der Phänomene, statt um das Verbreiten von FUD: Fear, Uncertainty and Doubt. Betrieben wird das ganze von Dr. Matthias Schulze, der unter percepticon.de schon seit Jahren dazu bloggt.
+
+* Number of published episodes: 30
+* Last episode published: 🟡 Monday, 24 October 2022
+* [Percepticon Website](https://percepticon.de/category/podcast/)
+* [Percepticon @ Spotify](https://open.spotify.com/show/1BgA82Dtniy7Aaj2aktJI2)
+* [Percepticon @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1458318548)
+* [Percepticon Podcast RSS](https://percepticon.de/category/podcast/feed/podcast/)
+* Tags: IT-Sicherheit, Cyber Security, Sicherheitspolitik
 
 ----
 

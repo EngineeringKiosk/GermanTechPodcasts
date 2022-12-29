@@ -1,0 +1,22 @@
+{
+ "name": "Percepticon",
+ "slug": "percepticon",
+ "website": "https://percepticon.de/category/podcast/",
+ "podcastIndexID": 760638,
+ "rssFeed": "https://percepticon.de/category/podcast/feed/podcast/",
+ "spotify": "https://open.spotify.com/show/1BgA82Dtniy7Aaj2aktJI2",
+ "description": "Ein Podcast über die dunkle Seite der Digitalisierung: Spionage, Hacker, Sabotage, Subversion, Desinformation und die Cyber Konflikte der Vergangenheit und Zukunft. Irgendwo zwischen IT-Sicherheit und Cyber Security geht es um die großen Linien, um eine kritische, politik- bzw. sozialwissenschaftliche Einordnung der Phänomene, statt um das Verbreiten von FUD: Fear, Uncertainty and Doubt. Betrieben wird das ganze von Dr. Matthias Schulze, der unter percepticon.de schon seit Jahren dazu bloggt.",
+ "tags": [
+  "IT-Sicherheit",
+  "Cyber Security",
+  "Sicherheitspolitik"
+ ],
+ "weekly_downloads_avg": {
+  "value": 0,
+  "updated": ""
+ },
+ "episodeCount": 30,
+ "latestEpisodePublished": 1666601673,
+ "itunesID": 1458318548,
+ "image": "images/percepticon.jpg"
+}
