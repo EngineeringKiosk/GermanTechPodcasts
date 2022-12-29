@@ -4,7 +4,7 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (61 podcasts)
+* [Podcasts](#podcasts) (62 podcasts)
   * [Apfelfunk](#apfelfunk)
   * [Auslegungssache](#auslegungssache)
   * [Autoweird](#autoweird)
@@ -61,6 +61,7 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
   * [Techtiefen](#techtiefen)
   * [TILpod](#tilpod)
   * [todo:cast](#todo-cast)
+  * [Unmute IT](#unmute-it)
   * [Wartungsfenster](#wartungsfenster)
   * [Web &amp; Design Podcast](#web-and-design-podcast)
   * [Wo wir sind ist vorne](#wo-wir-sind-ist-vorne)
@@ -949,6 +950,20 @@ todo:cast ist ein deutschsprachiger Podcast für die großen und kleinen Fragen 
 * [todo:cast @ Spotify](https://open.spotify.com/show/2tIlVD6vBAtEhOZM4jS1mw)
 * [todo:cast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1467179396)
 * [todo:cast Podcast RSS](https://feeds.soundcloud.com/users/soundcloud:users:637814493/sounds.rss)
+
+----
+
+<h3 id="unmute-it">Unmute IT</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/unmute-it.jpg" />
+
+Wir sind UNMUTE IT, der Podcast von und mit Frauen aus der IT. Wir erzählen von unseren Erfahrungen, begegneten Herausforderungen, Tipps &amp; Tricks und teilen die eine oder andere Anekdote. Frauen gehören in STEM Felder.Mit unserer Präsenz wollen wir dies untermauern und Frauen motivieren, sich mit dem Thema zu beschäftigen und den Schritt in die IT zu gehen.
+
+* Number of published episodes: 27
+* Last episode published: 🟢 Saturday, 24 December 2022
+* [Unmute IT Website](https://linkr.bio/unmute-it)
+* [Unmute IT @ Spotify](https://open.spotify.com/show/4v3xXuY5Km98xnmeXeGZgx)
+* [Unmute IT Podcast RSS](https://feeds.soundcloud.com/users/soundcloud:users:965624446/sounds.rss)
 
 ----
 
