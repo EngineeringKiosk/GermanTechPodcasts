@@ -76,8 +76,8 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
 
 Apfelfunk ist ein wöchentlicher Podcast über Apple-Themen. Jean-Claude Frick und Malte Kirchner berichten und bewerten darin die Neuigkeiten über den wichtigsten Computerkonzern der Welt.
 
-* Number of published episodes: 359
-* Last episode published: 🟢 Wednesday, 21 December 2022
+* Number of published episodes: 360
+* Last episode published: 🟢 Thursday, 29 December 2022
 * [Apfelfunk Website](http://www.apfelfunk.com/)
 * [Apfelfunk @ Spotify](https://open.spotify.com/show/7FQLyWiNhMR0KS93ReaI4h)
 * [Apfelfunk @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1081146940)
@@ -216,7 +216,7 @@ Ein Podcast über den nahezu unendlich tiefen Kaninchenbau der mechanische Tasta
 Jonathan und Ingmar sprechen übers Programmieren und Ausliefern von Software Projekten. Außerdem tauschen die beiden Bremer sich über Tools, Frameworks und das Leben als Softwareentwickler aus.
 
 * Number of published episodes: 46
-* Last episode published: 🟡 Tuesday, 28 June 2022
+* Last episode published: 🔴 Tuesday, 28 June 2022
 * [Code and Ship Website](https://codeandship.rocks/)
 * [Code and Ship @ Spotify](https://open.spotify.com/show/68VGe4DFCUxvcJp44VDVL3)
 * [Code and Ship @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1458278980)
