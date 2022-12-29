@@ -110,10 +110,12 @@ Sie möchten beim Thema Datenschutz auf dem Laufenden bleiben, aber keine seiten
 
 * Number of published episodes: 119
 * Last episode published: 🟢 Sunday, 11 December 2022
+* Weekly downloads (avg): 175 (updated: 2022-12-29)
 * [Autoweird Website](https://autoweird.fm/)
 * [Autoweird @ Spotify](https://open.spotify.com/show/6TDrYLHYxoo7VjvSglunew?si=5a668ec0ee144db2)
 * [Autoweird @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1180414602)
 * [Autoweird Podcast RSS](http://autoweird.fm/feed/podcast/)
+* Tags: Software-Crafting, Agilität, Softskills, Nerdquatsch, Funktionale Programmierung, Testing, Development Trends, Craft-Beer
 
 ----
 
@@ -228,7 +230,7 @@ Jonathan und Ingmar sprechen übers Programmieren und Ausliefern von Software Pr
 
 <img align="right" width="215" height="215" src="./generated/images/code-culture.jpg" />
 
-Lucas Rott und Markus Herhoffer erzählen von Code und Nerd-Kultur.
+Lucas Rott und Markus Herhoffer erzählen alle 14 Tage von Code und Nerd-Kultur. Mit News aus der Tech-Bubble, einem Thema der Woche über Software development und dem Code der Woche.
 
 * Number of published episodes: 93
 * Last episode published: 🟢 Sunday, 04 December 2022
@@ -621,11 +623,12 @@ Scrum kann doch inzwischen eh jeder? Von wegen! Denn - ganz unter uns: genug fal
 
 * Number of published episodes: 119
 * Last episode published: 🟢 Friday, 16 December 2022
+* Weekly downloads (avg): 14449 (updated: 2022-12-28)
 * [Mein Scrum ist kaputt! Website](https://meinscrumistkaputt.de/)
 * [Mein Scrum ist kaputt! @ Spotify](https://open.spotify.com/show/7lECdowQCq0OWlf0EZnSpL)
 * [Mein Scrum ist kaputt! @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1150361013)
 * [Mein Scrum ist kaputt! Podcast RSS](https://meinscrumistkaputt.de/feed/podcast/)
-* Tags: Agilität, Scrum, Kanban
+* Tags: Agilität, Scrum, Kanban, Management, Agile, Agile Software Development, Product Owner, Scrum Master, Product Management, Project Management
 
 ----
 

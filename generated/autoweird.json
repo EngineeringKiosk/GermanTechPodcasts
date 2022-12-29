@@ -6,10 +6,19 @@
  "rssFeed": "http://autoweird.fm/feed/podcast/",
  "spotify": "https://open.spotify.com/show/6TDrYLHYxoo7VjvSglunew?si=5a668ec0ee144db2",
  "description": "@Autoweird.fm ist der regelmäßig erscheinende Podcast rund um die Themen Software Entwicklung, Agilität und Software Crafting.",
- "tags": null,
+ "tags": [
+  "Software-Crafting",
+  "Agilität",
+  "Softskills",
+  "Nerdquatsch",
+  "Funktionale Programmierung",
+  "Testing",
+  "Development Trends",
+  "Craft-Beer"
+ ],
  "weekly_downloads_avg": {
-  "value": 0,
-  "updated": ""
+  "value": 175,
+  "updated": "2022-12-29"
  },
  "episodeCount": 119,
  "latestEpisodePublished": 1670770369,
