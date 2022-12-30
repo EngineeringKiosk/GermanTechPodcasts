@@ -119,7 +119,7 @@ Sie möchten beim Thema Datenschutz auf dem Laufenden bleiben, aber keine seiten
 * Last episode published: 🟢 Sunday, 11 December 2022
 * Weekly downloads (avg): 175 (updated: 2022-12-29)
 * [Autoweird Website](https://autoweird.fm/)
-* [Autoweird @ Spotify](https://open.spotify.com/show/6TDrYLHYxoo7VjvSglunew?si=5a668ec0ee144db2)
+* [Autoweird @ Spotify](https://open.spotify.com/show/6TDrYLHYxoo7VjvSglunew)
 * [Autoweird @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1180414602)
 * [Autoweird Podcast RSS](http://autoweird.fm/feed/podcast/)
 * Tags: Software-Crafting, Agilität, Softskills, Nerdquatsch, Funktionale Programmierung, Testing, Development Trends, Craft-Beer
@@ -242,7 +242,7 @@ Lucas Rott und Markus Herhoffer erzählen alle 14 Tage von Code und Nerd-Kultur.
 * Number of published episodes: 94
 * Last episode published: 🟢 Thursday, 29 December 2022
 * [Code Culture Website](https://codeculture.podigee.io/)
-* [Code Culture @ Spotify](https://open.spotify.com/show/01ZL2aPP50lLW51u2aTOkN?si=634b3a94fc844b0e)
+* [Code Culture @ Spotify](https://open.spotify.com/show/01ZL2aPP50lLW51u2aTOkN)
 * [Code Culture @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1516904389)
 * [Code Culture Podcast RSS](https://codeculture.podigee.io/feed/mp3)
 
@@ -271,7 +271,7 @@ Jeden Samstag das Neueste aus Computertechnik und Informationstechnologie. Beitr
 * Number of published episodes: 20
 * Last episode published: 🟢 Saturday, 17 December 2022
 * [Computer und Kommunikation (Deutschlandfunk) Website](https://www.deutschlandfunk.de/computer-und-kommunikation-102.html)
-* [Computer und Kommunikation (Deutschlandfunk) @ Spotify](https://open.spotify.com/episode/3G8QHJpZPeD40gJ3YkEQoP?si=7e3e754187514d57)
+* [Computer und Kommunikation (Deutschlandfunk) @ Spotify](https://open.spotify.com/show/4uy56W83RGe8SKmzNpyfAc)
 * [Computer und Kommunikation (Deutschlandfunk) @ Apple Podcasts](https://podcasts.apple.com/de/podcast/173754605)
 * [Computer und Kommunikation (Deutschlandfunk) Podcast RSS](https://www.deutschlandfunk.de/computer-und-kommunikation-102.xml)
 * Tags: News
@@ -428,7 +428,7 @@ Nothing But Tech - Aus Deutschland, der Schweiz und den USA. geek-week.de berich
 * Number of published episodes: 100
 * Last episode published: 🟡 Monday, 18 July 2022
 * [GeekWeek Website](https://geek-week.de/)
-* [GeekWeek @ Spotify](https://open.spotify.com/show/4GrgnNFNgHNbZxu6DVxJIy?si=5d2fb5a2e6bd4639)
+* [GeekWeek @ Spotify](https://open.spotify.com/show/4GrgnNFNgHNbZxu6DVxJIy)
 * [GeekWeek Podcast RSS](https://geekweekde.libsyn.com/rss)
 * Tags: News, Hardware, Cloud
 
@@ -489,7 +489,7 @@ In dieser Serie diskutieren wir interessante Themen aus Software-Entwicklung und
 * Number of published episodes: 116
 * Last episode published: 🟢 Sunday, 25 December 2022
 * [INNOQ Podcast Website](https://www.innoq.com/de/podcast/)
-* [INNOQ Podcast @ Spotify](https://open.spotify.com/show/20svL8wDDgtidO2Qwf3EWx?si=c91210785679436e)
+* [INNOQ Podcast @ Spotify](https://open.spotify.com/show/20svL8wDDgtidO2Qwf3EWx)
 * [INNOQ Podcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/672695146)
 * [INNOQ Podcast Podcast RSS](https://innoq.podigee.io/feed/aac)
 * Tags: Softwareentwicklung, Software-Architektur
@@ -553,7 +553,7 @@ know Information Technology (kurz knowIT) - in diesem Sinne behandelt der Podcas
 * Number of published episodes: 16
 * Last episode published: 🟢 Monday, 31 October 2022
 * [knowIT Website](https://inside.iu-fernstudium.de/knowit/)
-* [knowIT @ Spotify](https://open.spotify.com/show/3DPCT4FTVIhmllxyZ31Z3l?si=cfb32232c536414a)
+* [knowIT @ Spotify](https://open.spotify.com/show/3DPCT4FTVIhmllxyZ31Z3l)
 * [knowIT @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1564646449)
 * [knowIT Podcast RSS](https://anchor.fm/s/57935150/podcast/rss)
 
