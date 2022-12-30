@@ -1,0 +1,20 @@
+{
+ "name": "t3n Daily",
+ "slug": "t3n-daily",
+ "website": "https://t3n.de/podcast#daily",
+ "podcastIndexID": 5682696,
+ "rssFeed": "https://t3n-daily.podigee.io/feed/mp3",
+ "spotify": "https://open.spotify.com/show/1Fc1zS8yvRS7Zf0leKn54o",
+ "description": "Dein täglicher Podcast mit dem, was wichtig war und was wichtig wird im digitalen Kosmos und dem Arbeitsleben der Zukunft. Die perfekte Begleitung zum Abschluss des Arbeitstages und auf dem Weg in den Abend.",
+ "tags": [
+  "News"
+ ],
+ "weekly_downloads_avg": {
+  "value": 0,
+  "updated": ""
+ },
+ "episodeCount": 79,
+ "latestEpisodePublished": 1671811200,
+ "itunesID": 1643152920,
+ "image": "images/t3n-daily.jpg"
+}

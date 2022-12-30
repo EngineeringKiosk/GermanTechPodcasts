@@ -1,15 +1,12 @@
 {
- "name": "t3n",
- "slug": "t3n",
- "website": "https://t3n.de/podcast/",
+ "name": "t3n Interview",
+ "slug": "t3n-interview",
+ "website": "https://t3n.de/podcast#interview",
  "podcastIndexID": 1317486,
  "rssFeed": "https://t3n-podcast.podigee.io/feed/mp3",
  "spotify": "https://open.spotify.com/show/7obTbZaywhQEiUUOMswQBQ",
- "description": "Im t3n Podcast diskutiert die t3n-Redaktion mit prominenten Gästen über die spannendsten digitalen Themen unserer Zeit. Ob innovative Führungskonzepte, die Digitalisierung der Gesellschaft, smarte Gadgets, neue Mobilität oder Zukunftstechnologien. Das Update für digitale Pioniere – jede Woche neu!",
- "tags": [
-  "News",
-  "Business"
- ],
+ "description": "In diesem Podcast diskutiert die t3n-Redaktion mit Gästen über die spannendsten digitalen Themen unserer Zeit. Ob innovative Führungskonzepte, die Digitalisierung der Gesellschaft, smarte Gadgets, neue Mobilität oder Zukunftstechnologien. Jeden Freitag um 10 Uhr!",
+ "tags": null,
  "weekly_downloads_avg": {
   "value": 0,
   "updated": ""
@@ -17,5 +14,5 @@
  "episodeCount": 463,
  "latestEpisodePublished": 1671786000,
  "itunesID": 1115601393,
- "image": "images/t3n.jpg"
+ "image": "images/t3n-interview.jpg"
 }

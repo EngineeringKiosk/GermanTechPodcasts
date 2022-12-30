@@ -4,7 +4,7 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (64 podcasts)
+* [Podcasts](#podcasts) (66 podcasts)
   * [Apfelfunk](#apfelfunk)
   * [Auslegungssache](#auslegungssache)
   * [Autoweird](#autoweird)
@@ -59,7 +59,9 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
   * [SoftwareArchitektur im Stream](#softwarearchitektur-im-stream)
   * [Speak 1337](#speak-1337)
   * [Super Duper Developers Club](#super-duper-developers-club)
-  * [t3n](#t3n)
+  * [t3n Catch up](#t3n-catch-up)
+  * [t3n Daily](#t3n-daily)
+  * [t3n Interview](#t3n-interview)
   * [Techtiefen](#techtiefen)
   * [TILpod](#tilpod)
   * [todo:cast](#todo-cast)
@@ -922,19 +924,49 @@ Jede Woche setzen wir uns mit Expert:innen aus der Webentwicklung zusammen. Imme
 
 ----
 
-<h3 id="t3n">t3n</h3>
+<h3 id="t3n-catch-up">t3n Catch up</h3>
 
-<img align="right" width="215" height="215" src="./generated/images/t3n.jpg" />
+<img align="right" width="215" height="215" src="./generated/images/t3n-catch-up.jpg" />
 
-Im t3n Podcast diskutiert die t3n-Redaktion mit prominenten Gästen über die spannendsten digitalen Themen unserer Zeit. Ob innovative Führungskonzepte, die Digitalisierung der Gesellschaft, smarte Gadgets, neue Mobilität oder Zukunftstechnologien. Das Update für digitale Pioniere – jede Woche neu!
+Digitalisierung ist komplex. Heute entsteht dies, morgen das. Und was übermorgen noch wichtig ist, wissen die wenigsten. Wir schon! Im Podcast besprechen wir mit den Expert:innen unserer Redaktion die wichtigsten Entwicklungen der Woche und der Zukunft. Wir geben Wissensvorsprung und Impulse.
+
+* Number of published episodes: 27
+* Last episode published: 🟢 Wednesday, 21 December 2022
+* [t3n Catch up Website](https://t3n.de/podcast#catchup)
+* [t3n Catch up @ Spotify](https://open.spotify.com/show/0Bjrzu6l2RtRRyvTf0QEKQ)
+* [t3n Catch up @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1627024991)
+* [t3n Catch up Podcast RSS](https://t3n-catch-up.podigee.io/feed/mp3)
+
+----
+
+<h3 id="t3n-daily">t3n Daily</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/t3n-daily.jpg" />
+
+Dein täglicher Podcast mit dem, was wichtig war und was wichtig wird im digitalen Kosmos und dem Arbeitsleben der Zukunft. Die perfekte Begleitung zum Abschluss des Arbeitstages und auf dem Weg in den Abend.
+
+* Number of published episodes: 79
+* Last episode published: 🟢 Friday, 23 December 2022
+* [t3n Daily Website](https://t3n.de/podcast#daily)
+* [t3n Daily @ Spotify](https://open.spotify.com/show/1Fc1zS8yvRS7Zf0leKn54o)
+* [t3n Daily @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1643152920)
+* [t3n Daily Podcast RSS](https://t3n-daily.podigee.io/feed/mp3)
+* Tags: News
+
+----
+
+<h3 id="t3n-interview">t3n Interview</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/t3n-interview.jpg" />
+
+In diesem Podcast diskutiert die t3n-Redaktion mit Gästen über die spannendsten digitalen Themen unserer Zeit. Ob innovative Führungskonzepte, die Digitalisierung der Gesellschaft, smarte Gadgets, neue Mobilität oder Zukunftstechnologien. Jeden Freitag um 10 Uhr!
 
 * Number of published episodes: 463
 * Last episode published: 🟢 Friday, 23 December 2022
-* [t3n Website](https://t3n.de/podcast/)
-* [t3n @ Spotify](https://open.spotify.com/show/7obTbZaywhQEiUUOMswQBQ)
-* [t3n @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1115601393)
-* [t3n Podcast RSS](https://t3n-podcast.podigee.io/feed/mp3)
-* Tags: News, Business
+* [t3n Interview Website](https://t3n.de/podcast#interview)
+* [t3n Interview @ Spotify](https://open.spotify.com/show/7obTbZaywhQEiUUOMswQBQ)
+* [t3n Interview @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1115601393)
+* [t3n Interview Podcast RSS](https://t3n-podcast.podigee.io/feed/mp3)
 
 ----
 

@@ -1,0 +1,18 @@
+{
+ "name": "t3n Catch up",
+ "slug": "t3n-catch-up",
+ "website": "https://t3n.de/podcast#catchup",
+ "podcastIndexID": 5481185,
+ "rssFeed": "https://t3n-catch-up.podigee.io/feed/mp3",
+ "spotify": "https://open.spotify.com/show/0Bjrzu6l2RtRRyvTf0QEKQ",
+ "description": "Digitalisierung ist komplex. Heute entsteht dies, morgen das. Und was übermorgen noch wichtig ist, wissen die wenigsten. Wir schon! Im Podcast besprechen wir mit den Expert:innen unserer Redaktion die wichtigsten Entwicklungen der Woche und der Zukunft. Wir geben Wissensvorsprung und Impulse.",
+ "tags": null,
+ "weekly_downloads_avg": {
+  "value": 0,
+  "updated": ""
+ },
+ "episodeCount": 27,
+ "latestEpisodePublished": 1671598800,
+ "itunesID": 1627024991,
+ "image": "images/t3n-catch-up.jpg"
+}
