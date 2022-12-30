@@ -4,7 +4,7 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (66 podcasts)
+* [Podcasts](#podcasts) (59 podcasts)
   * [Apfelfunk](#apfelfunk)
   * [Auslegungssache](#auslegungssache)
   * [Autoweird](#autoweird)
@@ -12,11 +12,8 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
   * [Bit-Rauschen](#bit-rauschen)
   * [Bits und so](#bits-und-so)
   * [c&#39;t uplink](#ct-uplink)
-  * [Chaosradio](#chaosradio)
   * [Click! Clack! Hack!](#click-clack-hack)
-  * [Code and Ship](#code-and-ship)
   * [Code Culture](#code-culture)
-  * [Codestammtisch](#codestammtisch)
   * [Computer und Kommunikation (Deutschlandfunk)](#computer-und-kommunikation-deutschlandfunk)
   * [Das Duumvirat](#das-duumvirat)
   * [DAS WAR SCHON KAPUTT](#das-war-schon-kaputt)
@@ -26,9 +23,7 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
   * [Female TechTalk](#female-techtalk)
   * [FOCUS ON: DevOps](#focus-on-devops)
   * [FOCUS ON: Linux](#focus-on-linux)
-  * [Freakshow](#freakshow)
   * [GeekWeek](#geekweek)
-  * [heise Developer: SoftwareArchitekTOUR](#heise-developer-softwarearchitektour)
   * [Herzbergs Hörsaal](#herzbergs-horsaal)
   * [Index out of bounds](#index-out-of-bounds)
   * [INNOQ Podcast](#innoq-podcast)
@@ -50,9 +45,7 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
   * [Percepticon](#percepticon)
   * [programmier.bar](#programmier-bar)
   * [Ready for Review](#ready-for-review)
-  * [Request for Comments](#request-for-comments)
   * [Schwarz, Code, Gold – Deutschland, Entwicklungsland?](#schwarz-code-gold-deutschland-entwicklungsland)
-  * [SELECTrageFROMit;](#selectragefromit)
   * [She for what? She for IT!](#she-for-what-she-for-it)
   * [She Likes Tech](#she-likes-tech)
   * [Software-Architektur als Beruf](#software-architektur-als-beruf)
@@ -71,6 +64,14 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
   * [Wo wir sind ist vorne](#wo-wir-sind-ist-vorne)
   * [Working Draft](#working-draft)
   * [WP Sofa](#wp-sofa)
+* [Archived podcasts](#archived-podcasts) (7 podcasts)
+  * [Chaosradio](#chaosradio)
+  * [Code and Ship](#code-and-ship)
+  * [Codestammtisch](#codestammtisch)
+  * [Freakshow](#freakshow)
+  * [heise Developer: SoftwareArchitekTOUR](#heise-developer-softwarearchitektour)
+  * [Request for Comments](#request-for-comments)
+  * [SELECTrageFROMit;](#selectragefromit)
 * [Legend](#legend)
 * [How to contribute](#how-to-contribute)
 * [Frequently Asked Questions](#frequently-asked-questions)
@@ -190,21 +191,6 @@ Mitglieder der c&#39;t-Redaktion diskutieren über die aktuellen Themen aus dem 
 
 ----
 
-<h3 id="chaosradio">Chaosradio</h3>
-
-<img align="right" width="215" height="215" src="./generated/images/chaosradio.png" />
-
-Im monatlichen Chaosradio informiert der Chaos Computer Club Berlin seit 1995 über die Auswirkungen von Technik auf die Gesellschaft.
-
-* Number of published episodes: 266
-* Last episode published: 🔴 Sunday, 26 June 2022
-* [Chaosradio Website](https://chaosradio.de/)
-* [Chaosradio @ Apple Podcasts](https://podcasts.apple.com/de/podcast/135057225)
-* [Chaosradio Podcast RSS](https://chaosradio.de/feed/m4a)
-* Tags: Chaos Computer Club, Gesellschaft
-
-----
-
 <h3 id="click-clack-hack">Click! Clack! Hack!</h3>
 
 <img align="right" width="215" height="215" src="./generated/images/click-clack-hack.png" />
@@ -220,21 +206,6 @@ Ein Podcast über den nahezu unendlich tiefen Kaninchenbau der mechanische Tasta
 
 ----
 
-<h3 id="code-and-ship">Code and Ship</h3>
-
-<img align="right" width="215" height="215" src="./generated/images/code-and-ship.jpg" />
-
-Jonathan und Ingmar sprechen übers Programmieren und Ausliefern von Software Projekten. Außerdem tauschen die beiden Bremer sich über Tools, Frameworks und das Leben als Softwareentwickler aus.
-
-* Number of published episodes: 46
-* Last episode published: 🔴 Tuesday, 28 June 2022
-* [Code and Ship Website](https://codeandship.rocks/)
-* [Code and Ship @ Spotify](https://open.spotify.com/show/68VGe4DFCUxvcJp44VDVL3)
-* [Code and Ship @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1458278980)
-* [Code and Ship Podcast RSS](https://codeandship.rocks/podcast/index.xml)
-
-----
-
 <h3 id="code-culture">Code Culture</h3>
 
 <img align="right" width="215" height="215" src="./generated/images/code-culture.jpg" />
@@ -247,20 +218,6 @@ Lucas Rott und Markus Herhoffer erzählen alle 14 Tage von Code und Nerd-Kultur.
 * [Code Culture @ Spotify](https://open.spotify.com/show/01ZL2aPP50lLW51u2aTOkN)
 * [Code Culture @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1516904389)
 * [Code Culture Podcast RSS](https://codeculture.podigee.io/feed/mp3)
-
-----
-
-<h3 id="codestammtisch">Codestammtisch</h3>
-
-<img align="right" width="215" height="215" src="./generated/images/codestammtisch.jpg" />
-
-Zwei Softwareentwickler — Max und Nathan — unterhalten sich ein Getränk lang über Themen aus der Softwareentwicklung. Da beide keine Ahnung von Bier haben, aber es gerne trinken, trinken die beiden meistens Bier.
-
-* Number of published episodes: 91
-* Last episode published: 🔴 Monday, 25 April 2022
-* [Codestammtisch Website](https://codestammtis.ch/)
-* [Codestammtisch @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1410854302)
-* [Codestammtisch Podcast RSS](https://codestammtis.ch/feed/mp3/)
 
 ----
 
@@ -407,20 +364,6 @@ Der FOCUS ON: Linux Podcast beschäftigt sich mit verschiedenen Themen rund um L
 
 ----
 
-<h3 id="freakshow">Freakshow</h3>
-
-<img align="right" width="215" height="215" src="./generated/images/freakshow.jpg" />
-
-Freak Show ist ein Podcast, der sich mit dem Leben mit Technik im 21. Jahrhundert auseinandersetzt und dabei eine Vielzahl von Themen anschneidet. Es ist kein Geheimnis, dass das Team sich viel und gerne mit Apple und seinen Produkten, Programmierung, Bitcoin, Gitarren, Podcasting und anderen Lastern herumschlägt. Aber wir reden auch über was anderes.
-
-* Number of published episodes: 264
-* Last episode published: 🔴 Friday, 12 November 2021
-* [Freakshow Website](https://freakshow.fm/)
-* [Freakshow @ Apple Podcasts](https://podcasts.apple.com/de/podcast/277518737)
-* [Freakshow Podcast RSS](https://feeds.metaebene.me/freakshow/m4a)
-
-----
-
 <h3 id="geekweek">GeekWeek</h3>
 
 <img align="right" width="215" height="215" src="./generated/images/geekweek.jpg" />
@@ -433,21 +376,6 @@ Nothing But Tech - Aus Deutschland, der Schweiz und den USA. geek-week.de berich
 * [GeekWeek @ Spotify](https://open.spotify.com/show/4GrgnNFNgHNbZxu6DVxJIy)
 * [GeekWeek Podcast RSS](https://geekweekde.libsyn.com/rss)
 * Tags: News, Hardware, Cloud
-
-----
-
-<h3 id="heise-developer-softwarearchitektour">heise Developer: SoftwareArchitekTOUR</h3>
-
-<img align="right" width="215" height="215" src="./generated/images/heise-developer-softwarearchitektour.png" />
-
-Der Podcast für den praktizierenden Softwarearchitekten
-
-* Number of published episodes: 92
-* Last episode published: 🔴 Wednesday, 08 June 2022
-* [heise Developer: SoftwareArchitekTOUR Website](https://www.heise.de/developer/SoftwareArchitekTOUR-4076349.html)
-* [heise Developer: SoftwareArchitekTOUR @ Spotify](https://open.spotify.com/show/2Uc7vL8U6kUZYSCOvDIJ67)
-* [heise Developer: SoftwareArchitekTOUR @ Apple Podcasts](https://podcasts.apple.com/de/podcast/313825047)
-* [heise Developer: SoftwareArchitekTOUR Podcast RSS](https://softwarearchitektour.podigee.io/feed/mp3)
 
 ----
 
@@ -783,20 +711,6 @@ Sandra Parsick &amp; Daniel Zenzes präsentieren mit Ready for Review einen bunt
 
 ----
 
-<h3 id="request-for-comments">Request for Comments</h3>
-
-<img align="right" width="215" height="215" src="./generated/images/requests-for-comments.jpg" />
-
-RFC definieren das Internet. Nahezu jeder Informationsaustausch zwischen zwei Rechnern verläuft über Protokolle, die einmal durch einen Request for Comments definiert und standardisiert wurden. Genug Material, um darüber zu reden.
-
-* Number of published episodes: 20
-* Last episode published: 🔴 Monday, 18 May 2020
-* [Request for Comments Website](https://requestforcomments.de/)
-* [Request for Comments @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1082223939)
-* [Request for Comments Podcast RSS](https://requestforcomments.de/feed/m4a)
-
-----
-
 <h3 id="schwarz-code-gold-deutschland-entwicklungsland">Schwarz, Code, Gold – Deutschland, Entwicklungsland?</h3>
 
 <img align="right" width="215" height="215" src="./generated/images/schwarz-code-gold-deutschland-entwicklungsland.jpeg" />
@@ -810,22 +724,6 @@ Digitalisierung in Deutschland? Sagen wir mal so: Niemand klebt sich heute das Q
 * [Schwarz, Code, Gold – Deutschland, Entwicklungsland? @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1597296417)
 * [Schwarz, Code, Gold – Deutschland, Entwicklungsland? Podcast RSS](https://feed.schwarz-code-gold.de)
 * Tags: Softwareentwicklung, Made in Germany, Computerspiele, Digtalisierung, E-Health, Startups
-
-----
-
-<h3 id="selectragefromit">SELECTrageFROMit;</h3>
-
-<img align="right" width="215" height="215" src="./generated/images/select-rage-from-it.jpeg" />
-
-Der etwas andere Podcast über IT-Themen. Echte Erfahrungen aus dem Feld. Ungefiltert, ehrlich, ungeschnitten. (Mitschnitt von Twitch Live Diskussionen zwischen IT-Administratoren)
-
-* Number of published episodes: 3
-* Last episode published: 🔴 Wednesday, 03 February 2021
-* [SELECTrageFROMit; Website](https://linktr.ee/selectragefromit)
-* [SELECTrageFROMit; @ Spotify](https://open.spotify.com/show/0grOBOKTLvtBKwj9ZpxpAW)
-* [SELECTrageFROMit; @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1547576873)
-* [SELECTrageFROMit; Podcast RSS](https://anchor.fm/s/6c46c0c8/podcast/rss)
-* Tags: DevOps, Admin, Hardware
 
 ----
 
@@ -1108,6 +1006,113 @@ Wir berichten zweiwöchentlich über News und Updates aus dem WordPress Universu
 * [WP Sofa @ Spotify](https://open.spotify.com/show/5deyJkxMw1cAMKGxnrx5wO)
 * [WP Sofa Podcast RSS](https://wp-sofa.de/feed/mp3/)
 * Tags: Wordpress
+
+----
+
+
+## Archived podcasts
+
+
+<h3 id="chaosradio">Chaosradio</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/chaosradio.png" />
+
+Im monatlichen Chaosradio informiert der Chaos Computer Club Berlin seit 1995 über die Auswirkungen von Technik auf die Gesellschaft.
+
+* Number of published episodes: 266
+* Last episode published: 🔴 Sunday, 26 June 2022
+* [Chaosradio Website](https://chaosradio.de/)
+* [Chaosradio @ Apple Podcasts](https://podcasts.apple.com/de/podcast/135057225)
+* [Chaosradio Podcast RSS](https://chaosradio.de/feed/m4a)
+* Tags: Chaos Computer Club, Gesellschaft
+
+----
+
+<h3 id="code-and-ship">Code and Ship</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/code-and-ship.jpg" />
+
+Jonathan und Ingmar sprechen übers Programmieren und Ausliefern von Software Projekten. Außerdem tauschen die beiden Bremer sich über Tools, Frameworks und das Leben als Softwareentwickler aus.
+
+* Number of published episodes: 46
+* Last episode published: 🔴 Tuesday, 28 June 2022
+* [Code and Ship Website](https://codeandship.rocks/)
+* [Code and Ship @ Spotify](https://open.spotify.com/show/68VGe4DFCUxvcJp44VDVL3)
+* [Code and Ship @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1458278980)
+* [Code and Ship Podcast RSS](https://codeandship.rocks/podcast/index.xml)
+
+----
+
+<h3 id="codestammtisch">Codestammtisch</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/codestammtisch.jpg" />
+
+Zwei Softwareentwickler — Max und Nathan — unterhalten sich ein Getränk lang über Themen aus der Softwareentwicklung. Da beide keine Ahnung von Bier haben, aber es gerne trinken, trinken die beiden meistens Bier.
+
+* Number of published episodes: 91
+* Last episode published: 🔴 Monday, 25 April 2022
+* [Codestammtisch Website](https://codestammtis.ch/)
+* [Codestammtisch @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1410854302)
+* [Codestammtisch Podcast RSS](https://codestammtis.ch/feed/mp3/)
+
+----
+
+<h3 id="freakshow">Freakshow</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/freakshow.jpg" />
+
+Freak Show ist ein Podcast, der sich mit dem Leben mit Technik im 21. Jahrhundert auseinandersetzt und dabei eine Vielzahl von Themen anschneidet. Es ist kein Geheimnis, dass das Team sich viel und gerne mit Apple und seinen Produkten, Programmierung, Bitcoin, Gitarren, Podcasting und anderen Lastern herumschlägt. Aber wir reden auch über was anderes.
+
+* Number of published episodes: 264
+* Last episode published: 🔴 Friday, 12 November 2021
+* [Freakshow Website](https://freakshow.fm/)
+* [Freakshow @ Apple Podcasts](https://podcasts.apple.com/de/podcast/277518737)
+* [Freakshow Podcast RSS](https://feeds.metaebene.me/freakshow/m4a)
+
+----
+
+<h3 id="heise-developer-softwarearchitektour">heise Developer: SoftwareArchitekTOUR</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/heise-developer-softwarearchitektour.png" />
+
+Der Podcast für den praktizierenden Softwarearchitekten
+
+* Number of published episodes: 92
+* Last episode published: 🔴 Wednesday, 08 June 2022
+* [heise Developer: SoftwareArchitekTOUR Website](https://www.heise.de/developer/SoftwareArchitekTOUR-4076349.html)
+* [heise Developer: SoftwareArchitekTOUR @ Spotify](https://open.spotify.com/show/2Uc7vL8U6kUZYSCOvDIJ67)
+* [heise Developer: SoftwareArchitekTOUR @ Apple Podcasts](https://podcasts.apple.com/de/podcast/313825047)
+* [heise Developer: SoftwareArchitekTOUR Podcast RSS](https://softwarearchitektour.podigee.io/feed/mp3)
+
+----
+
+<h3 id="request-for-comments">Request for Comments</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/requests-for-comments.jpg" />
+
+RFC definieren das Internet. Nahezu jeder Informationsaustausch zwischen zwei Rechnern verläuft über Protokolle, die einmal durch einen Request for Comments definiert und standardisiert wurden. Genug Material, um darüber zu reden.
+
+* Number of published episodes: 20
+* Last episode published: 🔴 Monday, 18 May 2020
+* [Request for Comments Website](https://requestforcomments.de/)
+* [Request for Comments @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1082223939)
+* [Request for Comments Podcast RSS](https://requestforcomments.de/feed/m4a)
+
+----
+
+<h3 id="selectragefromit">SELECTrageFROMit;</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/select-rage-from-it.jpeg" />
+
+Der etwas andere Podcast über IT-Themen. Echte Erfahrungen aus dem Feld. Ungefiltert, ehrlich, ungeschnitten. (Mitschnitt von Twitch Live Diskussionen zwischen IT-Administratoren)
+
+* Number of published episodes: 3
+* Last episode published: 🔴 Wednesday, 03 February 2021
+* [SELECTrageFROMit; Website](https://linktr.ee/selectragefromit)
+* [SELECTrageFROMit; @ Spotify](https://open.spotify.com/show/0grOBOKTLvtBKwj9ZpxpAW)
+* [SELECTrageFROMit; @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1547576873)
+* [SELECTrageFROMit; Podcast RSS](https://anchor.fm/s/6c46c0c8/podcast/rss)
+* Tags: DevOps, Admin, Hardware
 
 ----
 
