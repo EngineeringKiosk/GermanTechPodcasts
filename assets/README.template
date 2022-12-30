@@ -4,8 +4,12 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) ({{ len . }} podcasts)
-  {{- range $podcast := . }}
+* [Podcasts](#podcasts) ({{ len .Active }} podcasts)
+  {{- range $podcast := .Active }}
+  * [{{ $podcast.Name }}](#{{ $podcast.Slug }})
+  {{- end }}
+* [Archived podcasts](#archived-podcasts) ({{ len .Archived }} podcasts)
+  {{- range $podcast := .Archived }}
   * [{{ $podcast.Name }}](#{{ $podcast.Slug }})
   {{- end }}
 * [Legend](#legend)
@@ -15,7 +19,28 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
 
 ## Podcasts
 
-{{ range $podcast := . }}
+{{ range $podcast := .Active }}
+<h3 id="{{ $podcast.Slug }}">{{ $podcast.Name }}</h3>
+{{ if $podcast.Image }}
+<img align="right" width="215" height="215" src="./generated/{{ $podcast.Image }}" />
+{{end}}
+{{ $podcast.Description }}
+{{ if gt $podcast.EpisodeCount 0 }}
+* Number of published episodes: {{ $podcast.EpisodeCount }}{{- end }}{{ if gt $podcast.LatestEpisodePublished 0 }}
+* Last episode published: {{ $podcast.GetLastEpisodeStatus }} {{ $podcast.GetHumanReadableDate }}{{- end }}{{ if $podcast.WeeklyDownloadsAVG.Updated }}
+* Weekly downloads (avg): {{ $podcast.WeeklyDownloadsAVG.Value }} (updated: {{ $podcast.WeeklyDownloadsAVG.Updated }}){{- end }}
+* [{{ $podcast.Name }} Website]({{ $podcast.Website }}){{ if $podcast.Spotify }}
+* [{{ $podcast.Name }} @ Spotify]({{ $podcast.Spotify }}){{- end }}{{ if $podcast.ItunesID }}
+* [{{ $podcast.Name }} @ Apple Podcasts](https://podcasts.apple.com/de/podcast/{{ $podcast.ItunesID }}){{- end }}
+* [{{ $podcast.Name }} Podcast RSS]({{ $podcast.RSSFeed }}){{ if $podcast.Tags }}
+* Tags: {{ $podcast.TagsAsList }}{{end}}
+
+----
+{{ end }}
+
+## Archived podcasts
+
+{{ range $podcast := .Archived }}
 <h3 id="{{ $podcast.Slug }}">{{ $podcast.Name }}</h3>
 {{ if $podcast.Image }}
 <img align="right" width="215" height="215" src="./generated/{{ $podcast.Image }}" />
