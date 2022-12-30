@@ -1,0 +1,22 @@
+{
+ "name": "Mind the Tech",
+ "slug": "mind-the-tech",
+ "website": "https://www.mindthetech.de/",
+ "podcastIndexID": 421690,
+ "rssFeed": "https://mind-the-tech.podigee.io/feed/mp3",
+ "spotify": "https://open.spotify.com/show/6FydYmBjELizU8k8DOIcaA",
+ "description": "Mind the Tech ist ein Podcast, der die dunklen Seiten der IT- und Tech-Welt beleuchtet. Dazu zählen legendäre Hackerangriffe, Datendiebstähle und Cyberattacken. Ebenso kommen die unzähligen Geschichten von Menschen auf den Tisch, die es mit Recht und Gesetz im Web nicht so ernst nehmen – und irgendwann die Konsequenzen ihres Handelns zu spüren bekommen. Wir widmen uns Antitrends und Mythen, stellen Entwicklungen im und rund ums Internet in Frage, wägen ab. Denn wir sind fest davon überzeugt: Nur wenn wir uns ihren Schattenseiten widmen, können wir die (digitale) Welt zu einem besseren Ort machen.",
+ "tags": [
+  "Cyber",
+  "Crime",
+  "Gesellschaft"
+ ],
+ "weekly_downloads_avg": {
+  "value": 0,
+  "updated": ""
+ },
+ "episodeCount": 53,
+ "latestEpisodePublished": 1672043400,
+ "itunesID": 1515173582,
+ "image": "images/mind-the-tech.png"
+}

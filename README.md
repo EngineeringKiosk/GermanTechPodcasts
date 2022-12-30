@@ -4,7 +4,7 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (63 podcasts)
+* [Podcasts](#podcasts) (64 podcasts)
   * [Apfelfunk](#apfelfunk)
   * [Auslegungssache](#auslegungssache)
   * [Autoweird](#autoweird)
@@ -42,6 +42,7 @@ A curated list of German Tech Podcasts :de: :austria: :switzerland:
   * [Mac &amp; I](#mac-and-i)
   * [Macht der Craft](#macht-der-craft)
   * [Mein Scrum ist kaputt!](#mein-scrum-ist-kaputt)
+  * [Mind the Tech](#mind-the-tech)
   * [Netzpolitik](#netzpolitik)
   * [Neuland](#neuland)
   * [Open Source Couch](#open-source-couch)
@@ -653,6 +654,22 @@ Scrum kann doch inzwischen eh jeder? Von wegen! Denn - ganz unter uns: genug fal
 
 ----
 
+<h3 id="mind-the-tech">Mind the Tech</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/mind-the-tech.png" />
+
+Mind the Tech ist ein Podcast, der die dunklen Seiten der IT- und Tech-Welt beleuchtet. Dazu zählen legendäre Hackerangriffe, Datendiebstähle und Cyberattacken. Ebenso kommen die unzähligen Geschichten von Menschen auf den Tisch, die es mit Recht und Gesetz im Web nicht so ernst nehmen – und irgendwann die Konsequenzen ihres Handelns zu spüren bekommen. Wir widmen uns Antitrends und Mythen, stellen Entwicklungen im und rund ums Internet in Frage, wägen ab. Denn wir sind fest davon überzeugt: Nur wenn wir uns ihren Schattenseiten widmen, können wir die (digitale) Welt zu einem besseren Ort machen.
+
+* Number of published episodes: 53
+* Last episode published: 🟢 Monday, 26 December 2022
+* [Mind the Tech Website](https://www.mindthetech.de/)
+* [Mind the Tech @ Spotify](https://open.spotify.com/show/6FydYmBjELizU8k8DOIcaA)
+* [Mind the Tech @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1515173582)
+* [Mind the Tech Podcast RSS](https://mind-the-tech.podigee.io/feed/mp3)
+* Tags: Cyber, Crime, Gesellschaft
+
+----
+
 <h3 id="netzpolitik">Netzpolitik</h3>
 
 <img align="right" width="215" height="215" src="./generated/images/netzpolitik.jpg" />
@@ -660,7 +677,7 @@ Scrum kann doch inzwischen eh jeder? Von wegen! Denn - ganz unter uns: genug fal
 Wir thematisieren die wichtigen Fragestellungen rund um Internet, Gesellschaft und Politik und zeigen Wege auf, wie man sich auch selbst mit Hilfe des Netzes für digitale Freiheiten und Offenheit engagieren kann. Mit netzpolitik.org beschreiben wir, wie die Politik das Internet durch Regulierung verändert und wie das Netz Politik, Öffentlichkeiten und alles andere verändert.
 
 * Number of published episodes: 25
-* Last episode published: 🟢 Saturday, 17 December 2022
+* Last episode published: 🟢 Friday, 30 December 2022
 * [Netzpolitik Website](https://netzpolitik.org/podcast/)
 * [Netzpolitik @ Spotify](https://open.spotify.com/show/2GLuMhSNEFzUIXfx9BDxBt)
 * [Netzpolitik @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1281525246)
