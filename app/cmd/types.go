@@ -5,6 +5,11 @@ import (
 	"time"
 )
 
+const (
+	// Number of months until a podcast is marked as dead (aka archived)
+	TimeToArchive = -6
+)
+
 type PodcastInformation struct {
 	Name                   string    `yaml:"name" json:"name"`
 	Slug                   string    `json:"slug"`
@@ -17,6 +22,7 @@ type PodcastInformation struct {
 	WeeklyDownloadsAVG     Statistic `yaml:"weekly_downloads_avg" json:"weekly_downloads_avg"`
 	EpisodeCount           int       `json:"episodeCount"`
 	LatestEpisodePublished int64     `json:"latestEpisodePublished"`
+	Archive                bool      `json:"archive"`
 	ItunesID               int64     `json:"itunesID"`
 	Image                  string    `json:"image"`
 }

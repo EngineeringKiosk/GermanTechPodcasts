@@ -148,6 +148,15 @@ func cmdCollectPodcastData(cmd *cobra.Command, args []string) error {
 				}
 			}
 			podcastInfo.LatestEpisodePublished = latestEpisodePublished
+
+			// Determine if this podcast is dead
+			podcastInfo.Archive = false
+			t := time.Unix(podcastInfo.LatestEpisodePublished, 0)
+			archivedTime := time.Now().AddDate(0, TimeToArchive, 0)
+			if t.Before(archivedTime) {
+				podcastInfo.Archive = true
+			}
+
 		} else {
 			log.Printf("Skipping data retrieval from PodcastIndex for %s, because PodcastIndex is %d", absJsonFilePath, podcastInfo.PodcastIndexID)
 		}

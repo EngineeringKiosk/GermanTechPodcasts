@@ -62,7 +62,8 @@ func cmdConvertJsonToReadme(cmd *cobra.Command, args []string) error {
 	}
 	log.Printf("%d files found with extension %s in directory %s", len(jsonFiles), io.JSONExtension, jsonDir)
 
-	podcasts := make([]*PodcastInformation, 0)
+	activePodcasts := make([]*PodcastInformation, 0)
+	archivedPodcasts := make([]*PodcastInformation, 0)
 	for _, f := range jsonFiles {
 		absJsonFilePath := filepath.Join(jsonDir, f.Name())
 		log.Printf("Processing file %s", absJsonFilePath)
@@ -77,13 +78,22 @@ func cmdConvertJsonToReadme(cmd *cobra.Command, args []string) error {
 			return err
 		}
 
-		podcasts = append(podcasts, podcastInfo)
+		if podcastInfo.Archive {
+			archivedPodcasts = append(archivedPodcasts, podcastInfo)
+		} else {
+			activePodcasts = append(activePodcasts, podcastInfo)
+		}
 	}
 
-	log.Printf("Sorting %d podcasts by name", len(podcasts))
 	// Sort list by name
-	sort.Slice(podcasts, func(i, j int) bool {
-		return strings.ToLower(podcasts[i].Name) < strings.ToLower(podcasts[j].Name)
+	log.Printf("Sorting %d active podcasts by name", len(activePodcasts))
+	sort.Slice(activePodcasts, func(i, j int) bool {
+		return strings.ToLower(activePodcasts[i].Name) < strings.ToLower(activePodcasts[j].Name)
+	})
+
+	log.Printf("Sorting %d archived podcasts by name", len(archivedPodcasts))
+	sort.Slice(archivedPodcasts, func(i, j int) bool {
+		return strings.ToLower(archivedPodcasts[i].Name) < strings.ToLower(archivedPodcasts[j].Name)
 	})
 
 	log.Printf("Read template file %s from disk", readmeTemplate)
@@ -96,6 +106,14 @@ func cmdConvertJsonToReadme(cmd *cobra.Command, args []string) error {
 	readmeTarget, err := os.Create(readmeOutput)
 	if err != nil {
 		return err
+	}
+
+	podcasts := struct {
+		Active   []*PodcastInformation
+		Archived []*PodcastInformation
+	}{
+		Active:   activePodcasts,
+		Archived: archivedPodcasts,
 	}
 
 	// Render the template
