@@ -42,6 +42,9 @@ jobs:
       - name: GermanTechPodcasts Convert JSON to README
         run: ./GermanTechPodcasts convertJsonToReadme --json-directory ../generated --readme-template ../assets/README.template --readme-output ../README.md
 
+      - name: GermanTechPodcasts Render OPML file
+        run: ./GermanTechPodcasts generateOpml --json-directory ../generated --opml-output ../podcasts.opml
+
       # Commit results back to repository
       - uses: stefanzweifel/git-auto-commit-action@v4.16.0
         env:
