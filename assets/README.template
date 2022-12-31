@@ -2,6 +2,8 @@
 
 A curated list of German Tech Podcasts :de: :austria: :switzerland:
 
+All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml) to import those into your podcatcher as well.
+
 ## Table of Contents
 
 * [Podcasts](#podcasts) ({{ len .Active }} podcasts)
