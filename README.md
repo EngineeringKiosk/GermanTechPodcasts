@@ -230,7 +230,7 @@ Lucas Rott und Markus Herhoffer erzählen alle 14 Tage von Code und Nerd-Kultur.
 Jeden Samstag das Neueste aus Computertechnik und Informationstechnologie. Beiträge, Reportagen und Interviews zu IT-Sicherheit, Informatik, Datenschutz, Smartphones, Cloud-Computing und IT-Politik. Die Trends der IT werden kompakt und informativ zusammengefasst.
 
 * Number of published episodes: 20
-* Last episode published: 🟢 Saturday, 17 December 2022
+* Last episode published: 🟢 Saturday, 31 December 2022
 * [Computer und Kommunikation (Deutschlandfunk) Website](https://www.deutschlandfunk.de/computer-und-kommunikation-102.html)
 * [Computer und Kommunikation (Deutschlandfunk) @ Spotify](https://open.spotify.com/show/4uy56W83RGe8SKmzNpyfAc)
 * [Computer und Kommunikation (Deutschlandfunk) @ Apple Podcasts](https://podcasts.apple.com/de/podcast/173754605)
@@ -330,6 +330,7 @@ Student*innen der Informatik, die einen Podcast machen, damit ihr alle checkt wi
 * [Female TechTalk @ Spotify](https://open.spotify.com/show/23CmXEDANTleEB6hmeVj4W)
 * [Female TechTalk @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1589781968)
 * [Female TechTalk Podcast RSS](https://anchor.fm/s/58b9bd94/podcast/rss)
+* Tags: Female host
 
 ----
 
@@ -483,11 +484,12 @@ IT@DB ist ein Podcast für IT Fach- und Führungskräfte (w/m/d). Hier erhältst
 know Information Technology (kurz knowIT) - in diesem Sinne behandelt der Podcast aktuelle und zukünftige Themen der Informatik, mit Blick auf die wissenschaftliche Relevanz und die praktische Anwendbarkeit. Wir, das sind Prof. Dr. Claudia Heß und Prof. Dr. Sibylle Kunz, greifen Themen auf die euch und uns interessieren und besprechen diese mit Expert:innen und interessanten Gästen.
 
 * Number of published episodes: 16
-* Last episode published: 🟢 Monday, 31 October 2022
+* Last episode published: 🟡 Monday, 31 October 2022
 * [knowIT Website](https://inside.iu-fernstudium.de/knowit/)
 * [knowIT @ Spotify](https://open.spotify.com/show/3DPCT4FTVIhmllxyZ31Z3l)
 * [knowIT @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1564646449)
 * [knowIT Podcast RSS](https://anchor.fm/s/57935150/podcast/rss)
+* Tags: Female host
 
 ----
 
@@ -582,7 +584,7 @@ Scrum kann doch inzwischen eh jeder? Von wegen! Denn - ganz unter uns: genug fal
 * [Mein Scrum ist kaputt! @ Spotify](https://open.spotify.com/show/7lECdowQCq0OWlf0EZnSpL)
 * [Mein Scrum ist kaputt! @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1150361013)
 * [Mein Scrum ist kaputt! Podcast RSS](https://meinscrumistkaputt.de/feed/podcast/)
-* Tags: Agilität, Scrum, Kanban, Management, Agile, Agile Software Development, Product Owner, Scrum Master, Product Management, Project Management
+* Tags: Agilität, Scrum, Kanban, Management, Agile, Agile Software Development, Product Owner, Scrum Master, Product Management, Project Management, Female host
 
 ----
 
@@ -598,7 +600,7 @@ Mind the Tech ist ein Podcast, der die dunklen Seiten der IT- und Tech-Welt bele
 * [Mind the Tech @ Spotify](https://open.spotify.com/show/6FydYmBjELizU8k8DOIcaA)
 * [Mind the Tech @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1515173582)
 * [Mind the Tech Podcast RSS](https://mind-the-tech.podigee.io/feed/mp3)
-* Tags: Cyber, Crime, Gesellschaft
+* Tags: Cyber, Crime, Gesellschaft, Female host
 
 ----
 
@@ -709,7 +711,7 @@ Sandra Parsick &amp; Daniel Zenzes präsentieren mit Ready for Review einen bunt
 * [Ready for Review @ Spotify](https://open.spotify.com/show/7dxK2wi4ZMGEYO3UHhTSc4)
 * [Ready for Review @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1535026156)
 * [Ready for Review Podcast RSS](https://ready-for-review.podigee.io/feed/mp3)
-* Tags: Software Development, Kochen, Klingel, Comics, IT Family Support, Filme, Brettspiele, Serien, Java, JavaScript
+* Tags: Software Development, Kochen, Klingel, Comics, IT Family Support, Filme, Brettspiele, Serien, Java, JavaScript, Female host
 
 ----
 
@@ -741,6 +743,7 @@ Fünf schnelle Fragen an…. In unserem She for IT Podcast geht es um Themen run
 * [She for what? She for IT! @ Spotify](https://open.spotify.com/show/2WKgGIRsBWp7VkC5hMI66p)
 * [She for what? She for IT! @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1538127890)
 * [She for what? She for IT! Podcast RSS](https://sheforwhat-sheforit.podigee.io/feed/mp3)
+* Tags: Female host
 
 ----
 
@@ -750,12 +753,13 @@ Fünf schnelle Fragen an…. In unserem She for IT Podcast geht es um Themen run
 
 Jung, weiblich, genial: Im Tech-Podcast von NDR Info sucht die Tech-Journalistin Svea Eckert immer nach Antworten von Expertinnen aus der IT-Welt. In aufwendigen Recherchen taucht sie ein in die Welt der Querdenker, die sich über Telegram oder YouTube radikalisieren. Sie begegnet auch angeblichen Coaches, die Magersüchtige auf Instagram anschreiben. Svea nimmt euch in diesem Podcast mit auf ihre Recherchen, damit ihr die Tech-Welt besser versteht. Mit Experimenten zeigt sie euch, was gerade nicht so gut läuft und welche Ideen es gibt, die Technik für uns alle etwas besser zu machen.
 
-* Number of published episodes: 48
-* Last episode published: 🟢 Wednesday, 07 December 2022
+* Number of published episodes: 49
+* Last episode published: 🟢 Tuesday, 27 December 2022
 * [She Likes Tech Website](https://www.ndr.de/nachrichten/info/podcast4808.html)
 * [She Likes Tech @ Spotify](https://open.spotify.com/show/6fE6BwxM7bHI9vseET01YA)
 * [She Likes Tech @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1530596058)
 * [She Likes Tech Podcast RSS](https://www.ndr.de/nachrichten/info/podcast4808.xml)
+* Tags: Female host
 
 ----
 
@@ -893,8 +897,8 @@ Ausführliche, häufig zeitlose Gespräche von Gastgeber Nico Kreiling mit wechs
 
 Sujeevan und Dirk reden über Themen, die Ihnen in der letzten Zeit untergekommen sind. Die Abkürzung &#34;TIL&#34; steht für &#34;Today I learned&#34;, es geht also um Themen, die neu für die beiden waren oder die sie in der letzten Zeit erst so richtig verstanden haben. Dazu kommen Hinweise, wie sie versuchen, ihr Arbeitsleben zu verbessern und zusätzlich gibt es auch den einen oder anderen Karrierehinweis.
 
-* Number of published episodes: 27
-* Last episode published: 🟢 Wednesday, 30 November 2022
+* Number of published episodes: 28
+* Last episode published: 🟢 Saturday, 31 December 2022
 * [TILpod Website](https://tilpod.net/)
 * [TILpod @ Spotify](https://open.spotify.com/show/53zmbsz2sGO4UoSe8Qviyu)
 * [TILpod @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1542159410)
@@ -929,6 +933,7 @@ Wir sind UNMUTE IT, der Podcast von und mit Frauen aus der IT. Wir erzählen von
 * [Unmute IT Website](https://linkr.bio/unmute-it)
 * [Unmute IT @ Spotify](https://open.spotify.com/show/4v3xXuY5Km98xnmeXeGZgx)
 * [Unmute IT Podcast RSS](https://feeds.soundcloud.com/users/soundcloud:users:965624446/sounds.rss)
+* Tags: Female host
 
 ----
 
@@ -945,7 +950,7 @@ Alle 14 Tage laden wir zu einer kleinen Kaminzimmerrunde rund um den Themenkompl
 * [Wartungsfenster @ Spotify](https://open.spotify.com/show/063YcVklbp1N8z1ZHSA709)
 * [Wartungsfenster @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1607047978)
 * [Wartungsfenster Podcast RSS](https://wartungsfenster.podigee.io/feed/mp3)
-* Tags: Datacenter, Cloud, Microsoft, Security
+* Tags: Datacenter, Cloud, Microsoft, Security, Female host
 
 ----
 
