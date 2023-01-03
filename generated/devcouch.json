@@ -5,13 +5,13 @@
  "podcastIndexID": 8203,
  "rssFeed": "https://devcouch.de/feed/mp4/",
  "spotify": "https://open.spotify.com/show/0MfjnJ0I7SxJ89JIBWIcJJ",
- "description": "Der Unterhaltungs-Podcast für .NET Entwickler",
+ "description": "Der Unterhaltungs-Podcast für .NET Entwickler - ca. alle zwei Wochen treffen sich die freiberuflichen Entwickler Oliver Vogel, Thomas Krause und Manuel Wenk um über allerlei News und Infos aus der .NET und Microsoft Azure Welt zu berichten. Ist das Essen schon da?",
  "tags": [
   ".NET"
  ],
  "weekly_downloads_avg": {
-  "value": 0,
-  "updated": ""
+  "value": 471,
+  "updated": "2023-01-03"
  },
  "episodeCount": 94,
  "latestEpisodePublished": 1671570124,
