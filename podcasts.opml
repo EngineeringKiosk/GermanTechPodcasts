@@ -2,12 +2,13 @@
  <opml version="2.0">
    <head>
      <title>Deutschsprachige Tech Podcasts</title>
-     <dateCreated>Thu, 05 Jan 2023 21:22:28 UTC</dateCreated>
+     <dateCreated>Thu, 05 Jan 2023 21:49:51 UTC</dateCreated>
      <ownerName>Engineering Kiosk</ownerName>
      <ownerEmail>stehtisch@engineeringkiosk.dev</ownerEmail>
    </head>
    <body>
      <outline title="Apfelfunk" text="Apfelfunk" type="rss" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:201768667/sounds.rss" htmlUrl="http://www.apfelfunk.com/"></outline>
+     <outline title="Armchair Investigators" text="Armchair Investigators" type="rss" xmlUrl="https://armchairinvestigators.de/feed/podcast/" htmlUrl="https://armchairinvestigators.de/"></outline>
      <outline title="Auslegungssache" text="Auslegungssache" type="rss" xmlUrl="https://ct-auslegungssache.podigee.io/feed/mp3" htmlUrl="https://heise.de/-4571821"></outline>
      <outline title="Autoweird" text="Autoweird" type="rss" xmlUrl="http://autoweird.fm/feed/podcast/" htmlUrl="https://autoweird.fm/"></outline>
      <outline title="Binärgewitter" text="Binärgewitter" type="rss" xmlUrl="http://feed.binaergewitter.de/binaergewitter_mp3.xml" htmlUrl="http://blog.binaergewitter.de/"></outline>

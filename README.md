@@ -66,7 +66,8 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [Wo wir sind ist vorne](#wo-wir-sind-ist-vorne)
   * [Working Draft](#working-draft)
   * [WP Sofa](#wp-sofa)
-* [Archived podcasts](#archived-podcasts) (7 podcasts)
+* [Archived podcasts](#archived-podcasts) (8 podcasts)
+  * [Armchair Investigators](#armchair-investigators)
   * [Chaosradio](#chaosradio)
   * [Code and Ship](#code-and-ship)
   * [Codestammtisch](#codestammtisch)
@@ -1023,6 +1024,22 @@ Wir berichten zweiwöchentlich über News und Updates aus dem WordPress Universu
 
 ## Archived podcasts
 
+
+<h3 id="armchair-investigators">Armchair Investigators</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/armchair-investigators.png" />
+
+Ein Dialog über Malware, Cybercrime und Cyberspionage
+
+* Number of published episodes: 7
+* Last episode published: 🔴 Wednesday, 18 May 2022
+* [Armchair Investigators Website](https://armchairinvestigators.de/)
+* [Armchair Investigators @ Spotify](https://open.spotify.com/show/1xaPIhkQWfAtmHPg8llCEJ)
+* [Armchair Investigators @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1555931250)
+* [Armchair Investigators Podcast RSS](https://armchairinvestigators.de/feed/podcast/)
+* Tags: Malware, Cybercrime, Cyberspionage
+
+----
 
 <h3 id="chaosradio">Chaosradio</h3>
 
