@@ -676,6 +676,7 @@ Ein Podcast über die dunkle Seite der Digitalisierung: Spionage, Hacker, Sabota
 
 * Number of published episodes: 30
 * Last episode published: 🟡 Monday, 24 October 2022
+* Weekly downloads (avg): 375 (updated: 2023-01-02)
 * [Percepticon Website](https://percepticon.de/category/podcast/)
 * [Percepticon @ Spotify](https://open.spotify.com/show/1BgA82Dtniy7Aaj2aktJI2)
 * [Percepticon @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1458318548)
