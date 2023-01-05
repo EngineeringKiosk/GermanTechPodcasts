@@ -634,6 +634,7 @@ Mehr Wissen über die digitale Welt. Experten des Hasso-Plattner-Instituts sprec
 * [Neuland @ Spotify](https://open.spotify.com/show/0kd8vXJDv3sN7VMtcLRsH9)
 * [Neuland @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1448992875)
 * [Neuland Podcast RSS](https://podcast.hpi.de/feed.xml)
+* Tags: Digitalisierung, IT, Forschung, Wissenspodcast
 
 ----
 
