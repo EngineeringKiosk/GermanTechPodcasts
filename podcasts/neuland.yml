@@ -4,3 +4,8 @@ podcastIndexID: 77949
 rssFeed: https://podcast.hpi.de/feed.xml
 spotify: https://open.spotify.com/show/0kd8vXJDv3sN7VMtcLRsH9
 description: "Mehr Wissen über die digitale Welt. Experten des Hasso-Plattner-Instituts sprechen verständlich über digitale Entwicklungen und Trends, über Chancen und Risiken der Digitalisierung. Jede Sendung widmet sich einem gesellschaftlich relevanten Thema: Von der Macht der Künstlichen Intelligenz über die Blockchain bis zu Hetze in den sozialen Medien."
+tags: 
+  - Digitalisierung
+  - IT
+  - Forschung
+  - Wissenspodcast
