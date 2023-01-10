@@ -171,7 +171,7 @@ Prozessoren, Grafikkarten, Notebooks, Desktop-PCs, Server, KI, Rechenzentren und
 Die wöchentliche Talkrunde rund um Apple, Mac, iPod &#43; iPhone, Gadgets und so. Fast live aus München.
 
 * Number of published episodes: 10
-* Last episode published: 🟢 Friday, 30 December 2022
+* Last episode published: 🟢 Tuesday, 10 January 2023
 * [Bits und so Website](http://www.bitsundso.de/)
 * [Bits und so @ Apple Podcasts](https://podcasts.apple.com/de/podcast/202753375)
 * [Bits und so Podcast RSS](http://www.bitsundso.de/feed/)
@@ -200,8 +200,8 @@ Mitglieder der c&#39;t-Redaktion diskutieren über die aktuellen Themen aus dem 
 
 Ein Podcast über den nahezu unendlich tiefen Kaninchenbau der mechanische Tastaturen. Ich erzähle euch was es neues im Hobby der mechanical Keyboards gibt, Groupbuys, Interestchecks, Neue Keyboards, Keycaps und Switches und noch viel viel mehr....
 
-* Number of published episodes: 54
-* Last episode published: 🟢 Saturday, 31 December 2022
+* Number of published episodes: 55
+* Last episode published: 🟢 Monday, 09 January 2023
 * [Click! Clack! Hack! Website](https://www.nerdbude.com/podcast/)
 * [Click! Clack! Hack! @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1551770169)
 * [Click! Clack! Hack! Podcast RSS](https://www.nerdbude.com/podcast/feed/feed.xml)
@@ -422,8 +422,8 @@ Du bist Entwickler/Developer? Dann Lauscher auf! Thomas und Christian sprechen i
 
 In dieser Serie diskutieren wir interessante Themen aus Software-Entwicklung und -Architektur – immer mit dem Fokus auf Praxistauglichkeit.
 
-* Number of published episodes: 116
-* Last episode published: 🟢 Sunday, 25 December 2022
+* Number of published episodes: 117
+* Last episode published: 🟢 Monday, 09 January 2023
 * [INNOQ Podcast Website](https://www.innoq.com/de/podcast/)
 * [INNOQ Podcast @ Spotify](https://open.spotify.com/show/20svL8wDDgtidO2Qwf3EWx)
 * [INNOQ Podcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/672695146)
@@ -775,7 +775,7 @@ Jung, weiblich, genial: Im Tech-Podcast von NDR Info sucht die Tech-Journalistin
 Bei &#34;Software-Architektur als Beruf&#34; erzählen Menschen, wie ihr beruflicher Werdegang aussieht und welche Rolle Software-Architektur dabei spielt.
 
 * Number of published episodes: 16
-* Last episode published: 🟢 Wednesday, 09 November 2022
+* Last episode published: 🟡 Wednesday, 09 November 2022
 * [Software-Architektur als Beruf Website](https://software-architektur.tv/beruf.html)
 * [Software-Architektur als Beruf @ Spotify](https://open.spotify.com/show/2DpgXYFgzqOvNy30pLRj0S)
 * [Software-Architektur als Beruf @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1609845784)
@@ -854,8 +854,8 @@ Digitalisierung ist komplex. Heute entsteht dies, morgen das. Und was übermorge
 
 Dein täglicher Podcast mit dem, was wichtig war und was wichtig wird im digitalen Kosmos und dem Arbeitsleben der Zukunft. Die perfekte Begleitung zum Abschluss des Arbeitstages und auf dem Weg in den Abend.
 
-* Number of published episodes: 84
-* Last episode published: 🟢 Friday, 06 January 2023
+* Number of published episodes: 85
+* Last episode published: 🟢 Monday, 09 January 2023
 * [t3n Daily Website](https://t3n.de/podcast#daily)
 * [t3n Daily @ Spotify](https://open.spotify.com/show/1Fc1zS8yvRS7Zf0leKn54o)
 * [t3n Daily @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1643152920)
@@ -870,8 +870,8 @@ Dein täglicher Podcast mit dem, was wichtig war und was wichtig wird im digital
 
 In diesem Podcast diskutiert die t3n-Redaktion mit Gästen über die spannendsten digitalen Themen unserer Zeit. Ob innovative Führungskonzepte, die Digitalisierung der Gesellschaft, smarte Gadgets, neue Mobilität oder Zukunftstechnologien. Jeden Freitag um 10 Uhr!
 
-* Number of published episodes: 464
-* Last episode published: 🟢 Friday, 06 January 2023
+* Number of published episodes: 465
+* Last episode published: 🟢 Monday, 09 January 2023
 * [t3n Interview Website](https://t3n.de/podcast#interview)
 * [t3n Interview @ Spotify](https://open.spotify.com/show/7obTbZaywhQEiUUOMswQBQ)
 * [t3n Interview @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1115601393)
