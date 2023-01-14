@@ -2,7 +2,7 @@
  <opml version="2.0">
    <head>
      <title>Deutschsprachige Tech Podcasts</title>
-     <dateCreated>Sat, 14 Jan 2023 19:46:20 UTC</dateCreated>
+     <dateCreated>Sat, 14 Jan 2023 19:54:04 UTC</dateCreated>
      <ownerName>Engineering Kiosk</ownerName>
      <ownerEmail>stehtisch@engineeringkiosk.dev</ownerEmail>
    </head>
@@ -58,6 +58,7 @@
      <outline title="programmier.bar" text="programmier.bar" type="rss" xmlUrl="https://feeds.buzzsprout.com/176239.rss" htmlUrl="https://www.programmier.bar/podcast"></outline>
      <outline title="Ready for Review" text="Ready for Review" type="rss" xmlUrl="https://ready-for-review.podigee.io/feed/mp3" htmlUrl="https://ready-for-review.dev/"></outline>
      <outline title="Request for Comments" text="Request for Comments" type="rss" xmlUrl="https://requestforcomments.de/feed/m4a" htmlUrl="https://requestforcomments.de/"></outline>
+     <outline title="Rheingehäckt" text="Rheingehäckt" type="rss" xmlUrl="https://2axxur.podcaster.de/rheingehaeckt.rss" htmlUrl="https://www.at-yet.de/aktuelles"></outline>
      <outline title="Schwarz, Code, Gold – Deutschland, Entwicklungsland?" text="Schwarz, Code, Gold – Deutschland, Entwicklungsland?" type="rss" xmlUrl="https://feed.schwarz-code-gold.de" htmlUrl="https://www.brandad-systems.de/podcast-schwarz-code-gold-deutschland-entwicklungsland"></outline>
      <outline title="SELECTrageFROMit;" text="SELECTrageFROMit;" type="rss" xmlUrl="https://anchor.fm/s/6c46c0c8/podcast/rss" htmlUrl="https://linktr.ee/selectragefromit"></outline>
      <outline title="She for what? She for IT!" text="She for what? She for IT!" type="rss" xmlUrl="https://sheforwhat-sheforit.podigee.io/feed/mp3" htmlUrl="https://www.adesso.de/de/unternehmen/she-for-it/podcasts.jsp"></outline>
@@ -73,6 +74,7 @@
      <outline title="TILpod" text="TILpod" type="rss" xmlUrl="https://tilpod.net/feed/mp3" htmlUrl="https://tilpod.net/"></outline>
      <outline title="todo:cast" text="todo:cast" type="rss" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:637814493/sounds.rss" htmlUrl="https://todocast.io/"></outline>
      <outline title="Unmute IT" text="Unmute IT" type="rss" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:965624446/sounds.rss" htmlUrl="https://linkr.bio/unmute-it"></outline>
+     <outline title="Unter 4 Ohren" text="Unter 4 Ohren" type="rss" xmlUrl="https://www.all-about-security.de/feed/mp3/" htmlUrl="https://www.all-about-security.de/unter4ohren/"></outline>
      <outline title="Wartungsfenster" text="Wartungsfenster" type="rss" xmlUrl="https://wartungsfenster.podigee.io/feed/mp3" htmlUrl="https://wartungsfenster.podigee.io/"></outline>
      <outline title="Web &amp; Design Podcast" text="Web &amp; Design Podcast" type="rss" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:283362505/sounds.rss" htmlUrl="https://www.jonasarleth.com/podcast"></outline>
      <outline title="Wo wir sind ist vorne" text="Wo wir sind ist vorne" type="rss" xmlUrl="https://wowirsindistvorne.show/feed/mp3/" htmlUrl="https://wowirsindistvorne.show/"></outline>

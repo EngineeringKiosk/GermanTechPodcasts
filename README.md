@@ -6,7 +6,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (63 podcasts)
+* [Podcasts](#podcasts) (65 podcasts)
   * [0d - Zeroday](#0d-zeroday)
   * [Apfelfunk](#apfelfunk)
   * [Auslegungssache](#auslegungssache)
@@ -51,6 +51,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [Percepticon](#percepticon)
   * [programmier.bar](#programmier-bar)
   * [Ready for Review](#ready-for-review)
+  * [Rheingehäckt](#rheingehackt)
   * [Schwarz, Code, Gold – Deutschland, Entwicklungsland?](#schwarz-code-gold-deutschland-entwicklungsland)
   * [She for what? She for IT!](#she-for-what-she-for-it)
   * [She Likes Tech](#she-likes-tech)
@@ -65,6 +66,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [TILpod](#tilpod)
   * [todo:cast](#todo-cast)
   * [Unmute IT](#unmute-it)
+  * [Unter 4 Ohren](#unter-4-ohren)
   * [Wartungsfenster](#wartungsfenster)
   * [Web &amp; Design Podcast](#web-and-design-podcast)
   * [Wo wir sind ist vorne](#wo-wir-sind-ist-vorne)
@@ -788,6 +790,22 @@ Sandra Parsick &amp; Daniel Zenzes präsentieren mit Ready for Review einen bunt
 
 ----
 
+<h3 id="rheingehackt">Rheingehäckt</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/rheingehaeckt.png" />
+
+Wie können wir Cybersicherheit als gesamtgesellschaftliches Problem verstehen? Wolfgang Straßer, langjähriger Experte im Bereich Cybersicherheit und Marian Blok, Politikberater mit Schwerpunkt Cybersecurity, sprechen mit Cyber-Experten aus Unternehmen, Behörden und Verbänden.
+
+* Number of published episodes: 8
+* Last episode published: 🟡 Tuesday, 25 October 2022
+* [Rheingehäckt Website](https://www.at-yet.de/aktuelles)
+* [Rheingehäckt @ Spotify](https://open.spotify.com/show/1CFAcjQuET8Yv35k6v38fs)
+* [Rheingehäckt @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1585954195)
+* [Rheingehäckt Podcast RSS](https://2axxur.podcaster.de/rheingehaeckt.rss)
+* Tags: Security
+
+----
+
 <h3 id="schwarz-code-gold-deutschland-entwicklungsland">Schwarz, Code, Gold – Deutschland, Entwicklungsland?</h3>
 
 <img align="right" width="215" height="215" src="./generated/images/schwarz-code-gold-deutschland-entwicklungsland.jpeg" />
@@ -1007,6 +1025,22 @@ Wir sind UNMUTE IT, der Podcast von und mit Frauen aus der IT. Wir erzählen von
 * [Unmute IT @ Spotify](https://open.spotify.com/show/4v3xXuY5Km98xnmeXeGZgx)
 * [Unmute IT Podcast RSS](https://feeds.soundcloud.com/users/soundcloud:users:965624446/sounds.rss)
 * Tags: Female host
+
+----
+
+<h3 id="unter-4-ohren">Unter 4 Ohren</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/unter-4-ohren.jpg" />
+
+IT Security Podcast
+
+* Number of published episodes: 36
+* Last episode published: 🟢 Tuesday, 10 January 2023
+* [Unter 4 Ohren Website](https://www.all-about-security.de/unter4ohren/)
+* [Unter 4 Ohren @ Spotify](https://open.spotify.com/show/7EQFf6fL4dytVJWB4DXYsQ)
+* [Unter 4 Ohren @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1551939691)
+* [Unter 4 Ohren Podcast RSS](https://www.all-about-security.de/feed/mp3/)
+* Tags: Security
 
 ----
 

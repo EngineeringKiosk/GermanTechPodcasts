@@ -1,0 +1,21 @@
+{
+ "name": "Rheingehäckt",
+ "slug": "rheingehackt",
+ "website": "https://www.at-yet.de/aktuelles",
+ "podcastIndexID": 4280787,
+ "rssFeed": "https://2axxur.podcaster.de/rheingehaeckt.rss",
+ "spotify": "https://open.spotify.com/show/1CFAcjQuET8Yv35k6v38fs",
+ "description": "Wie können wir Cybersicherheit als gesamtgesellschaftliches Problem verstehen? Wolfgang Straßer, langjähriger Experte im Bereich Cybersicherheit und Marian Blok, Politikberater mit Schwerpunkt Cybersecurity, sprechen mit Cyber-Experten aus Unternehmen, Behörden und Verbänden.",
+ "tags": [
+  "Security"
+ ],
+ "weekly_downloads_avg": {
+  "value": 0,
+  "updated": ""
+ },
+ "episodeCount": 8,
+ "latestEpisodePublished": 1666717200,
+ "archive": false,
+ "itunesID": 1585954195,
+ "image": "images/rheingehaeckt.png"
+}
