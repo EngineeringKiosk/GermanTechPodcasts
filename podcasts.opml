@@ -2,7 +2,7 @@
  <opml version="2.0">
    <head>
      <title>Deutschsprachige Tech Podcasts</title>
-     <dateCreated>Sat, 14 Jan 2023 20:50:52 UTC</dateCreated>
+     <dateCreated>Sat, 14 Jan 2023 21:09:29 UTC</dateCreated>
      <ownerName>Engineering Kiosk</ownerName>
      <ownerEmail>stehtisch@engineeringkiosk.dev</ownerEmail>
    </head>
@@ -35,6 +35,7 @@
      <outline title="Freakshow" text="Freakshow" type="rss" xmlUrl="https://feeds.metaebene.me/freakshow/m4a" htmlUrl="https://freakshow.fm/"></outline>
      <outline title="Gamedev für die Platte - Der Unreal Podcast" text="Gamedev für die Platte - Der Unreal Podcast" type="rss" xmlUrl="https://feed.podbean.com/gamedevfuerdieplatte/feed.xml" htmlUrl="https://gamedevfuerdieplatte.podbean.com/"></outline>
      <outline title="GeekWeek" text="GeekWeek" type="rss" xmlUrl="https://geekweekde.libsyn.com/rss" htmlUrl="https://geek-week.de/"></outline>
+     <outline title="GNU/Linux.ch" text="GNU/Linux.ch" type="rss" xmlUrl="https://gnulinux.ch/podcast/gnulinux_newscast_rss.xml" htmlUrl="https://gnulinux.ch/"></outline>
      <outline title="heise Developer: SoftwareArchitekTOUR" text="heise Developer: SoftwareArchitekTOUR" type="rss" xmlUrl="https://softwarearchitektour.podigee.io/feed/mp3" htmlUrl="https://www.heise.de/developer/SoftwareArchitekTOUR-4076349.html"></outline>
      <outline title="Herzbergs Hörsaal" text="Herzbergs Hörsaal" type="rss" xmlUrl="https://anchor.fm/s/ba9c0bc/podcast/rss" htmlUrl="https://www.thm.de/site/hochschule/service/schulportal/lehrerinnen-und-lehrer/studieren-probieren/podcast-herzbergs-hoersaal.html"></outline>
      <outline title="Hobby Spieleentwickler Podcast" text="Hobby Spieleentwickler Podcast" type="rss" xmlUrl="https://hobbyspieleentwicklerpodcast.de/podcast.xml" htmlUrl="https://www.hobbyspieleentwicklerpodcast.de/"></outline>
@@ -59,6 +60,7 @@
      <outline title="Open Source in der Industrie" text="Open Source in der Industrie" type="rss" xmlUrl="https://opensourcepodcast.podigee.io/feed/mp3" htmlUrl="https://opensourcepodcast.podigee.io/"></outline>
      <outline title="Percepticon" text="Percepticon" type="rss" xmlUrl="https://percepticon.de/category/podcast/feed/podcast/" htmlUrl="https://percepticon.de/category/podcast/"></outline>
      <outline title="programmier.bar" text="programmier.bar" type="rss" xmlUrl="https://feeds.buzzsprout.com/176239.rss" htmlUrl="https://www.programmier.bar/podcast"></outline>
+     <outline title="RadioTux" text="RadioTux" type="rss" xmlUrl="http://prometheus.radiotux.de/index.php?/feeds/index.rss2" htmlUrl="https://www.radiotux.de/"></outline>
      <outline title="Ready for Review" text="Ready for Review" type="rss" xmlUrl="https://ready-for-review.podigee.io/feed/mp3" htmlUrl="https://ready-for-review.dev/"></outline>
      <outline title="Request for Comments" text="Request for Comments" type="rss" xmlUrl="https://requestforcomments.de/feed/m4a" htmlUrl="https://requestforcomments.de/"></outline>
      <outline title="Rheingehäckt" text="Rheingehäckt" type="rss" xmlUrl="https://2axxur.podcaster.de/rheingehaeckt.rss" htmlUrl="https://www.at-yet.de/aktuelles"></outline>

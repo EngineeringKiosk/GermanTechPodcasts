@@ -6,7 +6,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (70 podcasts)
+* [Podcasts](#podcasts) (72 podcasts)
   * [0d - Zeroday](#0d-zeroday)
   * [Apfelfunk](#apfelfunk)
   * [Auslegungssache](#auslegungssache)
@@ -30,6 +30,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [FOCUS ON: Linux](#focus-on-linux)
   * [Gamedev für die Platte - Der Unreal Podcast](#gamedev-fur-die-platte-der-unreal-podcast)
   * [GeekWeek](#geekweek)
+  * [GNU/Linux.ch](#gnu-linux-ch)
   * [Herzbergs Hörsaal](#herzbergs-horsaal)
   * [Hobby Spieleentwickler Podcast](#hobby-spieleentwickler-podcast)
   * [Index out of bounds](#index-out-of-bounds)
@@ -53,6 +54,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [Open Source in der Industrie](#open-source-in-der-industrie)
   * [Percepticon](#percepticon)
   * [programmier.bar](#programmier-bar)
+  * [RadioTux](#radiotux)
   * [Ready for Review](#ready-for-review)
   * [Rheingehäckt](#rheingehackt)
   * [Schwarz, Code, Gold – Deutschland, Entwicklungsland?](#schwarz-code-gold-deutschland-entwicklungsland)
@@ -459,6 +461,22 @@ Nothing But Tech - Aus Deutschland, der Schweiz und den USA. geek-week.de berich
 
 ----
 
+<h3 id="gnu-linux-ch">GNU/Linux.ch</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/gnu-linux-ch.jpg" />
+
+Ein monatlicher Podcast der GNU/Linux.ch Community mit Themen und Interviews rund um die Themen GNU/Linux, Freie Software und Freie Gesellschaft.
+
+* Number of published episodes: 37
+* Last episode published: 🟢 Sunday, 01 January 2023
+* [GNU/Linux.ch Website](https://gnulinux.ch/)
+* [GNU/Linux.ch @ Spotify](https://open.spotify.com/show/0rs1Zm91TsjHhGo2lt0uPi)
+* [GNU/Linux.ch @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1527155920)
+* [GNU/Linux.ch Podcast RSS](https://gnulinux.ch/podcast/gnulinux_newscast_rss.xml)
+* Tags: Linux, GNU
+
+----
+
 <h3 id="herzbergs-horsaal">Herzbergs Hörsaal</h3>
 
 <img align="right" width="215" height="215" src="./generated/images/herzbergs-hoersaal.jpg" />
@@ -822,6 +840,22 @@ Mit geballter Dev-Power nehmen Dennis, Fabi, Sebi und Jojo neue Podcastfolgen au
 * [programmier.bar @ Spotify](https://open.spotify.com/show/0ik0sXv9paTQCeThcOLCCJ)
 * [programmier.bar @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1371409964)
 * [programmier.bar Podcast RSS](https://feeds.buzzsprout.com/176239.rss)
+
+----
+
+<h3 id="radiotux">RadioTux</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/radiotux.png" />
+
+Rund um Open Source, Freie Software, Linux und gesellschaftspolitische Themen.
+
+* Number of published episodes: 1
+* Last episode published: 🟢 Saturday, 31 December 2022
+* [RadioTux Website](https://www.radiotux.de/)
+* [RadioTux @ Spotify](https://open.spotify.com/show/3ycOmt9723grwgr0wCbTye)
+* [RadioTux @ Apple Podcasts](https://podcasts.apple.com/de/podcast/122070498)
+* [RadioTux Podcast RSS](http://prometheus.radiotux.de/index.php?/feeds/index.rss2)
+* Tags: Linux
 
 ----
 

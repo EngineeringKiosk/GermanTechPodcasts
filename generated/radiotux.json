@@ -1,0 +1,21 @@
+{
+ "name": "RadioTux",
+ "slug": "radiotux",
+ "website": "https://www.radiotux.de/",
+ "podcastIndexID": 222970,
+ "rssFeed": "http://prometheus.radiotux.de/index.php?/feeds/index.rss2",
+ "spotify": "https://open.spotify.com/show/3ycOmt9723grwgr0wCbTye",
+ "description": "Rund um Open Source, Freie Software, Linux und gesellschaftspolitische Themen.",
+ "tags": [
+  "Linux"
+ ],
+ "weekly_downloads_avg": {
+  "value": 0,
+  "updated": ""
+ },
+ "episodeCount": 1,
+ "latestEpisodePublished": 1672475580,
+ "archive": false,
+ "itunesID": 122070498,
+ "image": "images/radiotux.png"
+}
