@@ -3,7 +3,7 @@
  "slug": "radiotux",
  "website": "https://www.radiotux.de/",
  "podcastIndexID": 222970,
- "rssFeed": "http://prometheus.radiotux.de/index.php?/feeds/index.rss2",
+ "rssFeed": "http://prometheus.radiotux.de/index.php?/feeds/categories/12-Sendung.rss",
  "spotify": "https://open.spotify.com/show/3ycOmt9723grwgr0wCbTye",
  "description": "Rund um Open Source, Freie Software, Linux und gesellschaftspolitische Themen.",
  "tags": [

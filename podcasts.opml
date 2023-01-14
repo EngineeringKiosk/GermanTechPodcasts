@@ -2,7 +2,7 @@
  <opml version="2.0">
    <head>
      <title>Deutschsprachige Tech Podcasts</title>
-     <dateCreated>Sat, 14 Jan 2023 21:09:29 UTC</dateCreated>
+     <dateCreated>Sat, 14 Jan 2023 21:18:55 UTC</dateCreated>
      <ownerName>Engineering Kiosk</ownerName>
      <ownerEmail>stehtisch@engineeringkiosk.dev</ownerEmail>
    </head>
@@ -60,7 +60,7 @@
      <outline title="Open Source in der Industrie" text="Open Source in der Industrie" type="rss" xmlUrl="https://opensourcepodcast.podigee.io/feed/mp3" htmlUrl="https://opensourcepodcast.podigee.io/"></outline>
      <outline title="Percepticon" text="Percepticon" type="rss" xmlUrl="https://percepticon.de/category/podcast/feed/podcast/" htmlUrl="https://percepticon.de/category/podcast/"></outline>
      <outline title="programmier.bar" text="programmier.bar" type="rss" xmlUrl="https://feeds.buzzsprout.com/176239.rss" htmlUrl="https://www.programmier.bar/podcast"></outline>
-     <outline title="RadioTux" text="RadioTux" type="rss" xmlUrl="http://prometheus.radiotux.de/index.php?/feeds/index.rss2" htmlUrl="https://www.radiotux.de/"></outline>
+     <outline title="RadioTux" text="RadioTux" type="rss" xmlUrl="http://prometheus.radiotux.de/index.php?/feeds/categories/12-Sendung.rss" htmlUrl="https://www.radiotux.de/"></outline>
      <outline title="Ready for Review" text="Ready for Review" type="rss" xmlUrl="https://ready-for-review.podigee.io/feed/mp3" htmlUrl="https://ready-for-review.dev/"></outline>
      <outline title="Request for Comments" text="Request for Comments" type="rss" xmlUrl="https://requestforcomments.de/feed/m4a" htmlUrl="https://requestforcomments.de/"></outline>
      <outline title="Rheingehäckt" text="Rheingehäckt" type="rss" xmlUrl="https://2axxur.podcaster.de/rheingehaeckt.rss" htmlUrl="https://www.at-yet.de/aktuelles"></outline>

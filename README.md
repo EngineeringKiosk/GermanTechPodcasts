@@ -854,7 +854,7 @@ Rund um Open Source, Freie Software, Linux und gesellschaftspolitische Themen.
 * [RadioTux Website](https://www.radiotux.de/)
 * [RadioTux @ Spotify](https://open.spotify.com/show/3ycOmt9723grwgr0wCbTye)
 * [RadioTux @ Apple Podcasts](https://podcasts.apple.com/de/podcast/122070498)
-* [RadioTux Podcast RSS](http://prometheus.radiotux.de/index.php?/feeds/index.rss2)
+* [RadioTux Podcast RSS](http://prometheus.radiotux.de/index.php?/feeds/categories/12-Sendung.rss)
 * Tags: Linux
 
 ----
