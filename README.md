@@ -6,7 +6,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (68 podcasts)
+* [Podcasts](#podcasts) (69 podcasts)
   * [0d - Zeroday](#0d-zeroday)
   * [Apfelfunk](#apfelfunk)
   * [Auslegungssache](#auslegungssache)
@@ -28,6 +28,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [Female TechTalk](#female-techtalk)
   * [FOCUS ON: DevOps](#focus-on-devops)
   * [FOCUS ON: Linux](#focus-on-linux)
+  * [Gamedev für die Platte - Der Unreal Podcast](#gamedev-fur-die-platte-der-unreal-podcast)
   * [GeekWeek](#geekweek)
   * [Herzbergs Hörsaal](#herzbergs-horsaal)
   * [Index out of bounds](#index-out-of-bounds)
@@ -424,6 +425,21 @@ Der FOCUS ON: Linux Podcast beschäftigt sich mit verschiedenen Themen rund um L
 * [FOCUS ON: Linux @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1606139089)
 * [FOCUS ON: Linux Podcast RSS](https://ageofdevops.de/feed/podcast/fol)
 * Tags: Linux, Open Source
+
+----
+
+<h3 id="gamedev-fur-die-platte-der-unreal-podcast">Gamedev für die Platte - Der Unreal Podcast</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/gamedev-fuer-die-platte.png" />
+
+Wir talken GameDev und haben Unreal News.
+
+* Number of published episodes: 35
+* Last episode published: 🟢 Tuesday, 10 January 2023
+* [Gamedev für die Platte - Der Unreal Podcast Website](https://gamedevfuerdieplatte.podbean.com/)
+* [Gamedev für die Platte - Der Unreal Podcast @ Spotify](https://open.spotify.com/show/3UtoyAbMfEvkSIx5w3HohY)
+* [Gamedev für die Platte - Der Unreal Podcast Podcast RSS](https://feed.podbean.com/gamedevfuerdieplatte/feed.xml)
+* Tags: Unreal, Game Development
 
 ----
 

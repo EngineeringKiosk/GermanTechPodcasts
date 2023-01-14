@@ -2,7 +2,7 @@
  <opml version="2.0">
    <head>
      <title>Deutschsprachige Tech Podcasts</title>
-     <dateCreated>Sat, 14 Jan 2023 20:37:45 UTC</dateCreated>
+     <dateCreated>Sat, 14 Jan 2023 20:40:01 UTC</dateCreated>
      <ownerName>Engineering Kiosk</ownerName>
      <ownerEmail>stehtisch@engineeringkiosk.dev</ownerEmail>
    </head>
@@ -33,6 +33,7 @@
      <outline title="FOCUS ON: DevOps" text="FOCUS ON: DevOps" type="rss" xmlUrl="https://ageofdevops.de/feed/podcast/fodo" htmlUrl="https://ageofdevops.de/index.php/series/fodo/"></outline>
      <outline title="FOCUS ON: Linux" text="FOCUS ON: Linux" type="rss" xmlUrl="https://ageofdevops.de/feed/podcast/fol" htmlUrl="https://ageofdevops.de/index.php/series/fol/"></outline>
      <outline title="Freakshow" text="Freakshow" type="rss" xmlUrl="https://feeds.metaebene.me/freakshow/m4a" htmlUrl="https://freakshow.fm/"></outline>
+     <outline title="Gamedev für die Platte - Der Unreal Podcast" text="Gamedev für die Platte - Der Unreal Podcast" type="rss" xmlUrl="https://feed.podbean.com/gamedevfuerdieplatte/feed.xml" htmlUrl="https://gamedevfuerdieplatte.podbean.com/"></outline>
      <outline title="GeekWeek" text="GeekWeek" type="rss" xmlUrl="https://geekweekde.libsyn.com/rss" htmlUrl="https://geek-week.de/"></outline>
      <outline title="heise Developer: SoftwareArchitekTOUR" text="heise Developer: SoftwareArchitekTOUR" type="rss" xmlUrl="https://softwarearchitektour.podigee.io/feed/mp3" htmlUrl="https://www.heise.de/developer/SoftwareArchitekTOUR-4076349.html"></outline>
      <outline title="Herzbergs Hörsaal" text="Herzbergs Hörsaal" type="rss" xmlUrl="https://anchor.fm/s/ba9c0bc/podcast/rss" htmlUrl="https://www.thm.de/site/hochschule/service/schulportal/lehrerinnen-und-lehrer/studieren-probieren/podcast-herzbergs-hoersaal.html"></outline>
