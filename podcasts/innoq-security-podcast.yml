@@ -1,0 +1,8 @@
+name: INNOQ Security Podcast
+website: https://www.innoq.com/de/podcast/?channel=security
+podcastIndexID: 296266
+rssFeed: https://innoqsecurity.podigee.io/feed/aac
+spotify: https://open.spotify.com/show/44tnFXbuDShbJ7vNecXCaF
+description: In diesem Podcast sprechen wir über die Grundlagen von IT-Security. Ein praktischer Einstieg für alle, die an Software arbeiten.
+tags:
+  - Security
