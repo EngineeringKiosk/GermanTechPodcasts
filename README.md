@@ -6,7 +6,8 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (59 podcasts)
+* [Podcasts](#podcasts) (61 podcasts)
+  * [0d - Zeroday](#0d-zeroday)
   * [Apfelfunk](#apfelfunk)
   * [Auslegungssache](#auslegungssache)
   * [Autoweird](#autoweird)
@@ -40,6 +41,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [Macht der Craft](#macht-der-craft)
   * [Mein Scrum ist kaputt!](#mein-scrum-ist-kaputt)
   * [Mind the Tech](#mind-the-tech)
+  * [Nachgehackt](#nachgehackt)
   * [Netzpolitik](#netzpolitik)
   * [Neuland](#neuland)
   * [Open Source Couch](#open-source-couch)
@@ -82,6 +84,22 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
 
 ## Podcasts
 
+
+<h3 id="0d-zeroday">0d - Zeroday</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/0d-zeroday.jpg" />
+
+Deutschsprachiger Podcast zu den Themen IT-Sicherheit und Privatsphäre. Stefan und Sven unterhalten sich über aktuelle News und allgemeine Themen rund um Security und Privacy.
+
+* Number of published episodes: 100
+* Last episode published: 🟢 Friday, 30 December 2022
+* [0d - Zeroday Website](https://0x0d.de/)
+* [0d - Zeroday @ Spotify](https://open.spotify.com/show/5XTyNo5r6H0rRptIgaE1w4)
+* [0d - Zeroday @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1190478484)
+* [0d - Zeroday Podcast RSS](https://0x0d.de/index.php/feed/mp3/)
+* Tags: Security, Informationssicherheit, Privatsphäre, Datenschutz
+
+----
 
 <h3 id="apfelfunk">Apfelfunk</h3>
 
@@ -604,6 +622,22 @@ Mind the Tech ist ein Podcast, der die dunklen Seiten der IT- und Tech-Welt bele
 * [Mind the Tech @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1515173582)
 * [Mind the Tech Podcast RSS](https://mind-the-tech.podigee.io/feed/mp3)
 * Tags: Cyber, Crime, Gesellschaft, Female host, Security
+
+----
+
+<h3 id="nachgehackt">Nachgehackt</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/nachgehackt.jpg" />
+
+Die Welt wird immer digitaler und IT-Sicherheit auch im Alltag immer wichtiger. Im Podcast „Nachgehackt“ spricht Moderator  Henrik Hanses mit Expertinnen, Experten und anderen spannenden Gästen über unterschiedliche Aspekte der IT Security – und zwar so, dass es auch für Laien verständlich ist.
+
+* Number of published episodes: 5
+* Last episode published: 🟡 Tuesday, 20 September 2022
+* [Nachgehackt Website](https://nachgehacktpodcast.podigee.io/)
+* [Nachgehackt @ Spotify](https://open.spotify.com/show/0fn3tYRiZAR3wlkSw5vJdQ)
+* [Nachgehackt @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1641242207)
+* [Nachgehackt Podcast RSS](https://nachgehacktpodcast.podigee.io/feed/mp3)
+* Tags: Security
 
 ----
 

@@ -2,11 +2,12 @@
  <opml version="2.0">
    <head>
      <title>Deutschsprachige Tech Podcasts</title>
-     <dateCreated>Sat, 14 Jan 2023 18:55:30 UTC</dateCreated>
+     <dateCreated>Sat, 14 Jan 2023 19:35:14 UTC</dateCreated>
      <ownerName>Engineering Kiosk</ownerName>
      <ownerEmail>stehtisch@engineeringkiosk.dev</ownerEmail>
    </head>
    <body>
+     <outline title="0d - Zeroday" text="0d - Zeroday" type="rss" xmlUrl="https://0x0d.de/index.php/feed/mp3/" htmlUrl="https://0x0d.de/"></outline>
      <outline title="Apfelfunk" text="Apfelfunk" type="rss" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:201768667/sounds.rss" htmlUrl="http://www.apfelfunk.com/"></outline>
      <outline title="Armchair Investigators" text="Armchair Investigators" type="rss" xmlUrl="https://armchairinvestigators.de/feed/podcast/" htmlUrl="https://armchairinvestigators.de/"></outline>
      <outline title="Auslegungssache" text="Auslegungssache" type="rss" xmlUrl="https://ct-auslegungssache.podigee.io/feed/mp3" htmlUrl="https://heise.de/-4571821"></outline>
@@ -46,6 +47,7 @@
      <outline title="Macht der Craft" text="Macht der Craft" type="rss" xmlUrl="https://macht-der-craft.soler-sanandres.net/feed/podcast" htmlUrl="https://macht-der-craft.soler-sanandres.net/"></outline>
      <outline title="Mein Scrum ist kaputt!" text="Mein Scrum ist kaputt!" type="rss" xmlUrl="https://meinscrumistkaputt.de/feed/podcast/" htmlUrl="https://meinscrumistkaputt.de/"></outline>
      <outline title="Mind the Tech" text="Mind the Tech" type="rss" xmlUrl="https://mind-the-tech.podigee.io/feed/mp3" htmlUrl="https://www.mindthetech.de/"></outline>
+     <outline title="Nachgehackt" text="Nachgehackt" type="rss" xmlUrl="https://nachgehacktpodcast.podigee.io/feed/mp3" htmlUrl="https://nachgehacktpodcast.podigee.io/"></outline>
      <outline title="Netzpolitik" text="Netzpolitik" type="rss" xmlUrl="https://netzpolitik.org/category/netzpolitik-podcast/?feed=itunes&amp;" htmlUrl="https://netzpolitik.org/podcast/"></outline>
      <outline title="Neuland" text="Neuland" type="rss" xmlUrl="https://podcast.hpi.de/feed.xml" htmlUrl="https://podcast.hpi.de/"></outline>
      <outline title="Open Source Couch" text="Open Source Couch" type="rss" xmlUrl="https://letscast.fm/podcasts/die-open-source-couch-0743e028/feed" htmlUrl="https://www.opensourcecouch.de/"></outline>

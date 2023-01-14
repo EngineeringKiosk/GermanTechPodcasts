@@ -1,0 +1,24 @@
+{
+ "name": "0d - Zeroday",
+ "slug": "0d-zeroday",
+ "website": "https://0x0d.de/",
+ "podcastIndexID": 987200,
+ "rssFeed": "https://0x0d.de/index.php/feed/mp3/",
+ "spotify": "https://open.spotify.com/show/5XTyNo5r6H0rRptIgaE1w4",
+ "description": "Deutschsprachiger Podcast zu den Themen IT-Sicherheit und Privatsphäre. Stefan und Sven unterhalten sich über aktuelle News und allgemeine Themen rund um Security und Privacy.",
+ "tags": [
+  "Security",
+  "Informationssicherheit",
+  "Privatsphäre",
+  "Datenschutz"
+ ],
+ "weekly_downloads_avg": {
+  "value": 0,
+  "updated": ""
+ },
+ "episodeCount": 100,
+ "latestEpisodePublished": 1672423284,
+ "archive": false,
+ "itunesID": 1190478484,
+ "image": "images/0d-zeroday.jpg"
+}
