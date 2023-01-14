@@ -1,0 +1,21 @@
+{
+ "name": "Breach FM",
+ "slug": "breach-fm",
+ "website": "https://breachfm.transistor.fm/",
+ "podcastIndexID": 5648126,
+ "rssFeed": "https://feeds.transistor.fm/breach-fm-der-infosec-podcast",
+ "spotify": "https://open.spotify.com/show/4ooV9mM8Qiyfkj9jUkdZjj",
+ "description": "Ransomware Attacken, Phishing oder DDoS - jeden Tag aufs Neue werden Unternehmen Ziel von Angriffen. Was sind die Geschichten dahinter, wie laufen die Attacken ab und wie kann Schaden verhindert werden? Kim und Robert haben tagtäglich Einblicke in die Info Sec Welt und teilen in diesem Podcast mit Euch ihre Erfahrungen. Schaltet ein, wenn ihr regelmäßige Updates zu aktuellen Sicherheitslücken, Diskussionen zu Technologie Trends oder anderen Themen aus der Welt der Info Sec haben möchtet!",
+ "tags": [
+  "Security"
+ ],
+ "weekly_downloads_avg": {
+  "value": 0,
+  "updated": ""
+ },
+ "episodeCount": 17,
+ "latestEpisodePublished": 1673518934,
+ "archive": false,
+ "itunesID": 1641279793,
+ "image": "images/breach-fm.jpg"
+}
