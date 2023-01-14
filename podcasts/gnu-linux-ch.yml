@@ -3,4 +3,7 @@ website: https://gnulinux.ch/
 podcastIndexID: 1302779
 rssFeed: https://gnulinux.ch/podcast/gnulinux_newscast_rss.xml
 spotify: https://open.spotify.com/show/0rs1Zm91TsjHhGo2lt0uPi
-description: Ein monatlicher Podcast der GNU/Linux.ch Community mit Themen und Interviews rund um die Themen GNU/Linux , Freie Software und Freie Gesellschaft
+description: Ein monatlicher Podcast der GNU/Linux.ch Community mit Themen und Interviews rund um die Themen GNU/Linux, Freie Software und Freie Gesellschaft.
+tags:
+  - Linux
+  - GNU
