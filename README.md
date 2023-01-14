@@ -6,7 +6,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (65 podcasts)
+* [Podcasts](#podcasts) (67 podcasts)
   * [0d - Zeroday](#0d-zeroday)
   * [Apfelfunk](#apfelfunk)
   * [Auslegungssache](#auslegungssache)
@@ -23,6 +23,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [DAS WAR SCHON KAPUTT](#das-war-schon-kaputt)
   * [Der GameDev Podcast](#der-gamedev-podcast)
   * [DevCouch](#devcouch)
+  * [Digitalisierungsfieber](#digitalisierungsfieber)
   * [Engineering Kiosk](#engineering-kiosk)
   * [Female TechTalk](#female-techtalk)
   * [FOCUS ON: DevOps](#focus-on-devops)
@@ -53,6 +54,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [Ready for Review](#ready-for-review)
   * [Rheingehäckt](#rheingehackt)
   * [Schwarz, Code, Gold – Deutschland, Entwicklungsland?](#schwarz-code-gold-deutschland-entwicklungsland)
+  * [Security Insider](#security-insider)
   * [She for what? She for IT!](#she-for-what-she-for-it)
   * [She Likes Tech](#she-likes-tech)
   * [Software-Architektur als Beruf](#software-architektur-als-beruf)
@@ -339,6 +341,22 @@ Der Unterhaltungs-Podcast für .NET Entwickler - ca. alle zwei Wochen treffen si
 * [DevCouch @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1249563765)
 * [DevCouch Podcast RSS](https://devcouch.de/feed/mp4/)
 * Tags: .NET
+
+----
+
+<h3 id="digitalisierungsfieber">Digitalisierungsfieber</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/digitalisierungsfieber.png" />
+
+Digitalisierungsfieber, dem Podcast für IT Security, Datenschutz, und IT Service! Erfahren Sie, wie Sie Ihr Unternehmen sicher in das 21. Jahrhundert steuern und so bestens für die Zukunft gewappnet sind. Im Angesicht der Digitalisierung hat IT Security oberste Priorität!
+
+* Number of published episodes: 150
+* Last episode published: 🟢 Thursday, 12 January 2023
+* [Digitalisierungsfieber Website](https://andreaskunz.it/)
+* [Digitalisierungsfieber @ Spotify](https://open.spotify.com/show/3ByjcOlWeQxCfVwSfxn4gd)
+* [Digitalisierungsfieber @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1490620957)
+* [Digitalisierungsfieber Podcast RSS](https://andreaskunz.libsyn.com/rss)
+* Tags: Security, Datenschutz
 
 ----
 
@@ -819,6 +837,22 @@ Digitalisierung in Deutschland? Sagen wir mal so: Niemand klebt sich heute das Q
 * [Schwarz, Code, Gold – Deutschland, Entwicklungsland? @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1597296417)
 * [Schwarz, Code, Gold – Deutschland, Entwicklungsland? Podcast RSS](https://feed.schwarz-code-gold.de)
 * Tags: Softwareentwicklung, Made in Germany, Computerspiele, Digtalisierung, E-Health, Startups
+
+----
+
+<h3 id="security-insider">Security Insider</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/security-insider.png" />
+
+Der Security-Insider Podcast ist ein Podcast für Security-Profis mit Infos, Nachrichten und Meinungen rund um die IT-Sicherheit. Hier unterhält sich Chefredakteur Peter Schmitz mit seinem Co-Host Dirk Srocke und manchmal auch mit spannenden Gästen. Zum Gespräch stehen alle Themen rund um die IT-Sicherheit, Datenschutz und Compliance.
+
+* Number of published episodes: 66
+* Last episode published: 🟢 Tuesday, 03 January 2023
+* [Security Insider Website](https://www.security-insider.de/)
+* [Security Insider @ Spotify](https://open.spotify.com/show/3n8Pbu19oN32bzq7zsQbvC)
+* [Security Insider @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1470962583)
+* [Security Insider Podcast RSS](https://security-insider.podigee.io/feed/mp3)
+* Tags: Security, Datenschutz, Compliance
 
 ----
 
