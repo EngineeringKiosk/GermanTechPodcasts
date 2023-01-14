@@ -6,7 +6,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (67 podcasts)
+* [Podcasts](#podcasts) (68 podcasts)
   * [0d - Zeroday](#0d-zeroday)
   * [Apfelfunk](#apfelfunk)
   * [Auslegungssache](#auslegungssache)
@@ -65,6 +65,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [t3n Daily](#t3n-daily)
   * [t3n Interview](#t3n-interview)
   * [Techtiefen](#techtiefen)
+  * [The World of IT-Security](#the-world-of-it-security)
   * [TILpod](#tilpod)
   * [todo:cast](#todo-cast)
   * [Unmute IT](#unmute-it)
@@ -160,7 +161,7 @@ Sie möchten beim Thema Datenschutz auf dem Laufenden bleiben, aber keine seiten
 
 <img align="right" width="215" height="215" src="./generated/images/binaergewitter.png" />
 
-ein Podcast über Web, Entwicklung, Mobile und Technologie. Betrachtet aus der Sicht von Entwicklern bzw. Open Source Begeisterten. Das heißt aber nicht, dass wir alles mit einer Rosa-Roten Brille sehen. Wir suchen bei Apple und Microsoft genauso das Gute und Schlechte wie auch bei Linux und anderen Open Source Projekten. Wir wollen realistisch sein. Auch wenn wir damit anecken sollten.
+Ein Podcast über Web, Entwicklung, Mobile und Technologie. Betrachtet aus der Sicht von Entwicklern bzw. Open Source Begeisterten. Das heißt aber nicht, dass wir alles mit einer Rosa-Roten Brille sehen. Wir suchen bei Apple und Microsoft genauso das Gute und Schlechte wie auch bei Linux und anderen Open Source Projekten. Wir wollen realistisch sein. Auch wenn wir damit anecken sollten.
 
 * Number of published episodes: 50
 * Last episode published: 🟢 Friday, 06 January 2023
@@ -1013,6 +1014,22 @@ Ausführliche, häufig zeitlose Gespräche von Gastgeber Nico Kreiling mit wechs
 * [Techtiefen @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1349481289)
 * [Techtiefen Podcast RSS](https://techtiefen.de//index.php/feed/mp3/)
 * Tags: Development, IT, Data Science, Machine Learning, Interviews
+
+----
+
+<h3 id="the-world-of-it-security">The World of IT-Security</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/the-world-of-it-security.png" />
+
+IT-Security, unendliche Weiten ... So oder so ähnlich lässt sich die Größenordnung von alldem, was IT-Security betrifft, beschreiben - Netzwerk, Cloud, Endpoint, E-Mail, SOC, Schwachstellen, Sicherheitsvorfall, Awareness und vieeeles mehr. Klingt unfassbar kompliziert – ist aber auch unfassbar spannend. In unserem Podcast berichten wir über aktuelle Themen und zeigen euch, warum das Thema IT-Sicherheit auch für euren Alltag extrem wichtig ist. Denn das ist unsere Leidenschaft: eure Unternehmen und eure Arbeit sicher zu machen. Habt ihr heute schon auf einen Link geklickt? 😉
+
+* Number of published episodes: 15
+* Last episode published: 🟡 Monday, 24 October 2022
+* [The World of IT-Security Website](https://www.suresecure.de/aktuelles/podcast)
+* [The World of IT-Security @ Spotify](https://open.spotify.com/show/38ro5pDX7ToVMA9w6RVyNM)
+* [The World of IT-Security @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1567043544)
+* [The World of IT-Security Podcast RSS](https://feeds.buzzsprout.com/1779426.rss)
+* Tags: Security
 
 ----
 

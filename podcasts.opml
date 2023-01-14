@@ -2,7 +2,7 @@
  <opml version="2.0">
    <head>
      <title>Deutschsprachige Tech Podcasts</title>
-     <dateCreated>Sat, 14 Jan 2023 20:09:47 UTC</dateCreated>
+     <dateCreated>Sat, 14 Jan 2023 20:19:00 UTC</dateCreated>
      <ownerName>Engineering Kiosk</ownerName>
      <ownerEmail>stehtisch@engineeringkiosk.dev</ownerEmail>
    </head>
@@ -73,6 +73,7 @@
      <outline title="t3n Daily" text="t3n Daily" type="rss" xmlUrl="https://t3n-daily.podigee.io/feed/mp3" htmlUrl="https://t3n.de/podcast#daily"></outline>
      <outline title="t3n Interview" text="t3n Interview" type="rss" xmlUrl="https://t3n-podcast.podigee.io/feed/mp3" htmlUrl="https://t3n.de/podcast#interview"></outline>
      <outline title="Techtiefen" text="Techtiefen" type="rss" xmlUrl="https://techtiefen.de//index.php/feed/mp3/" htmlUrl="https://techtiefen.de/"></outline>
+     <outline title="The World of IT-Security" text="The World of IT-Security" type="rss" xmlUrl="https://feeds.buzzsprout.com/1779426.rss" htmlUrl="https://www.suresecure.de/aktuelles/podcast"></outline>
      <outline title="TILpod" text="TILpod" type="rss" xmlUrl="https://tilpod.net/feed/mp3" htmlUrl="https://tilpod.net/"></outline>
      <outline title="todo:cast" text="todo:cast" type="rss" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:637814493/sounds.rss" htmlUrl="https://todocast.io/"></outline>
      <outline title="Unmute IT" text="Unmute IT" type="rss" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:965624446/sounds.rss" htmlUrl="https://linkr.bio/unmute-it"></outline>
