@@ -105,8 +105,8 @@ Apfelfunk ist ein wöchentlicher Podcast über Apple-Themen. Jean-Claude Frick u
 
 Sie möchten beim Thema Datenschutz auf dem Laufenden bleiben, aber keine seitenlange Literatur wälzen? Dann wenden Sie sich vertrauensvoll an unser Juristen-Redakteurs-Duo. Alle 14 Tage bespricht c&#39;t-Redakteur Holger Bleich mit Joerg Heidrich aktuelle Entwicklungen rund um den Datenschutz. Joerg ist beim c&#39;t-Mutterschiff Heise Medien als Justiziar für das Thema zuständig und hat täglich mit der europäischen Datenschutz-Grundverordnung (DSGVO) zu tun. Wechselnde Gäste ergänzen das Duo.
 
-* Number of published episodes: 77
-* Last episode published: 🟢 Friday, 16 December 2022
+* Number of published episodes: 78
+* Last episode published: 🟢 Friday, 13 January 2023
 * [Auslegungssache Website](https://heise.de/-4571821)
 * [Auslegungssache @ Spotify](https://open.spotify.com/show/3Jrnu7vrTurguBaCiPapkA)
 * [Auslegungssache @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1485860893)
@@ -185,8 +185,8 @@ Die wöchentliche Talkrunde rund um Apple, Mac, iPod &#43; iPhone, Gadgets und s
 
 Mitglieder der c&#39;t-Redaktion diskutieren über die aktuellen Themen aus dem c’t Magazin und was sonst noch so in der IT-Welt passiert.
 
-* Number of published episodes: 468
-* Last episode published: 🟢 Saturday, 07 January 2023
+* Number of published episodes: 469
+* Last episode published: 🟢 Saturday, 14 January 2023
 * [c&#39;t uplink Website](https://www.heise.de/ct/entdecken/?hauptrubrik=%40ctmagazin&amp;unterrubrik=c%27t&#43;uplink)
 * [c&#39;t uplink @ Spotify](https://open.spotify.com/show/4LdN7lGr9winLtQSqoIjVD)
 * [c&#39;t uplink @ Apple Podcasts](https://podcasts.apple.com/de/podcast/835717958)
@@ -231,7 +231,7 @@ Lucas Rott und Markus Herhoffer erzählen alle 14 Tage von Code und Nerd-Kultur.
 Jeden Samstag das Neueste aus Computertechnik und Informationstechnologie. Beiträge, Reportagen und Interviews zu IT-Sicherheit, Informatik, Datenschutz, Smartphones, Cloud-Computing und IT-Politik. Die Trends der IT werden kompakt und informativ zusammengefasst.
 
 * Number of published episodes: 20
-* Last episode published: 🟢 Saturday, 07 January 2023
+* Last episode published: 🟢 Saturday, 14 January 2023
 * [Computer und Kommunikation (Deutschlandfunk) Website](https://www.deutschlandfunk.de/computer-und-kommunikation-102.html)
 * [Computer und Kommunikation (Deutschlandfunk) @ Spotify](https://open.spotify.com/show/4uy56W83RGe8SKmzNpyfAc)
 * [Computer und Kommunikation (Deutschlandfunk) @ Apple Podcasts](https://podcasts.apple.com/de/podcast/173754605)
@@ -359,8 +359,8 @@ Der FOCUS ON: DevOps Podcast beschäftigt sich mit verschiedenen Methoden und We
 
 Der FOCUS ON: Linux Podcast beschäftigt sich mit verschiedenen Themen rund um Linux. Unser Ziel ist es, euch monatlich über die Entwicklungen und Neuigkeiten zu informieren und auch praktische Tool-Tipps an die Hand zu geben.
 
-* Number of published episodes: 44
-* Last episode published: 🟢 Friday, 23 December 2022
+* Number of published episodes: 45
+* Last episode published: 🟢 Friday, 13 January 2023
 * Weekly downloads (avg): 710 (updated: 2022-10-26)
 * [FOCUS ON: Linux Website](https://ageofdevops.de/index.php/series/fol/)
 * [FOCUS ON: Linux @ Spotify](https://open.spotify.com/show/4Yj9EaidQuwEZL0NkAafzh)
@@ -502,8 +502,8 @@ know Information Technology (kurz knowIT) - in diesem Sinne behandelt der Podcas
 
 Die IT-News des Tages von heise online
 
-* Number of published episodes: 292
-* Last episode published: 🟢 Friday, 06 January 2023
+* Number of published episodes: 291
+* Last episode published: 🟢 Friday, 13 January 2023
 * [Kurz informiert by heise online Website](http://www.heise.de/)
 * [Kurz informiert by heise online @ Spotify](https://open.spotify.com/show/2etf1jog8leNHbnhIArM9Z)
 * [Kurz informiert by heise online @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1485884061)
@@ -534,8 +534,8 @@ Der Podcast über unsere digitale Lebens- und Arbeitswelt mit Markus Hörster un
 
 Logbuch:Netzpolitik ist ein in der Regel wöchentlich erscheinender Podcast, der im Dialog zwischen Linus Neumann und Tim Pritlove die wichtigsten Themen und Ereignisse mit netzpolitischem Bezug aufgreift und diskutiert.
 
-* Number of published episodes: 452
-* Last episode published: 🟢 Friday, 23 December 2022
+* Number of published episodes: 453
+* Last episode published: 🟢 Saturday, 14 January 2023
 * [Logbuch: Netzpolitik Website](https://logbuch-netzpolitik.de/)
 * [Logbuch: Netzpolitik @ Apple Podcasts](https://podcasts.apple.com/de/podcast/476856034)
 * [Logbuch: Netzpolitik Podcast RSS](https://feeds.metaebene.me/lnp/m4a)
@@ -549,8 +549,8 @@ Logbuch:Netzpolitik ist ein in der Regel wöchentlich erscheinender Podcast, der
 
 Redakteure von heise Mac &amp; i beschäftigen sich jeden Monat mit Apple-Produkten, -Betriebssystemen und dem Drumherum, stellen Testergebnisse vor und geben Tipps.
 
-* Number of published episodes: 35
-* Last episode published: 🟢 Thursday, 08 December 2022
+* Number of published episodes: 36
+* Last episode published: 🟢 Friday, 13 January 2023
 * [Mac &amp; I Website](https://www.heise.de/mac-and-i/meldung/Mac-i-Der-Apple-Podcast-4681220.html)
 * [Mac &amp; I @ Spotify](https://open.spotify.com/show/5Tcgc97HvYREYM7kIRsxii)
 * [Mac &amp; I @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1499510618)
@@ -580,8 +580,8 @@ Von Menschen für Menschen, die Software entwickeln, ist dieser Podcast gedacht.
 
 Scrum kann doch inzwischen eh jeder? Von wegen! Denn - ganz unter uns: genug falsch machen kann man ohne Probleme. Daher möchten wir über Stolpersteine sprechen, über Smells und unsere Erfahrungen mitteilen, die wir mit Scrum, Kanban und Agil im Allgemeinen gemacht haben.
 
-* Number of published episodes: 119
-* Last episode published: 🟢 Friday, 16 December 2022
+* Number of published episodes: 120
+* Last episode published: 🟢 Friday, 13 January 2023
 * Weekly downloads (avg): 14449 (updated: 2022-12-28)
 * [Mein Scrum ist kaputt! Website](https://meinscrumistkaputt.de/)
 * [Mein Scrum ist kaputt! @ Spotify](https://open.spotify.com/show/7lECdowQCq0OWlf0EZnSpL)
@@ -603,7 +603,7 @@ Mind the Tech ist ein Podcast, der die dunklen Seiten der IT- und Tech-Welt bele
 * [Mind the Tech @ Spotify](https://open.spotify.com/show/6FydYmBjELizU8k8DOIcaA)
 * [Mind the Tech @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1515173582)
 * [Mind the Tech Podcast RSS](https://mind-the-tech.podigee.io/feed/mp3)
-* Tags: Cyber, Crime, Gesellschaft, Female host
+* Tags: Cyber, Crime, Gesellschaft, Female host, Security
 
 ----
 
@@ -683,7 +683,7 @@ Ein Podcast über die dunkle Seite der Digitalisierung: Spionage, Hacker, Sabota
 * [Percepticon @ Spotify](https://open.spotify.com/show/1BgA82Dtniy7Aaj2aktJI2)
 * [Percepticon @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1458318548)
 * [Percepticon Podcast RSS](https://percepticon.de/category/podcast/feed/podcast/)
-* Tags: IT-Sicherheit, Cyber Security, Sicherheitspolitik
+* Tags: IT-Sicherheit, Cyber Security, Sicherheitspolitik, Security
 
 ----
 
@@ -693,8 +693,8 @@ Ein Podcast über die dunkle Seite der Digitalisierung: Spionage, Hacker, Sabota
 
 Mit geballter Dev-Power nehmen Dennis, Fabi, Sebi und Jojo neue Podcastfolgen auf und werden dabei regelmäßig von Gäst:innen aus der Branche unterstützt. Taucht in unseren Deep Dives mit uns in Frameworks und Datenbanken ein, hört euch in den CTO-Specials die Erfahrungen führender Persönlichkeiten großer Unternehmen an und bleibt mit unseren News-Folgen stets am Ball in der Welt der App- und Webentwicklung.
 
-* Number of published episodes: 216
-* Last episode published: 🟢 Wednesday, 11 January 2023
+* Number of published episodes: 217
+* Last episode published: 🟢 Friday, 13 January 2023
 * Weekly downloads (avg): 8936 (updated: 2022-08-04)
 * [programmier.bar Website](https://www.programmier.bar/podcast)
 * [programmier.bar @ Spotify](https://open.spotify.com/show/0ik0sXv9paTQCeThcOLCCJ)
@@ -790,8 +790,8 @@ Bei &#34;Software-Architektur als Beruf&#34; erzählen Menschen, wie ihr berufli
 
 Live-Diskussion zu Software-Architektur im Stream. Einmal in der Woche diskutiert Eberhard Wolff Software-Architektur im Live-Stream auf YouTube und Twitch - oft zusammen mit einem Gast. Zuschauer können über den Chat mitdiskutieren oder Fragen stellen. Der Podcast enthält die Audio-Spur des Streams.
 
-* Number of published episodes: 143
-* Last episode published: 🟢 Friday, 16 December 2022
+* Number of published episodes: 144
+* Last episode published: 🟢 Friday, 13 January 2023
 * [SoftwareArchitektur im Stream Website](https://software-architektur.tv/)
 * [SoftwareArchitektur im Stream @ Spotify](https://open.spotify.com/show/7ySg1eZoWYBshd6QpGaW8B)
 * [SoftwareArchitektur im Stream @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1538545458)
@@ -813,7 +813,7 @@ Ich bin Cedric und in diesem Podcast rede ich immer wieder mal über Informatik,
 * [Speak 1337 @ Spotify](https://open.spotify.com/show/0xlIih789FcMbZaASyhuAm)
 * [Speak 1337 @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1577956101)
 * [Speak 1337 Podcast RSS](https://anchor.fm/s/c821b10/podcast/rss)
-* Tags: Informatik, Datenschutz, Sicherheit
+* Tags: Informatik, Datenschutz, Sicherheit, Security
 
 ----
 
@@ -854,8 +854,8 @@ Digitalisierung ist komplex. Heute entsteht dies, morgen das. Und was übermorge
 
 Dein täglicher Podcast mit dem, was wichtig war und was wichtig wird im digitalen Kosmos und dem Arbeitsleben der Zukunft. Die perfekte Begleitung zum Abschluss des Arbeitstages und auf dem Weg in den Abend.
 
-* Number of published episodes: 88
-* Last episode published: 🟢 Thursday, 12 January 2023
+* Number of published episodes: 89
+* Last episode published: 🟢 Friday, 13 January 2023
 * [t3n Daily Website](https://t3n.de/podcast#daily)
 * [t3n Daily @ Spotify](https://open.spotify.com/show/1Fc1zS8yvRS7Zf0leKn54o)
 * [t3n Daily @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1643152920)
@@ -870,8 +870,8 @@ Dein täglicher Podcast mit dem, was wichtig war und was wichtig wird im digital
 
 In diesem Podcast diskutiert die t3n-Redaktion mit Gästen über die spannendsten digitalen Themen unserer Zeit. Ob innovative Führungskonzepte, die Digitalisierung der Gesellschaft, smarte Gadgets, neue Mobilität oder Zukunftstechnologien. Jeden Freitag um 10 Uhr!
 
-* Number of published episodes: 465
-* Last episode published: 🟢 Monday, 09 January 2023
+* Number of published episodes: 466
+* Last episode published: 🟢 Friday, 13 January 2023
 * [t3n Interview Website](https://t3n.de/podcast#interview)
 * [t3n Interview @ Spotify](https://open.spotify.com/show/7obTbZaywhQEiUUOMswQBQ)
 * [t3n Interview @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1115601393)
@@ -1012,8 +1012,8 @@ Wöchentlicher Podcast für Webdesigner:innen und -entwickler:innen
 
 Wir berichten zweiwöchentlich über News und Updates aus dem WordPress Universum.
 
-* Number of published episodes: 171
-* Last episode published: 🟢 Saturday, 24 December 2022
+* Number of published episodes: 172
+* Last episode published: 🟢 Saturday, 14 January 2023
 * [WP Sofa Website](https://wp-sofa.de/)
 * [WP Sofa @ Spotify](https://open.spotify.com/show/5deyJkxMw1cAMKGxnrx5wO)
 * [WP Sofa Podcast RSS](https://wp-sofa.de/feed/mp3/)
@@ -1037,7 +1037,7 @@ Ein Dialog über Malware, Cybercrime und Cyberspionage
 * [Armchair Investigators @ Spotify](https://open.spotify.com/show/1xaPIhkQWfAtmHPg8llCEJ)
 * [Armchair Investigators @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1555931250)
 * [Armchair Investigators Podcast RSS](https://armchairinvestigators.de/feed/podcast/)
-* Tags: Malware, Cybercrime, Cyberspionage
+* Tags: Malware, Cybercrime, Cyberspionage, Security
 
 ----
 
