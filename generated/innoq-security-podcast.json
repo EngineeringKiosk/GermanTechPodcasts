@@ -1,0 +1,21 @@
+{
+ "name": "INNOQ Security Podcast",
+ "slug": "innoq-security-podcast",
+ "website": "https://www.innoq.com/de/podcast/?channel=security",
+ "podcastIndexID": 296266,
+ "rssFeed": "https://innoqsecurity.podigee.io/feed/aac",
+ "spotify": "https://open.spotify.com/show/44tnFXbuDShbJ7vNecXCaF",
+ "description": "In diesem Podcast sprechen wir über die Grundlagen von IT-Security. Ein praktischer Einstieg für alle, die an Software arbeiten.",
+ "tags": [
+  "Security"
+ ],
+ "weekly_downloads_avg": {
+  "value": 0,
+  "updated": ""
+ },
+ "episodeCount": 69,
+ "latestEpisodePublished": 1671868800,
+ "archive": false,
+ "itunesID": 1518284030,
+ "image": "images/innoq-security-podcast.jpg"
+}

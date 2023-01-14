@@ -6,7 +6,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (62 podcasts)
+* [Podcasts](#podcasts) (63 podcasts)
   * [0d - Zeroday](#0d-zeroday)
   * [Apfelfunk](#apfelfunk)
   * [Auslegungssache](#auslegungssache)
@@ -31,6 +31,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [Herzbergs Hörsaal](#herzbergs-horsaal)
   * [Index out of bounds](#index-out-of-bounds)
   * [INNOQ Podcast](#innoq-podcast)
+  * [INNOQ Security Podcast](#innoq-security-podcast)
   * [IT ist alles](#it-ist-alles)
   * [IT-Berufe Podcast](#it-berufe-podcast)
   * [IT@DB](#itatdb)
@@ -464,6 +465,22 @@ In dieser Serie diskutieren wir interessante Themen aus Software-Entwicklung und
 * [INNOQ Podcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/672695146)
 * [INNOQ Podcast Podcast RSS](https://innoq.podigee.io/feed/aac)
 * Tags: Softwareentwicklung, Software-Architektur
+
+----
+
+<h3 id="innoq-security-podcast">INNOQ Security Podcast</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/innoq-security-podcast.jpg" />
+
+In diesem Podcast sprechen wir über die Grundlagen von IT-Security. Ein praktischer Einstieg für alle, die an Software arbeiten.
+
+* Number of published episodes: 69
+* Last episode published: 🟢 Saturday, 24 December 2022
+* [INNOQ Security Podcast Website](https://www.innoq.com/de/podcast/?channel=security)
+* [INNOQ Security Podcast @ Spotify](https://open.spotify.com/show/44tnFXbuDShbJ7vNecXCaF)
+* [INNOQ Security Podcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1518284030)
+* [INNOQ Security Podcast Podcast RSS](https://innoqsecurity.podigee.io/feed/aac)
+* Tags: Security
 
 ----
 
