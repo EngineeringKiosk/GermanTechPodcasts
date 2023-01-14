@@ -324,7 +324,7 @@ Wir reden über Spieleentwicklung und allgemein über die Branche aber gehen auc
 * [Der GameDev Podcast @ Spotify](https://open.spotify.com/show/1AyPHtyeaeROvPtLsw1prl)
 * [Der GameDev Podcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1143613851)
 * [Der GameDev Podcast Podcast RSS](http://feed.gamedevpodcast.de/)
-* Tags: Game Development, gamedev, spieleentwicklung, 3d, vfx, sound, game design, project management, producing, video games, computer games, ai, procedural generation, indie games
+* Tags: Game Development, Spieleentwicklung, 3D, VFX, Producing, Video games, AI, Procedural generation, Indie games
 
 ----
 
