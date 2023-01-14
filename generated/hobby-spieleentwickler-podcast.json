@@ -1,0 +1,21 @@
+{
+ "name": "Hobby Spieleentwickler Podcast",
+ "slug": "hobby-spieleentwickler-podcast",
+ "website": "https://www.hobbyspieleentwicklerpodcast.de/",
+ "podcastIndexID": 3669659,
+ "rssFeed": "https://hobbyspieleentwicklerpodcast.de/podcast.xml",
+ "spotify": "https://open.spotify.com/show/0T08Oz5l2ztunuVZCBPyvG?si=bad7bdc63e9c4bba",
+ "description": "Zwei Softwareentwickler und Spiele-Enthusiasten entwickeln in ihrer Freizeit Videospiele und sprechen in einem Podcast über das, was sie tun, geben Tipps und diskutieren Technik sowie Methoden zur Spieleentwicklung.",
+ "tags": [
+  "Game Development"
+ ],
+ "weekly_downloads_avg": {
+  "value": 0,
+  "updated": ""
+ },
+ "episodeCount": 15,
+ "latestEpisodePublished": 1672203540,
+ "archive": false,
+ "itunesID": 1554911727,
+ "image": "images/hobby-spieleentwickler-podcast.jpg"
+}

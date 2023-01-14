@@ -6,7 +6,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (69 podcasts)
+* [Podcasts](#podcasts) (70 podcasts)
   * [0d - Zeroday](#0d-zeroday)
   * [Apfelfunk](#apfelfunk)
   * [Auslegungssache](#auslegungssache)
@@ -31,6 +31,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [Gamedev für die Platte - Der Unreal Podcast](#gamedev-fur-die-platte-der-unreal-podcast)
   * [GeekWeek](#geekweek)
   * [Herzbergs Hörsaal](#herzbergs-horsaal)
+  * [Hobby Spieleentwickler Podcast](#hobby-spieleentwickler-podcast)
   * [Index out of bounds](#index-out-of-bounds)
   * [INNOQ Podcast](#innoq-podcast)
   * [INNOQ Security Podcast](#innoq-security-podcast)
@@ -471,6 +472,22 @@ Dieser Podcast ist ein Hörsaal für die Ohren meiner Studierenden an der THM un
 * [Herzbergs Hörsaal @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1510742953)
 * [Herzbergs Hörsaal Podcast RSS](https://anchor.fm/s/ba9c0bc/podcast/rss)
 * Tags: Bildung
+
+----
+
+<h3 id="hobby-spieleentwickler-podcast">Hobby Spieleentwickler Podcast</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/hobby-spieleentwickler-podcast.jpg" />
+
+Zwei Softwareentwickler und Spiele-Enthusiasten entwickeln in ihrer Freizeit Videospiele und sprechen in einem Podcast über das, was sie tun, geben Tipps und diskutieren Technik sowie Methoden zur Spieleentwicklung.
+
+* Number of published episodes: 15
+* Last episode published: 🟢 Wednesday, 28 December 2022
+* [Hobby Spieleentwickler Podcast Website](https://www.hobbyspieleentwicklerpodcast.de/)
+* [Hobby Spieleentwickler Podcast @ Spotify](https://open.spotify.com/show/0T08Oz5l2ztunuVZCBPyvG?si=bad7bdc63e9c4bba)
+* [Hobby Spieleentwickler Podcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1554911727)
+* [Hobby Spieleentwickler Podcast Podcast RSS](https://hobbyspieleentwicklerpodcast.de/podcast.xml)
+* Tags: Game Development
 
 ----
 

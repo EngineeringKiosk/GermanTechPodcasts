@@ -2,7 +2,7 @@
  <opml version="2.0">
    <head>
      <title>Deutschsprachige Tech Podcasts</title>
-     <dateCreated>Sat, 14 Jan 2023 20:40:01 UTC</dateCreated>
+     <dateCreated>Sat, 14 Jan 2023 20:50:52 UTC</dateCreated>
      <ownerName>Engineering Kiosk</ownerName>
      <ownerEmail>stehtisch@engineeringkiosk.dev</ownerEmail>
    </head>
@@ -37,6 +37,7 @@
      <outline title="GeekWeek" text="GeekWeek" type="rss" xmlUrl="https://geekweekde.libsyn.com/rss" htmlUrl="https://geek-week.de/"></outline>
      <outline title="heise Developer: SoftwareArchitekTOUR" text="heise Developer: SoftwareArchitekTOUR" type="rss" xmlUrl="https://softwarearchitektour.podigee.io/feed/mp3" htmlUrl="https://www.heise.de/developer/SoftwareArchitekTOUR-4076349.html"></outline>
      <outline title="Herzbergs Hörsaal" text="Herzbergs Hörsaal" type="rss" xmlUrl="https://anchor.fm/s/ba9c0bc/podcast/rss" htmlUrl="https://www.thm.de/site/hochschule/service/schulportal/lehrerinnen-und-lehrer/studieren-probieren/podcast-herzbergs-hoersaal.html"></outline>
+     <outline title="Hobby Spieleentwickler Podcast" text="Hobby Spieleentwickler Podcast" type="rss" xmlUrl="https://hobbyspieleentwicklerpodcast.de/podcast.xml" htmlUrl="https://www.hobbyspieleentwicklerpodcast.de/"></outline>
      <outline title="Index out of bounds" text="Index out of bounds" type="rss" xmlUrl="https://anchor.fm/s/54509264/podcast/rss" htmlUrl="https://anchor.fm/indexoutofbounds"></outline>
      <outline title="INNOQ Podcast" text="INNOQ Podcast" type="rss" xmlUrl="https://innoq.podigee.io/feed/aac" htmlUrl="https://www.innoq.com/de/podcast/"></outline>
      <outline title="INNOQ Security Podcast" text="INNOQ Security Podcast" type="rss" xmlUrl="https://innoqsecurity.podigee.io/feed/aac" htmlUrl="https://www.innoq.com/de/podcast/?channel=security"></outline>
