@@ -5,11 +5,9 @@ rssFeed: https://techtiefen.de//index.php/feed/mp3/
 spotify: https://open.spotify.com/show/6hyfYJi5yvjWgcqOTtNzRo
 description: Ausführliche, häufig zeitlose Gespräche von Gastgeber Nico Kreiling mit wechselnden Gästen der IT-Welt zu deren Fach-Gebieten. Von Nerds, für Nerds!
 tags:
-  - Development
-  - IT
+  - Softwareentwicklung
   - Data Science
   - Machine Learning
-  - Interviews
 weekly_downloads_avg:
   value: 900
   updated: "2022-08-01"
