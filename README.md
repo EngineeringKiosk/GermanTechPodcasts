@@ -124,7 +124,7 @@ Apfelfunk ist ein wöchentlicher Podcast über Apple-Themen. Jean-Claude Frick u
 * [Apfelfunk @ Spotify](https://open.spotify.com/show/7FQLyWiNhMR0KS93ReaI4h)
 * [Apfelfunk @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1081146940)
 * [Apfelfunk Podcast RSS](https://feeds.soundcloud.com/users/soundcloud:users:201768667/sounds.rss)
-* Tags: Apple
+* Tags: Apple, Hardware
 
 ----
 
@@ -204,7 +204,7 @@ Die wöchentliche Talkrunde rund um Apple, Mac, iPod &#43; iPhone, Gadgets und s
 * [Bits und so Website](http://www.bitsundso.de/)
 * [Bits und so @ Apple Podcasts](https://podcasts.apple.com/de/podcast/202753375)
 * [Bits und so Podcast RSS](http://www.bitsundso.de/feed/)
-* Tags: Hardware
+* Tags: Hardware, Apple
 
 ----
 
@@ -378,7 +378,7 @@ Der Engineering Kiosk ist der deutschsprachige Software-Engineering-Podcast mit 
 * [Engineering Kiosk @ Spotify](https://open.spotify.com/show/0tJRC0UsObPCWLmmzmOkIs)
 * [Engineering Kiosk @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1603082924)
 * [Engineering Kiosk Podcast RSS](https://feeds.redcircle.com/0ecfdfd7-fda1-4c3d-9515-476727f9df5e)
-* Tags: Development, Tech-Kultur, Open Source
+* Tags: Development, Tech-Kultur, Open Source, DevOps, Cloud, Softwareentwicklung
 
 ----
 
@@ -521,6 +521,7 @@ Du bist Entwickler/Developer? Dann Lauscher auf! Thomas und Christian sprechen i
 * [Index out of bounds @ Spotify](https://open.spotify.com/show/2r1FGvYRkSYq4SmXyVKmnA)
 * [Index out of bounds @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1564647339)
 * [Index out of bounds Podcast RSS](https://anchor.fm/s/54509264/podcast/rss)
+* Tags: Softwareentwicklung
 
 ----
 
@@ -694,7 +695,7 @@ Von Menschen für Menschen, die Software entwickeln, ist dieser Podcast gedacht.
 * [Macht der Craft Website](https://macht-der-craft.soler-sanandres.net/)
 * [Macht der Craft @ Spotify](https://open.spotify.com/show/5232Av5Ibaf4shvJzpSKEa)
 * [Macht der Craft Podcast RSS](https://macht-der-craft.soler-sanandres.net/feed/podcast)
-* Tags: Development
+* Tags: Softwareentwicklung
 
 ----
 
@@ -775,7 +776,7 @@ Mehr Wissen über die digitale Welt. Experten des Hasso-Plattner-Instituts sprec
 * [Neuland @ Spotify](https://open.spotify.com/show/0kd8vXJDv3sN7VMtcLRsH9)
 * [Neuland @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1448992875)
 * [Neuland Podcast RSS](https://podcast.hpi.de/feed.xml)
-* Tags: Digitalisierung, IT, Forschung, Wissenspodcast
+* Tags: Digitalisierung, IT, Forschung, Wissenspodcast, Bildung
 
 ----
 
@@ -785,8 +786,8 @@ Mehr Wissen über die digitale Welt. Experten des Hasso-Plattner-Instituts sprec
 
 Oli und Michael sprechen über alles Wichtige aus der Welt der Open Source, Technologie und dem Geek-tum.
 
-* Number of published episodes: 34
-* Last episode published: 🟢 Friday, 09 December 2022
+* Number of published episodes: 35
+* Last episode published: 🟢 Sunday, 15 January 2023
 * [Open Source Couch Website](https://www.opensourcecouch.de/)
 * [Open Source Couch @ Spotify](https://open.spotify.com/show/3fNThjRvMKJhhyg7eCTY8v)
 * [Open Source Couch @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1529154227)
@@ -840,6 +841,7 @@ Mit geballter Dev-Power nehmen Dennis, Fabi, Sebi und Jojo neue Podcastfolgen au
 * [programmier.bar @ Spotify](https://open.spotify.com/show/0ik0sXv9paTQCeThcOLCCJ)
 * [programmier.bar @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1371409964)
 * [programmier.bar Podcast RSS](https://feeds.buzzsprout.com/176239.rss)
+* Tags: Softwareentwicklung, News
 
 ----
 
@@ -872,7 +874,7 @@ Sandra Parsick &amp; Daniel Zenzes präsentieren mit Ready for Review einen bunt
 * [Ready for Review @ Spotify](https://open.spotify.com/show/7dxK2wi4ZMGEYO3UHhTSc4)
 * [Ready for Review @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1535026156)
 * [Ready for Review Podcast RSS](https://ready-for-review.podigee.io/feed/mp3)
-* Tags: Software Development, Kochen, Klingel, Comics, IT Family Support, Filme, Brettspiele, Serien, Java, JavaScript, Female host
+* Tags: Software Development, Softwareentwicklung, Java, JavaScript, Female host
 
 ----
 
@@ -1080,7 +1082,7 @@ Ausführliche, häufig zeitlose Gespräche von Gastgeber Nico Kreiling mit wechs
 * [Techtiefen @ Spotify](https://open.spotify.com/show/6hyfYJi5yvjWgcqOTtNzRo)
 * [Techtiefen @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1349481289)
 * [Techtiefen Podcast RSS](https://techtiefen.de//index.php/feed/mp3/)
-* Tags: Development, IT, Data Science, Machine Learning, Interviews
+* Tags: Softwareentwicklung, Data Science, Machine Learning
 
 ----
 
@@ -1128,6 +1130,7 @@ todo:cast ist ein deutschsprachiger Podcast für die großen und kleinen Fragen 
 * [todo:cast @ Spotify](https://open.spotify.com/show/2tIlVD6vBAtEhOZM4jS1mw)
 * [todo:cast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1467179396)
 * [todo:cast Podcast RSS](https://feeds.soundcloud.com/users/soundcloud:users:637814493/sounds.rss)
+* Tags: Softwareentwicklung
 
 ----
 
@@ -1223,6 +1226,7 @@ Wöchentlicher Podcast für Webdesigner:innen und -entwickler:innen
 * [Working Draft @ Spotify](https://open.spotify.com/show/78iH7cIFzu1ejoB6aQUsIh)
 * [Working Draft @ Apple Podcasts](https://podcasts.apple.com/de/podcast/402204581)
 * [Working Draft Podcast RSS](https://workingdraft.de/feed/)
+* Tags: Softwareentwicklung
 
 ----
 
@@ -1272,7 +1276,7 @@ Im monatlichen Chaosradio informiert der Chaos Computer Club Berlin seit 1995 ü
 * [Chaosradio Website](https://chaosradio.de/)
 * [Chaosradio @ Apple Podcasts](https://podcasts.apple.com/de/podcast/135057225)
 * [Chaosradio Podcast RSS](https://chaosradio.de/feed/m4a)
-* Tags: Chaos Computer Club, Gesellschaft
+* Tags: Chaos Computer Club, Gesellschaft, Politik
 
 ----
 
