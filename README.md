@@ -58,7 +58,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [Ready for Review](#ready-for-review)
   * [Rheingehäckt](#rheingehackt)
   * [Schwarz, Code, Gold – Deutschland, Entwicklungsland?](#schwarz-code-gold-deutschland-entwicklungsland)
-  * [Security Insider](#security-insider)
+  * [Security-Insider](#security-insider)
   * [She for what? She for IT!](#she-for-what-she-for-it)
   * [She Likes Tech](#she-likes-tech)
   * [Software-Architektur als Beruf](#software-architektur-als-beruf)
@@ -912,7 +912,7 @@ Digitalisierung in Deutschland? Sagen wir mal so: Niemand klebt sich heute das Q
 
 ----
 
-<h3 id="security-insider">Security Insider</h3>
+<h3 id="security-insider">Security-Insider</h3>
 
 <img align="right" width="215" height="215" src="./generated/images/security-insider.png" />
 
@@ -920,11 +920,12 @@ Der Security-Insider Podcast ist ein Podcast für Security-Profis mit Infos, Nac
 
 * Number of published episodes: 66
 * Last episode published: 🟢 Tuesday, 03 January 2023
-* [Security Insider Website](https://www.security-insider.de/)
-* [Security Insider @ Spotify](https://open.spotify.com/show/3n8Pbu19oN32bzq7zsQbvC)
-* [Security Insider @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1470962583)
-* [Security Insider Podcast RSS](https://security-insider.podigee.io/feed/mp3)
-* Tags: Security, Datenschutz, Compliance
+* Weekly downloads (avg): 1060 (updated: 2023-01-16)
+* [Security-Insider Website](https://www.security-insider.de/)
+* [Security-Insider @ Spotify](https://open.spotify.com/show/3n8Pbu19oN32bzq7zsQbvC)
+* [Security-Insider @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1470962583)
+* [Security-Insider Podcast RSS](https://security-insider.podigee.io/feed/mp3)
+* Tags: Security, IT-Sicherheit, Cybersecurity, Datenschutz, Compliance, Malware, Sicherheitslücken
 
 ----
 

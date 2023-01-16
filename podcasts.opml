@@ -2,7 +2,7 @@
  <opml version="2.0">
    <head>
      <title>Deutschsprachige Tech Podcasts</title>
-     <dateCreated>Mon, 16 Jan 2023 18:52:11 UTC</dateCreated>
+     <dateCreated>Mon, 16 Jan 2023 19:14:56 UTC</dateCreated>
      <ownerName>Engineering Kiosk</ownerName>
      <ownerEmail>stehtisch@engineeringkiosk.dev</ownerEmail>
    </head>
@@ -65,7 +65,7 @@
      <outline title="Request for Comments" text="Request for Comments" type="rss" xmlUrl="https://requestforcomments.de/feed/m4a" htmlUrl="https://requestforcomments.de/"></outline>
      <outline title="Rheingehäckt" text="Rheingehäckt" type="rss" xmlUrl="https://2axxur.podcaster.de/rheingehaeckt.rss" htmlUrl="https://www.at-yet.de/aktuelles"></outline>
      <outline title="Schwarz, Code, Gold – Deutschland, Entwicklungsland?" text="Schwarz, Code, Gold – Deutschland, Entwicklungsland?" type="rss" xmlUrl="https://feed.schwarz-code-gold.de" htmlUrl="https://www.brandad-systems.de/podcast-schwarz-code-gold-deutschland-entwicklungsland"></outline>
-     <outline title="Security Insider" text="Security Insider" type="rss" xmlUrl="https://security-insider.podigee.io/feed/mp3" htmlUrl="https://www.security-insider.de/"></outline>
+     <outline title="Security-Insider" text="Security-Insider" type="rss" xmlUrl="https://security-insider.podigee.io/feed/mp3" htmlUrl="https://www.security-insider.de/"></outline>
      <outline title="SELECTrageFROMit;" text="SELECTrageFROMit;" type="rss" xmlUrl="https://anchor.fm/s/6c46c0c8/podcast/rss" htmlUrl="https://linktr.ee/selectragefromit"></outline>
      <outline title="She for what? She for IT!" text="She for what? She for IT!" type="rss" xmlUrl="https://sheforwhat-sheforit.podigee.io/feed/mp3" htmlUrl="https://www.adesso.de/de/unternehmen/she-for-it/podcasts.jsp"></outline>
      <outline title="She Likes Tech" text="She Likes Tech" type="rss" xmlUrl="https://www.ndr.de/nachrichten/info/podcast4808.xml" htmlUrl="https://www.ndr.de/nachrichten/info/podcast4808.html"></outline>
