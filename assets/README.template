@@ -16,6 +16,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   {{- end }}
 * [Legend](#legend)
 * [How to contribute](#how-to-contribute)
+* [In the press](#in-the-press)
 * [Frequently Asked Questions](#frequently-asked-questions)
 </ul>
 
@@ -73,6 +74,10 @@ We calculate a traffic light indicator on when the last podcast episode was publ
 If you want to 
 * add a new podcast to the list, check out our [Contribution Guide](/CONTRIBUTING.md)
 * modify the tooling and structure, check out our [Development Guide](/DEVELOPMENT.md)
+
+## In the press
+
+* [Deutschsprachige Tech-Podcasts @ GNU/Linux.ch](https://gnulinux.ch/deutschsprachige-tech-podcasts)
 
 ## Frequently Asked Questions
 
