@@ -90,6 +90,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [SELECTrageFROMit;](#selectragefromit)
 * [Legend](#legend)
 * [How to contribute](#how-to-contribute)
+* [In the press](#in-the-press)
 * [Frequently Asked Questions](#frequently-asked-questions)
 </ul>
 
@@ -1045,8 +1046,8 @@ Digitalisierung ist komplex. Heute entsteht dies, morgen das. Und was übermorge
 
 Dein täglicher Podcast mit dem, was wichtig war und was wichtig wird im digitalen Kosmos und dem Arbeitsleben der Zukunft. Die perfekte Begleitung zum Abschluss des Arbeitstages und auf dem Weg in den Abend.
 
-* Number of published episodes: 89
-* Last episode published: 🟢 Friday, 13 January 2023
+* Number of published episodes: 90
+* Last episode published: 🟢 Monday, 16 January 2023
 * [t3n Daily Website](https://t3n.de/podcast#daily)
 * [t3n Daily @ Spotify](https://open.spotify.com/show/1Fc1zS8yvRS7Zf0leKn54o)
 * [t3n Daily @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1643152920)
@@ -1061,8 +1062,8 @@ Dein täglicher Podcast mit dem, was wichtig war und was wichtig wird im digital
 
 In diesem Podcast diskutiert die t3n-Redaktion mit Gästen über die spannendsten digitalen Themen unserer Zeit. Ob innovative Führungskonzepte, die Digitalisierung der Gesellschaft, smarte Gadgets, neue Mobilität oder Zukunftstechnologien. Jeden Freitag um 10 Uhr!
 
-* Number of published episodes: 466
-* Last episode published: 🟢 Friday, 13 January 2023
+* Number of published episodes: 467
+* Last episode published: 🟢 Monday, 16 January 2023
 * [t3n Interview Website](https://t3n.de/podcast#interview)
 * [t3n Interview @ Spotify](https://open.spotify.com/show/7obTbZaywhQEiUUOMswQBQ)
 * [t3n Interview @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1115601393)
@@ -1125,8 +1126,8 @@ Sujeevan und Dirk reden über Themen, die Ihnen in der letzten Zeit untergekomme
 
 todo:cast ist ein deutschsprachiger Podcast für die großen und kleinen Fragen des Entwickler*innenalltags. Schon seit Langem tauschen sich Malte und Robin-Manuel in regelmäßigen Abständen über diverse Themen aus ihrem Alltag in der Softwareentwicklung aus. Dabei lernen sie jedes Mal etwas Neues! Warum also das Ganze nicht aufzeichnen und als Podcast zur Verfügung stellen?
 
-* Number of published episodes: 54
-* Last episode published: 🟢 Tuesday, 03 January 2023
+* Number of published episodes: 55
+* Last episode published: 🟢 Monday, 16 January 2023
 * [todo:cast Website](https://todocast.io/)
 * [todo:cast @ Spotify](https://open.spotify.com/show/2tIlVD6vBAtEhOZM4jS1mw)
 * [todo:cast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1467179396)
@@ -1382,6 +1383,10 @@ We calculate a traffic light indicator on when the last podcast episode was publ
 If you want to 
 * add a new podcast to the list, check out our [Contribution Guide](/CONTRIBUTING.md)
 * modify the tooling and structure, check out our [Development Guide](/DEVELOPMENT.md)
+
+## In the press
+
+* [Deutschsprachige Tech-Podcasts @ GNU/Linux.ch](https://gnulinux.ch/deutschsprachige-tech-podcasts)
 
 ## Frequently Asked Questions
 
