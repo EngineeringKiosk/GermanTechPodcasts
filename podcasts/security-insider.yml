@@ -1,4 +1,4 @@
-name: Security Insider
+name: Security-Insider
 website: https://www.security-insider.de/
 podcastIndexID: 410524
 rssFeed: https://security-insider.podigee.io/feed/mp3
@@ -6,5 +6,12 @@ spotify: https://open.spotify.com/show/3n8Pbu19oN32bzq7zsQbvC
 description: Der Security-Insider Podcast ist ein Podcast für Security-Profis mit Infos, Nachrichten und Meinungen rund um die IT-Sicherheit. Hier unterhält sich Chefredakteur Peter Schmitz mit seinem Co-Host Dirk Srocke und manchmal auch mit spannenden Gästen. Zum Gespräch stehen alle Themen rund um die IT-Sicherheit, Datenschutz und Compliance.
 tags:
   - Security
+  - IT-Sicherheit
+  - Cybersecurity
   - Datenschutz
   - Compliance
+  - Malware
+  - Sicherheitslücken
+weekly_downloads_avg:
+  value: 1060
+  updated: "2023-01-16"
