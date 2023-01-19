@@ -17,7 +17,7 @@
  },
  "episodeCount": 100,
  "latestEpisodePublished": 1658165038,
- "archive": false,
+ "archive": true,
  "itunesID": 0,
  "image": "images/geekweek.jpg"
 }

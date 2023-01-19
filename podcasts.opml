@@ -2,12 +2,12 @@
  <opml version="2.0">
    <head>
      <title>Deutschsprachige Tech Podcasts</title>
-     <dateCreated>Wed, 18 Jan 2023 11:18:47 UTC</dateCreated>
+     <dateCreated>Thu, 19 Jan 2023 09:30:10 UTC</dateCreated>
      <ownerName>Engineering Kiosk</ownerName>
      <ownerEmail>stehtisch@engineeringkiosk.dev</ownerEmail>
    </head>
    <body>
-     <outline title="0d - Zeroday" text="0d - Zeroday" type="rss" xmlUrl="https://0x0d.de/index.php/feed/mp3/" htmlUrl="https://0x0d.de/"></outline>
+     <outline title="0d - Zeroday" text="0d - Zeroday" type="rss" xmlUrl="https://0x0d.de/feed/mp3/" htmlUrl="https://0x0d.de/"></outline>
      <outline title="Apfelfunk" text="Apfelfunk" type="rss" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:201768667/sounds.rss" htmlUrl="http://www.apfelfunk.com/"></outline>
      <outline title="Armchair Investigators" text="Armchair Investigators" type="rss" xmlUrl="https://armchairinvestigators.de/feed/podcast/" htmlUrl="https://armchairinvestigators.de/"></outline>
      <outline title="Auslegungssache" text="Auslegungssache" type="rss" xmlUrl="https://ct-auslegungssache.podigee.io/feed/mp3" htmlUrl="https://heise.de/-4571821"></outline>

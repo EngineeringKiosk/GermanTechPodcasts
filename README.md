@@ -6,7 +6,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (72 podcasts)
+* [Podcasts](#podcasts) (71 podcasts)
   * [0d - Zeroday](#0d-zeroday)
   * [Apfelfunk](#apfelfunk)
   * [Auslegungssache](#auslegungssache)
@@ -29,7 +29,6 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [FOCUS ON: DevOps](#focus-on-devops)
   * [FOCUS ON: Linux](#focus-on-linux)
   * [Gamedev für die Platte - Der Unreal Podcast](#gamedev-fur-die-platte-der-unreal-podcast)
-  * [GeekWeek](#geekweek)
   * [GNU/Linux.ch](#gnu-linux-ch)
   * [Herzbergs Hörsaal](#herzbergs-horsaal)
   * [Hobby Spieleentwickler Podcast](#hobby-spieleentwickler-podcast)
@@ -79,12 +78,13 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [Wo wir sind ist vorne](#wo-wir-sind-ist-vorne)
   * [Working Draft](#working-draft)
   * [WP Sofa](#wp-sofa)
-* [Archived podcasts](#archived-podcasts) (8 podcasts)
+* [Archived podcasts](#archived-podcasts) (9 podcasts)
   * [Armchair Investigators](#armchair-investigators)
   * [Chaosradio](#chaosradio)
   * [Code and Ship](#code-and-ship)
   * [Codestammtisch](#codestammtisch)
   * [Freakshow](#freakshow)
+  * [GeekWeek](#geekweek)
   * [heise Developer: SoftwareArchitekTOUR](#heise-developer-softwarearchitektour)
   * [Request for Comments](#request-for-comments)
   * [SELECTrageFROMit;](#selectragefromit)
@@ -109,7 +109,7 @@ Deutschsprachiger Podcast zu den Themen IT-Sicherheit und Privatsphäre. Stefan 
 * [0d - Zeroday Website](https://0x0d.de/)
 * [0d - Zeroday @ Spotify](https://open.spotify.com/show/5XTyNo5r6H0rRptIgaE1w4)
 * [0d - Zeroday @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1190478484)
-* [0d - Zeroday Podcast RSS](https://0x0d.de/index.php/feed/mp3/)
+* [0d - Zeroday Podcast RSS](https://0x0d.de/feed/mp3/)
 * Tags: Security, Informationssicherheit, Privatsphäre, Datenschutz
 
 ----
@@ -120,8 +120,8 @@ Deutschsprachiger Podcast zu den Themen IT-Sicherheit und Privatsphäre. Stefan 
 
 Apfelfunk ist ein wöchentlicher Podcast über Apple-Themen. Jean-Claude Frick und Malte Kirchner berichten und bewerten darin die Neuigkeiten über den wichtigsten Computerkonzern der Welt.
 
-* Number of published episodes: 362
-* Last episode published: 🟢 Wednesday, 11 January 2023
+* Number of published episodes: 363
+* Last episode published: 🟢 Wednesday, 18 January 2023
 * [Apfelfunk Website](http://www.apfelfunk.com/)
 * [Apfelfunk @ Spotify](https://open.spotify.com/show/7FQLyWiNhMR0KS93ReaI4h)
 * [Apfelfunk @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1081146940)
@@ -445,21 +445,6 @@ Wir talken GameDev und haben Unreal News.
 * [Gamedev für die Platte - Der Unreal Podcast @ Spotify](https://open.spotify.com/show/3UtoyAbMfEvkSIx5w3HohY)
 * [Gamedev für die Platte - Der Unreal Podcast Podcast RSS](https://feed.podbean.com/gamedevfuerdieplatte/feed.xml)
 * Tags: Unreal, Game Development
-
-----
-
-<h3 id="geekweek">GeekWeek</h3>
-
-<img align="right" width="215" height="215" src="./generated/images/geekweek.jpg" />
-
-Nothing But Tech - Aus Deutschland, der Schweiz und den USA. geek-week.de berichtet jede Woche über jüngste Entwicklungen aus der Online- und Tech-Welt.
-
-* Number of published episodes: 100
-* Last episode published: 🟡 Monday, 18 July 2022
-* [GeekWeek Website](https://geek-week.de/)
-* [GeekWeek @ Spotify](https://open.spotify.com/show/4GrgnNFNgHNbZxu6DVxJIy)
-* [GeekWeek Podcast RSS](https://geekweekde.libsyn.com/rss)
-* Tags: News, Hardware, Cloud
 
 ----
 
@@ -836,8 +821,8 @@ Ein Podcast über die dunkle Seite der Digitalisierung: Spionage, Hacker, Sabota
 
 Mit geballter Dev-Power nehmen Dennis, Fabi, Sebi und Jojo neue Podcastfolgen auf und werden dabei regelmäßig von Gäst:innen aus der Branche unterstützt. Taucht in unseren Deep Dives mit uns in Frameworks und Datenbanken ein, hört euch in den CTO-Specials die Erfahrungen führender Persönlichkeiten großer Unternehmen an und bleibt mit unseren News-Folgen stets am Ball in der Welt der App- und Webentwicklung.
 
-* Number of published episodes: 217
-* Last episode published: 🟢 Friday, 13 January 2023
+* Number of published episodes: 218
+* Last episode published: 🟢 Wednesday, 18 January 2023
 * Weekly downloads (avg): 8936 (updated: 2022-08-04)
 * [programmier.bar Website](https://www.programmier.bar/podcast)
 * [programmier.bar @ Spotify](https://open.spotify.com/show/0ik0sXv9paTQCeThcOLCCJ)
@@ -918,8 +903,8 @@ Digitalisierung in Deutschland? Sagen wir mal so: Niemand klebt sich heute das Q
 
 Der Security-Insider Podcast ist ein Podcast für Security-Profis mit Infos, Nachrichten und Meinungen rund um die IT-Sicherheit. Hier unterhält sich Chefredakteur Peter Schmitz mit seinem Co-Host Dirk Srocke und manchmal auch mit spannenden Gästen. Zum Gespräch stehen alle Themen rund um die IT-Sicherheit, Datenschutz und Compliance.
 
-* Number of published episodes: 66
-* Last episode published: 🟢 Tuesday, 03 January 2023
+* Number of published episodes: 67
+* Last episode published: 🟢 Wednesday, 18 January 2023
 * Weekly downloads (avg): 1060 (updated: 2023-01-16)
 * [Security-Insider Website](https://www.security-insider.de/)
 * [Security-Insider @ Spotify](https://open.spotify.com/show/3n8Pbu19oN32bzq7zsQbvC)
@@ -1047,8 +1032,8 @@ Digitalisierung ist komplex. Heute entsteht dies, morgen das. Und was übermorge
 
 Dein täglicher Podcast mit dem, was wichtig war und was wichtig wird im digitalen Kosmos und dem Arbeitsleben der Zukunft. Die perfekte Begleitung zum Abschluss des Arbeitstages und auf dem Weg in den Abend.
 
-* Number of published episodes: 91
-* Last episode published: 🟢 Tuesday, 17 January 2023
+* Number of published episodes: 92
+* Last episode published: 🟢 Wednesday, 18 January 2023
 * [t3n Daily Website](https://t3n.de/podcast#daily)
 * [t3n Daily @ Spotify](https://open.spotify.com/show/1Fc1zS8yvRS7Zf0leKn54o)
 * [t3n Daily @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1643152920)
@@ -1143,8 +1128,8 @@ todo:cast ist ein deutschsprachiger Podcast für die großen und kleinen Fragen 
 
 Wir sind UNMUTE IT, der Podcast von und mit Frauen aus der IT. Wir erzählen von unseren Erfahrungen, begegneten Herausforderungen, Tipps &amp; Tricks und teilen die eine oder andere Anekdote. Frauen gehören in STEM Felder.Mit unserer Präsenz wollen wir dies untermauern und Frauen motivieren, sich mit dem Thema zu beschäftigen und den Schritt in die IT zu gehen.
 
-* Number of published episodes: 29
-* Last episode published: 🟢 Tuesday, 10 January 2023
+* Number of published episodes: 30
+* Last episode published: 🟢 Wednesday, 18 January 2023
 * [Unmute IT Website](https://linkr.bio/unmute-it)
 * [Unmute IT @ Spotify](https://open.spotify.com/show/4v3xXuY5Km98xnmeXeGZgx)
 * [Unmute IT Podcast RSS](https://feeds.soundcloud.com/users/soundcloud:users:965624446/sounds.rss)
@@ -1323,6 +1308,21 @@ Freak Show ist ein Podcast, der sich mit dem Leben mit Technik im 21. Jahrhunder
 * [Freakshow Website](https://freakshow.fm/)
 * [Freakshow @ Apple Podcasts](https://podcasts.apple.com/de/podcast/277518737)
 * [Freakshow Podcast RSS](https://feeds.metaebene.me/freakshow/m4a)
+
+----
+
+<h3 id="geekweek">GeekWeek</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/geekweek.jpg" />
+
+Nothing But Tech - Aus Deutschland, der Schweiz und den USA. geek-week.de berichtet jede Woche über jüngste Entwicklungen aus der Online- und Tech-Welt.
+
+* Number of published episodes: 100
+* Last episode published: 🔴 Monday, 18 July 2022
+* [GeekWeek Website](https://geek-week.de/)
+* [GeekWeek @ Spotify](https://open.spotify.com/show/4GrgnNFNgHNbZxu6DVxJIy)
+* [GeekWeek Podcast RSS](https://geekweekde.libsyn.com/rss)
+* Tags: News, Hardware, Cloud
 
 ----
 
