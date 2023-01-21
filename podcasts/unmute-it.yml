@@ -6,3 +6,8 @@ spotify: https://open.spotify.com/show/4v3xXuY5Km98xnmeXeGZgx
 description: "Wir sind UNMUTE IT, der Podcast von und mit Frauen aus der IT. Wir erzählen von unseren Erfahrungen, begegneten Herausforderungen, Tipps & Tricks und teilen die eine oder andere Anekdote. Frauen gehören in STEM Felder.Mit unserer Präsenz wollen wir dies untermauern und Frauen motivieren, sich mit dem Thema zu beschäftigen und den Schritt in die IT zu gehen."
 tags:
   - Female host
+  - Development
+  - Softwareentwicklung
+weekly_downloads_avg:
+  value: 177
+  updated: "2023-01-21"
