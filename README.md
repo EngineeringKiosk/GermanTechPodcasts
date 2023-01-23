@@ -6,7 +6,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (71 podcasts)
+* [Podcasts](#podcasts) (72 podcasts)
   * [0d - Zeroday](#0d-zeroday)
   * [Apfelfunk](#apfelfunk)
   * [Auslegungssache](#auslegungssache)
@@ -17,6 +17,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [Breach FM](#breach-fm)
   * [c&#39;t uplink](#ct-uplink)
   * [Click! Clack! Hack!](#click-clack-hack)
+  * [Code and Ship](#code-and-ship)
   * [Code Culture](#code-culture)
   * [Computer und Kommunikation (Deutschlandfunk)](#computer-und-kommunikation-deutschlandfunk)
   * [Das Duumvirat](#das-duumvirat)
@@ -78,10 +79,9 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [Wo wir sind ist vorne](#wo-wir-sind-ist-vorne)
   * [Working Draft](#working-draft)
   * [WP Sofa](#wp-sofa)
-* [Archived podcasts](#archived-podcasts) (9 podcasts)
+* [Archived podcasts](#archived-podcasts) (8 podcasts)
   * [Armchair Investigators](#armchair-investigators)
   * [Chaosradio](#chaosradio)
-  * [Code and Ship](#code-and-ship)
   * [Codestammtisch](#codestammtisch)
   * [Freakshow](#freakshow)
   * [GeekWeek](#geekweek)
@@ -202,7 +202,7 @@ Prozessoren, Grafikkarten, Notebooks, Desktop-PCs, Server, KI, Rechenzentren und
 Die wöchentliche Talkrunde rund um Apple, Mac, iPod &#43; iPhone, Gadgets und so. Fast live aus München.
 
 * Number of published episodes: 10
-* Last episode published: 🟢 Sunday, 15 January 2023
+* Last episode published: 🟢 Sunday, 22 January 2023
 * [Bits und so Website](http://www.bitsundso.de/)
 * [Bits und so @ Apple Podcasts](https://podcasts.apple.com/de/podcast/202753375)
 * [Bits und so Podcast RSS](http://www.bitsundso.de/feed/)
@@ -232,8 +232,8 @@ Ransomware Attacken, Phishing oder DDoS - jeden Tag aufs Neue werden Unternehmen
 
 Mitglieder der c&#39;t-Redaktion diskutieren über die aktuellen Themen aus dem c’t Magazin und was sonst noch so in der IT-Welt passiert.
 
-* Number of published episodes: 469
-* Last episode published: 🟢 Saturday, 14 January 2023
+* Number of published episodes: 470
+* Last episode published: 🟢 Saturday, 21 January 2023
 * [c&#39;t uplink Website](https://www.heise.de/ct/entdecken/?hauptrubrik=%40ctmagazin&amp;unterrubrik=c%27t&#43;uplink)
 * [c&#39;t uplink @ Spotify](https://open.spotify.com/show/4LdN7lGr9winLtQSqoIjVD)
 * [c&#39;t uplink @ Apple Podcasts](https://podcasts.apple.com/de/podcast/835717958)
@@ -256,14 +256,29 @@ Ein Podcast über den nahezu unendlich tiefen Kaninchenbau der mechanische Tasta
 
 ----
 
+<h3 id="code-and-ship">Code and Ship</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/code-and-ship.jpg" />
+
+Jonathan und Ingmar sprechen übers Programmieren und Ausliefern von Software Projekten. Außerdem tauschen die beiden Bremer sich über Tools, Frameworks und das Leben als Softwareentwickler aus.
+
+* Number of published episodes: 47
+* Last episode published: 🟢 Tuesday, 17 January 2023
+* [Code and Ship Website](https://codeandship.rocks/)
+* [Code and Ship @ Spotify](https://open.spotify.com/show/68VGe4DFCUxvcJp44VDVL3)
+* [Code and Ship @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1458278980)
+* [Code and Ship Podcast RSS](https://codeandship.rocks/podcast/index.xml)
+
+----
+
 <h3 id="code-culture">Code Culture</h3>
 
 <img align="right" width="215" height="215" src="./generated/images/code-culture.jpg" />
 
 Lucas Rott und Markus Herhoffer erzählen alle 14 Tage von Code und Nerd-Kultur. Mit News aus der Tech-Bubble, einem Thema der Woche über Software development und dem Code der Woche.
 
-* Number of published episodes: 95
-* Last episode published: 🟢 Sunday, 08 January 2023
+* Number of published episodes: 96
+* Last episode published: 🟢 Sunday, 22 January 2023
 * [Code Culture Website](https://codeculture.podigee.io/)
 * [Code Culture @ Spotify](https://open.spotify.com/show/01ZL2aPP50lLW51u2aTOkN)
 * [Code Culture @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1516904389)
@@ -278,7 +293,7 @@ Lucas Rott und Markus Herhoffer erzählen alle 14 Tage von Code und Nerd-Kultur.
 Jeden Samstag das Neueste aus Computertechnik und Informationstechnologie. Beiträge, Reportagen und Interviews zu IT-Sicherheit, Informatik, Datenschutz, Smartphones, Cloud-Computing und IT-Politik. Die Trends der IT werden kompakt und informativ zusammengefasst.
 
 * Number of published episodes: 20
-* Last episode published: 🟢 Saturday, 14 January 2023
+* Last episode published: 🟢 Saturday, 21 January 2023
 * [Computer und Kommunikation (Deutschlandfunk) Website](https://www.deutschlandfunk.de/computer-und-kommunikation-102.html)
 * [Computer und Kommunikation (Deutschlandfunk) @ Spotify](https://open.spotify.com/show/4uy56W83RGe8SKmzNpyfAc)
 * [Computer und Kommunikation (Deutschlandfunk) @ Apple Podcasts](https://podcasts.apple.com/de/podcast/173754605)
@@ -308,8 +323,8 @@ Im Podcast Das Duumvirat unterhalten wir uns über verschiedene Mac-Themen aus d
 
 Wir sind ein Laber-Technik-Lebensweisheiten-Podcast, mit News, Retrogeschichten und gelegentlich Filmbesprechungen. Bob berichtet was er wieder mal kaputt gemacht hat und Jay erklärt warum es kaputt gegangen ist. Technik ist vergänglich, einiges setzt sich nie durch anderes gerät in Vergessenheit. In unserem Podcast erklären wir dir wie man Emails per Post versendet, Podcasts auf Kassette veröffentlicht, mit einem Raumschiff aus Knetmasse zum Mars fliegt und Linux auf einem Toaster installiert. Außerdem sprechen wir über die Dinge die die Technikwelt gerade bewegen. Klingt abgedreht? Ist es auch. Hör rein dann verpasst du nichts.
 
-* Number of published episodes: 38
-* Last episode published: 🟡 Wednesday, 16 November 2022
+* Number of published episodes: 39
+* Last episode published: 🟢 Friday, 06 January 2023
 * [DAS WAR SCHON KAPUTT Website](http://www.daswarschonkaputt.tech/)
 * [DAS WAR SCHON KAPUTT @ Spotify](https://open.spotify.com/show/5F92Db3OFLQXxdh2OIXEzI)
 * [DAS WAR SCHON KAPUTT Podcast RSS](https://daswarschonkaputt.tech/feed/dwsk.xml)
@@ -357,8 +372,8 @@ Der Unterhaltungs-Podcast für .NET Entwickler - ca. alle zwei Wochen treffen si
 
 Digitalisierungsfieber, dem Podcast für IT Security, Datenschutz, und IT Service! Erfahren Sie, wie Sie Ihr Unternehmen sicher in das 21. Jahrhundert steuern und so bestens für die Zukunft gewappnet sind. Im Angesicht der Digitalisierung hat IT Security oberste Priorität!
 
-* Number of published episodes: 149
-* Last episode published: 🟢 Thursday, 12 January 2023
+* Number of published episodes: 150
+* Last episode published: 🟢 Thursday, 19 January 2023
 * [Digitalisierungsfieber Website](https://andreaskunz.it/)
 * [Digitalisierungsfieber @ Spotify](https://open.spotify.com/show/3ByjcOlWeQxCfVwSfxn4gd)
 * [Digitalisierungsfieber @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1490620957)
@@ -583,8 +598,8 @@ Der Podcast für Auszubildende, Ausbilder und IHK-Prüfer in den IT-Berufen (Fac
 
 IT@DB ist ein Podcast für IT Fach- und Führungskräfte (w/m/d). Hier erhältst du einen exklusiven Einblick zu spannenden IT Projekten der Deutschen Bahn.
 
-* Number of published episodes: 57
-* Last episode published: 🟢 Friday, 06 January 2023
+* Number of published episodes: 58
+* Last episode published: 🟢 Friday, 20 January 2023
 * [IT@DB Website](https://cqlshb.podcaster.de/)
 * [IT@DB @ Spotify](https://open.spotify.com/show/3uV0oOeigGJCAAQbXZ49Dv)
 * [IT@DB @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1462447493)
@@ -615,7 +630,7 @@ know Information Technology (kurz knowIT) - in diesem Sinne behandelt der Podcas
 Die IT-News des Tages von heise online
 
 * Number of published episodes: 291
-* Last episode published: 🟢 Friday, 13 January 2023
+* Last episode published: 🟢 Friday, 20 January 2023
 * [Kurz informiert by heise online Website](http://www.heise.de/)
 * [Kurz informiert by heise online @ Spotify](https://open.spotify.com/show/2etf1jog8leNHbnhIArM9Z)
 * [Kurz informiert by heise online @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1485884061)
@@ -968,8 +983,8 @@ Bei &#34;Software-Architektur als Beruf&#34; erzählen Menschen, wie ihr berufli
 
 Live-Diskussion zu Software-Architektur im Stream. Einmal in der Woche diskutiert Eberhard Wolff Software-Architektur im Live-Stream auf YouTube und Twitch - oft zusammen mit einem Gast. Zuschauer können über den Chat mitdiskutieren oder Fragen stellen. Der Podcast enthält die Audio-Spur des Streams.
 
-* Number of published episodes: 144
-* Last episode published: 🟢 Friday, 13 January 2023
+* Number of published episodes: 145
+* Last episode published: 🟢 Friday, 20 January 2023
 * [SoftwareArchitektur im Stream Website](https://software-architektur.tv/)
 * [SoftwareArchitektur im Stream @ Spotify](https://open.spotify.com/show/7ySg1eZoWYBshd6QpGaW8B)
 * [SoftwareArchitektur im Stream @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1538545458)
@@ -1032,8 +1047,8 @@ Digitalisierung ist komplex. Heute entsteht dies, morgen das. Und was übermorge
 
 Dein täglicher Podcast mit dem, was wichtig war und was wichtig wird im digitalen Kosmos und dem Arbeitsleben der Zukunft. Die perfekte Begleitung zum Abschluss des Arbeitstages und auf dem Weg in den Abend.
 
-* Number of published episodes: 93
-* Last episode published: 🟢 Thursday, 19 January 2023
+* Number of published episodes: 94
+* Last episode published: 🟢 Friday, 20 January 2023
 * [t3n Daily Website](https://t3n.de/podcast#daily)
 * [t3n Daily @ Spotify](https://open.spotify.com/show/1Fc1zS8yvRS7Zf0leKn54o)
 * [t3n Daily @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1643152920)
@@ -1128,8 +1143,8 @@ todo:cast ist ein deutschsprachiger Podcast für die großen und kleinen Fragen 
 
 Wir sind UNMUTE IT, der Podcast von und mit Frauen aus der IT. Wir erzählen von unseren Erfahrungen, begegneten Herausforderungen, Tipps &amp; Tricks und teilen die eine oder andere Anekdote. Frauen gehören in STEM Felder.Mit unserer Präsenz wollen wir dies untermauern und Frauen motivieren, sich mit dem Thema zu beschäftigen und den Schritt in die IT zu gehen.
 
-* Number of published episodes: 30
-* Last episode published: 🟢 Wednesday, 18 January 2023
+* Number of published episodes: 31
+* Last episode published: 🟢 Saturday, 21 January 2023
 * [Unmute IT Website](https://linkr.bio/unmute-it)
 * [Unmute IT @ Spotify](https://open.spotify.com/show/4v3xXuY5Km98xnmeXeGZgx)
 * [Unmute IT Podcast RSS](https://feeds.soundcloud.com/users/soundcloud:users:965624446/sounds.rss)
@@ -1265,21 +1280,6 @@ Im monatlichen Chaosradio informiert der Chaos Computer Club Berlin seit 1995 ü
 * [Chaosradio @ Apple Podcasts](https://podcasts.apple.com/de/podcast/135057225)
 * [Chaosradio Podcast RSS](https://chaosradio.de/feed/m4a)
 * Tags: Chaos Computer Club, Gesellschaft, Politik
-
-----
-
-<h3 id="code-and-ship">Code and Ship</h3>
-
-<img align="right" width="215" height="215" src="./generated/images/code-and-ship.jpg" />
-
-Jonathan und Ingmar sprechen übers Programmieren und Ausliefern von Software Projekten. Außerdem tauschen die beiden Bremer sich über Tools, Frameworks und das Leben als Softwareentwickler aus.
-
-* Number of published episodes: 46
-* Last episode published: 🔴 Tuesday, 28 June 2022
-* [Code and Ship Website](https://codeandship.rocks/)
-* [Code and Ship @ Spotify](https://open.spotify.com/show/68VGe4DFCUxvcJp44VDVL3)
-* [Code and Ship @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1458278980)
-* [Code and Ship Podcast RSS](https://codeandship.rocks/podcast/index.xml)
 
 ----
 
