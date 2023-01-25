@@ -6,7 +6,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (72 podcasts)
+* [Podcasts](#podcasts) (73 podcasts)
   * [0d - Zeroday](#0d-zeroday)
   * [Apfelfunk](#apfelfunk)
   * [Auslegungssache](#auslegungssache)
@@ -57,6 +57,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [RadioTux](#radiotux)
   * [Ready for Review](#ready-for-review)
   * [Rheingehäckt](#rheingehackt)
+  * [Schlüsseltechnologie](#schlusseltechnologie)
   * [Schwarz, Code, Gold – Deutschland, Entwicklungsland?](#schwarz-code-gold-deutschland-entwicklungsland)
   * [Security-Insider](#security-insider)
   * [She for what? She for IT!](#she-for-what-she-for-it)
@@ -893,6 +894,20 @@ Wie können wir Cybersicherheit als gesamtgesellschaftliches Problem verstehen? 
 * [Rheingehäckt @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1585954195)
 * [Rheingehäckt Podcast RSS](https://2axxur.podcaster.de/rheingehaeckt.rss)
 * Tags: Security
+
+----
+
+<h3 id="schlusseltechnologie">Schlüsseltechnologie</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/schluesseltechnologie.png" />
+
+Die IT hat unser Leben in den letzten Jahrzehnten von Grund auf verändert. Aber wie funktioniert sie wirklich? Das möchte ttimeless mal erklärt bekommen. Zum Glück hat Xyrill Antworten.
+
+* Number of published episodes: 32
+* Last episode published: 🟢 Thursday, 19 January 2023
+* [Schlüsseltechnologie Website](https://xyrillian.de/noises/stp/)
+* [Schlüsseltechnologie @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1559995829)
+* [Schlüsseltechnologie Podcast RSS](https://xyrillian.de/noises/stp/rss.xml)
 
 ----
 

@@ -2,7 +2,7 @@
  <opml version="2.0">
    <head>
      <title>Deutschsprachige Tech Podcasts</title>
-     <dateCreated>Wed, 25 Jan 2023 21:24:05 UTC</dateCreated>
+     <dateCreated>Wed, 25 Jan 2023 21:41:42 UTC</dateCreated>
      <ownerName>Engineering Kiosk</ownerName>
      <ownerEmail>stehtisch@engineeringkiosk.dev</ownerEmail>
    </head>
@@ -64,6 +64,7 @@
      <outline title="Ready for Review" text="Ready for Review" type="rss" xmlUrl="https://ready-for-review.podigee.io/feed/mp3" htmlUrl="https://ready-for-review.dev/"></outline>
      <outline title="Request for Comments" text="Request for Comments" type="rss" xmlUrl="https://requestforcomments.de/feed/m4a" htmlUrl="https://requestforcomments.de/"></outline>
      <outline title="Rheingehäckt" text="Rheingehäckt" type="rss" xmlUrl="https://2axxur.podcaster.de/rheingehaeckt.rss" htmlUrl="https://www.at-yet.de/aktuelles"></outline>
+     <outline title="Schlüsseltechnologie" text="Schlüsseltechnologie" type="rss" xmlUrl="https://xyrillian.de/noises/stp/rss.xml" htmlUrl="https://xyrillian.de/noises/stp/"></outline>
      <outline title="Schwarz, Code, Gold – Deutschland, Entwicklungsland?" text="Schwarz, Code, Gold – Deutschland, Entwicklungsland?" type="rss" xmlUrl="https://feed.schwarz-code-gold.de" htmlUrl="https://www.brandad-systems.de/podcast-schwarz-code-gold-deutschland-entwicklungsland"></outline>
      <outline title="Security-Insider" text="Security-Insider" type="rss" xmlUrl="https://security-insider.podigee.io/feed/mp3" htmlUrl="https://www.security-insider.de/"></outline>
      <outline title="SELECTrageFROMit;" text="SELECTrageFROMit;" type="rss" xmlUrl="https://anchor.fm/s/6c46c0c8/podcast/rss" htmlUrl="https://linktr.ee/selectragefromit"></outline>
