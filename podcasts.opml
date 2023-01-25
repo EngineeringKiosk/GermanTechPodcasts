@@ -2,7 +2,7 @@
  <opml version="2.0">
    <head>
      <title>Deutschsprachige Tech Podcasts</title>
-     <dateCreated>Wed, 25 Jan 2023 21:41:42 UTC</dateCreated>
+     <dateCreated>Wed, 25 Jan 2023 21:52:58 UTC</dateCreated>
      <ownerName>Engineering Kiosk</ownerName>
      <ownerEmail>stehtisch@engineeringkiosk.dev</ownerEmail>
    </head>
@@ -72,6 +72,7 @@
      <outline title="She Likes Tech" text="She Likes Tech" type="rss" xmlUrl="https://www.ndr.de/nachrichten/info/podcast4808.xml" htmlUrl="https://www.ndr.de/nachrichten/info/podcast4808.html"></outline>
      <outline title="Software-Architektur als Beruf" text="Software-Architektur als Beruf" type="rss" xmlUrl="https://1evriw.podcaster.de/software-architektur-als-beruf.rss" htmlUrl="https://software-architektur.tv/beruf.html"></outline>
      <outline title="SoftwareArchitektur im Stream" text="SoftwareArchitektur im Stream" type="rss" xmlUrl="https://1evriw.podcaster.de/software-architektur-im-stream.rss" htmlUrl="https://software-architektur.tv/"></outline>
+     <outline title="SoftwerkerCast" text="SoftwerkerCast" type="rss" xmlUrl="https://softwerkercast.podigee.io/feed/mp3" htmlUrl="https://www.codecentric.de/softwerkercast"></outline>
      <outline title="Speak 1337" text="Speak 1337" type="rss" xmlUrl="https://anchor.fm/s/c821b10/podcast/rss" htmlUrl="https://the-morpheus.de/"></outline>
      <outline title="Super Duper Developers Club" text="Super Duper Developers Club" type="rss" xmlUrl="https://anchor.fm/s/bcd04b04/podcast/rss" htmlUrl="https://superdev.club/podcasts/"></outline>
      <outline title="t3n Catch up" text="t3n Catch up" type="rss" xmlUrl="https://t3n-catch-up.podigee.io/feed/mp3" htmlUrl="https://t3n.de/podcast#catchup"></outline>

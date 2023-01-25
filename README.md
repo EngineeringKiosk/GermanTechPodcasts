@@ -6,7 +6,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (73 podcasts)
+* [Podcasts](#podcasts) (74 podcasts)
   * [0d - Zeroday](#0d-zeroday)
   * [Apfelfunk](#apfelfunk)
   * [Auslegungssache](#auslegungssache)
@@ -64,6 +64,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [She Likes Tech](#she-likes-tech)
   * [Software-Architektur als Beruf](#software-architektur-als-beruf)
   * [SoftwareArchitektur im Stream](#softwarearchitektur-im-stream)
+  * [SoftwerkerCast](#softwerkercast)
   * [Speak 1337](#speak-1337)
   * [Super Duper Developers Club](#super-duper-developers-club)
   * [t3n Catch up](#t3n-catch-up)
@@ -1005,6 +1006,21 @@ Live-Diskussion zu Software-Architektur im Stream. Einmal in der Woche diskutier
 * [SoftwareArchitektur im Stream @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1538545458)
 * [SoftwareArchitektur im Stream Podcast RSS](https://1evriw.podcaster.de/software-architektur-im-stream.rss)
 * Tags: Bildung, How To, Technologie
+
+----
+
+<h3 id="softwerkercast">SoftwerkerCast</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/softwerkercast.png" />
+
+Der SoftwerkerCast, unser neues Podcast-Format, präsentiert euch Softwerker-Wissen zum Reinhören und Nachhören. Wie auch bei den anderen Softwerker-Formaten erwartet euch im SoftwerkerCast das volle Themenspektrum aus der bunten Welt der Softwareentwicklung: von A wie APM bis Z wie Zero Downtime. Paradigmen und neue Trends, Evergreens und Eintagsfliegen.
+
+* Number of published episodes: 13
+* Last episode published: 🟢 Sunday, 01 January 2023
+* [SoftwerkerCast Website](https://www.codecentric.de/softwerkercast)
+* [SoftwerkerCast @ Spotify](https://open.spotify.com/show/0GMFlDJabOtXYm8u8HfAvL)
+* [SoftwerkerCast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1592472699)
+* [SoftwerkerCast Podcast RSS](https://softwerkercast.podigee.io/feed/mp3)
 
 ----
 

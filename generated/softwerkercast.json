@@ -1,0 +1,19 @@
+{
+ "name": "SoftwerkerCast",
+ "slug": "softwerkercast",
+ "website": "https://www.codecentric.de/softwerkercast",
+ "podcastIndexID": 4530860,
+ "rssFeed": "https://softwerkercast.podigee.io/feed/mp3",
+ "spotify": "https://open.spotify.com/show/0GMFlDJabOtXYm8u8HfAvL",
+ "description": "Der SoftwerkerCast, unser neues Podcast-Format, präsentiert euch Softwerker-Wissen zum Reinhören und Nachhören. Wie auch bei den anderen Softwerker-Formaten erwartet euch im SoftwerkerCast das volle Themenspektrum aus der bunten Welt der Softwareentwicklung: von A wie APM bis Z wie Zero Downtime. Paradigmen und neue Trends, Evergreens und Eintagsfliegen.",
+ "tags": null,
+ "weekly_downloads_avg": {
+  "value": 0,
+  "updated": ""
+ },
+ "episodeCount": 13,
+ "latestEpisodePublished": 1672554300,
+ "archive": false,
+ "itunesID": 1592472699,
+ "image": "images/softwerkercast.png"
+}
