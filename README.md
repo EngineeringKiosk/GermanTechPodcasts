@@ -122,8 +122,8 @@ Deutschsprachiger Podcast zu den Themen IT-Sicherheit und Privatsphäre. Stefan 
 
 Apfelfunk ist ein wöchentlicher Podcast über Apple-Themen. Jean-Claude Frick und Malte Kirchner berichten und bewerten darin die Neuigkeiten über den wichtigsten Computerkonzern der Welt.
 
-* Number of published episodes: 363
-* Last episode published: 🟢 Wednesday, 18 January 2023
+* Number of published episodes: 364
+* Last episode published: 🟢 Wednesday, 25 January 2023
 * [Apfelfunk Website](http://www.apfelfunk.com/)
 * [Apfelfunk @ Spotify](https://open.spotify.com/show/7FQLyWiNhMR0KS93ReaI4h)
 * [Apfelfunk @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1081146940)
@@ -138,8 +138,8 @@ Apfelfunk ist ein wöchentlicher Podcast über Apple-Themen. Jean-Claude Frick u
 
 Sie möchten beim Thema Datenschutz auf dem Laufenden bleiben, aber keine seitenlange Literatur wälzen? Dann wenden Sie sich vertrauensvoll an unser Juristen-Redakteurs-Duo. Alle 14 Tage bespricht c&#39;t-Redakteur Holger Bleich mit Joerg Heidrich aktuelle Entwicklungen rund um den Datenschutz. Joerg ist beim c&#39;t-Mutterschiff Heise Medien als Justiziar für das Thema zuständig und hat täglich mit der europäischen Datenschutz-Grundverordnung (DSGVO) zu tun. Wechselnde Gäste ergänzen das Duo.
 
-* Number of published episodes: 78
-* Last episode published: 🟢 Friday, 13 January 2023
+* Number of published episodes: 79
+* Last episode published: 🟢 Friday, 27 January 2023
 * [Auslegungssache Website](https://heise.de/-4571821)
 * [Auslegungssache @ Spotify](https://open.spotify.com/show/3Jrnu7vrTurguBaCiPapkA)
 * [Auslegungssache @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1485860893)
@@ -375,7 +375,7 @@ Der Unterhaltungs-Podcast für .NET Entwickler - ca. alle zwei Wochen treffen si
 Digitalisierungsfieber, dem Podcast für IT Security, Datenschutz, und IT Service! Erfahren Sie, wie Sie Ihr Unternehmen sicher in das 21. Jahrhundert steuern und so bestens für die Zukunft gewappnet sind. Im Angesicht der Digitalisierung hat IT Security oberste Priorität!
 
 * Number of published episodes: 150
-* Last episode published: 🟢 Thursday, 19 January 2023
+* Last episode published: 🟢 Thursday, 26 January 2023
 * [Digitalisierungsfieber Website](https://andreaskunz.it/)
 * [Digitalisierungsfieber @ Spotify](https://open.spotify.com/show/3ByjcOlWeQxCfVwSfxn4gd)
 * [Digitalisierungsfieber @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1490620957)
@@ -439,8 +439,8 @@ Der FOCUS ON: DevOps Podcast beschäftigt sich mit verschiedenen Methoden und We
 
 Der FOCUS ON: Linux Podcast beschäftigt sich mit verschiedenen Themen rund um Linux. Unser Ziel ist es, euch monatlich über die Entwicklungen und Neuigkeiten zu informieren und auch praktische Tool-Tipps an die Hand zu geben.
 
-* Number of published episodes: 45
-* Last episode published: 🟢 Friday, 13 January 2023
+* Number of published episodes: 46
+* Last episode published: 🟢 Thursday, 26 January 2023
 * Weekly downloads (avg): 710 (updated: 2022-10-26)
 * [FOCUS ON: Linux Website](https://ageofdevops.de/index.php/series/fol/)
 * [FOCUS ON: Linux @ Spotify](https://open.spotify.com/show/4Yj9EaidQuwEZL0NkAafzh)
@@ -551,8 +551,8 @@ In dieser Serie diskutieren wir interessante Themen aus Software-Entwicklung und
 
 In diesem Podcast sprechen wir über die Grundlagen von IT-Security. Ein praktischer Einstieg für alle, die an Software arbeiten.
 
-* Number of published episodes: 70
-* Last episode published: 🟢 Friday, 20 January 2023
+* Number of published episodes: 71
+* Last episode published: 🟢 Thursday, 26 January 2023
 * [INNOQ Security Podcast Website](https://www.innoq.com/de/podcast/?channel=security)
 * [INNOQ Security Podcast @ Spotify](https://open.spotify.com/show/44tnFXbuDShbJ7vNecXCaF)
 * [INNOQ Security Podcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1518284030)
@@ -647,8 +647,8 @@ Die IT-News des Tages von heise online
 
 Der Podcast über unsere digitale Lebens- und Arbeitswelt mit Markus Hörster und Christian Cordes. Alle vier Wochen dienstags um 19.00 Uhr im Radio auf Radio Okerwelle (UKW 104,6 in der Region Braunschweig) und nach der Ausstrahlung als Podcast. Wir beschäftigen uns mit allen Themen, die etwas mit Digitalien zu tun haben.
 
-* Number of published episodes: 71
-* Last episode published: 🟢 Thursday, 05 January 2023
+* Number of published episodes: 72
+* Last episode published: 🟢 Thursday, 26 January 2023
 * [Logbuch Digitalien Website](https://www.logbuch-digitalien.de/)
 * [Logbuch Digitalien @ Spotify](https://open.spotify.com/show/5HxbvAOx6qOMOXbtulHji1)
 * [Logbuch Digitalien @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1240755398)
@@ -1078,8 +1078,8 @@ Digitalisierung ist komplex. Heute entsteht dies, morgen das. Und was übermorge
 
 Dein täglicher Podcast mit dem, was wichtig war und was wichtig wird im digitalen Kosmos und dem Arbeitsleben der Zukunft. Die perfekte Begleitung zum Abschluss des Arbeitstages und auf dem Weg in den Abend.
 
-* Number of published episodes: 97
-* Last episode published: 🟢 Wednesday, 25 January 2023
+* Number of published episodes: 98
+* Last episode published: 🟢 Thursday, 26 January 2023
 * [t3n Daily Website](https://t3n.de/podcast#daily)
 * [t3n Daily @ Spotify](https://open.spotify.com/show/1Fc1zS8yvRS7Zf0leKn54o)
 * [t3n Daily @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1643152920)
