@@ -97,6 +97,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
 * [How to contribute](#how-to-contribute)
 * [In the press](#in-the-press)
 * [Frequently Asked Questions](#frequently-asked-questions)
+* [Other](#other)
 </ul>
 
 ## Podcasts
@@ -329,8 +330,8 @@ Jeden Samstag das Neueste aus Computertechnik und Informationstechnologie. Beitr
 
 Im Podcast Das Duumvirat unterhalten wir uns über verschiedene Mac-Themen aus dem Alltag von Anwendern. Wir schauen über den Tellerrand. Und manchmal haben wir auch Gäste.
 
-* Number of published episodes: 49
-* Last episode published: 🟢 Tuesday, 06 December 2022
+* Number of published episodes: 50
+* Last episode published: 🟢 Thursday, 02 February 2023
 * [Das Duumvirat Website](https://www.trommelspeicher.de/podcast/)
 * [Das Duumvirat @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1212750085)
 * [Das Duumvirat Podcast RSS](https://www.trommelspeicher.de/resource/podcast/feed.xml)
@@ -1494,3 +1495,7 @@ This is a tradeoff we took, at least for now.
 ### On the website: German
 
 We have a German version available on the [Engineering Kiosk website](https://engineeringkiosk.dev/deutsche-tech-podcasts/) because the whole website is German.
+
+## Other
+
+If you seek more german speaking _technology_ related podcasts without guidelines (see [our policies](./CONTRIBUTING.md)), have a look at the [technology section at fyyd.de](https://fyyd.de/discover/cat/technology/0).
