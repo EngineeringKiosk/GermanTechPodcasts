@@ -6,7 +6,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (75 podcasts)
+* [Podcasts](#podcasts) (76 podcasts)
   * [0d - Zeroday](#0d-zeroday)
   * [Apfelfunk](#apfelfunk)
   * [Auslegungssache](#auslegungssache)
@@ -55,6 +55,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [Open Source in der Industrie](#open-source-in-der-industrie)
   * [Percepticon](#percepticon)
   * [programmier.bar](#programmier-bar)
+  * [Python Podcast](#python-podcast)
   * [RadioTux](#radiotux)
   * [Ready for Review](#ready-for-review)
   * [Rheingehäckt](#rheingehackt)
@@ -863,6 +864,22 @@ Mit geballter Dev-Power nehmen Dennis, Fabi, Sebi und Jojo neue Podcastfolgen au
 * [programmier.bar @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1371409964)
 * [programmier.bar Podcast RSS](https://feeds.buzzsprout.com/176239.rss)
 * Tags: Softwareentwicklung, News
+
+----
+
+<h3 id="python-podcast">Python Podcast</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/python-podcast.png" />
+
+Ein deutschsprachiger Podcast rund um die Programmiersprache Python
+
+* Number of published episodes: 48
+* Last episode published: 🟢 Friday, 27 January 2023
+* [Python Podcast Website](https://python-podcast.de/)
+* [Python Podcast @ Spotify](https://open.spotify.com/show/5AvPhPaP1ZNSjNUXY3Gf6M)
+* [Python Podcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1445331513)
+* [Python Podcast Podcast RSS](https://python-podcast.de/show/feed/podcast/m4a/rss.xml)
+* Tags: Python, Softwareentwicklung
 
 ----
 
