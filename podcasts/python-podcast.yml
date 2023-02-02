@@ -1,0 +1,9 @@
+name: Python Podcast
+website: https://python-podcast.de/
+podcastIndexID: 239402
+rssFeed: https://python-podcast.de/show/feed/podcast/m4a/rss.xml
+spotify: https://open.spotify.com/show/5AvPhPaP1ZNSjNUXY3Gf6M
+description: "Ein deutschsprachiger Podcast rund um die Programmiersprache Python"
+tags:
+  - Python
+  - Softwareentwicklung
