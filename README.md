@@ -6,7 +6,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (76 podcasts)
+* [Podcasts](#podcasts) (77 podcasts)
   * [0d - Zeroday](#0d-zeroday)
   * [Apfelfunk](#apfelfunk)
   * [Auslegungssache](#auslegungssache)
@@ -48,6 +48,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [Macht der Craft](#macht-der-craft)
   * [Mein Scrum ist kaputt!](#mein-scrum-ist-kaputt)
   * [Mind the Tech](#mind-the-tech)
+  * [Mixedcast](#mixedcast)
   * [Nachgehackt](#nachgehackt)
   * [Netzpolitik](#netzpolitik)
   * [Neuland](#neuland)
@@ -751,6 +752,22 @@ Mind the Tech ist ein Podcast, der die dunklen Seiten der IT- und Tech-Welt bele
 * [Mind the Tech @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1515173582)
 * [Mind the Tech Podcast RSS](https://mind-the-tech.podigee.io/feed/mp3)
 * Tags: Cyber, Crime, Gesellschaft, Female host, Security
+
+----
+
+<h3 id="mixedcast">Mixedcast</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/mixedcast.jpg" />
+
+Der MIXEDCAST ist Deutschlands Podcast über Virtual Reality, Augmented Reality, Mixed Reality, Künstliche Intelligenz und generell neue Formen der Mensch-Computer-Interaktion. Wir sprechen über Themen wie Virtual Reality für Games, Entertainment und das Business, neue Augmented-Reality-Technologien oder Transhumanisums und wie sich die Beziehung zwischen Mensch, Computer und digitaler Welt verändert.
+
+* Number of published episodes: 342
+* Last episode published: 🟢 Sunday, 29 January 2023
+* [Mixedcast Website](https://mixed.de/podcast/)
+* [Mixedcast @ Spotify](https://open.spotify.com/show/7nqUnwk9j5qFfjACXzc8Yg)
+* [Mixedcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1141873988)
+* [Mixedcast Podcast RSS](https://feeds.soundcloud.com/users/soundcloud:users:246129251/sounds.rss)
+* Tags: Virtual Reality, Augmented Reality, Mixed Reality, Künstliche Intelligenz
 
 ----
 

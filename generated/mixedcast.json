@@ -1,0 +1,24 @@
+{
+ "name": "Mixedcast",
+ "slug": "mixedcast",
+ "website": "https://mixed.de/podcast/",
+ "podcastIndexID": 714246,
+ "rssFeed": "https://feeds.soundcloud.com/users/soundcloud:users:246129251/sounds.rss",
+ "spotify": "https://open.spotify.com/show/7nqUnwk9j5qFfjACXzc8Yg",
+ "description": "Der MIXEDCAST ist Deutschlands Podcast über Virtual Reality, Augmented Reality, Mixed Reality, Künstliche Intelligenz und generell neue Formen der Mensch-Computer-Interaktion. Wir sprechen über Themen wie Virtual Reality für Games, Entertainment und das Business, neue Augmented-Reality-Technologien oder Transhumanisums und wie sich die Beziehung zwischen Mensch, Computer und digitaler Welt verändert.",
+ "tags": [
+  "Virtual Reality",
+  "Augmented Reality",
+  "Mixed Reality",
+  "Künstliche Intelligenz"
+ ],
+ "weekly_downloads_avg": {
+  "value": 0,
+  "updated": ""
+ },
+ "episodeCount": 342,
+ "latestEpisodePublished": 1674950400,
+ "archive": false,
+ "itunesID": 1141873988,
+ "image": "images/mixedcast.jpg"
+}

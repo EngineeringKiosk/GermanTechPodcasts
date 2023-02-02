@@ -2,7 +2,7 @@
  <opml version="2.0">
    <head>
      <title>Deutschsprachige Tech Podcasts</title>
-     <dateCreated>Thu, 02 Feb 2023 20:28:09 UTC</dateCreated>
+     <dateCreated>Thu, 02 Feb 2023 20:31:09 UTC</dateCreated>
      <ownerName>Engineering Kiosk</ownerName>
      <ownerEmail>stehtisch@engineeringkiosk.dev</ownerEmail>
    </head>
@@ -54,6 +54,7 @@
      <outline title="Macht der Craft" text="Macht der Craft" type="rss" xmlUrl="https://macht-der-craft.soler-sanandres.net/feed/podcast" htmlUrl="https://macht-der-craft.soler-sanandres.net/"></outline>
      <outline title="Mein Scrum ist kaputt!" text="Mein Scrum ist kaputt!" type="rss" xmlUrl="https://meinscrumistkaputt.de/feed/podcast/" htmlUrl="https://meinscrumistkaputt.de/"></outline>
      <outline title="Mind the Tech" text="Mind the Tech" type="rss" xmlUrl="https://mind-the-tech.podigee.io/feed/mp3" htmlUrl="https://www.mindthetech.de/"></outline>
+     <outline title="Mixedcast" text="Mixedcast" type="rss" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:246129251/sounds.rss" htmlUrl="https://mixed.de/podcast/"></outline>
      <outline title="Nachgehackt" text="Nachgehackt" type="rss" xmlUrl="https://nachgehacktpodcast.podigee.io/feed/mp3" htmlUrl="https://nachgehacktpodcast.podigee.io/"></outline>
      <outline title="Netzpolitik" text="Netzpolitik" type="rss" xmlUrl="https://netzpolitik.org/category/netzpolitik-podcast/?feed=itunes&amp;" htmlUrl="https://netzpolitik.org/podcast/"></outline>
      <outline title="Neuland" text="Neuland" type="rss" xmlUrl="https://podcast.hpi.de/feed.xml" htmlUrl="https://podcast.hpi.de/"></outline>
