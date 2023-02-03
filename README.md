@@ -6,7 +6,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (77 podcasts)
+* [Podcasts](#podcasts) (78 podcasts)
   * [0d - Zeroday](#0d-zeroday)
   * [Apfelfunk](#apfelfunk)
   * [Auslegungssache](#auslegungssache)
@@ -37,6 +37,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [Index out of bounds](#index-out-of-bounds)
   * [INNOQ Podcast](#innoq-podcast)
   * [INNOQ Security Podcast](#innoq-security-podcast)
+  * [ISMS X-Plain](#isms-x-plain)
   * [IT ist alles](#it-ist-alles)
   * [IT-Berufe Podcast](#it-berufe-podcast)
   * [IT@DB](#itatdb)
@@ -578,6 +579,22 @@ In diesem Podcast sprechen wir über die Grundlagen von IT-Security. Ein praktis
 * [INNOQ Security Podcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1518284030)
 * [INNOQ Security Podcast Podcast RSS](https://innoqsecurity.podigee.io/feed/aac)
 * Tags: Security
+
+----
+
+<h3 id="isms-x-plain">ISMS X-Plain</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/isms-x-plain.jpg" />
+
+Dieser Podcast unterstützt schnell, konkret und umfänglich beim Einstieg in die Themen Informationssicherheit, ISMS, ISO27001 und TISAX und richtet sich an IT-Leiter, Informationssicherheitsbeauftragte (ISB / CISO), Auditoren, Mitarbeitende, die sich tiefer den Aufgaben Informationssicherheit und Informationssicherheitsmanagement widmen wollen. Im Austausch unter unseren Expertinnen und Experten, mit interessanten Interviewpartner*innen und der Betrachtung aktuellster Entwicklungen bleibst du bei allen Änderungen und neuen Versionen der Normen auf dem Laufenden und kennst die Standards - für Eure Informationssicherheit.
+
+* Number of published episodes: 44
+* Last episode published: 🟢 Sunday, 04 December 2022
+* [ISMS X-Plain Website](https://www.abat.de/wissen/podcast-isms-x-plain)
+* [ISMS X-Plain @ Spotify](https://open.spotify.com/show/5VGQNDbDqDciA4gFY3gXho)
+* [ISMS X-Plain @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1550125725)
+* [ISMS X-Plain Podcast RSS](https://isms-x-plain.podigee.io/feed/mp3)
+* Tags: Informationssicherheit, Security
 
 ----
 

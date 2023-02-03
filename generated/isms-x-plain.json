@@ -1,0 +1,22 @@
+{
+ "name": "ISMS X-Plain",
+ "slug": "isms-x-plain",
+ "website": "https://www.abat.de/wissen/podcast-isms-x-plain",
+ "podcastIndexID": 3066864,
+ "rssFeed": "https://isms-x-plain.podigee.io/feed/mp3",
+ "spotify": "https://open.spotify.com/show/5VGQNDbDqDciA4gFY3gXho",
+ "description": "Dieser Podcast unterstützt schnell, konkret und umfänglich beim Einstieg in die Themen Informationssicherheit, ISMS, ISO27001 und TISAX und richtet sich an IT-Leiter, Informationssicherheitsbeauftragte (ISB / CISO), Auditoren, Mitarbeitende, die sich tiefer den Aufgaben Informationssicherheit und Informationssicherheitsmanagement widmen wollen. Im Austausch unter unseren Expertinnen und Experten, mit interessanten Interviewpartner*innen und der Betrachtung aktuellster Entwicklungen bleibst du bei allen Änderungen und neuen Versionen der Normen auf dem Laufenden und kennst die Standards - für Eure Informationssicherheit.",
+ "tags": [
+  "Informationssicherheit",
+  "Security"
+ ],
+ "weekly_downloads_avg": {
+  "value": 0,
+  "updated": ""
+ },
+ "episodeCount": 44,
+ "latestEpisodePublished": 1670195100,
+ "archive": false,
+ "itunesID": 1550125725,
+ "image": "images/isms-x-plain.jpg"
+}
