@@ -159,8 +159,8 @@ Sie möchten beim Thema Datenschutz auf dem Laufenden bleiben, aber keine seiten
 
 @Autoweird.fm ist der regelmäßig erscheinende Podcast rund um die Themen Software Entwicklung, Agilität und Software Crafting.
 
-* Number of published episodes: 119
-* Last episode published: 🟡 Sunday, 11 December 2022
+* Number of published episodes: 120
+* Last episode published: 🟢 Thursday, 09 February 2023
 * Weekly downloads (avg): 175 (updated: 2022-12-29)
 * [Autoweird Website](https://autoweird.fm/)
 * [Autoweird @ Spotify](https://open.spotify.com/show/6TDrYLHYxoo7VjvSglunew)
@@ -225,7 +225,7 @@ Komm mit in die dunklen Ecken des Internets. Wir blicken in der ersten Staffel a
 Die wöchentliche Talkrunde rund um Apple, Mac, iPod &#43; iPhone, Gadgets und so. Fast live aus München.
 
 * Number of published episodes: 10
-* Last episode published: 🟢 Sunday, 05 February 2023
+* Last episode published: 🟢 Sunday, 12 February 2023
 * [Bits und so Website](http://www.bitsundso.de/)
 * [Bits und so @ Apple Podcasts](https://podcasts.apple.com/de/podcast/202753375)
 * [Bits und so Podcast RSS](http://www.bitsundso.de/feed/)
@@ -540,8 +540,8 @@ Zwei Softwareentwickler und Spiele-Enthusiasten entwickeln in ihrer Freizeit Vid
 
 Du bist Entwickler/Developer? Dann Lauscher auf! Thomas und Christian sprechen im &#34;Index out of bounds&#34; Entwickler/Developer Podcast über ihre persönlichen Erfahrungen aus der Welt der Programmierung von Software, Websites, Apps und was es sonst noch so gibt. Schon seit Jahren tauschen sich die beiden leidenschaftlich gerne über Entwicklung/Development, den Spaß am Programmieren und Technologie aus. Hin und wieder sind da auch ein paar helle Momente dabei! Ein Podcast von Programmierern für Programmierer.
 
-* Number of published episodes: 44
-* Last episode published: 🟢 Sunday, 29 January 2023
+* Number of published episodes: 45
+* Last episode published: 🟢 Sunday, 12 February 2023
 * [Index out of bounds Website](https://anchor.fm/indexoutofbounds)
 * [Index out of bounds @ Spotify](https://open.spotify.com/show/2r1FGvYRkSYq4SmXyVKmnA)
 * [Index out of bounds @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1564647339)
@@ -556,8 +556,8 @@ Du bist Entwickler/Developer? Dann Lauscher auf! Thomas und Christian sprechen i
 
 In dieser Serie diskutieren wir interessante Themen aus Software-Entwicklung und -Architektur – immer mit dem Fokus auf Praxistauglichkeit.
 
-* Number of published episodes: 118
-* Last episode published: 🟢 Monday, 30 January 2023
+* Number of published episodes: 119
+* Last episode published: 🟢 Monday, 13 February 2023
 * [INNOQ Podcast Website](https://www.innoq.com/de/podcast/)
 * [INNOQ Podcast @ Spotify](https://open.spotify.com/show/20svL8wDDgtidO2Qwf3EWx)
 * [INNOQ Podcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/672695146)
@@ -763,8 +763,8 @@ Scrum kann doch inzwischen eh jeder? Von wegen! Denn - ganz unter uns: genug fal
 
 Mind the Tech ist ein Podcast, der die dunklen Seiten der IT- und Tech-Welt beleuchtet. Dazu zählen legendäre Hackerangriffe, Datendiebstähle und Cyberattacken. Ebenso kommen die unzähligen Geschichten von Menschen auf den Tisch, die es mit Recht und Gesetz im Web nicht so ernst nehmen – und irgendwann die Konsequenzen ihres Handelns zu spüren bekommen. Wir widmen uns Antitrends und Mythen, stellen Entwicklungen im und rund ums Internet in Frage, wägen ab. Denn wir sind fest davon überzeugt: Nur wenn wir uns ihren Schattenseiten widmen, können wir die (digitale) Welt zu einem besseren Ort machen.
 
-* Number of published episodes: 59
-* Last episode published: 🟢 Monday, 06 February 2023
+* Number of published episodes: 60
+* Last episode published: 🟢 Monday, 13 February 2023
 * [Mind the Tech Website](https://www.mindthetech.de/)
 * [Mind the Tech @ Spotify](https://open.spotify.com/show/6FydYmBjELizU8k8DOIcaA)
 * [Mind the Tech @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1515173582)
@@ -1227,8 +1227,8 @@ Sujeevan und Dirk reden über Themen, die Ihnen in der letzten Zeit untergekomme
 
 todo:cast ist ein deutschsprachiger Podcast für die großen und kleinen Fragen des Entwickler*innenalltags. Schon seit Langem tauschen sich Malte und Robin-Manuel in regelmäßigen Abständen über diverse Themen aus ihrem Alltag in der Softwareentwicklung aus. Dabei lernen sie jedes Mal etwas Neues! Warum also das Ganze nicht aufzeichnen und als Podcast zur Verfügung stellen?
 
-* Number of published episodes: 56
-* Last episode published: 🟢 Monday, 30 January 2023
+* Number of published episodes: 57
+* Last episode published: 🟢 Monday, 13 February 2023
 * [todo:cast Website](https://todocast.io/)
 * [todo:cast @ Spotify](https://open.spotify.com/show/2tIlVD6vBAtEhOZM4jS1mw)
 * [todo:cast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1467179396)
@@ -1308,8 +1308,8 @@ In diesem Podcast geht es um Web und User Interface Design, Freelancing, Arbeits
 
 Latenight-Frontend-Talkshow rund um Webdesign und Entwicklung. Es reden sich um &lt;HEAD&gt; und Kragen: HTML-Fundamentalist Moritz Gießmann und JavaScript Jongleur Constantin Groß.
 
-* Number of published episodes: 52
-* Last episode published: 🟢 Sunday, 29 January 2023
+* Number of published episodes: 53
+* Last episode published: 🟢 Sunday, 12 February 2023
 * [Wo wir sind ist vorne Website](https://wowirsindistvorne.show/)
 * [Wo wir sind ist vorne @ Spotify](https://open.spotify.com/show/54K1DpiQYHBHSnIO6OzSKs)
 * [Wo wir sind ist vorne @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1500485579)
