@@ -2,7 +2,7 @@
  <opml version="2.0">
    <head>
      <title>Deutschsprachige Tech Podcasts</title>
-     <dateCreated>Wed, 15 Feb 2023 11:20:46 UTC</dateCreated>
+     <dateCreated>Wed, 15 Feb 2023 19:14:15 UTC</dateCreated>
      <ownerName>Engineering Kiosk</ownerName>
      <ownerEmail>stehtisch@engineeringkiosk.dev</ownerEmail>
    </head>
@@ -47,6 +47,7 @@
      <outline title="IT ist alles" text="IT ist alles" type="rss" xmlUrl="https://it-ist-alles.podigee.io/feed/mp3" htmlUrl="https://www.pco-online.de/magazin/2020/07/podcast"></outline>
      <outline title="IT-Berufe Podcast" text="IT-Berufe Podcast" type="rss" xmlUrl="https://it-berufe-podcast.de/feed/podcast/" htmlUrl="https://it-berufe-podcast.de/episoden/"></outline>
      <outline title="IT@DB" text="IT@DB" type="rss" xmlUrl="https://cqlshb.podcaster.de/it-at-db.rss" htmlUrl="https://cqlshb.podcaster.de/"></outline>
+     <outline title="Ja sia!" text="Ja sia!" type="rss" xmlUrl="https://www.ja-sia.de/jasia.rss" htmlUrl="https://www.ja-sia.de/"></outline>
      <outline title="knowIT" text="knowIT" type="rss" xmlUrl="https://anchor.fm/s/57935150/podcast/rss" htmlUrl="https://inside.iu-fernstudium.de/knowit/"></outline>
      <outline title="Kurz informiert by heise online" text="Kurz informiert by heise online" type="rss" xmlUrl="https://www.heise.de/rss/topnews-audio.rss" htmlUrl="http://www.heise.de/"></outline>
      <outline title="Logbuch Digitalien" text="Logbuch Digitalien" type="rss" xmlUrl="https://www.logbuch-digitalien.de/feed/podcast/" htmlUrl="https://www.logbuch-digitalien.de/"></outline>
