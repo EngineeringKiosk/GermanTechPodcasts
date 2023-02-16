@@ -926,6 +926,7 @@ Ein deutschsprachiger Podcast rund um die Programmiersprache Python
 
 * Number of published episodes: 48
 * Last episode published: 🟢 Friday, 27 January 2023
+* Weekly downloads (avg): 3470 (updated: 2023-02-15)
 * [Python Podcast Website](https://python-podcast.de/)
 * [Python Podcast @ Spotify](https://open.spotify.com/show/5AvPhPaP1ZNSjNUXY3Gf6M)
 * [Python Podcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1445331513)
