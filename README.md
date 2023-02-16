@@ -6,9 +6,10 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (79 podcasts)
+* [Podcasts](#podcasts) (80 podcasts)
   * [0d - Zeroday](#0d-zeroday)
   * [Apfelfunk](#apfelfunk)
+  * [Armchair Investigators](#armchair-investigators)
   * [Auslegungssache](#auslegungssache)
   * [Autoweird](#autoweird)
   * [Binärgewitter](#binargewitter)
@@ -86,8 +87,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [Wo wir sind ist vorne](#wo-wir-sind-ist-vorne)
   * [Working Draft](#working-draft)
   * [WP Sofa](#wp-sofa)
-* [Archived podcasts](#archived-podcasts) (8 podcasts)
-  * [Armchair Investigators](#armchair-investigators)
+* [Archived podcasts](#archived-podcasts) (7 podcasts)
   * [Chaosradio](#chaosradio)
   * [Codestammtisch](#codestammtisch)
   * [Freakshow](#freakshow)
@@ -128,13 +128,29 @@ Deutschsprachiger Podcast zu den Themen IT-Sicherheit und Privatsphäre. Stefan 
 
 Apfelfunk ist ein wöchentlicher Podcast über Apple-Themen. Jean-Claude Frick und Malte Kirchner berichten und bewerten darin die Neuigkeiten über den wichtigsten Computerkonzern der Welt.
 
-* Number of published episodes: 366
-* Last episode published: 🟢 Friday, 10 February 2023
+* Number of published episodes: 367
+* Last episode published: 🟢 Wednesday, 15 February 2023
 * [Apfelfunk Website](http://www.apfelfunk.com/)
 * [Apfelfunk @ Spotify](https://open.spotify.com/show/7FQLyWiNhMR0KS93ReaI4h)
 * [Apfelfunk @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1081146940)
 * [Apfelfunk Podcast RSS](https://feeds.soundcloud.com/users/soundcloud:users:201768667/sounds.rss)
 * Tags: Apple, Hardware
+
+----
+
+<h3 id="armchair-investigators">Armchair Investigators</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/armchair-investigators.png" />
+
+Ein Dialog über Malware, Cybercrime und Cyberspionage
+
+* Number of published episodes: 8
+* Last episode published: 🟢 Wednesday, 08 February 2023
+* [Armchair Investigators Website](https://armchairinvestigators.de/)
+* [Armchair Investigators @ Spotify](https://open.spotify.com/show/1xaPIhkQWfAtmHPg8llCEJ)
+* [Armchair Investigators @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1555931250)
+* [Armchair Investigators Podcast RSS](https://armchairinvestigators.de/feed/podcast/)
+* Tags: Malware, Cybercrime, Cyberspionage, Security
 
 ----
 
@@ -605,8 +621,8 @@ Dieser Podcast unterstützt schnell, konkret und umfänglich beim Einstieg in di
 
 Nur etwas mehr als 60 Jahre liegen zwischen dem ersten Start eines Motorflugzeugs und dem ersten bemannten Flug zum Mond. Das Handy wurde in nur 30 Jahren zum wichtigsten Kommunikationskanal unserer Zeit. Und IT? Die entwickelt sich nicht weniger rasant und macht in einer vernetzten und digitalen Welt vor keinem Bereich mehr halt. Im Podcast sprechen wir über Trendthemen, die zwar nichts mit Raketenwissenschaft zu tun haben, dafür aber Menschen auf dem Weg in eine digitale Zukunft begleiten. Bist Du bereit?
 
-* Number of published episodes: 51
-* Last episode published: 🟢 Wednesday, 01 February 2023
+* Number of published episodes: 52
+* Last episode published: 🟢 Wednesday, 15 February 2023
 * [IT ist alles Website](https://www.pco-online.de/magazin/2020/07/podcast)
 * [IT ist alles @ Spotify](https://open.spotify.com/show/46EUTeJsHSfscbkrI38f6p)
 * [IT ist alles @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1524049773)
@@ -926,6 +942,7 @@ Ein deutschsprachiger Podcast rund um die Programmiersprache Python
 
 * Number of published episodes: 48
 * Last episode published: 🟢 Friday, 27 January 2023
+* Weekly downloads (avg): 3470 (updated: 2023-02-15)
 * [Python Podcast Website](https://python-podcast.de/)
 * [Python Podcast @ Spotify](https://open.spotify.com/show/5AvPhPaP1ZNSjNUXY3Gf6M)
 * [Python Podcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1445331513)
@@ -1098,7 +1115,7 @@ Live-Diskussion zu Software-Architektur im Stream. Einmal in der Woche diskutier
 
 <img align="right" width="215" height="215" src="./generated/images/softwerkercast.png" />
 
-Der SoftwerkerCast, unser neues Podcast-Format, präsentiert euch Softwerker-Wissen zum Reinhören und Nachhören. Wie auch bei den anderen Softwerker-Formaten erwartet euch im SoftwerkerCast das volle Themenspektrum aus der bunten Welt der Softwareentwicklung: von A wie APM bis Z wie Zero Downtime. Paradigmen und neue Trends, Evergreens und Eintagsfliegen.
+Der SoftwerkerCast präsentiert euch Softwerker-Wissen zum Reinhören und Nachhören. Wie auch bei den anderen Softwerker-Formaten erwartet euch im SoftwerkerCast das volle Themenspektrum aus der bunten Welt der Softwareentwicklung: von A wie APM bis Z wie Zero Downtime. Paradigmen und neue Trends, Evergreens und Eintagsfliegen.
 
 * Number of published episodes: 15
 * Last episode published: 🟢 Wednesday, 15 February 2023
@@ -1106,6 +1123,7 @@ Der SoftwerkerCast, unser neues Podcast-Format, präsentiert euch Softwerker-Wis
 * [SoftwerkerCast @ Spotify](https://open.spotify.com/show/0GMFlDJabOtXYm8u8HfAvL)
 * [SoftwerkerCast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1592472699)
 * [SoftwerkerCast Podcast RSS](https://softwerkercast.podigee.io/feed/mp3)
+* Tags: Softwareentwicklung, Software Development, Cloud, IT Security, Platform Engineering
 
 ----
 
@@ -1163,8 +1181,8 @@ Digitalisierung ist komplex. Heute entsteht dies, morgen das. Und was übermorge
 
 Dein täglicher Podcast mit dem, was wichtig war und was wichtig wird im digitalen Kosmos und dem Arbeitsleben der Zukunft. Die perfekte Begleitung zum Abschluss des Arbeitstages und auf dem Weg in den Abend.
 
-* Number of published episodes: 111
-* Last episode published: 🟢 Tuesday, 14 February 2023
+* Number of published episodes: 112
+* Last episode published: 🟢 Wednesday, 15 February 2023
 * [t3n Daily Website](https://t3n.de/podcast#daily)
 * [t3n Daily @ Spotify](https://open.spotify.com/show/1Fc1zS8yvRS7Zf0leKn54o)
 * [t3n Daily @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1643152920)
@@ -1291,8 +1309,8 @@ IT Security Podcast
 
 Alle 14 Tage laden wir zu einer kleinen Kaminzimmerrunde rund um den Themenkomplex Datacenter, Cloud und IT ein. In Ermangelung eines Kaminzimmers sitzen wir in der Hot Aisle eines Datacenters, statt feudaler Sessel gibt es faltbare Campingstühle, und die Cognacschwenker durften wir auch nicht mit reinnehmen. :/
 
-* Number of published episodes: 26
-* Last episode published: 🟢 Tuesday, 31 January 2023
+* Number of published episodes: 27
+* Last episode published: 🟢 Tuesday, 14 February 2023
 * Weekly downloads (avg): 100 (updated: 2022-07-31)
 * [Wartungsfenster Website](https://wartungsfenster.podigee.io/)
 * [Wartungsfenster @ Spotify](https://open.spotify.com/show/063YcVklbp1N8z1ZHSA709)
@@ -1368,22 +1386,6 @@ Wir berichten zweiwöchentlich über News und Updates aus dem WordPress Universu
 
 ## Archived podcasts
 
-
-<h3 id="armchair-investigators">Armchair Investigators</h3>
-
-<img align="right" width="215" height="215" src="./generated/images/armchair-investigators.png" />
-
-Ein Dialog über Malware, Cybercrime und Cyberspionage
-
-* Number of published episodes: 7
-* Last episode published: 🔴 Wednesday, 18 May 2022
-* [Armchair Investigators Website](https://armchairinvestigators.de/)
-* [Armchair Investigators @ Spotify](https://open.spotify.com/show/1xaPIhkQWfAtmHPg8llCEJ)
-* [Armchair Investigators @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1555931250)
-* [Armchair Investigators Podcast RSS](https://armchairinvestigators.de/feed/podcast/)
-* Tags: Malware, Cybercrime, Cyberspionage, Security
-
-----
 
 <h3 id="chaosradio">Chaosradio</h3>
 
