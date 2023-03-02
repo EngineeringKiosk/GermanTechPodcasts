@@ -6,7 +6,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (80 podcasts)
+* [Podcasts](#podcasts) (81 podcasts)
   * [0d - Zeroday](#0d-zeroday)
   * [Apfelfunk](#apfelfunk)
   * [Armchair Investigators](#armchair-investigators)
@@ -25,6 +25,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [Das Duumvirat](#das-duumvirat)
   * [DAS WAR SCHON KAPUTT](#das-war-schon-kaputt)
   * [Der GameDev Podcast](#der-gamedev-podcast)
+  * [dev.env](#dev-env)
   * [DevCouch](#devcouch)
   * [Digitalisierungsfieber](#digitalisierungsfieber)
   * [Engineering Kiosk](#engineering-kiosk)
@@ -386,6 +387,21 @@ Wir reden über Spieleentwicklung und allgemein über die Branche aber gehen auc
 * [Der GameDev Podcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1143613851)
 * [Der GameDev Podcast Podcast RSS](http://feed.gamedevpodcast.de/)
 * Tags: Game Development, Spieleentwicklung, 3D, VFX, Producing, Video games, AI, Procedural generation, Indie games
+
+----
+
+<h3 id="dev-env">dev.env</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/dev-env.jpeg" />
+
+Der einzige IT Podcast in dem es nicht um IT geht. Ivan Ushmorov spricht mit Menschen aus der IT Industrie. Freelancer, Tech Leads, Headhunter, Founder, PMs, Agile Coaches und digitale Hustler hier kommen alle zu Wort.
+
+* Number of published episodes: 12
+* Last episode published: 🟢 Thursday, 02 March 2023
+* [dev.env Website](https://shows.acast.com/dev-env)
+* [dev.env @ Spotify](https://open.spotify.com/show/6e9gpjtx54G0293RsH6agn)
+* [dev.env @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1667384138)
+* [dev.env Podcast RSS](https://python-podcast.de/show/feed/podcast/m4a/rss.xml)
 
 ----
 
