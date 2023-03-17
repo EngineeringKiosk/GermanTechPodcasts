@@ -99,6 +99,10 @@ func cmdCollectPodcastData(cmd *cobra.Command, args []string) error {
 			podcastInfo.EpisodeCount = p.Feed.EpisodeCount
 			podcastInfo.ItunesID = p.Feed.ItunesID
 
+			if len(p.Feed.Artwork) == 0 {
+				log.Println("No image given by API. Searching for an existing image in the repository.")
+			}
+
 			// Download cover-image
 			imageFileExtension := path.Ext(p.Feed.Artwork)
 			// Sometimes we have file extensions like .png?t=1655195362
@@ -110,9 +114,10 @@ func cmdCollectPodcastData(cmd *cobra.Command, args []string) error {
 			imageFileName := f.Name()[0:len(f.Name())-len(jsonFileExtension)] + imageFileExtension
 			absImageFilePath := filepath.Join(jsonDir, imageFolder, imageFileName)
 
+			// Sometimes p.Feed.Artwork is empty.
 			if len(p.Feed.Artwork) == 0 && doesImageExistsOnDisk(absImageFilePath) {
 				log.Println("Skipping downloading new version of cover image, because there is no image to download")
-				log.Printf("The pipeline didn't fail, because the previous version %s exists", absImageFilePath)
+				log.Println("The pipeline didn't fail, because a previous downloaded image exists")
 
 			} else {
 				log.Printf("Downloading %s into %s ...", p.Feed.Artwork, absImageFilePath)
@@ -180,9 +185,40 @@ func cmdCollectPodcastData(cmd *cobra.Command, args []string) error {
 	return nil
 }
 
+// doesImageExistsOnDisk searches for the image on disk.
+// First it will check for the absolute path (given via absImageFilePath).
+// Then, we run a second method: Probalistic search. Mainly, because
+// sometimes we get a value like "../generated/images/macht-der-craft"
+// without any extension. This happens, e.g., when we don't get an
+// image from the API. The probalistic search still checks if we have the
+// image on disk.
 func doesImageExistsOnDisk(absImageFilePath string) bool {
+	// Check for an absolute match (full path)
 	_, imageExistErr := os.Stat(absImageFilePath)
-	return imageExistErr == nil
+	if imageExistErr == nil {
+		return true
+	}
+
+	imagePath := path.Dir(absImageFilePath)
+	imageFile := path.Base(absImageFilePath)
+
+	// Sometimes, we don't get an empty image back
+	// This means absImageFilePath is not having a file extension
+	// Still, there might be a case that we have the image already.
+	// Hence we run a probalistic check here
+	imageFiles, err := libIO.GetAllFilesFromDirectoryWithExtensions(imagePath, libIO.GetImageExtensions())
+	if err != nil {
+		return false
+	}
+
+	for _, f := range imageFiles {
+		if strings.HasPrefix(f.Name(), imageFile+".") {
+			log.Printf("Image found via the probalistic way: %s", f.Name())
+			return true
+		}
+	}
+
+	return false
 }
 
 func downloadFile(address, fileName string) (*http.Response, error) {
