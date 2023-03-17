@@ -109,28 +109,34 @@ func cmdCollectPodcastData(cmd *cobra.Command, args []string) error {
 			jsonFileExtension := path.Ext(f.Name())
 			imageFileName := f.Name()[0:len(f.Name())-len(jsonFileExtension)] + imageFileExtension
 			absImageFilePath := filepath.Join(jsonDir, imageFolder, imageFileName)
-			log.Printf("Downloading %s into %s ...", p.Feed.Artwork, absImageFilePath)
-			_, err = downloadFile(p.Feed.Artwork, absImageFilePath)
-			if err != nil {
-				// Sometimes we get errors like
-				// Error: Get "http://media.gamedevpodcast.de/logo_2800.png": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
-				log.Printf("Downloading %s into %s ... error: %v", p.Feed.Artwork, absImageFilePath, err)
 
-				// If we get an error, but we have a target image already
-				// (like an old one), it is better to use the old one than failing.
-				//
-				// Having the latest up to date image is not the highest priority here.
-				if _, imageExistErr := os.Stat(absImageFilePath); imageExistErr == nil {
-					log.Printf("We were not able to download the new image %s", p.Feed.Artwork)
-					log.Printf("The pipeline didn't fail, because the previous version %s exists", absImageFilePath)
+			if len(p.Feed.Artwork) == 0 && doesImageExistsOnDisk(absImageFilePath) {
+				log.Println("Skipping downloading new version of cover image, because there is no image to download")
+				log.Printf("The pipeline didn't fail, because the previous version %s exists", absImageFilePath)
 
-				} else {
-					return err
-				}
 			} else {
-				log.Printf("Downloading %s into %s ... successful", p.Feed.Artwork, absImageFilePath)
-			}
+				log.Printf("Downloading %s into %s ...", p.Feed.Artwork, absImageFilePath)
+				_, err = downloadFile(p.Feed.Artwork, absImageFilePath)
+				if err != nil {
+					// Sometimes we get errors like
+					// Error: Get "http://media.gamedevpodcast.de/logo_2800.png": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+					log.Printf("Downloading %s into %s ... error: %v", p.Feed.Artwork, absImageFilePath, err)
 
+					// If we get an error, but we have a target image already
+					// (like an old one), it is better to use the old one than failing.
+					//
+					// Having the latest up to date image is not the highest priority here.
+					if doesImageExistsOnDisk(absImageFilePath) {
+						log.Printf("We were not able to download the new image %s", p.Feed.Artwork)
+						log.Printf("The pipeline didn't fail, because the previous version %s exists", absImageFilePath)
+
+					} else {
+						return err
+					}
+				} else {
+					log.Printf("Downloading %s into %s ... successful", p.Feed.Artwork, absImageFilePath)
+				}
+			}
 			podcastInfo.Image = filepath.Join(imageFolder, imageFileName)
 
 			// Get Podcast Episodes info
@@ -172,6 +178,11 @@ func cmdCollectPodcastData(cmd *cobra.Command, args []string) error {
 	}
 
 	return nil
+}
+
+func doesImageExistsOnDisk(absImageFilePath string) bool {
+	_, imageExistErr := os.Stat(absImageFilePath)
+	return imageExistErr == nil
 }
 
 func downloadFile(address, fileName string) (*http.Response, error) {
