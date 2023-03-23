@@ -1,9 +1,9 @@
 {
  "name": "FOCUS ON: DevOps",
  "slug": "focus-on-devops",
- "website": "https://ageofdevops.de/index.php/series/fodo/",
+ "website": "https://focusondevops.podigee.io/",
  "podcastIndexID": 3416267,
- "rssFeed": "https://ageofdevops.de/feed/podcast/fodo",
+ "rssFeed": "https://focusondevops.podigee.io/feed/mp3",
  "spotify": "https://open.spotify.com/show/0gXBw5mGcqXQkPW9h2JTaa",
  "description": "Der FOCUS ON: DevOps Podcast beschäftigt sich mit verschiedenen Methoden und Werkzeugen rund um das Thema DevOps. Dabei wechseln sich technische mit methodischen Folgen ab. Unser Ziel ist es über relevante Themen zu informieren und auch die Hersteller auf dem Markt als Gäste mit einzubinden.",
  "tags": [

@@ -129,8 +129,8 @@ Deutschsprachiger Podcast zu den Themen IT-Sicherheit und Privatsphäre. Stefan 
 
 Apfelfunk ist ein wöchentlicher Podcast über Apple-Themen. Jean-Claude Frick und Malte Kirchner berichten und bewerten darin die Neuigkeiten über den wichtigsten Computerkonzern der Welt.
 
-* Number of published episodes: 371
-* Last episode published: 🟢 Wednesday, 15 March 2023
+* Number of published episodes: 372
+* Last episode published: 🟢 Wednesday, 22 March 2023
 * [Apfelfunk Website](http://www.apfelfunk.com/)
 * [Apfelfunk @ Spotify](https://open.spotify.com/show/7FQLyWiNhMR0KS93ReaI4h)
 * [Apfelfunk @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1081146940)
@@ -461,8 +461,8 @@ Der Engineering Kiosk ist der deutschsprachige Software-Engineering-Podcast mit 
 
 Student*innen der Informatik, die einen Podcast machen, damit ihr alle checkt wie geil Informatik eigentlich ist.
 
-* Number of published episodes: 30
-* Last episode published: 🟢 Wednesday, 08 March 2023
+* Number of published episodes: 31
+* Last episode published: 🟢 Wednesday, 22 March 2023
 * [Female TechTalk Website](https://www.female-techtalk.com/)
 * [Female TechTalk @ Spotify](https://open.spotify.com/show/23CmXEDANTleEB6hmeVj4W)
 * [Female TechTalk @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1589781968)
@@ -479,10 +479,10 @@ Der FOCUS ON: DevOps Podcast beschäftigt sich mit verschiedenen Methoden und We
 
 * Number of published episodes: 61
 * Last episode published: 🟢 Tuesday, 21 March 2023
-* [FOCUS ON: DevOps Website](https://ageofdevops.de/index.php/series/fodo/)
+* [FOCUS ON: DevOps Website](https://focusondevops.podigee.io/)
 * [FOCUS ON: DevOps @ Spotify](https://open.spotify.com/show/0gXBw5mGcqXQkPW9h2JTaa)
 * [FOCUS ON: DevOps @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1542623849)
-* [FOCUS ON: DevOps Podcast RSS](https://ageofdevops.de/feed/podcast/fodo)
+* [FOCUS ON: DevOps Podcast RSS](https://focusondevops.podigee.io/feed/mp3)
 * Tags: DevOps, Cloud
 
 ----
@@ -496,10 +496,10 @@ Der FOCUS ON: Linux Podcast beschäftigt sich mit verschiedenen Themen rund um L
 * Number of published episodes: 50
 * Last episode published: 🟢 Thursday, 16 March 2023
 * Weekly downloads (avg): 710 (updated: 2022-10-26)
-* [FOCUS ON: Linux Website](https://ageofdevops.de/index.php/series/fol/)
+* [FOCUS ON: Linux Website](https://focusonlinux.podigee.io/)
 * [FOCUS ON: Linux @ Spotify](https://open.spotify.com/show/4Yj9EaidQuwEZL0NkAafzh)
 * [FOCUS ON: Linux @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1606139089)
-* [FOCUS ON: Linux Podcast RSS](https://ageofdevops.de/feed/podcast/fol)
+* [FOCUS ON: Linux Podcast RSS](https://focusonlinux.podigee.io/feed/mp3)
 * Tags: Linux, Open Source
 
 ----
@@ -939,8 +939,8 @@ Ein Podcast über die dunkle Seite der Digitalisierung: Spionage, Hacker, Sabota
 
 Mit geballter Dev-Power nehmen Dennis, Fabi, Sebi und Jojo neue Podcastfolgen auf und werden dabei regelmäßig von Gäst:innen aus der Branche unterstützt. Taucht in unseren Deep Dives mit uns in Frameworks und Datenbanken ein, hört euch in den CTO-Specials die Erfahrungen führender Persönlichkeiten großer Unternehmen an und bleibt mit unseren News-Folgen stets am Ball in der Welt der App- und Webentwicklung.
 
-* Number of published episodes: 232
-* Last episode published: 🟢 Thursday, 16 March 2023
+* Number of published episodes: 233
+* Last episode published: 🟢 Wednesday, 22 March 2023
 * Weekly downloads (avg): 8936 (updated: 2022-08-04)
 * [programmier.bar Website](https://www.programmier.bar/podcast)
 * [programmier.bar @ Spotify](https://open.spotify.com/show/0ik0sXv9paTQCeThcOLCCJ)
@@ -1197,8 +1197,8 @@ Digitalisierung ist komplex. Heute entsteht dies, morgen das. Und was übermorge
 
 Dein täglicher Podcast mit dem, was wichtig war und was wichtig wird im digitalen Kosmos und dem Arbeitsleben der Zukunft. Die perfekte Begleitung zum Abschluss des Arbeitstages und auf dem Weg in den Abend.
 
-* Number of published episodes: 136
-* Last episode published: 🟢 Tuesday, 21 March 2023
+* Number of published episodes: 137
+* Last episode published: 🟢 Wednesday, 22 March 2023
 * [t3n Daily Website](https://t3n.de/podcast#daily)
 * [t3n Daily @ Spotify](https://open.spotify.com/show/1Fc1zS8yvRS7Zf0leKn54o)
 * [t3n Daily @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1643152920)
