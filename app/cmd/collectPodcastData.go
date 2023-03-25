@@ -113,9 +113,14 @@ func cmdCollectPodcastData(cmd *cobra.Command, args []string) error {
 			jsonFileExtension := path.Ext(f.Name())
 			imageFileName := f.Name()[0:len(f.Name())-len(jsonFileExtension)] + imageFileExtension
 			absImageFilePath := filepath.Join(jsonDir, imageFolder, imageFileName)
+			podcastImageName := imageFileName
 
 			// Sometimes p.Feed.Artwork is empty.
-			if len(p.Feed.Artwork) == 0 && doesImageExistsOnDisk(absImageFilePath) {
+			imageExistsAlready := false
+			if len(p.Feed.Artwork) == 0 {
+				podcastImageName, imageExistsAlready = libIO.DoesImageExistsOnDisk(absImageFilePath, false)
+			}
+			if len(p.Feed.Artwork) == 0 && imageExistsAlready {
 				log.Println("Skipping downloading new version of cover image, because there is no image to download")
 				log.Println("The pipeline didn't fail, because a previous downloaded image exists")
 
@@ -131,7 +136,10 @@ func cmdCollectPodcastData(cmd *cobra.Command, args []string) error {
 					// (like an old one), it is better to use the old one than failing.
 					//
 					// Having the latest up to date image is not the highest priority here.
-					if doesImageExistsOnDisk(absImageFilePath) {
+
+					var oldExists bool
+					podcastImageName, oldExists = libIO.DoesImageExistsOnDisk(absImageFilePath, true)
+					if oldExists {
 						log.Printf("We were not able to download the new image %s", p.Feed.Artwork)
 						log.Printf("The pipeline didn't fail, because the previous version %s exists", absImageFilePath)
 
@@ -142,7 +150,7 @@ func cmdCollectPodcastData(cmd *cobra.Command, args []string) error {
 					log.Printf("Downloading %s into %s ... successful", p.Feed.Artwork, absImageFilePath)
 				}
 			}
-			podcastInfo.Image = filepath.Join(imageFolder, imageFileName)
+			podcastInfo.Image = filepath.Join(imageFolder, podcastImageName)
 
 			// Get Podcast Episodes info
 			log.Printf("Requesting 'Episodes.GetByFeedID' data from podcast index for feed id %d", podcastInfo.PodcastIndexID)
@@ -183,42 +191,6 @@ func cmdCollectPodcastData(cmd *cobra.Command, args []string) error {
 	}
 
 	return nil
-}
-
-// doesImageExistsOnDisk searches for the image on disk.
-// First it will check for the absolute path (given via absImageFilePath).
-// Then, we run a second method: Probalistic search. Mainly, because
-// sometimes we get a value like "../generated/images/macht-der-craft"
-// without any extension. This happens, e.g., when we don't get an
-// image from the API. The probalistic search still checks if we have the
-// image on disk.
-func doesImageExistsOnDisk(absImageFilePath string) bool {
-	// Check for an absolute match (full path)
-	_, imageExistErr := os.Stat(absImageFilePath)
-	if imageExistErr == nil {
-		return true
-	}
-
-	imagePath := path.Dir(absImageFilePath)
-	imageFile := path.Base(absImageFilePath)
-
-	// Sometimes, we don't get an empty image back
-	// This means absImageFilePath is not having a file extension
-	// Still, there might be a case that we have the image already.
-	// Hence we run a probalistic check here
-	imageFiles, err := libIO.GetAllFilesFromDirectoryWithExtensions(imagePath, libIO.GetImageExtensions())
-	if err != nil {
-		return false
-	}
-
-	for _, f := range imageFiles {
-		if strings.HasPrefix(f.Name(), imageFile+".") {
-			log.Printf("Image found via the probalistic way: %s", f.Name())
-			return true
-		}
-	}
-
-	return false
 }
 
 func downloadFile(address, fileName string) (*http.Response, error) {
