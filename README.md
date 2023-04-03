@@ -112,8 +112,8 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
 
 Deutschsprachiger Podcast zu den Themen IT-Sicherheit und Privatsphäre. Stefan und Sven unterhalten sich über aktuelle News und allgemeine Themen rund um Security und Privacy.
 
-* Number of published episodes: 103
-* Last episode published: 🟢 Friday, 24 February 2023
+* Number of published episodes: 104
+* Last episode published: 🟢 Friday, 31 March 2023
 * Weekly downloads (avg): 2000 (updated: 2023-01-16)
 * [0d - Zeroday Website](https://0x0d.de/)
 * [0d - Zeroday @ Spotify](https://open.spotify.com/show/5XTyNo5r6H0rRptIgaE1w4)
@@ -129,8 +129,8 @@ Deutschsprachiger Podcast zu den Themen IT-Sicherheit und Privatsphäre. Stefan 
 
 Apfelfunk ist ein wöchentlicher Podcast über Apple-Themen. Jean-Claude Frick und Malte Kirchner berichten und bewerten darin die Neuigkeiten über den wichtigsten Computerkonzern der Welt.
 
-* Number of published episodes: 372
-* Last episode published: 🟢 Wednesday, 22 March 2023
+* Number of published episodes: 373
+* Last episode published: 🟢 Wednesday, 29 March 2023
 * [Apfelfunk Website](http://www.apfelfunk.com/)
 * [Apfelfunk @ Spotify](https://open.spotify.com/show/7FQLyWiNhMR0KS93ReaI4h)
 * [Apfelfunk @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1081146940)
@@ -243,7 +243,7 @@ Komm mit in die dunklen Ecken des Internets. Wir blicken in der ersten Staffel a
 Die wöchentliche Talkrunde rund um Apple, Mac, iPod &#43; iPhone, Gadgets und so. Fast live aus München.
 
 * Number of published episodes: 10
-* Last episode published: 🟢 Sunday, 26 March 2023
+* Last episode published: 🟢 Sunday, 02 April 2023
 * [Bits und so Website](http://www.bitsundso.de/)
 * [Bits und so @ Apple Podcasts](https://podcasts.apple.com/de/podcast/202753375)
 * [Bits und so Podcast RSS](http://www.bitsundso.de/feed/)
@@ -273,8 +273,8 @@ Ransomware Attacken, Phishing oder DDoS - jeden Tag aufs Neue werden Unternehmen
 
 Mitglieder der c&#39;t-Redaktion diskutieren über die aktuellen Themen aus dem c’t Magazin und was sonst noch so in der IT-Welt passiert.
 
-* Number of published episodes: 479
-* Last episode published: 🟢 Saturday, 25 March 2023
+* Number of published episodes: 480
+* Last episode published: 🟢 Saturday, 01 April 2023
 * [c&#39;t uplink Website](https://www.heise.de/ct/entdecken/?hauptrubrik=%40ctmagazin&amp;unterrubrik=c%27t&#43;uplink)
 * [c&#39;t uplink @ Spotify](https://open.spotify.com/show/4LdN7lGr9winLtQSqoIjVD)
 * [c&#39;t uplink @ Apple Podcasts](https://podcasts.apple.com/de/podcast/835717958)
@@ -288,8 +288,8 @@ Mitglieder der c&#39;t-Redaktion diskutieren über die aktuellen Themen aus dem 
 
 Ein Podcast über den nahezu unendlich tiefen Kaninchenbau der mechanische Tastaturen. Ich erzähle euch was es neues im Hobby der mechanical Keyboards gibt, Groupbuys, Interestchecks, Neue Keyboards, Keycaps und Switches und noch viel viel mehr....
 
-* Number of published episodes: 61
-* Last episode published: 🟢 Monday, 20 March 2023
+* Number of published episodes: 62
+* Last episode published: 🟢 Monday, 03 April 2023
 * [Click! Clack! Hack! Website](https://www.nerdbude.com/podcast/)
 * [Click! Clack! Hack! @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1551770169)
 * [Click! Clack! Hack! Podcast RSS](https://www.nerdbude.com/podcast/feed/feed.xml)
@@ -364,8 +364,8 @@ Im Podcast Das Duumvirat unterhalten wir uns über verschiedene Mac-Themen aus d
 
 Wir sind ein Laber-Technik-Lebensweisheiten-Podcast, mit News, Retrogeschichten und gelegentlich Filmbesprechungen. Bob berichtet was er wieder mal kaputt gemacht hat und Jay erklärt warum es kaputt gegangen ist. Technik ist vergänglich, einiges setzt sich nie durch anderes gerät in Vergessenheit. In unserem Podcast erklären wir dir wie man Emails per Post versendet, Podcasts auf Kassette veröffentlicht, mit einem Raumschiff aus Knetmasse zum Mars fliegt und Linux auf einem Toaster installiert. Außerdem sprechen wir über die Dinge die die Technikwelt gerade bewegen. Klingt abgedreht? Ist es auch. Hör rein dann verpasst du nichts.
 
-* Number of published episodes: 42
-* Last episode published: 🟢 Friday, 03 March 2023
+* Number of published episodes: 43
+* Last episode published: 🟢 Saturday, 01 April 2023
 * [DAS WAR SCHON KAPUTT Website](http://www.daswarschonkaputt.tech/)
 * [DAS WAR SCHON KAPUTT @ Spotify](https://open.spotify.com/show/5F92Db3OFLQXxdh2OIXEzI)
 * [DAS WAR SCHON KAPUTT Podcast RSS](https://daswarschonkaputt.tech/feed/dwsk.xml)
@@ -375,12 +375,12 @@ Wir sind ein Laber-Technik-Lebensweisheiten-Podcast, mit News, Retrogeschichten 
 
 <h3 id="der-gamedev-podcast">Der GameDev Podcast</h3>
 
-<img align="right" width="215" height="215" src="./generated/generated/images/game-dev-podcast.png" />
+<img align="right" width="215" height="215" src="./generated/images/game-dev-podcast.png" />
 
 Wir reden über Spieleentwicklung und allgemein über die Branche aber gehen auch ins Detail wenn es um Software, Tipps und Fragen geht.
 
-* Number of published episodes: 66
-* Last episode published: 🟢 Saturday, 04 March 2023
+* Number of published episodes: 67
+* Last episode published: 🟢 Sunday, 02 April 2023
 * Weekly downloads (avg): 570 (updated: 2023-01-01)
 * [Der GameDev Podcast Website](https://gamedevpodcast.de/)
 * [Der GameDev Podcast @ Spotify](https://open.spotify.com/show/1AyPHtyeaeROvPtLsw1prl)
@@ -493,8 +493,8 @@ Der FOCUS ON: DevOps Podcast beschäftigt sich mit verschiedenen Methoden und We
 
 Der FOCUS ON: Linux Podcast beschäftigt sich mit verschiedenen Themen rund um Linux. Unser Ziel ist es, euch monatlich über die Entwicklungen und Neuigkeiten zu informieren und auch praktische Tool-Tipps an die Hand zu geben.
 
-* Number of published episodes: 51
-* Last episode published: 🟢 Thursday, 23 March 2023
+* Number of published episodes: 52
+* Last episode published: 🟢 Friday, 31 March 2023
 * Weekly downloads (avg): 710 (updated: 2022-10-26)
 * [FOCUS ON: Linux Website](https://focusonlinux.podigee.io/)
 * [FOCUS ON: Linux @ Spotify](https://open.spotify.com/show/4Yj9EaidQuwEZL0NkAafzh)
@@ -525,8 +525,8 @@ Wir talken GameDev und haben Unreal News.
 
 Ein monatlicher Podcast der GNU/Linux.ch Community mit Themen und Interviews rund um die Themen GNU/Linux, Freie Software und Freie Gesellschaft.
 
-* Number of published episodes: 39
-* Last episode published: 🟢 Wednesday, 01 March 2023
+* Number of published episodes: 40
+* Last episode published: 🟢 Saturday, 01 April 2023
 * [GNU/Linux.ch Website](https://gnulinux.ch/)
 * [GNU/Linux.ch @ Spotify](https://open.spotify.com/show/0rs1Zm91TsjHhGo2lt0uPi)
 * [GNU/Linux.ch @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1527155920)
@@ -621,8 +621,8 @@ In diesem Podcast sprechen wir über die Grundlagen von IT-Security. Ein praktis
 
 Dieser Podcast unterstützt schnell, konkret und umfänglich beim Einstieg in die Themen Informationssicherheit, ISMS, ISO27001 und TISAX und richtet sich an IT-Leiter, Informationssicherheitsbeauftragte (ISB / CISO), Auditoren, Mitarbeitende, die sich tiefer den Aufgaben Informationssicherheit und Informationssicherheitsmanagement widmen wollen. Im Austausch unter unseren Expertinnen und Experten, mit interessanten Interviewpartner*innen und der Betrachtung aktuellster Entwicklungen bleibst du bei allen Änderungen und neuen Versionen der Normen auf dem Laufenden und kennst die Standards - für Eure Informationssicherheit.
 
-* Number of published episodes: 46
-* Last episode published: 🟢 Sunday, 05 March 2023
+* Number of published episodes: 47
+* Last episode published: 🟢 Sunday, 02 April 2023
 * [ISMS X-Plain Website](https://www.abat.de/wissen/podcast-isms-x-plain)
 * [ISMS X-Plain @ Spotify](https://open.spotify.com/show/5VGQNDbDqDciA4gFY3gXho)
 * [ISMS X-Plain @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1550125725)
@@ -637,8 +637,8 @@ Dieser Podcast unterstützt schnell, konkret und umfänglich beim Einstieg in di
 
 Nur etwas mehr als 60 Jahre liegen zwischen dem ersten Start eines Motorflugzeugs und dem ersten bemannten Flug zum Mond. Das Handy wurde in nur 30 Jahren zum wichtigsten Kommunikationskanal unserer Zeit. Und IT? Die entwickelt sich nicht weniger rasant und macht in einer vernetzten und digitalen Welt vor keinem Bereich mehr halt. Im Podcast sprechen wir über Trendthemen, die zwar nichts mit Raketenwissenschaft zu tun haben, dafür aber Menschen auf dem Weg in eine digitale Zukunft begleiten. Bist Du bereit?
 
-* Number of published episodes: 54
-* Last episode published: 🟢 Wednesday, 15 March 2023
+* Number of published episodes: 55
+* Last episode published: 🟢 Wednesday, 29 March 2023
 * [IT ist alles Website](https://www.pco-online.de/magazin/2020/07/podcast)
 * [IT ist alles @ Spotify](https://open.spotify.com/show/46EUTeJsHSfscbkrI38f6p)
 * [IT ist alles @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1524049773)
@@ -717,7 +717,7 @@ know Information Technology (kurz knowIT) - in diesem Sinne behandelt der Podcas
 Die IT-News des Tages von heise online
 
 * Number of published episodes: 292
-* Last episode published: 🟢 Friday, 24 March 2023
+* Last episode published: 🟢 Friday, 31 March 2023
 * [Kurz informiert by heise online Website](http://www.heise.de/)
 * [Kurz informiert by heise online @ Spotify](https://open.spotify.com/show/2etf1jog8leNHbnhIArM9Z)
 * [Kurz informiert by heise online @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1485884061)
@@ -811,8 +811,8 @@ Scrum kann doch inzwischen eh jeder? Von wegen! Denn - ganz unter uns: genug fal
 
 Mind the Tech ist ein Podcast, der die dunklen Seiten der IT- und Tech-Welt beleuchtet. Dazu zählen legendäre Hackerangriffe, Datendiebstähle und Cyberattacken. Ebenso kommen die unzähligen Geschichten von Menschen auf den Tisch, die es mit Recht und Gesetz im Web nicht so ernst nehmen – und irgendwann die Konsequenzen ihres Handelns zu spüren bekommen. Wir widmen uns Antitrends und Mythen, stellen Entwicklungen im und rund ums Internet in Frage, wägen ab. Denn wir sind fest davon überzeugt: Nur wenn wir uns ihren Schattenseiten widmen, können wir die (digitale) Welt zu einem besseren Ort machen.
 
-* Number of published episodes: 62
-* Last episode published: 🟢 Wednesday, 15 March 2023
+* Number of published episodes: 63
+* Last episode published: 🟢 Wednesday, 29 March 2023
 * [Mind the Tech Website](https://www.mindthetech.de/)
 * [Mind the Tech @ Spotify](https://open.spotify.com/show/6FydYmBjELizU8k8DOIcaA)
 * [Mind the Tech @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1515173582)
@@ -827,8 +827,8 @@ Mind the Tech ist ein Podcast, der die dunklen Seiten der IT- und Tech-Welt bele
 
 Der MIXEDCAST ist Deutschlands Podcast über Virtual Reality, Augmented Reality, Mixed Reality, Künstliche Intelligenz und generell neue Formen der Mensch-Computer-Interaktion. Wir sprechen über Themen wie Virtual Reality für Games, Entertainment und das Business, neue Augmented-Reality-Technologien oder Transhumanisums und wie sich die Beziehung zwischen Mensch, Computer und digitaler Welt verändert.
 
-* Number of published episodes: 350
-* Last episode published: 🟢 Sunday, 26 March 2023
+* Number of published episodes: 351
+* Last episode published: 🟢 Saturday, 01 April 2023
 * [Mixedcast Website](https://mixed.de/podcast/)
 * [Mixedcast @ Spotify](https://open.spotify.com/show/7nqUnwk9j5qFfjACXzc8Yg)
 * [Mixedcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1141873988)
@@ -923,7 +923,7 @@ Wir berichten alle zwei Wochen über Open Source Anwendungen, Ideen und Konzepte
 Ein Podcast über die dunkle Seite der Digitalisierung: Spionage, Hacker, Sabotage, Subversion, Desinformation und die Cyber Konflikte der Vergangenheit und Zukunft. Irgendwo zwischen IT-Sicherheit und Cyber Security geht es um die großen Linien, um eine kritische, politik- bzw. sozialwissenschaftliche Einordnung der Phänomene, statt um das Verbreiten von FUD: Fear, Uncertainty and Doubt. Betrieben wird das ganze von Dr. Matthias Schulze, der unter percepticon.de schon seit Jahren dazu bloggt.
 
 * Number of published episodes: 30
-* Last episode published: 🟡 Monday, 24 October 2022
+* Last episode published: 🟢 Saturday, 01 April 2023
 * Weekly downloads (avg): 375 (updated: 2023-01-02)
 * [Percepticon Website](https://percepticon.de/category/podcast/)
 * [Percepticon @ Spotify](https://open.spotify.com/show/1BgA82Dtniy7Aaj2aktJI2)
@@ -939,8 +939,8 @@ Ein Podcast über die dunkle Seite der Digitalisierung: Spionage, Hacker, Sabota
 
 Mit geballter Dev-Power nehmen Dennis, Fabi, Sebi und Jojo neue Podcastfolgen auf und werden dabei regelmäßig von Gäst:innen aus der Branche unterstützt. Taucht in unseren Deep Dives mit uns in Frameworks und Datenbanken ein, hört euch in den CTO-Specials die Erfahrungen führender Persönlichkeiten großer Unternehmen an und bleibt mit unseren News-Folgen stets am Ball in der Welt der App- und Webentwicklung.
 
-* Number of published episodes: 234
-* Last episode published: 🟢 Friday, 24 March 2023
+* Number of published episodes: 235
+* Last episode published: 🟢 Wednesday, 29 March 2023
 * Weekly downloads (avg): 8936 (updated: 2022-08-04)
 * [programmier.bar Website](https://www.programmier.bar/podcast)
 * [programmier.bar @ Spotify](https://open.spotify.com/show/0ik0sXv9paTQCeThcOLCCJ)
@@ -973,8 +973,8 @@ Ein deutschsprachiger Podcast rund um die Programmiersprache Python
 
 Rund um Open Source, Freie Software, Linux und gesellschaftspolitische Themen.
 
-* Number of published episodes: 1
-* Last episode published: 🟢 Tuesday, 28 February 2023
+* Number of published episodes: 2
+* Last episode published: 🟢 Friday, 31 March 2023
 * [RadioTux Website](https://www.radiotux.de/)
 * [RadioTux @ Spotify](https://open.spotify.com/show/3ycOmt9723grwgr0wCbTye)
 * [RadioTux @ Apple Podcasts](https://podcasts.apple.com/de/podcast/122070498)
@@ -989,8 +989,8 @@ Rund um Open Source, Freie Software, Linux und gesellschaftspolitische Themen.
 
 Sandra Parsick &amp; Daniel Zenzes präsentieren mit Ready for Review einen bunten Mix aus aktuellen IT-Themen und ihrem täglichen Entwickler-Alltag.
 
-* Number of published episodes: 44
-* Last episode published: 🟢 Monday, 13 March 2023
+* Number of published episodes: 45
+* Last episode published: 🟢 Saturday, 01 April 2023
 * Weekly downloads (avg): 66 (updated: 2022-07-29)
 * [Ready for Review Website](https://ready-for-review.dev/)
 * [Ready for Review @ Spotify](https://open.spotify.com/show/7dxK2wi4ZMGEYO3UHhTSc4)
@@ -1022,8 +1022,8 @@ Wie können wir Cybersicherheit als gesamtgesellschaftliches Problem verstehen? 
 
 Die IT hat unser Leben in den letzten Jahrzehnten von Grund auf verändert. Aber wie funktioniert sie wirklich? Das möchte ttimeless mal erklärt bekommen. Zum Glück hat Xyrill Antworten.
 
-* Number of published episodes: 35
-* Last episode published: 🟢 Thursday, 23 March 2023
+* Number of published episodes: 36
+* Last episode published: 🟢 Saturday, 01 April 2023
 * [Schlüsseltechnologie Website](https://xyrillian.de/noises/stp/)
 * [Schlüsseltechnologie @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1559995829)
 * [Schlüsseltechnologie Podcast RSS](https://xyrillian.de/noises/stp/rss.xml)
@@ -1036,8 +1036,8 @@ Die IT hat unser Leben in den letzten Jahrzehnten von Grund auf verändert. Aber
 
 Digitalisierung in Deutschland? Sagen wir mal so: Niemand klebt sich heute das Qualitätssiegel „Made in Germany“ stolz auf den Laptop-Deckel. Als IT-Standort sind wir zurecht digitales Schlusslicht in Europa. Aber, halt, Moment! Das wollen wir so nicht akzeptieren! Wir suchen jenseits vergeigter IT-Projekte, knapp vorbei an der Breitband-Wüste und mittendrin im LTE-Flickenteppich auf die Antwort nach einer zentralen Frage: Ist Deutschland ein Software-Entwicklungsland?
 
-* Number of published episodes: 14
-* Last episode published: 🟢 Monday, 06 March 2023
+* Number of published episodes: 15
+* Last episode published: 🟢 Friday, 31 March 2023
 * [Schwarz, Code, Gold – Deutschland, Entwicklungsland? Website](https://www.brandad-systems.de/podcast-schwarz-code-gold-deutschland-entwicklungsland)
 * [Schwarz, Code, Gold – Deutschland, Entwicklungsland? @ Spotify](https://open.spotify.com/show/5hXUx2Y3sbCL9O5xPdE8i6)
 * [Schwarz, Code, Gold – Deutschland, Entwicklungsland? @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1597296417)
@@ -1117,8 +1117,8 @@ Bei &#34;Software-Architektur als Beruf&#34; erzählen Menschen, wie ihr berufli
 
 Live-Diskussion zu Software-Architektur im Stream. Einmal in der Woche diskutiert Eberhard Wolff Software-Architektur im Live-Stream auf YouTube und Twitch - oft zusammen mit einem Gast. Zuschauer können über den Chat mitdiskutieren oder Fragen stellen. Der Podcast enthält die Audio-Spur des Streams.
 
-* Number of published episodes: 155
-* Last episode published: 🟢 Friday, 24 March 2023
+* Number of published episodes: 157
+* Last episode published: 🟢 Friday, 31 March 2023
 * [SoftwareArchitektur im Stream Website](https://software-architektur.tv/)
 * [SoftwareArchitektur im Stream @ Spotify](https://open.spotify.com/show/7ySg1eZoWYBshd6QpGaW8B)
 * [SoftwareArchitektur im Stream @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1538545458)
@@ -1133,8 +1133,8 @@ Live-Diskussion zu Software-Architektur im Stream. Einmal in der Woche diskutier
 
 Der SoftwerkerCast präsentiert euch Softwerker-Wissen zum Reinhören und Nachhören. Wie auch bei den anderen Softwerker-Formaten erwartet euch im SoftwerkerCast das volle Themenspektrum aus der bunten Welt der Softwareentwicklung: von A wie APM bis Z wie Zero Downtime. Paradigmen und neue Trends, Evergreens und Eintagsfliegen.
 
-* Number of published episodes: 18
-* Last episode published: 🟢 Wednesday, 22 March 2023
+* Number of published episodes: 19
+* Last episode published: 🟢 Saturday, 01 April 2023
 * [SoftwerkerCast Website](https://www.codecentric.de/softwerkercast)
 * [SoftwerkerCast @ Spotify](https://open.spotify.com/show/0GMFlDJabOtXYm8u8HfAvL)
 * [SoftwerkerCast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1592472699)
@@ -1197,8 +1197,8 @@ Digitalisierung ist komplex. Heute entsteht dies, morgen das. Und was übermorge
 
 Dein täglicher Podcast mit dem, was wichtig war und was wichtig wird im digitalen Kosmos und dem Arbeitsleben der Zukunft. Die perfekte Begleitung zum Abschluss des Arbeitstages und auf dem Weg in den Abend.
 
-* Number of published episodes: 141
-* Last episode published: 🟢 Tuesday, 28 March 2023
+* Number of published episodes: 144
+* Last episode published: 🟢 Friday, 31 March 2023
 * [t3n Daily Website](https://t3n.de/podcast#daily)
 * [t3n Daily @ Spotify](https://open.spotify.com/show/1Fc1zS8yvRS7Zf0leKn54o)
 * [t3n Daily @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1643152920)
@@ -1213,8 +1213,8 @@ Dein täglicher Podcast mit dem, was wichtig war und was wichtig wird im digital
 
 In diesem Podcast diskutiert die t3n-Redaktion mit Gästen über die spannendsten digitalen Themen unserer Zeit. Ob innovative Führungskonzepte, die Digitalisierung der Gesellschaft, smarte Gadgets, neue Mobilität oder Zukunftstechnologien. Jeden Freitag um 10 Uhr!
 
-* Number of published episodes: 487
-* Last episode published: 🟢 Monday, 27 March 2023
+* Number of published episodes: 489
+* Last episode published: 🟢 Monday, 03 April 2023
 * [t3n Interview Website](https://t3n.de/podcast#interview)
 * [t3n Interview @ Spotify](https://open.spotify.com/show/7obTbZaywhQEiUUOMswQBQ)
 * [t3n Interview @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1115601393)
@@ -1261,8 +1261,8 @@ IT-Security, unendliche Weiten ... So oder so ähnlich lässt sich die Größeno
 
 Sujeevan und Dirk reden über Themen, die Ihnen in der letzten Zeit untergekommen sind. Die Abkürzung &#34;TIL&#34; steht für &#34;Today I learned&#34;, es geht also um Themen, die neu für die beiden waren oder die sie in der letzten Zeit erst so richtig verstanden haben. Dazu kommen Hinweise, wie sie versuchen, ihr Arbeitsleben zu verbessern und zusätzlich gibt es auch den einen oder anderen Karrierehinweis.
 
-* Number of published episodes: 30
-* Last episode published: 🟢 Tuesday, 28 February 2023
+* Number of published episodes: 31
+* Last episode published: 🟢 Friday, 31 March 2023
 * [TILpod Website](https://tilpod.net/)
 * [TILpod @ Spotify](https://open.spotify.com/show/53zmbsz2sGO4UoSe8Qviyu)
 * [TILpod @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1542159410)
@@ -1358,8 +1358,8 @@ In diesem Podcast geht es um Web und User Interface Design, Freelancing, Arbeits
 
 Latenight-Frontend-Talkshow rund um Webdesign und Entwicklung. Es reden sich um &lt;HEAD&gt; und Kragen: HTML-Fundamentalist Moritz Gießmann und JavaScript Jongleur Constantin Groß.
 
-* Number of published episodes: 55
-* Last episode published: 🟢 Sunday, 19 March 2023
+* Number of published episodes: 56
+* Last episode published: 🟢 Saturday, 01 April 2023
 * [Wo wir sind ist vorne Website](https://wowirsindistvorne.show/)
 * [Wo wir sind ist vorne @ Spotify](https://open.spotify.com/show/54K1DpiQYHBHSnIO6OzSKs)
 * [Wo wir sind ist vorne @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1500485579)
@@ -1374,8 +1374,8 @@ Latenight-Frontend-Talkshow rund um Webdesign und Entwicklung. Es reden sich um 
 
 Wöchentlicher Podcast für Webdesigner:innen und -entwickler:innen
 
-* Number of published episodes: 578
-* Last episode published: 🟢 Tuesday, 21 March 2023
+* Number of published episodes: 580
+* Last episode published: 🟢 Wednesday, 29 March 2023
 * [Working Draft Website](https://workingdraft.de/)
 * [Working Draft @ Spotify](https://open.spotify.com/show/78iH7cIFzu1ejoB6aQUsIh)
 * [Working Draft @ Apple Podcasts](https://podcasts.apple.com/de/podcast/402204581)
@@ -1386,7 +1386,7 @@ Wöchentlicher Podcast für Webdesigner:innen und -entwickler:innen
 
 <h3 id="wp-sofa">WP Sofa</h3>
 
-<img align="right" width="215" height="215" src="./generated/generated/images/wp-sofa.png" />
+<img align="right" width="215" height="215" src="./generated/images/wp-sofa.png" />
 
 Wir berichten zweiwöchentlich über News und Updates aus dem WordPress Universum.
 
