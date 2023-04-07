@@ -129,8 +129,8 @@ Deutschsprachiger Podcast zu den Themen IT-Sicherheit und Privatsphäre. Stefan 
 
 Apfelfunk ist ein wöchentlicher Podcast über Apple-Themen. Jean-Claude Frick und Malte Kirchner berichten und bewerten darin die Neuigkeiten über den wichtigsten Computerkonzern der Welt.
 
-* Number of published episodes: 373
-* Last episode published: 🟢 Wednesday, 29 March 2023
+* Number of published episodes: 374
+* Last episode published: 🟢 Wednesday, 05 April 2023
 * [Apfelfunk Website](http://www.apfelfunk.com/)
 * [Apfelfunk @ Spotify](https://open.spotify.com/show/7FQLyWiNhMR0KS93ReaI4h)
 * [Apfelfunk @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1081146940)
@@ -161,8 +161,8 @@ Ein Dialog über Malware, Cybercrime und Cyberspionage
 
 Sie möchten beim Thema Datenschutz auf dem Laufenden bleiben, aber keine seitenlange Literatur wälzen? Dann wenden Sie sich vertrauensvoll an unser Juristen-Redakteurs-Duo. Alle 14 Tage bespricht c&#39;t-Redakteur Holger Bleich mit Joerg Heidrich aktuelle Entwicklungen rund um den Datenschutz. Joerg ist beim c&#39;t-Mutterschiff Heise Medien als Justiziar für das Thema zuständig und hat täglich mit der europäischen Datenschutz-Grundverordnung (DSGVO) zu tun. Wechselnde Gäste ergänzen das Duo.
 
-* Number of published episodes: 83
-* Last episode published: 🟢 Friday, 24 March 2023
+* Number of published episodes: 84
+* Last episode published: 🟢 Thursday, 06 April 2023
 * [Auslegungssache Website](https://heise.de/-4571821)
 * [Auslegungssache @ Spotify](https://open.spotify.com/show/3Jrnu7vrTurguBaCiPapkA)
 * [Auslegungssache @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1485860893)
@@ -257,8 +257,8 @@ Die wöchentliche Talkrunde rund um Apple, Mac, iPod &#43; iPhone, Gadgets und s
 
 Ransomware Attacken, Phishing oder DDoS - jeden Tag aufs Neue werden Unternehmen Ziel von Angriffen. Was sind die Geschichten dahinter, wie laufen die Attacken ab und wie kann Schaden verhindert werden? Kim und Robert haben tagtäglich Einblicke in die Info Sec Welt und teilen in diesem Podcast mit Euch ihre Erfahrungen. Schaltet ein, wenn ihr regelmäßige Updates zu aktuellen Sicherheitslücken, Diskussionen zu Technologie Trends oder anderen Themen aus der Welt der Info Sec haben möchtet!
 
-* Number of published episodes: 22
-* Last episode published: 🟢 Wednesday, 15 March 2023
+* Number of published episodes: 23
+* Last episode published: 🟢 Thursday, 06 April 2023
 * [Breach FM Website](https://breachfm.transistor.fm/)
 * [Breach FM @ Spotify](https://open.spotify.com/show/4ooV9mM8Qiyfkj9jUkdZjj)
 * [Breach FM @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1641279793)
@@ -461,8 +461,8 @@ Der Engineering Kiosk ist der deutschsprachige Software-Engineering-Podcast mit 
 
 Student*innen der Informatik, die einen Podcast machen, damit ihr alle checkt wie geil Informatik eigentlich ist.
 
-* Number of published episodes: 31
-* Last episode published: 🟢 Wednesday, 22 March 2023
+* Number of published episodes: 32
+* Last episode published: 🟢 Wednesday, 05 April 2023
 * [Female TechTalk Website](https://www.female-techtalk.com/)
 * [Female TechTalk @ Spotify](https://open.spotify.com/show/23CmXEDANTleEB6hmeVj4W)
 * [Female TechTalk @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1589781968)
@@ -778,8 +778,8 @@ Logbuch:Netzpolitik ist ein in der Regel wöchentlich erscheinender Podcast, der
 
 Redakteure von heise Mac &amp; i beschäftigen sich jeden Monat mit Apple-Produkten, -Betriebssystemen und dem Drumherum, stellen Testergebnisse vor und geben Tipps.
 
-* Number of published episodes: 41
-* Last episode published: 🟢 Friday, 24 March 2023
+* Number of published episodes: 42
+* Last episode published: 🟢 Thursday, 06 April 2023
 * [Mac &amp; I Website](https://www.heise.de/mac-and-i/meldung/Mac-i-Der-Apple-Podcast-4681220.html)
 * [Mac &amp; I @ Spotify](https://open.spotify.com/show/5Tcgc97HvYREYM7kIRsxii)
 * [Mac &amp; I @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1499510618)
@@ -954,8 +954,8 @@ Ein Podcast über die dunkle Seite der Digitalisierung: Spionage, Hacker, Sabota
 
 Mit geballter Dev-Power nehmen Dennis, Fabi, Sebi und Jojo neue Podcastfolgen auf und werden dabei regelmäßig von Gäst:innen aus der Branche unterstützt. Taucht in unseren Deep Dives mit uns in Frameworks und Datenbanken ein, hört euch in den CTO-Specials die Erfahrungen führender Persönlichkeiten großer Unternehmen an und bleibt mit unseren News-Folgen stets am Ball in der Welt der App- und Webentwicklung.
 
-* Number of published episodes: 235
-* Last episode published: 🟢 Wednesday, 29 March 2023
+* Number of published episodes: 236
+* Last episode published: 🟢 Wednesday, 05 April 2023
 * Weekly downloads (avg): 8936 (updated: 2022-08-04)
 * [programmier.bar Website](https://www.programmier.bar/podcast)
 * [programmier.bar @ Spotify](https://open.spotify.com/show/0ik0sXv9paTQCeThcOLCCJ)
@@ -971,8 +971,8 @@ Mit geballter Dev-Power nehmen Dennis, Fabi, Sebi und Jojo neue Podcastfolgen au
 
 Ein deutschsprachiger Podcast rund um die Programmiersprache Python
 
-* Number of published episodes: 48
-* Last episode published: 🟡 Friday, 27 January 2023
+* Number of published episodes: 49
+* Last episode published: 🟢 Thursday, 06 April 2023
 * Weekly downloads (avg): 3470 (updated: 2023-02-15)
 * [Python Podcast Website](https://python-podcast.de/)
 * [Python Podcast @ Spotify](https://open.spotify.com/show/5AvPhPaP1ZNSjNUXY3Gf6M)
@@ -1212,8 +1212,8 @@ Digitalisierung ist komplex. Heute entsteht dies, morgen das. Und was übermorge
 
 Dein täglicher Podcast mit dem, was wichtig war und was wichtig wird im digitalen Kosmos und dem Arbeitsleben der Zukunft. Die perfekte Begleitung zum Abschluss des Arbeitstages und auf dem Weg in den Abend.
 
-* Number of published episodes: 146
-* Last episode published: 🟢 Tuesday, 04 April 2023
+* Number of published episodes: 148
+* Last episode published: 🟢 Thursday, 06 April 2023
 * [t3n Daily Website](https://t3n.de/podcast#daily)
 * [t3n Daily @ Spotify](https://open.spotify.com/show/1Fc1zS8yvRS7Zf0leKn54o)
 * [t3n Daily @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1643152920)
@@ -1244,7 +1244,7 @@ In diesem Podcast diskutiert die t3n-Redaktion mit Gästen über die spannendste
 Ausführliche, häufig zeitlose Gespräche von Gastgeber Nico Kreiling mit wechselnden Gästen der IT-Welt zu deren Fach-Gebieten. Von Nerds, für Nerds!
 
 * Number of published episodes: 41
-* Last episode published: 🟢 Monday, 06 February 2023
+* Last episode published: 🟡 Monday, 06 February 2023
 * Weekly downloads (avg): 900 (updated: 2022-08-01)
 * [Techtiefen Website](https://techtiefen.de/)
 * [Techtiefen @ Spotify](https://open.spotify.com/show/6hyfYJi5yvjWgcqOTtNzRo)
@@ -1405,8 +1405,8 @@ Wöchentlicher Podcast für Webdesigner:innen und -entwickler:innen
 
 Wir berichten zweiwöchentlich über News und Updates aus dem WordPress Universum.
 
-* Number of published episodes: 176
-* Last episode published: 🟢 Saturday, 25 March 2023
+* Number of published episodes: 177
+* Last episode published: 🟢 Friday, 07 April 2023
 * [WP Sofa Website](https://wp-sofa.de/)
 * [WP Sofa @ Spotify](https://open.spotify.com/show/5deyJkxMw1cAMKGxnrx5wO)
 * [WP Sofa Podcast RSS](https://wp-sofa.de/feed/mp3/)
