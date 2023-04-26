@@ -6,7 +6,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (83 podcasts)
+* [Podcasts](#podcasts) (82 podcasts)
   * [0d - Zeroday](#0d-zeroday)
   * [Apfelfunk](#apfelfunk)
   * [Armchair Investigators](#armchair-investigators)
@@ -65,7 +65,6 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [Python Podcast](#python-podcast)
   * [RadioTux](#radiotux)
   * [Ready for Review](#ready-for-review)
-  * [Rheingehäckt](#rheingehackt)
   * [Schlüsseltechnologie](#schlusseltechnologie)
   * [Schwarz, Code, Gold – Deutschland, Entwicklungsland?](#schwarz-code-gold-deutschland-entwicklungsland)
   * [Security-Insider](#security-insider)
@@ -90,11 +89,12 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [Wo wir sind ist vorne](#wo-wir-sind-ist-vorne)
   * [Working Draft](#working-draft)
   * [WP Sofa](#wp-sofa)
-* [Archived podcasts](#archived-podcasts) (5 podcasts)
+* [Archived podcasts](#archived-podcasts) (6 podcasts)
   * [Chaosradio](#chaosradio)
   * [Codestammtisch](#codestammtisch)
   * [GeekWeek](#geekweek)
   * [Request for Comments](#request-for-comments)
+  * [Rheingehäckt](#rheingehackt)
   * [SELECTrageFROMit;](#selectragefromit)
 * [Legend](#legend)
 * [How to contribute](#how-to-contribute)
@@ -210,8 +210,8 @@ Ein Podcast über Web, Entwicklung, Mobile und Technologie. Betrachtet aus der S
 
 Prozessoren, Grafikkarten, Notebooks, Desktop-PCs, Server, KI, Rechenzentren und IT-Markt: In &#34;Bit-Rauschen&#34;, dem Prozessor-Podcast des Computermagazins c’t, dreht sich alles um Chips.
 
-* Number of published episodes: 60
-* Last episode published: 🟢 Wednesday, 12 April 2023
+* Number of published episodes: 61
+* Last episode published: 🟢 Wednesday, 26 April 2023
 * [Bit-Rauschen Website](https://www.ct.de/bit-rauschen)
 * [Bit-Rauschen @ Spotify](https://open.spotify.com/show/6JD6gwqgVR27GYZACrWOT1)
 * [Bit-Rauschen @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1549821753)
@@ -243,7 +243,7 @@ Komm mit in die dunklen Ecken des Internets. Wir blicken in der ersten Staffel a
 Die wöchentliche Talkrunde rund um Apple, Mac, iPod &#43; iPhone, Gadgets und so. Fast live aus München.
 
 * Number of published episodes: 10
-* Last episode published: 🟢 Sunday, 16 April 2023
+* Last episode published: 🟢 Monday, 24 April 2023
 * [Bits und so Website](http://www.bitsundso.de/)
 * [Bits und so @ Apple Podcasts](https://podcasts.apple.com/de/podcast/202753375)
 * [Bits und so Podcast RSS](http://www.bitsundso.de/feed/)
@@ -396,8 +396,8 @@ Wir reden über Spieleentwicklung und allgemein über die Branche aber gehen auc
 
 Der einzige IT Podcast in dem es nicht um IT geht. Ivan Ushmorov spricht mit Menschen aus der IT Industrie. Freelancer, Tech Leads, Headhunter, Founder, PMs, Agile Coaches und digitale Hustler hier kommen alle zu Wort.
 
-* Number of published episodes: 20
-* Last episode published: 🟢 Wednesday, 19 April 2023
+* Number of published episodes: 21
+* Last episode published: 🟢 Wednesday, 26 April 2023
 * [dev.env Website](https://shows.acast.com/dev-env)
 * [dev.env @ Spotify](https://open.spotify.com/show/6e9gpjtx54G0293RsH6agn)
 * [dev.env @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1667384138)
@@ -444,8 +444,8 @@ Digitalisierungsfieber, dem Podcast für IT Security, Datenschutz, und IT Servic
 
 Der Engineering Kiosk ist der deutschsprachige Software-Engineering-Podcast mit Wolfgang Gassler und Andy Grunwald rund um die Themen Engineering-Kultur, Open Source, Menschen, Technologie und allen anderen Bereichen, die damit in Verbindung stehen.
 
-* Number of published episodes: 69
-* Last episode published: 🟢 Tuesday, 18 April 2023
+* Number of published episodes: 70
+* Last episode published: 🟢 Tuesday, 25 April 2023
 * Weekly downloads (avg): 1099 (updated: 2023-01-31)
 * [Engineering Kiosk Website](https://engineeringkiosk.dev/)
 * [Engineering Kiosk @ Spotify](https://open.spotify.com/show/0tJRC0UsObPCWLmmzmOkIs)
@@ -524,8 +524,8 @@ Freak Show ist ein Podcast, der sich mit dem Leben mit Technik im 21. Jahrhunder
 
 Wir talken GameDev und haben Unreal News.
 
-* Number of published episodes: 48
-* Last episode published: 🟢 Wednesday, 19 April 2023
+* Number of published episodes: 49
+* Last episode published: 🟢 Tuesday, 25 April 2023
 * [Gamedev für die Platte - Der Unreal Podcast Website](https://gamedevfuerdieplatte.podbean.com/)
 * [Gamedev für die Platte - Der Unreal Podcast @ Spotify](https://open.spotify.com/show/3UtoyAbMfEvkSIx5w3HohY)
 * [Gamedev für die Platte - Der Unreal Podcast Podcast RSS](https://feed.podbean.com/gamedevfuerdieplatte/feed.xml)
@@ -856,8 +856,8 @@ Mind the Tech ist ein Podcast, der die dunklen Seiten der IT- und Tech-Welt bele
 
 Der MIXEDCAST ist Deutschlands Podcast über Virtual Reality, Augmented Reality, Mixed Reality, Künstliche Intelligenz und generell neue Formen der Mensch-Computer-Interaktion. Wir sprechen über Themen wie Virtual Reality für Games, Entertainment und das Business, neue Augmented-Reality-Technologien oder Transhumanisums und wie sich die Beziehung zwischen Mensch, Computer und digitaler Welt verändert.
 
-* Number of published episodes: 353
-* Last episode published: 🟢 Saturday, 15 April 2023
+* Number of published episodes: 354
+* Last episode published: 🟢 Monday, 24 April 2023
 * [Mixedcast Website](https://mixed.de/podcast/)
 * [Mixedcast @ Spotify](https://open.spotify.com/show/7nqUnwk9j5qFfjACXzc8Yg)
 * [Mixedcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1141873988)
@@ -1029,22 +1029,6 @@ Sandra Parsick &amp; Daniel Zenzes präsentieren mit Ready for Review einen bunt
 
 ----
 
-<h3 id="rheingehackt">Rheingehäckt</h3>
-
-<img align="right" width="215" height="215" src="./generated/images/rheingehaeckt.png" />
-
-Wie können wir Cybersicherheit als gesamtgesellschaftliches Problem verstehen? Wolfgang Straßer, langjähriger Experte im Bereich Cybersicherheit und Marian Blok, Politikberater mit Schwerpunkt Cybersecurity, sprechen mit Cyber-Experten aus Unternehmen, Behörden und Verbänden.
-
-* Number of published episodes: 8
-* Last episode published: 🟡 Tuesday, 25 October 2022
-* [Rheingehäckt Website](https://www.at-yet.de/aktuelles)
-* [Rheingehäckt @ Spotify](https://open.spotify.com/show/1CFAcjQuET8Yv35k6v38fs)
-* [Rheingehäckt @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1585954195)
-* [Rheingehäckt Podcast RSS](https://2axxur.podcaster.de/rheingehaeckt.rss)
-* Tags: Security
-
-----
-
 <h3 id="schlusseltechnologie">Schlüsseltechnologie</h3>
 
 <img align="right" width="215" height="215" src="./generated/images/schluesseltechnologie.png" />
@@ -1178,8 +1162,8 @@ Der SoftwerkerCast präsentiert euch Softwerker-Wissen zum Reinhören und Nachh�
 
 Ich bin Cedric und in diesem Podcast rede ich immer wieder mal über Informatik, Datenschutz, Sicherheit und alles erwähnenswerte. Mit dabei sind immer wieder sehr bekannte und engagierte Menschen, die Experte auf ihrem Gebiet sind.
 
-* Number of published episodes: 35
-* Last episode published: 🟢 Monday, 20 March 2023
+* Number of published episodes: 36
+* Last episode published: 🟢 Monday, 24 April 2023
 * Weekly downloads (avg): 180 (updated: 2022-08-01)
 * [Speak 1337 Website](https://the-morpheus.de/)
 * [Speak 1337 @ Spotify](https://open.spotify.com/show/0xlIih789FcMbZaASyhuAm)
@@ -1195,8 +1179,8 @@ Ich bin Cedric und in diesem Podcast rede ich immer wieder mal über Informatik,
 
 Jede Woche setzen wir uns mit Expert:innen aus der Webentwicklung zusammen. Immer eine Stunde und immer ein neues Thema. Wir glauben, dass zu guten und erfolgreichen Web-Projekte immer mehr gehört, als nur Programmierung. All diese Bestandteile werden in unserem Podcast besprochen.
 
-* Number of published episodes: 27
-* Last episode published: 🟢 Tuesday, 18 April 2023
+* Number of published episodes: 28
+* Last episode published: 🟢 Monday, 24 April 2023
 * [Super Duper Developers Club Website](https://superdev.club/podcasts/)
 * [Super Duper Developers Club @ Spotify](https://open.spotify.com/show/5Ax1DMiSeTUTHMZwxtX1yR)
 * [Super Duper Developers Club @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1649104892)
@@ -1226,8 +1210,8 @@ Digitalisierung ist komplex. Heute entsteht dies, morgen das. Und was übermorge
 
 Dein täglicher Podcast mit dem, was wichtig war und was wichtig wird im digitalen Kosmos und dem Arbeitsleben der Zukunft. Die perfekte Begleitung zum Abschluss des Arbeitstages und auf dem Weg in den Abend.
 
-* Number of published episodes: 157
-* Last episode published: 🟢 Friday, 21 April 2023
+* Number of published episodes: 159
+* Last episode published: 🟢 Tuesday, 25 April 2023
 * [t3n Daily Website](https://t3n.de/podcast#daily)
 * [t3n Daily @ Spotify](https://open.spotify.com/show/1Fc1zS8yvRS7Zf0leKn54o)
 * [t3n Daily @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1643152920)
@@ -1257,8 +1241,8 @@ In diesem Podcast diskutiert die t3n-Redaktion mit Gästen über die spannendste
 
 Ausführliche, häufig zeitlose Gespräche von Gastgeber Nico Kreiling mit wechselnden Gästen der IT-Welt zu deren Fach-Gebieten. Von Nerds, für Nerds!
 
-* Number of published episodes: 41
-* Last episode published: 🟡 Monday, 06 February 2023
+* Number of published episodes: 42
+* Last episode published: 🟢 Wednesday, 26 April 2023
 * Weekly downloads (avg): 900 (updated: 2022-08-01)
 * [Techtiefen Website](https://techtiefen.de/)
 * [Techtiefen @ Spotify](https://open.spotify.com/show/6hyfYJi5yvjWgcqOTtNzRo)
@@ -1274,8 +1258,8 @@ Ausführliche, häufig zeitlose Gespräche von Gastgeber Nico Kreiling mit wechs
 
 IT-Security, unendliche Weiten ... So oder so ähnlich lässt sich die Größenordnung von alldem, was IT-Security betrifft, beschreiben - Netzwerk, Cloud, Endpoint, E-Mail, SOC, Schwachstellen, Sicherheitsvorfall, Awareness und vieeeles mehr. Klingt unfassbar kompliziert – ist aber auch unfassbar spannend. In unserem Podcast berichten wir über aktuelle Themen und zeigen euch, warum das Thema IT-Sicherheit auch für euren Alltag extrem wichtig ist. Denn das ist unsere Leidenschaft: eure Unternehmen und eure Arbeit sicher zu machen. Habt ihr heute schon auf einen Link geklickt? 😉
 
-* Number of published episodes: 16
-* Last episode published: 🟡 Wednesday, 18 January 2023
+* Number of published episodes: 17
+* Last episode published: 🟢 Tuesday, 25 April 2023
 * [The World of IT-Security Website](https://www.suresecure.de/aktuelles/podcast)
 * [The World of IT-Security @ Spotify](https://open.spotify.com/show/38ro5pDX7ToVMA9w6RVyNM)
 * [The World of IT-Security @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1567043544)
@@ -1322,8 +1306,8 @@ todo:cast ist ein deutschsprachiger Podcast für die großen und kleinen Fragen 
 
 Wir sind UNMUTE IT, der Podcast von und mit Frauen aus der IT. Wir erzählen von unseren Erfahrungen, begegneten Herausforderungen, Tipps &amp; Tricks und teilen die eine oder andere Anekdote. Frauen gehören in STEM Felder.Mit unserer Präsenz wollen wir dies untermauern und Frauen motivieren, sich mit dem Thema zu beschäftigen und den Schritt in die IT zu gehen.
 
-* Number of published episodes: 37
-* Last episode published: 🟢 Monday, 10 April 2023
+* Number of published episodes: 38
+* Last episode published: 🟢 Monday, 24 April 2023
 * Weekly downloads (avg): 177 (updated: 2023-01-21)
 * [Unmute IT Website](https://linkr.bio/unmute-it)
 * [Unmute IT @ Spotify](https://open.spotify.com/show/4v3xXuY5Km98xnmeXeGZgx)
@@ -1354,8 +1338,8 @@ IT Security Podcast
 
 Alle 14 Tage laden wir zu einer kleinen Kaminzimmerrunde rund um den Themenkomplex Datacenter, Cloud und IT ein. In Ermangelung eines Kaminzimmers sitzen wir in der Hot Aisle eines Datacenters, statt feudaler Sessel gibt es faltbare Campingstühle, und die Cognacschwenker durften wir auch nicht mit reinnehmen. :/
 
-* Number of published episodes: 31
-* Last episode published: 🟢 Tuesday, 11 April 2023
+* Number of published episodes: 32
+* Last episode published: 🟢 Tuesday, 25 April 2023
 * Weekly downloads (avg): 100 (updated: 2022-07-31)
 * [Wartungsfenster Website](https://wartungsfenster.podigee.io/)
 * [Wartungsfenster @ Spotify](https://open.spotify.com/show/063YcVklbp1N8z1ZHSA709)
@@ -1399,12 +1383,12 @@ Latenight-Frontend-Talkshow rund um Webdesign und Entwicklung. Es reden sich um 
 
 <h3 id="working-draft">Working Draft</h3>
 
-<img align="right" width="215" height="215" src="./generated/generated/images/working-draft.png" />
+<img align="right" width="215" height="215" src="./generated/images/working-draft.png" />
 
 Wöchentlicher Podcast für Webdesigner:innen und -entwickler:innen
 
-* Number of published episodes: 583
-* Last episode published: 🟢 Tuesday, 18 April 2023
+* Number of published episodes: 584
+* Last episode published: 🟢 Tuesday, 25 April 2023
 * [Working Draft Website](https://workingdraft.de/)
 * [Working Draft @ Spotify](https://open.spotify.com/show/78iH7cIFzu1ejoB6aQUsIh)
 * [Working Draft @ Apple Podcasts](https://podcasts.apple.com/de/podcast/402204581)
@@ -1487,6 +1471,22 @@ RFC definieren das Internet. Nahezu jeder Informationsaustausch zwischen zwei Re
 * [Request for Comments Website](https://requestforcomments.de/)
 * [Request for Comments @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1082223939)
 * [Request for Comments Podcast RSS](https://requestforcomments.de/feed/m4a)
+
+----
+
+<h3 id="rheingehackt">Rheingehäckt</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/rheingehaeckt.png" />
+
+Wie können wir Cybersicherheit als gesamtgesellschaftliches Problem verstehen? Wolfgang Straßer, langjähriger Experte im Bereich Cybersicherheit und Marian Blok, Politikberater mit Schwerpunkt Cybersecurity, sprechen mit Cyber-Experten aus Unternehmen, Behörden und Verbänden.
+
+* Number of published episodes: 8
+* Last episode published: 🔴 Tuesday, 25 October 2022
+* [Rheingehäckt Website](https://www.at-yet.de/aktuelles)
+* [Rheingehäckt @ Spotify](https://open.spotify.com/show/1CFAcjQuET8Yv35k6v38fs)
+* [Rheingehäckt @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1585954195)
+* [Rheingehäckt Podcast RSS](https://2axxur.podcaster.de/rheingehaeckt.rss)
+* Tags: Security
 
 ----
 

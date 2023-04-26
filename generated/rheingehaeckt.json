@@ -15,7 +15,7 @@
  },
  "episodeCount": 8,
  "latestEpisodePublished": 1666717200,
- "archive": false,
+ "archive": true,
  "itunesID": 1585954195,
  "image": "images/rheingehaeckt.png"
 }
