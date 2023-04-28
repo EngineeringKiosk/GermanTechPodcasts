@@ -6,7 +6,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (82 podcasts)
+* [Podcasts](#podcasts) (83 podcasts)
   * [0d - Zeroday](#0d-zeroday)
   * [Apfelfunk](#apfelfunk)
   * [Armchair Investigators](#armchair-investigators)
@@ -18,6 +18,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [Bits und so](#bits-und-so)
   * [Breach FM](#breach-fm)
   * [c&#39;t uplink](#ct-uplink)
+  * [Chaosradio](#chaosradio)
   * [Click! Clack! Hack!](#click-clack-hack)
   * [Code and Ship](#code-and-ship)
   * [Code Culture](#code-culture)
@@ -89,8 +90,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [Wo wir sind ist vorne](#wo-wir-sind-ist-vorne)
   * [Working Draft](#working-draft)
   * [WP Sofa](#wp-sofa)
-* [Archived podcasts](#archived-podcasts) (6 podcasts)
-  * [Chaosradio](#chaosradio)
+* [Archived podcasts](#archived-podcasts) (5 podcasts)
   * [Codestammtisch](#codestammtisch)
   * [GeekWeek](#geekweek)
   * [Request for Comments](#request-for-comments)
@@ -129,8 +129,8 @@ Deutschsprachiger Podcast zu den Themen IT-Sicherheit und Privatsphäre. Stefan 
 
 Apfelfunk ist ein wöchentlicher Podcast über Apple-Themen. Jean-Claude Frick und Malte Kirchner berichten und bewerten darin die Neuigkeiten über den wichtigsten Computerkonzern der Welt.
 
-* Number of published episodes: 376
-* Last episode published: 🟢 Wednesday, 19 April 2023
+* Number of published episodes: 377
+* Last episode published: 🟢 Wednesday, 26 April 2023
 * [Apfelfunk Website](http://www.apfelfunk.com/)
 * [Apfelfunk @ Spotify](https://open.spotify.com/show/7FQLyWiNhMR0KS93ReaI4h)
 * [Apfelfunk @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1081146940)
@@ -282,6 +282,21 @@ Mitglieder der c&#39;t-Redaktion diskutieren über die aktuellen Themen aus dem 
 
 ----
 
+<h3 id="chaosradio">Chaosradio</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/chaosradio.png" />
+
+Im monatlichen Chaosradio informiert der Chaos Computer Club Berlin seit 1995 über die Auswirkungen von Technik auf die Gesellschaft.
+
+* Number of published episodes: 267
+* Last episode published: 🟢 Wednesday, 26 April 2023
+* [Chaosradio Website](https://chaosradio.de/)
+* [Chaosradio @ Apple Podcasts](https://podcasts.apple.com/de/podcast/135057225)
+* [Chaosradio Podcast RSS](https://chaosradio.de/feed/m4a)
+* Tags: Chaos Computer Club, Gesellschaft, Politik
+
+----
+
 <h3 id="click-clack-hack">Click! Clack! Hack!</h3>
 
 <img align="right" width="215" height="215" src="./generated/images/click-clack-hack.png" />
@@ -411,8 +426,8 @@ Der einzige IT Podcast in dem es nicht um IT geht. Ivan Ushmorov spricht mit Men
 
 Der Unterhaltungs-Podcast für .NET Entwickler - ca. alle zwei Wochen treffen sich die freiberuflichen Entwickler Oliver Vogel, Thomas Krause und Manuel Wenk um über allerlei News und Infos aus der .NET und Microsoft Azure Welt zu berichten. Ist das Essen schon da?
 
-* Number of published episodes: 97
-* Last episode published: 🟢 Thursday, 13 April 2023
+* Number of published episodes: 98
+* Last episode published: 🟢 Thursday, 27 April 2023
 * Weekly downloads (avg): 471 (updated: 2023-01-03)
 * [DevCouch Website](https://devcouch.de/)
 * [DevCouch @ Spotify](https://open.spotify.com/show/0MfjnJ0I7SxJ89JIBWIcJJ)
@@ -477,8 +492,8 @@ Student*innen der Informatik, die einen Podcast machen, damit ihr alle checkt wi
 
 Der FOCUS ON: DevOps Podcast beschäftigt sich mit verschiedenen Methoden und Werkzeugen rund um das Thema DevOps. Dabei wechseln sich technische mit methodischen Folgen ab. Unser Ziel ist es über relevante Themen zu informieren und auch die Hersteller auf dem Markt als Gäste mit einzubinden.
 
-* Number of published episodes: 66
-* Last episode published: 🟢 Saturday, 22 April 2023
+* Number of published episodes: 67
+* Last episode published: 🟢 Wednesday, 26 April 2023
 * [FOCUS ON: DevOps Website](https://focusondevops.podigee.io/)
 * [FOCUS ON: DevOps @ Spotify](https://open.spotify.com/show/0gXBw5mGcqXQkPW9h2JTaa)
 * [FOCUS ON: DevOps @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1542623849)
@@ -493,8 +508,8 @@ Der FOCUS ON: DevOps Podcast beschäftigt sich mit verschiedenen Methoden und We
 
 Der FOCUS ON: Linux Podcast beschäftigt sich mit verschiedenen Themen rund um Linux. Unser Ziel ist es, euch monatlich über die Entwicklungen und Neuigkeiten zu informieren und auch praktische Tool-Tipps an die Hand zu geben.
 
-* Number of published episodes: 52
-* Last episode published: 🟢 Friday, 31 March 2023
+* Number of published episodes: 53
+* Last episode published: 🟢 Thursday, 27 April 2023
 * Weekly downloads (avg): 710 (updated: 2022-10-26)
 * [FOCUS ON: Linux Website](https://focusonlinux.podigee.io/)
 * [FOCUS ON: Linux @ Spotify](https://open.spotify.com/show/4Yj9EaidQuwEZL0NkAafzh)
@@ -666,8 +681,8 @@ Dieser Podcast unterstützt schnell, konkret und umfänglich beim Einstieg in di
 
 Nur etwas mehr als 60 Jahre liegen zwischen dem ersten Start eines Motorflugzeugs und dem ersten bemannten Flug zum Mond. Das Handy wurde in nur 30 Jahren zum wichtigsten Kommunikationskanal unserer Zeit. Und IT? Die entwickelt sich nicht weniger rasant und macht in einer vernetzten und digitalen Welt vor keinem Bereich mehr halt. Im Podcast sprechen wir über Trendthemen, die zwar nichts mit Raketenwissenschaft zu tun haben, dafür aber Menschen auf dem Weg in eine digitale Zukunft begleiten. Bist Du bereit?
 
-* Number of published episodes: 56
-* Last episode published: 🟢 Wednesday, 12 April 2023
+* Number of published episodes: 57
+* Last episode published: 🟢 Wednesday, 26 April 2023
 * [IT ist alles Website](https://www.pco-online.de/magazin/2020/07/podcast)
 * [IT ist alles @ Spotify](https://open.spotify.com/show/46EUTeJsHSfscbkrI38f6p)
 * [IT ist alles @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1524049773)
@@ -968,8 +983,8 @@ Ein Podcast über die dunkle Seite der Digitalisierung: Spionage, Hacker, Sabota
 
 Mit geballter Dev-Power nehmen Dennis, Fabi, Sebi und Jojo neue Podcastfolgen auf und werden dabei regelmäßig von Gäst:innen aus der Branche unterstützt. Taucht in unseren Deep Dives mit uns in Frameworks und Datenbanken ein, hört euch in den CTO-Specials die Erfahrungen führender Persönlichkeiten großer Unternehmen an und bleibt mit unseren News-Folgen stets am Ball in der Welt der App- und Webentwicklung.
 
-* Number of published episodes: 239
-* Last episode published: 🟢 Friday, 21 April 2023
+* Number of published episodes: 240
+* Last episode published: 🟢 Wednesday, 26 April 2023
 * Weekly downloads (avg): 8744 (updated: 2023-04-12)
 * [programmier.bar Website](https://www.programmier.bar/podcast)
 * [programmier.bar @ Spotify](https://open.spotify.com/show/0ik0sXv9paTQCeThcOLCCJ)
@@ -1195,8 +1210,8 @@ Jede Woche setzen wir uns mit Expert:innen aus der Webentwicklung zusammen. Imme
 
 Digitalisierung ist komplex. Heute entsteht dies, morgen das. Und was übermorgen noch wichtig ist, wissen die wenigsten. Wir schon! Im Podcast besprechen wir mit den Expert:innen unserer Redaktion die wichtigsten Entwicklungen der Woche und der Zukunft. Wir geben Wissensvorsprung und Impulse.
 
-* Number of published episodes: 43
-* Last episode published: 🟢 Wednesday, 19 April 2023
+* Number of published episodes: 44
+* Last episode published: 🟢 Wednesday, 26 April 2023
 * [t3n Catch up Website](https://t3n.de/podcast#catchup)
 * [t3n Catch up @ Spotify](https://open.spotify.com/show/0Bjrzu6l2RtRRyvTf0QEKQ)
 * [t3n Catch up @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1627024991)
@@ -1210,8 +1225,8 @@ Digitalisierung ist komplex. Heute entsteht dies, morgen das. Und was übermorge
 
 Dein täglicher Podcast mit dem, was wichtig war und was wichtig wird im digitalen Kosmos und dem Arbeitsleben der Zukunft. Die perfekte Begleitung zum Abschluss des Arbeitstages und auf dem Weg in den Abend.
 
-* Number of published episodes: 159
-* Last episode published: 🟢 Tuesday, 25 April 2023
+* Number of published episodes: 161
+* Last episode published: 🟢 Thursday, 27 April 2023
 * [t3n Daily Website](https://t3n.de/podcast#daily)
 * [t3n Daily @ Spotify](https://open.spotify.com/show/1Fc1zS8yvRS7Zf0leKn54o)
 * [t3n Daily @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1643152920)
@@ -1226,8 +1241,8 @@ Dein täglicher Podcast mit dem, was wichtig war und was wichtig wird im digital
 
 In diesem Podcast diskutiert die t3n-Redaktion mit Gästen über die spannendsten digitalen Themen unserer Zeit. Ob innovative Führungskonzepte, die Digitalisierung der Gesellschaft, smarte Gadgets, neue Mobilität oder Zukunftstechnologien. Jeden Freitag um 10 Uhr!
 
-* Number of published episodes: 493
-* Last episode published: 🟢 Monday, 24 April 2023
+* Number of published episodes: 494
+* Last episode published: 🟢 Friday, 28 April 2023
 * [t3n Interview Website](https://t3n.de/podcast#interview)
 * [t3n Interview @ Spotify](https://open.spotify.com/show/7obTbZaywhQEiUUOMswQBQ)
 * [t3n Interview @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1115601393)
@@ -1306,8 +1321,8 @@ todo:cast ist ein deutschsprachiger Podcast für die großen und kleinen Fragen 
 
 Wir sind UNMUTE IT, der Podcast von und mit Frauen aus der IT. Wir erzählen von unseren Erfahrungen, begegneten Herausforderungen, Tipps &amp; Tricks und teilen die eine oder andere Anekdote. Frauen gehören in STEM Felder.Mit unserer Präsenz wollen wir dies untermauern und Frauen motivieren, sich mit dem Thema zu beschäftigen und den Schritt in die IT zu gehen.
 
-* Number of published episodes: 38
-* Last episode published: 🟢 Monday, 24 April 2023
+* Number of published episodes: 39
+* Last episode published: 🟢 Thursday, 27 April 2023
 * Weekly downloads (avg): 177 (updated: 2023-01-21)
 * [Unmute IT Website](https://linkr.bio/unmute-it)
 * [Unmute IT @ Spotify](https://open.spotify.com/show/4v3xXuY5Km98xnmeXeGZgx)
@@ -1415,21 +1430,6 @@ Wir berichten zweiwöchentlich über News und Updates aus dem WordPress Universu
 
 ## Archived podcasts
 
-
-<h3 id="chaosradio">Chaosradio</h3>
-
-<img align="right" width="215" height="215" src="./generated/images/chaosradio.png" />
-
-Im monatlichen Chaosradio informiert der Chaos Computer Club Berlin seit 1995 über die Auswirkungen von Technik auf die Gesellschaft.
-
-* Number of published episodes: 266
-* Last episode published: 🔴 Sunday, 26 June 2022
-* [Chaosradio Website](https://chaosradio.de/)
-* [Chaosradio @ Apple Podcasts](https://podcasts.apple.com/de/podcast/135057225)
-* [Chaosradio Podcast RSS](https://chaosradio.de/feed/m4a)
-* Tags: Chaos Computer Club, Gesellschaft, Politik
-
-----
 
 <h3 id="codestammtisch">Codestammtisch</h3>
 
