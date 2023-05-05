@@ -112,8 +112,8 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
 
 Deutschsprachiger Podcast zu den Themen IT-Sicherheit und Privatsphäre. Stefan und Sven unterhalten sich über aktuelle News und allgemeine Themen rund um Security und Privacy.
 
-* Number of published episodes: 104
-* Last episode published: 🟢 Friday, 31 March 2023
+* Number of published episodes: 105
+* Last episode published: 🟢 Wednesday, 03 May 2023
 * Weekly downloads (avg): 2000 (updated: 2023-01-16)
 * [0d - Zeroday Website](https://0x0d.de/)
 * [0d - Zeroday @ Spotify](https://open.spotify.com/show/5XTyNo5r6H0rRptIgaE1w4)
@@ -129,8 +129,8 @@ Deutschsprachiger Podcast zu den Themen IT-Sicherheit und Privatsphäre. Stefan 
 
 Apfelfunk ist ein wöchentlicher Podcast über Apple-Themen. Jean-Claude Frick und Malte Kirchner berichten und bewerten darin die Neuigkeiten über den wichtigsten Computerkonzern der Welt.
 
-* Number of published episodes: 378
-* Last episode published: 🟢 Saturday, 29 April 2023
+* Number of published episodes: 379
+* Last episode published: 🟢 Wednesday, 03 May 2023
 * [Apfelfunk Website](http://www.apfelfunk.com/)
 * [Apfelfunk @ Spotify](https://open.spotify.com/show/7FQLyWiNhMR0KS93ReaI4h)
 * [Apfelfunk @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1081146940)
@@ -161,8 +161,8 @@ Ein Dialog über Malware, Cybercrime und Cyberspionage
 
 Sie möchten beim Thema Datenschutz auf dem Laufenden bleiben, aber keine seitenlange Literatur wälzen? Dann wenden Sie sich vertrauensvoll an unser Juristen-Redakteurs-Duo. Alle 14 Tage bespricht c&#39;t-Redakteur Holger Bleich mit Joerg Heidrich aktuelle Entwicklungen rund um den Datenschutz. Joerg ist beim c&#39;t-Mutterschiff Heise Medien als Justiziar für das Thema zuständig und hat täglich mit der europäischen Datenschutz-Grundverordnung (DSGVO) zu tun. Wechselnde Gäste ergänzen das Duo.
 
-* Number of published episodes: 85
-* Last episode published: 🟢 Friday, 21 April 2023
+* Number of published episodes: 86
+* Last episode published: 🟢 Friday, 05 May 2023
 * [Auslegungssache Website](https://heise.de/-4571821)
 * [Auslegungssache @ Spotify](https://open.spotify.com/show/3Jrnu7vrTurguBaCiPapkA)
 * [Auslegungssache @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1485860893)
@@ -411,8 +411,8 @@ Wir reden über Spieleentwicklung und allgemein über die Branche aber gehen auc
 
 Der einzige IT Podcast in dem es nicht um IT geht. Ivan Ushmorov spricht mit Menschen aus der IT Industrie. Freelancer, Tech Leads, Headhunter, Founder, PMs, Agile Coaches und digitale Hustler hier kommen alle zu Wort.
 
-* Number of published episodes: 21
-* Last episode published: 🟢 Wednesday, 26 April 2023
+* Number of published episodes: 22
+* Last episode published: 🟢 Wednesday, 03 May 2023
 * [dev.env Website](https://shows.acast.com/dev-env)
 * [dev.env @ Spotify](https://open.spotify.com/show/6e9gpjtx54G0293RsH6agn)
 * [dev.env @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1667384138)
@@ -791,8 +791,8 @@ Logbuch:Netzpolitik ist ein in der Regel wöchentlich erscheinender Podcast, der
 
 Redakteure von heise Mac &amp; i beschäftigen sich jeden Monat mit Apple-Produkten, -Betriebssystemen und dem Drumherum, stellen Testergebnisse vor und geben Tipps.
 
-* Number of published episodes: 43
-* Last episode published: 🟢 Friday, 21 April 2023
+* Number of published episodes: 44
+* Last episode published: 🟢 Friday, 05 May 2023
 * [Mac &amp; I Website](https://www.heise.de/mac-and-i/meldung/Mac-i-Der-Apple-Podcast-4681220.html)
 * [Mac &amp; I @ Spotify](https://open.spotify.com/show/5Tcgc97HvYREYM7kIRsxii)
 * [Mac &amp; I @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1499510618)
@@ -839,8 +839,8 @@ Scrum kann doch inzwischen eh jeder? Von wegen! Denn - ganz unter uns: genug fal
 
 Mind the Tech ist ein Podcast, der die dunklen Seiten der IT- und Tech-Welt beleuchtet. Dazu zählen legendäre Hackerangriffe, Datendiebstähle und Cyberattacken. Ebenso kommen die unzähligen Geschichten von Menschen auf den Tisch, die es mit Recht und Gesetz im Web nicht so ernst nehmen – und irgendwann die Konsequenzen ihres Handelns zu spüren bekommen. Wir widmen uns Antitrends und Mythen, stellen Entwicklungen im und rund ums Internet in Frage, wägen ab. Denn wir sind fest davon überzeugt: Nur wenn wir uns ihren Schattenseiten widmen, können wir die (digitale) Welt zu einem besseren Ort machen.
 
-* Number of published episodes: 64
-* Last episode published: 🟢 Wednesday, 19 April 2023
+* Number of published episodes: 65
+* Last episode published: 🟢 Thursday, 04 May 2023
 * [Mind the Tech Website](https://www.mindthetech.de/)
 * [Mind the Tech @ Spotify](https://open.spotify.com/show/6FydYmBjELizU8k8DOIcaA)
 * [Mind the Tech @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1515173582)
@@ -855,7 +855,7 @@ Mind the Tech ist ein Podcast, der die dunklen Seiten der IT- und Tech-Welt bele
 
 Der MIXEDCAST ist Deutschlands Podcast über Virtual Reality, Augmented Reality, Mixed Reality, Künstliche Intelligenz und generell neue Formen der Mensch-Computer-Interaktion. Wir sprechen über Themen wie Virtual Reality für Games, Entertainment und das Business, neue Augmented-Reality-Technologien oder Transhumanisums und wie sich die Beziehung zwischen Mensch, Computer und digitaler Welt verändert.
 
-* Number of published episodes: 355
+* Number of published episodes: 353
 * Last episode published: 🟢 Tuesday, 02 May 2023
 * [Mixedcast Website](https://mixed.de/podcast/)
 * [Mixedcast @ Spotify](https://open.spotify.com/show/7nqUnwk9j5qFfjACXzc8Yg)
@@ -967,8 +967,8 @@ Ein Podcast über die dunkle Seite der Digitalisierung: Spionage, Hacker, Sabota
 
 Mit geballter Dev-Power nehmen Dennis, Fabi, Sebi und Jojo neue Podcastfolgen auf und werden dabei regelmäßig von Gäst:innen aus der Branche unterstützt. Taucht in unseren Deep Dives mit uns in Frameworks und Datenbanken ein, hört euch in den CTO-Specials die Erfahrungen führender Persönlichkeiten großer Unternehmen an und bleibt mit unseren News-Folgen stets am Ball in der Welt der App- und Webentwicklung.
 
-* Number of published episodes: 241
-* Last episode published: 🟢 Friday, 28 April 2023
+* Number of published episodes: 242
+* Last episode published: 🟢 Wednesday, 03 May 2023
 * Weekly downloads (avg): 8744 (updated: 2023-04-12)
 * [programmier.bar Website](https://www.programmier.bar/podcast)
 * [programmier.bar @ Spotify](https://open.spotify.com/show/0ik0sXv9paTQCeThcOLCCJ)
@@ -984,8 +984,8 @@ Mit geballter Dev-Power nehmen Dennis, Fabi, Sebi und Jojo neue Podcastfolgen au
 
 Ein deutschsprachiger Podcast rund um die Programmiersprache Python
 
-* Number of published episodes: 49
-* Last episode published: 🟢 Thursday, 06 April 2023
+* Number of published episodes: 50
+* Last episode published: 🟢 Thursday, 04 May 2023
 * Weekly downloads (avg): 3470 (updated: 2023-02-15)
 * [Python Podcast Website](https://python-podcast.de/)
 * [Python Podcast @ Spotify](https://open.spotify.com/show/5AvPhPaP1ZNSjNUXY3Gf6M)
@@ -1034,8 +1034,8 @@ Sandra Parsick &amp; Daniel Zenzes präsentieren mit Ready for Review einen bunt
 
 Die IT hat unser Leben in den letzten Jahrzehnten von Grund auf verändert. Aber wie funktioniert sie wirklich? Das möchte ttimeless mal erklärt bekommen. Zum Glück hat Xyrill Antworten.
 
-* Number of published episodes: 37
-* Last episode published: 🟢 Thursday, 13 April 2023
+* Number of published episodes: 38
+* Last episode published: 🟢 Thursday, 04 May 2023
 * [Schlüsseltechnologie Website](https://xyrillian.de/noises/stp/)
 * [Schlüsseltechnologie @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1559995829)
 * [Schlüsseltechnologie Podcast RSS](https://xyrillian.de/noises/stp/rss.xml)
@@ -1048,8 +1048,8 @@ Die IT hat unser Leben in den letzten Jahrzehnten von Grund auf verändert. Aber
 
 Digitalisierung in Deutschland? Sagen wir mal so: Niemand klebt sich heute das Qualitätssiegel „Made in Germany“ stolz auf den Laptop-Deckel. Als IT-Standort sind wir zurecht digitales Schlusslicht in Europa. Aber, halt, Moment! Das wollen wir so nicht akzeptieren! Wir suchen jenseits vergeigter IT-Projekte, knapp vorbei an der Breitband-Wüste und mittendrin im LTE-Flickenteppich auf die Antwort nach einer zentralen Frage: Ist Deutschland ein Software-Entwicklungsland?
 
-* Number of published episodes: 15
-* Last episode published: 🟢 Friday, 31 March 2023
+* Number of published episodes: 16
+* Last episode published: 🟢 Wednesday, 03 May 2023
 * [Schwarz, Code, Gold – Deutschland, Entwicklungsland? Website](https://www.brandad-systems.de/podcast-schwarz-code-gold-deutschland-entwicklungsland)
 * [Schwarz, Code, Gold – Deutschland, Entwicklungsland? @ Spotify](https://open.spotify.com/show/5hXUx2Y3sbCL9O5xPdE8i6)
 * [Schwarz, Code, Gold – Deutschland, Entwicklungsland? @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1597296417)
@@ -1209,8 +1209,8 @@ Digitalisierung ist komplex. Heute entsteht dies, morgen das. Und was übermorge
 
 Dein täglicher Podcast mit dem, was wichtig war und was wichtig wird im digitalen Kosmos und dem Arbeitsleben der Zukunft. Die perfekte Begleitung zum Abschluss des Arbeitstages und auf dem Weg in den Abend.
 
-* Number of published episodes: 163
-* Last episode published: 🟢 Tuesday, 02 May 2023
+* Number of published episodes: 165
+* Last episode published: 🟢 Thursday, 04 May 2023
 * [t3n Daily Website](https://t3n.de/podcast#daily)
 * [t3n Daily @ Spotify](https://open.spotify.com/show/1Fc1zS8yvRS7Zf0leKn54o)
 * [t3n Daily @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1643152920)
@@ -1225,8 +1225,8 @@ Dein täglicher Podcast mit dem, was wichtig war und was wichtig wird im digital
 
 In diesem Podcast diskutiert die t3n-Redaktion mit Gästen über die spannendsten digitalen Themen unserer Zeit. Ob innovative Führungskonzepte, die Digitalisierung der Gesellschaft, smarte Gadgets, neue Mobilität oder Zukunftstechnologien. Jeden Freitag um 10 Uhr!
 
-* Number of published episodes: 494
-* Last episode published: 🟢 Friday, 28 April 2023
+* Number of published episodes: 495
+* Last episode published: 🟢 Friday, 05 May 2023
 * [t3n Interview Website](https://t3n.de/podcast#interview)
 * [t3n Interview @ Spotify](https://open.spotify.com/show/7obTbZaywhQEiUUOMswQBQ)
 * [t3n Interview @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1115601393)
@@ -1386,8 +1386,8 @@ Latenight-Frontend-Talkshow rund um Webdesign und Entwicklung. Es reden sich um 
 
 Wöchentlicher Podcast für Webdesigner:innen und -entwickler:innen
 
-* Number of published episodes: 584
-* Last episode published: 🟢 Tuesday, 25 April 2023
+* Number of published episodes: 585
+* Last episode published: 🟢 Thursday, 04 May 2023
 * [Working Draft Website](https://workingdraft.de/)
 * [Working Draft @ Spotify](https://open.spotify.com/show/78iH7cIFzu1ejoB6aQUsIh)
 * [Working Draft @ Apple Podcasts](https://podcasts.apple.com/de/podcast/402204581)
