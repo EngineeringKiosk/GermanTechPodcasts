@@ -145,8 +145,8 @@ Apfelfunk ist ein wöchentlicher Podcast über Apple-Themen. Jean-Claude Frick u
 
 Ein Dialog über Malware, Cybercrime und Cyberspionage
 
-* Number of published episodes: 8
-* Last episode published: 🟡 Wednesday, 08 February 2023
+* Number of published episodes: 9
+* Last episode published: 🟢 Monday, 01 May 2023
 * [Armchair Investigators Website](https://armchairinvestigators.de/)
 * [Armchair Investigators @ Spotify](https://open.spotify.com/show/1xaPIhkQWfAtmHPg8llCEJ)
 * [Armchair Investigators @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1555931250)
@@ -210,8 +210,8 @@ Ein Podcast über Web, Entwicklung, Mobile und Technologie. Betrachtet aus der S
 
 Prozessoren, Grafikkarten, Notebooks, Desktop-PCs, Server, KI, Rechenzentren und IT-Markt: In &#34;Bit-Rauschen&#34;, dem Prozessor-Podcast des Computermagazins c’t, dreht sich alles um Chips.
 
-* Number of published episodes: 61
-* Last episode published: 🟢 Wednesday, 26 April 2023
+* Number of published episodes: 62
+* Last episode published: 🟢 Wednesday, 10 May 2023
 * [Bit-Rauschen Website](https://www.ct.de/bit-rauschen)
 * [Bit-Rauschen @ Spotify](https://open.spotify.com/show/6JD6gwqgVR27GYZACrWOT1)
 * [Bit-Rauschen @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1549821753)
@@ -257,8 +257,8 @@ Die wöchentliche Talkrunde rund um Apple, Mac, iPod &#43; iPhone, Gadgets und s
 
 Ransomware Attacken, Phishing oder DDoS - jeden Tag aufs Neue werden Unternehmen Ziel von Angriffen. Was sind die Geschichten dahinter, wie laufen die Attacken ab und wie kann Schaden verhindert werden? Kim und Robert haben tagtäglich Einblicke in die Info Sec Welt und teilen in diesem Podcast mit Euch ihre Erfahrungen. Schaltet ein, wenn ihr regelmäßige Updates zu aktuellen Sicherheitslücken, Diskussionen zu Technologie Trends oder anderen Themen aus der Welt der Info Sec haben möchtet!
 
-* Number of published episodes: 24
-* Last episode published: 🟢 Monday, 24 April 2023
+* Number of published episodes: 25
+* Last episode published: 🟢 Monday, 08 May 2023
 * [Breach FM Website](https://breachfm.transistor.fm/)
 * [Breach FM @ Spotify](https://open.spotify.com/show/4ooV9mM8Qiyfkj9jUkdZjj)
 * [Breach FM @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1641279793)
@@ -303,8 +303,8 @@ Im monatlichen Chaosradio informiert der Chaos Computer Club Berlin seit 1995 ü
 
 Ein Podcast über den nahezu unendlich tiefen Kaninchenbau der mechanische Tastaturen. Ich erzähle euch was es neues im Hobby der mechanical Keyboards gibt, Groupbuys, Interestchecks, Neue Keyboards, Keycaps und Switches und noch viel viel mehr....
 
-* Number of published episodes: 65
-* Last episode published: 🟢 Monday, 01 May 2023
+* Number of published episodes: 66
+* Last episode published: 🟢 Tuesday, 09 May 2023
 * [Click! Clack! Hack! Website](https://www.nerdbude.com/podcast/)
 * [Click! Clack! Hack! @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1551770169)
 * [Click! Clack! Hack! Podcast RSS](https://www.nerdbude.com/podcast/feed/feed.xml)
@@ -411,8 +411,8 @@ Wir reden über Spieleentwicklung und allgemein über die Branche aber gehen auc
 
 Der einzige IT Podcast in dem es nicht um IT geht. Ivan Ushmorov spricht mit Menschen aus der IT Industrie. Freelancer, Tech Leads, Headhunter, Founder, PMs, Agile Coaches und digitale Hustler hier kommen alle zu Wort.
 
-* Number of published episodes: 22
-* Last episode published: 🟢 Wednesday, 03 May 2023
+* Number of published episodes: 23
+* Last episode published: 🟢 Wednesday, 10 May 2023
 * [dev.env Website](https://shows.acast.com/dev-env)
 * [dev.env @ Spotify](https://open.spotify.com/show/6e9gpjtx54G0293RsH6agn)
 * [dev.env @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1667384138)
@@ -459,8 +459,8 @@ Digitalisierungsfieber, dem Podcast für IT Security, Datenschutz, und IT Servic
 
 Der Engineering Kiosk ist der deutschsprachige Software-Engineering-Podcast mit Wolfgang Gassler und Andy Grunwald rund um die Themen Engineering-Kultur, Open Source, Menschen, Technologie und allen anderen Bereichen, die damit in Verbindung stehen.
 
-* Number of published episodes: 71
-* Last episode published: 🟢 Tuesday, 02 May 2023
+* Number of published episodes: 72
+* Last episode published: 🟢 Tuesday, 09 May 2023
 * Weekly downloads (avg): 1099 (updated: 2023-01-31)
 * [Engineering Kiosk Website](https://engineeringkiosk.dev/)
 * [Engineering Kiosk @ Spotify](https://open.spotify.com/show/0tJRC0UsObPCWLmmzmOkIs)
@@ -492,8 +492,8 @@ Student*innen der Informatik, die einen Podcast machen, damit ihr alle checkt wi
 
 Der FOCUS ON: DevOps Podcast beschäftigt sich mit verschiedenen Methoden und Werkzeugen rund um das Thema DevOps. Dabei wechseln sich technische mit methodischen Folgen ab. Unser Ziel ist es über relevante Themen zu informieren und auch die Hersteller auf dem Markt als Gäste mit einzubinden.
 
-* Number of published episodes: 67
-* Last episode published: 🟢 Wednesday, 26 April 2023
+* Number of published episodes: 68
+* Last episode published: 🟢 Tuesday, 09 May 2023
 * [FOCUS ON: DevOps Website](https://focusondevops.podigee.io/)
 * [FOCUS ON: DevOps @ Spotify](https://open.spotify.com/show/0gXBw5mGcqXQkPW9h2JTaa)
 * [FOCUS ON: DevOps @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1542623849)
@@ -539,8 +539,8 @@ Freak Show ist ein Podcast, der sich mit dem Leben mit Technik im 21. Jahrhunder
 
 Wir talken GameDev und haben Unreal News.
 
-* Number of published episodes: 49
-* Last episode published: 🟢 Tuesday, 25 April 2023
+* Number of published episodes: 50
+* Last episode published: 🟢 Tuesday, 09 May 2023
 * [Gamedev für die Platte - Der Unreal Podcast Website](https://gamedevfuerdieplatte.podbean.com/)
 * [Gamedev für die Platte - Der Unreal Podcast @ Spotify](https://open.spotify.com/show/3UtoyAbMfEvkSIx5w3HohY)
 * [Gamedev für die Platte - Der Unreal Podcast Podcast RSS](https://feed.podbean.com/gamedevfuerdieplatte/feed.xml)
@@ -633,8 +633,8 @@ Du bist Entwickler/Developer? Dann Lauscher auf! Thomas und Christian sprechen i
 
 In dieser Serie diskutieren wir interessante Themen aus Software-Entwicklung und -Architektur – immer mit dem Fokus auf Praxistauglichkeit.
 
-* Number of published episodes: 126
-* Last episode published: 🟢 Tuesday, 02 May 2023
+* Number of published episodes: 127
+* Last episode published: 🟢 Monday, 08 May 2023
 * [INNOQ Podcast Website](https://www.innoq.com/de/podcast/)
 * [INNOQ Podcast @ Spotify](https://open.spotify.com/show/20svL8wDDgtidO2Qwf3EWx)
 * [INNOQ Podcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/672695146)
@@ -729,8 +729,8 @@ IT@DB ist ein Podcast für IT Fach- und Führungskräfte (w/m/d). Hier erhältst
 
 Ja sia! Der Technikpodcast von und mit Chris und Pati. Wir bringen euch regelmäßig neue Infos zu aktuellen technologischen- und dazugehörigen wissenschaftlichen Themen kombiniert mit der einen oder anderen unterhaltsamen Spaßrubrik. ;)
 
-* Number of published episodes: 69
-* Last episode published: 🟢 Tuesday, 18 April 2023
+* Number of published episodes: 70
+* Last episode published: 🟢 Tuesday, 09 May 2023
 * [Ja sia! Website](https://www.ja-sia.de/)
 * [Ja sia! @ Spotify](https://open.spotify.com/show/6hjVDLM5ldA2t3YEwLfeKI)
 * [Ja sia! @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1527996174)
@@ -776,8 +776,8 @@ Der Podcast über unsere digitale Lebens- und Arbeitswelt mit Markus Hörster un
 
 Logbuch:Netzpolitik ist ein in der Regel wöchentlich erscheinender Podcast, der im Dialog zwischen Linus Neumann und Tim Pritlove die wichtigsten Themen und Ereignisse mit netzpolitischem Bezug aufgreift und diskutiert.
 
-* Number of published episodes: 461
-* Last episode published: 🟢 Saturday, 29 April 2023
+* Number of published episodes: 462
+* Last episode published: 🟢 Tuesday, 09 May 2023
 * [Logbuch: Netzpolitik Website](https://logbuch-netzpolitik.de/)
 * [Logbuch: Netzpolitik @ Apple Podcasts](https://podcasts.apple.com/de/podcast/476856034)
 * [Logbuch: Netzpolitik Podcast RSS](https://feeds.metaebene.me/lnp/m4a)
@@ -1178,8 +1178,8 @@ Ich bin Cedric und in diesem Podcast rede ich immer wieder mal über Informatik,
 
 Jede Woche setzen wir uns mit Expert:innen aus der Webentwicklung zusammen. Immer eine Stunde und immer ein neues Thema. Wir glauben, dass zu guten und erfolgreichen Web-Projekte immer mehr gehört, als nur Programmierung. All diese Bestandteile werden in unserem Podcast besprochen.
 
-* Number of published episodes: 28
-* Last episode published: 🟢 Monday, 24 April 2023
+* Number of published episodes: 29
+* Last episode published: 🟢 Tuesday, 09 May 2023
 * [Super Duper Developers Club Website](https://superdev.club/podcasts/)
 * [Super Duper Developers Club @ Spotify](https://open.spotify.com/show/5Ax1DMiSeTUTHMZwxtX1yR)
 * [Super Duper Developers Club @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1649104892)
@@ -1194,8 +1194,8 @@ Jede Woche setzen wir uns mit Expert:innen aus der Webentwicklung zusammen. Imme
 
 Digitalisierung ist komplex. Heute entsteht dies, morgen das. Und was übermorgen noch wichtig ist, wissen die wenigsten. Wir schon! Im Podcast besprechen wir mit den Expert:innen unserer Redaktion die wichtigsten Entwicklungen der Woche und der Zukunft. Wir geben Wissensvorsprung und Impulse.
 
-* Number of published episodes: 45
-* Last episode published: 🟢 Wednesday, 03 May 2023
+* Number of published episodes: 46
+* Last episode published: 🟢 Wednesday, 10 May 2023
 * [t3n Catch up Website](https://t3n.de/podcast#catchup)
 * [t3n Catch up @ Spotify](https://open.spotify.com/show/0Bjrzu6l2RtRRyvTf0QEKQ)
 * [t3n Catch up @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1627024991)
@@ -1209,8 +1209,8 @@ Digitalisierung ist komplex. Heute entsteht dies, morgen das. Und was übermorge
 
 Dein täglicher Podcast mit dem, was wichtig war und was wichtig wird im digitalen Kosmos und dem Arbeitsleben der Zukunft. Die perfekte Begleitung zum Abschluss des Arbeitstages und auf dem Weg in den Abend.
 
-* Number of published episodes: 166
-* Last episode published: 🟢 Friday, 05 May 2023
+* Number of published episodes: 168
+* Last episode published: 🟢 Tuesday, 09 May 2023
 * [t3n Daily Website](https://t3n.de/podcast#daily)
 * [t3n Daily @ Spotify](https://open.spotify.com/show/1Fc1zS8yvRS7Zf0leKn54o)
 * [t3n Daily @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1643152920)
@@ -1225,8 +1225,8 @@ Dein täglicher Podcast mit dem, was wichtig war und was wichtig wird im digital
 
 In diesem Podcast diskutiert die t3n-Redaktion mit Gästen über die spannendsten digitalen Themen unserer Zeit. Ob innovative Führungskonzepte, die Digitalisierung der Gesellschaft, smarte Gadgets, neue Mobilität oder Zukunftstechnologien. Jeden Freitag um 10 Uhr!
 
-* Number of published episodes: 495
-* Last episode published: 🟢 Friday, 05 May 2023
+* Number of published episodes: 496
+* Last episode published: 🟢 Monday, 08 May 2023
 * [t3n Interview Website](https://t3n.de/podcast#interview)
 * [t3n Interview @ Spotify](https://open.spotify.com/show/7obTbZaywhQEiUUOMswQBQ)
 * [t3n Interview @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1115601393)
@@ -1321,8 +1321,8 @@ Wir sind UNMUTE IT, der Podcast von und mit Frauen aus der IT. Wir erzählen von
 
 IT Security Podcast
 
-* Number of published episodes: 38
-* Last episode published: 🟢 Tuesday, 28 March 2023
+* Number of published episodes: 39
+* Last episode published: 🟢 Wednesday, 10 May 2023
 * [Unter 4 Ohren Website](https://www.all-about-security.de/unter4ohren/)
 * [Unter 4 Ohren @ Spotify](https://open.spotify.com/show/7EQFf6fL4dytVJWB4DXYsQ)
 * [Unter 4 Ohren @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1551939691)
@@ -1337,8 +1337,8 @@ IT Security Podcast
 
 Alle 14 Tage laden wir zu einer kleinen Kaminzimmerrunde rund um den Themenkomplex Datacenter, Cloud und IT ein. In Ermangelung eines Kaminzimmers sitzen wir in der Hot Aisle eines Datacenters, statt feudaler Sessel gibt es faltbare Campingstühle, und die Cognacschwenker durften wir auch nicht mit reinnehmen. :/
 
-* Number of published episodes: 32
-* Last episode published: 🟢 Tuesday, 25 April 2023
+* Number of published episodes: 33
+* Last episode published: 🟢 Tuesday, 09 May 2023
 * Weekly downloads (avg): 100 (updated: 2022-07-31)
 * [Wartungsfenster Website](https://wartungsfenster.podigee.io/)
 * [Wartungsfenster @ Spotify](https://open.spotify.com/show/063YcVklbp1N8z1ZHSA709)
@@ -1386,8 +1386,8 @@ Latenight-Frontend-Talkshow rund um Webdesign und Entwicklung. Es reden sich um 
 
 Wöchentlicher Podcast für Webdesigner:innen und -entwickler:innen
 
-* Number of published episodes: 585
-* Last episode published: 🟢 Thursday, 04 May 2023
+* Number of published episodes: 586
+* Last episode published: 🟢 Tuesday, 09 May 2023
 * [Working Draft Website](https://workingdraft.de/)
 * [Working Draft @ Spotify](https://open.spotify.com/show/78iH7cIFzu1ejoB6aQUsIh)
 * [Working Draft @ Apple Podcasts](https://podcasts.apple.com/de/podcast/402204581)
