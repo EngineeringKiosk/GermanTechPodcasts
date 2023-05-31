@@ -243,7 +243,7 @@ Komm mit in die dunklen Ecken des Internets. Wir blicken in der ersten Staffel a
 Die wöchentliche Talkrunde rund um Apple, Mac, iPod &#43; iPhone, Gadgets und so. Fast live aus München.
 
 * Number of published episodes: 10
-* Last episode published: 🟢 Sunday, 21 May 2023
+* Last episode published: 🟢 Monday, 29 May 2023
 * [Bits und so Website](http://www.bitsundso.de/)
 * [Bits und so @ Apple Podcasts](https://podcasts.apple.com/de/podcast/202753375)
 * [Bits und so Podcast RSS](http://www.bitsundso.de/feed/)
@@ -303,8 +303,8 @@ Im monatlichen Chaosradio informiert der Chaos Computer Club Berlin seit 1995 ü
 
 Ein Podcast über den nahezu unendlich tiefen Kaninchenbau der mechanische Tastaturen. Ich erzähle euch was es neues im Hobby der mechanical Keyboards gibt, Groupbuys, Interestchecks, Neue Keyboards, Keycaps und Switches und noch viel viel mehr....
 
-* Number of published episodes: 67
-* Last episode published: 🟢 Monday, 15 May 2023
+* Number of published episodes: 68
+* Last episode published: 🟢 Monday, 29 May 2023
 * [Click! Clack! Hack! Website](https://www.nerdbude.com/podcast/)
 * [Click! Clack! Hack! @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1551770169)
 * [Click! Clack! Hack! Podcast RSS](https://www.nerdbude.com/podcast/feed/feed.xml)
@@ -411,8 +411,8 @@ Wir reden über Spieleentwicklung und allgemein über die Branche aber gehen auc
 
 Der einzige IT Podcast in dem es nicht um IT geht. Ivan Ushmorov spricht mit Menschen aus der IT Industrie. Freelancer, Tech Leads, Headhunter, Founder, PMs, Agile Coaches und digitale Hustler hier kommen alle zu Wort.
 
-* Number of published episodes: 25
-* Last episode published: 🟢 Wednesday, 24 May 2023
+* Number of published episodes: 26
+* Last episode published: 🟢 Wednesday, 31 May 2023
 * [dev.env Website](https://shows.acast.com/dev-env)
 * [dev.env @ Spotify](https://open.spotify.com/show/6e9gpjtx54G0293RsH6agn)
 * [dev.env @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1667384138)
@@ -539,8 +539,8 @@ Freak Show ist ein Podcast, der sich mit dem Leben mit Technik im 21. Jahrhunder
 
 Wir talken GameDev und haben Unreal News.
 
-* Number of published episodes: 52
-* Last episode published: 🟢 Tuesday, 23 May 2023
+* Number of published episodes: 53
+* Last episode published: 🟢 Tuesday, 30 May 2023
 * [Gamedev für die Platte - Der Unreal Podcast Website](https://gamedevfuerdieplatte.podbean.com/)
 * [Gamedev für die Platte - Der Unreal Podcast @ Spotify](https://open.spotify.com/show/3UtoyAbMfEvkSIx5w3HohY)
 * [Gamedev für die Platte - Der Unreal Podcast Podcast RSS](https://feed.podbean.com/gamedevfuerdieplatte/feed.xml)
@@ -554,8 +554,8 @@ Wir talken GameDev und haben Unreal News.
 
 Ein monatlicher Podcast der GNU/Linux.ch Community mit Themen und Interviews rund um die Themen GNU/Linux, Freie Software und Freie Gesellschaft.
 
-* Number of published episodes: 44
-* Last episode published: 🟢 Tuesday, 23 May 2023
+* Number of published episodes: 45
+* Last episode published: 🟢 Wednesday, 31 May 2023
 * [GNU/Linux.ch Website](https://gnulinux.ch/)
 * [GNU/Linux.ch @ Spotify](https://open.spotify.com/show/0rs1Zm91TsjHhGo2lt0uPi)
 * [GNU/Linux.ch @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1527155920)
@@ -839,8 +839,8 @@ Scrum kann doch inzwischen eh jeder? Von wegen! Denn - ganz unter uns: genug fal
 
 Mind the Tech ist ein Podcast, der die dunklen Seiten der IT- und Tech-Welt beleuchtet. Dazu zählen legendäre Hackerangriffe, Datendiebstähle und Cyberattacken. Ebenso kommen die unzähligen Geschichten von Menschen auf den Tisch, die es mit Recht und Gesetz im Web nicht so ernst nehmen – und irgendwann die Konsequenzen ihres Handelns zu spüren bekommen. Wir widmen uns Antitrends und Mythen, stellen Entwicklungen im und rund ums Internet in Frage, wägen ab. Denn wir sind fest davon überzeugt: Nur wenn wir uns ihren Schattenseiten widmen, können wir die (digitale) Welt zu einem besseren Ort machen.
 
-* Number of published episodes: 66
-* Last episode published: 🟢 Wednesday, 17 May 2023
+* Number of published episodes: 67
+* Last episode published: 🟢 Wednesday, 31 May 2023
 * [Mind the Tech Website](https://www.mindthetech.de/)
 * [Mind the Tech @ Spotify](https://open.spotify.com/show/6FydYmBjELizU8k8DOIcaA)
 * [Mind the Tech @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1515173582)
@@ -935,8 +935,8 @@ Oli und Michael sprechen über alles Wichtige aus der Welt der Open Source, Tech
 
 Wir berichten alle zwei Wochen über Open Source Anwendungen, Ideen und Konzepte aus der Industrie.
 
-* Number of published episodes: 33
-* Last episode published: 🟢 Tuesday, 16 May 2023
+* Number of published episodes: 34
+* Last episode published: 🟢 Tuesday, 30 May 2023
 * [Open Source in der Industrie Website](https://opensourcepodcast.podigee.io/)
 * [Open Source in der Industrie @ Spotify](https://open.spotify.com/show/7e0khh6f5m1NArO3ggwCSH)
 * [Open Source in der Industrie Podcast RSS](https://opensourcepodcast.podigee.io/feed/mp3)
@@ -1178,8 +1178,8 @@ Ich bin Cedric und in diesem Podcast rede ich immer wieder mal über Informatik,
 
 Jede Woche setzen wir uns mit Expert:innen aus der Webentwicklung zusammen. Immer eine Stunde und immer ein neues Thema. Wir glauben, dass zu guten und erfolgreichen Web-Projekte immer mehr gehört, als nur Programmierung. All diese Bestandteile werden in unserem Podcast besprochen.
 
-* Number of published episodes: 31
-* Last episode published: 🟢 Tuesday, 23 May 2023
+* Number of published episodes: 32
+* Last episode published: 🟢 Tuesday, 30 May 2023
 * [Super Duper Developers Club Website](https://superdev.club/podcasts/)
 * [Super Duper Developers Club @ Spotify](https://open.spotify.com/show/5Ax1DMiSeTUTHMZwxtX1yR)
 * [Super Duper Developers Club @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1649104892)
@@ -1194,8 +1194,8 @@ Jede Woche setzen wir uns mit Expert:innen aus der Webentwicklung zusammen. Imme
 
 Digitalisierung ist komplex. Heute entsteht dies, morgen das. Und was übermorgen noch wichtig ist, wissen die wenigsten. Wir schon! Im Podcast besprechen wir mit den Expert:innen unserer Redaktion die wichtigsten Entwicklungen der Woche und der Zukunft. Wir geben Wissensvorsprung und Impulse.
 
-* Number of published episodes: 48
-* Last episode published: 🟢 Wednesday, 24 May 2023
+* Number of published episodes: 49
+* Last episode published: 🟢 Wednesday, 31 May 2023
 * [t3n Catch up Website](https://t3n.de/podcast#catchup)
 * [t3n Catch up @ Spotify](https://open.spotify.com/show/0Bjrzu6l2RtRRyvTf0QEKQ)
 * [t3n Catch up @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1627024991)
@@ -1209,8 +1209,8 @@ Digitalisierung ist komplex. Heute entsteht dies, morgen das. Und was übermorge
 
 Dein täglicher Podcast mit dem, was wichtig war und was wichtig wird im digitalen Kosmos und dem Arbeitsleben der Zukunft. Die perfekte Begleitung zum Abschluss des Arbeitstages und auf dem Weg in den Abend.
 
-* Number of published episodes: 180
-* Last episode published: 🟢 Friday, 26 May 2023
+* Number of published episodes: 181
+* Last episode published: 🟢 Tuesday, 30 May 2023
 * [t3n Daily Website](https://t3n.de/podcast#daily)
 * [t3n Daily @ Spotify](https://open.spotify.com/show/1Fc1zS8yvRS7Zf0leKn54o)
 * [t3n Daily @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1643152920)
