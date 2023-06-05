@@ -2,7 +2,7 @@
  <opml version="2.0">
    <head>
      <title>Deutschsprachige Tech Podcasts</title>
-     <dateCreated>Fri, 02 Jun 2023 11:17:54 UTC</dateCreated>
+     <dateCreated>Mon, 05 Jun 2023 06:10:08 UTC</dateCreated>
      <ownerName>Engineering Kiosk</ownerName>
      <ownerEmail>stehtisch@engineeringkiosk.dev</ownerEmail>
    </head>
@@ -25,7 +25,7 @@
      <outline title="Codestammtisch" text="Codestammtisch" type="rss" xmlUrl="https://codestammtis.ch/feed/mp3/" htmlUrl="https://codestammtis.ch/"></outline>
      <outline title="Computer und Kommunikation (Deutschlandfunk)" text="Computer und Kommunikation (Deutschlandfunk)" type="rss" xmlUrl="https://www.deutschlandfunk.de/computer-und-kommunikation-102.xml" htmlUrl="https://www.deutschlandfunk.de/computer-und-kommunikation-102.html"></outline>
      <outline title="Das Duumvirat" text="Das Duumvirat" type="rss" xmlUrl="https://www.trommelspeicher.de/resource/podcast/feed.xml" htmlUrl="https://www.trommelspeicher.de/podcast/"></outline>
-     <outline title="DAS WAR SCHON KAPUTT" text="DAS WAR SCHON KAPUTT" type="rss" xmlUrl="https://daswarschonkaputt.tech/feed/dwsk.xml" htmlUrl="http://www.daswarschonkaputt.tech/"></outline>
+     <outline title="DAS WAR SCHON KAPUTT" text="DAS WAR SCHON KAPUTT" type="rss" xmlUrl="https://daswarschonkaputt.tech/feed/dwsk.xml" htmlUrl="http://daswarschonkaputt.tech/"></outline>
      <outline title="Der GameDev Podcast" text="Der GameDev Podcast" type="rss" xmlUrl="http://feed.gamedevpodcast.de/" htmlUrl="https://gamedevpodcast.de/"></outline>
      <outline title="dev.env" text="dev.env" type="rss" xmlUrl="https://python-podcast.de/show/feed/podcast/m4a/rss.xml" htmlUrl="https://shows.acast.com/dev-env"></outline>
      <outline title="DevCouch" text="DevCouch" type="rss" xmlUrl="https://devcouch.de/feed/mp4/" htmlUrl="https://devcouch.de/"></outline>

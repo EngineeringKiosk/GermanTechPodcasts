@@ -1,7 +1,7 @@
 {
  "name": "DAS WAR SCHON KAPUTT",
  "slug": "das-war-schon-kaputt",
- "website": "http://www.daswarschonkaputt.tech/",
+ "website": "http://daswarschonkaputt.tech/",
  "podcastIndexID": 3757620,
  "rssFeed": "https://daswarschonkaputt.tech/feed/dwsk.xml",
  "spotify": "https://open.spotify.com/show/5F92Db3OFLQXxdh2OIXEzI",
@@ -16,8 +16,8 @@
   "value": 0,
   "updated": ""
  },
- "episodeCount": 44,
- "latestEpisodePublished": 1683403200,
+ "episodeCount": 45,
+ "latestEpisodePublished": 1685822400,
  "archive": false,
  "itunesID": 0,
  "image": "images/das-war-schon-kaputt.jpg"
