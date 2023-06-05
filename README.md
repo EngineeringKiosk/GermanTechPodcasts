@@ -1001,7 +1001,7 @@ Ein deutschsprachiger Podcast rund um die Programmiersprache Python
 
 Rund um Open Source, Freie Software, Linux und gesellschaftspolitische Themen.
 
-* Number of published episodes: 120
+* Number of published episodes: 1
 * Last episode published: 🟢 Tuesday, 02 May 2023
 * [RadioTux Website](https://www.radiotux.de/)
 * [RadioTux @ Spotify](https://open.spotify.com/show/3ycOmt9723grwgr0wCbTye)
