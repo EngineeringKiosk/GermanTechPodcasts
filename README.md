@@ -129,8 +129,8 @@ Deutschsprachiger Podcast zu den Themen IT-Sicherheit und Privatsphäre. Stefan 
 
 Apfelfunk ist ein wöchentlicher Podcast über Apple-Themen. Jean-Claude Frick und Malte Kirchner berichten und bewerten darin die Neuigkeiten über den wichtigsten Computerkonzern der Welt.
 
-* Number of published episodes: 383
-* Last episode published: 🟢 Wednesday, 31 May 2023
+* Number of published episodes: 384
+* Last episode published: 🟢 Friday, 09 June 2023
 * [Apfelfunk Website](http://www.apfelfunk.com/)
 * [Apfelfunk @ Spotify](https://open.spotify.com/show/7FQLyWiNhMR0KS93ReaI4h)
 * [Apfelfunk @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1081146940)
@@ -243,7 +243,7 @@ Komm mit in die dunklen Ecken des Internets. Wir blicken in der ersten Staffel a
 Die wöchentliche Talkrunde rund um Apple, Mac, iPod &#43; iPhone, Gadgets und so. Fast live aus München.
 
 * Number of published episodes: 10
-* Last episode published: 🟢 Wednesday, 07 June 2023
+* Last episode published: 🟢 Sunday, 11 June 2023
 * [Bits und so Website](http://www.bitsundso.de/)
 * [Bits und so @ Apple Podcasts](https://podcasts.apple.com/de/podcast/202753375)
 * [Bits und so Podcast RSS](http://www.bitsundso.de/feed/)
@@ -273,8 +273,8 @@ Ransomware Attacken, Phishing oder DDoS - jeden Tag aufs Neue werden Unternehmen
 
 Mitglieder der c&#39;t-Redaktion diskutieren über die aktuellen Themen aus dem c’t Magazin und was sonst noch so in der IT-Welt passiert.
 
-* Number of published episodes: 489
-* Last episode published: 🟢 Saturday, 03 June 2023
+* Number of published episodes: 490
+* Last episode published: 🟢 Saturday, 10 June 2023
 * [c&#39;t uplink Website](https://www.heise.de/ct/entdecken/?hauptrubrik=%40ctmagazin&amp;unterrubrik=c%27t&#43;uplink)
 * [c&#39;t uplink @ Spotify](https://open.spotify.com/show/4LdN7lGr9winLtQSqoIjVD)
 * [c&#39;t uplink @ Apple Podcasts](https://podcasts.apple.com/de/podcast/835717958)
@@ -318,8 +318,8 @@ Ein Podcast über den nahezu unendlich tiefen Kaninchenbau der mechanische Tasta
 
 Jonathan und Ingmar sprechen übers Programmieren und Ausliefern von Software Projekten. Außerdem tauschen die beiden Bremer sich über Tools, Frameworks und das Leben als Softwareentwickler aus.
 
-* Number of published episodes: 49
-* Last episode published: 🟢 Tuesday, 25 April 2023
+* Number of published episodes: 50
+* Last episode published: 🟢 Monday, 05 June 2023
 * [Code and Ship Website](https://codeandship.rocks/)
 * [Code and Ship @ Spotify](https://open.spotify.com/show/68VGe4DFCUxvcJp44VDVL3)
 * [Code and Ship @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1458278980)
@@ -349,7 +349,7 @@ Lucas Rott und Markus Herhoffer erzählen alle 14 Tage von Code und Nerd-Kultur.
 Jeden Samstag das Neueste aus Computertechnik und Informationstechnologie. Beiträge, Reportagen und Interviews zu IT-Sicherheit, Informatik, Datenschutz, Smartphones, Cloud-Computing und IT-Politik. Die Trends der IT werden kompakt und informativ zusammengefasst.
 
 * Number of published episodes: 20
-* Last episode published: 🟢 Saturday, 03 June 2023
+* Last episode published: 🟢 Saturday, 10 June 2023
 * [Computer und Kommunikation (Deutschlandfunk) Website](https://www.deutschlandfunk.de/computer-und-kommunikation-102.html)
 * [Computer und Kommunikation (Deutschlandfunk) @ Spotify](https://open.spotify.com/show/4uy56W83RGe8SKmzNpyfAc)
 * [Computer und Kommunikation (Deutschlandfunk) @ Apple Podcasts](https://podcasts.apple.com/de/podcast/173754605)
@@ -459,8 +459,8 @@ Digitalisierungsfieber, dem Podcast für IT Security, Datenschutz, und IT Servic
 
 Der Engineering Kiosk ist der deutschsprachige Software-Engineering-Podcast mit Wolfgang Gassler und Andy Grunwald rund um die Themen Engineering-Kultur, Open Source, Menschen, Technologie und allen anderen Bereichen, die damit in Verbindung stehen.
 
-* Number of published episodes: 75
-* Last episode published: 🟢 Tuesday, 30 May 2023
+* Number of published episodes: 76
+* Last episode published: 🟢 Tuesday, 06 June 2023
 * Weekly downloads (avg): 1099 (updated: 2023-01-31)
 * [Engineering Kiosk Website](https://engineeringkiosk.dev/)
 * [Engineering Kiosk @ Spotify](https://open.spotify.com/show/0tJRC0UsObPCWLmmzmOkIs)
@@ -650,7 +650,7 @@ In dieser Serie diskutieren wir interessante Themen aus Software-Entwicklung und
 In diesem Podcast sprechen wir über die Grundlagen von IT-Security. Ein praktischer Einstieg für alle, die an Software arbeiten.
 
 * Number of published episodes: 73
-* Last episode published: 🟢 Tuesday, 11 April 2023
+* Last episode published: 🟡 Tuesday, 11 April 2023
 * [INNOQ Security Podcast Website](https://www.innoq.com/de/podcast/?channel=security)
 * [INNOQ Security Podcast @ Spotify](https://open.spotify.com/show/44tnFXbuDShbJ7vNecXCaF)
 * [INNOQ Security Podcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1518284030)
@@ -745,7 +745,7 @@ Ja sia! Der Technikpodcast von und mit Chris und Pati. Wir bringen euch regelmä
 Die IT-News des Tages von heise online
 
 * Number of published episodes: 291
-* Last episode published: 🟢 Friday, 02 June 2023
+* Last episode published: 🟢 Friday, 09 June 2023
 * [Kurz informiert by heise online Website](http://www.heise.de/)
 * [Kurz informiert by heise online @ Spotify](https://open.spotify.com/show/2etf1jog8leNHbnhIArM9Z)
 * [Kurz informiert by heise online @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1485884061)
@@ -776,8 +776,8 @@ Der Podcast über unsere digitale Lebens- und Arbeitswelt mit Markus Hörster un
 
 Logbuch:Netzpolitik ist ein in der Regel wöchentlich erscheinender Podcast, der im Dialog zwischen Linus Neumann und Tim Pritlove die wichtigsten Themen und Ereignisse mit netzpolitischem Bezug aufgreift und diskutiert.
 
-* Number of published episodes: 464
-* Last episode published: 🟢 Thursday, 25 May 2023
+* Number of published episodes: 465
+* Last episode published: 🟢 Friday, 09 June 2023
 * [Logbuch: Netzpolitik Website](https://logbuch-netzpolitik.de/)
 * [Logbuch: Netzpolitik @ Apple Podcasts](https://podcasts.apple.com/de/podcast/476856034)
 * [Logbuch: Netzpolitik Podcast RSS](https://feeds.metaebene.me/lnp/m4a)
@@ -903,8 +903,8 @@ Wir thematisieren die wichtigen Fragestellungen rund um Internet, Gesellschaft u
 
 Mehr Wissen über die digitale Welt. Experten des Hasso-Plattner-Instituts sprechen verständlich über digitale Entwicklungen und Trends, über Chancen und Risiken der Digitalisierung. Jede Sendung widmet sich einem gesellschaftlich relevanten Thema: Von der Macht der Künstlichen Intelligenz über die Blockchain bis zu Hetze in den sozialen Medien.
 
-* Number of published episodes: 69
-* Last episode published: 🟢 Wednesday, 17 May 2023
+* Number of published episodes: 70
+* Last episode published: 🟢 Monday, 12 June 2023
 * [Neuland Website](https://podcast.hpi.de/)
 * [Neuland @ Spotify](https://open.spotify.com/show/0kd8vXJDv3sN7VMtcLRsH9)
 * [Neuland @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1448992875)
@@ -919,8 +919,8 @@ Mehr Wissen über die digitale Welt. Experten des Hasso-Plattner-Instituts sprec
 
 Oli und Michael sprechen über alles Wichtige aus der Welt der Open Source, Technologie und dem Geek-tum.
 
-* Number of published episodes: 36
-* Last episode published: 🟡 Friday, 07 April 2023
+* Number of published episodes: 37
+* Last episode published: 🟢 Saturday, 10 June 2023
 * [Open Source Couch Website](https://www.opensourcecouch.de/)
 * [Open Source Couch @ Spotify](https://open.spotify.com/show/3fNThjRvMKJhhyg7eCTY8v)
 * [Open Source Couch @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1529154227)
@@ -967,8 +967,8 @@ Ein Podcast über die dunkle Seite der Digitalisierung: Spionage, Hacker, Sabota
 
 Mit geballter Dev-Power nehmen Dennis, Fabi, Sebi und Jojo neue Podcastfolgen auf und werden dabei regelmäßig von Gäst:innen aus der Branche unterstützt. Taucht in unseren Deep Dives mit uns in Frameworks und Datenbanken ein, hört euch in den CTO-Specials die Erfahrungen führender Persönlichkeiten großer Unternehmen an und bleibt mit unseren News-Folgen stets am Ball in der Welt der App- und Webentwicklung.
 
-* Number of published episodes: 252
-* Last episode published: 🟢 Wednesday, 07 June 2023
+* Number of published episodes: 253
+* Last episode published: 🟢 Friday, 09 June 2023
 * Weekly downloads (avg): 8744 (updated: 2023-04-12)
 * [programmier.bar Website](https://www.programmier.bar/podcast)
 * [programmier.bar @ Spotify](https://open.spotify.com/show/0ik0sXv9paTQCeThcOLCCJ)
@@ -1002,7 +1002,7 @@ Ein deutschsprachiger Podcast rund um die Programmiersprache Python
 Rund um Open Source, Freie Software, Linux und gesellschaftspolitische Themen.
 
 * Number of published episodes: 1
-* Last episode published: 🟢 Tuesday, 02 May 2023
+* Last episode published: 🟢 Sunday, 11 June 2023
 * [RadioTux Website](https://www.radiotux.de/)
 * [RadioTux @ Spotify](https://open.spotify.com/show/3ycOmt9723grwgr0wCbTye)
 * [RadioTux @ Apple Podcasts](https://podcasts.apple.com/de/podcast/122070498)
@@ -1225,8 +1225,8 @@ Dein täglicher Podcast mit dem, was wichtig war und was wichtig wird im digital
 
 In diesem Podcast diskutiert die t3n-Redaktion mit Gästen über die spannendsten digitalen Themen unserer Zeit. Ob innovative Führungskonzepte, die Digitalisierung der Gesellschaft, smarte Gadgets, neue Mobilität oder Zukunftstechnologien. Jeden Freitag um 10 Uhr!
 
-* Number of published episodes: 504
-* Last episode published: 🟢 Friday, 09 June 2023
+* Number of published episodes: 505
+* Last episode published: 🟢 Monday, 12 June 2023
 * [t3n Interview Website](https://t3n.de/podcast#interview)
 * [t3n Interview @ Spotify](https://open.spotify.com/show/7obTbZaywhQEiUUOMswQBQ)
 * [t3n Interview @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1115601393)
@@ -1354,8 +1354,8 @@ Alle 14 Tage laden wir zu einer kleinen Kaminzimmerrunde rund um den Themenkompl
 
 In diesem Podcast geht es um Web und User Interface Design, Freelancing, Arbeitsprozesse, Kunden und alles, wo sich diese Bereiche überschneiden.
 
-* Number of published episodes: 186
-* Last episode published: 🟢 Monday, 05 June 2023
+* Number of published episodes: 187
+* Last episode published: 🟢 Monday, 12 June 2023
 * [Web &amp; Design Podcast Website](https://www.jonasarleth.com/podcast)
 * [Web &amp; Design Podcast @ Spotify](https://open.spotify.com/show/6P3ovTvnUXUQZdjEMLEBer)
 * [Web &amp; Design Podcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1197452865)
