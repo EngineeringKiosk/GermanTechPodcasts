@@ -2,7 +2,7 @@
  <opml version="2.0">
    <head>
      <title>Deutschsprachige Tech Podcasts</title>
-     <dateCreated>Wed, 28 Jun 2023 11:20:22 UTC</dateCreated>
+     <dateCreated>Fri, 30 Jun 2023 06:32:39 UTC</dateCreated>
      <ownerName>Engineering Kiosk</ownerName>
      <ownerEmail>stehtisch@engineeringkiosk.dev</ownerEmail>
    </head>
@@ -84,6 +84,7 @@
      <outline title="t3n Catch up" text="t3n Catch up" type="rss" xmlUrl="https://t3n-catch-up.podigee.io/feed/mp3" htmlUrl="https://t3n.de/podcast#catchup"></outline>
      <outline title="t3n Daily" text="t3n Daily" type="rss" xmlUrl="https://t3n-daily.podigee.io/feed/mp3" htmlUrl="https://t3n.de/podcast#daily"></outline>
      <outline title="t3n Interview" text="t3n Interview" type="rss" xmlUrl="https://t3n-podcast.podigee.io/feed/mp3" htmlUrl="https://t3n.de/podcast#interview"></outline>
+     <outline title="Tech me if you can" text="Tech me if you can" type="rss" xmlUrl="https://letscast.fm/podcasts/tech-me-if-you-can-24f146bd/feed" htmlUrl="https://techmeifyoucan.letscast.fm/"></outline>
      <outline title="Techtiefen" text="Techtiefen" type="rss" xmlUrl="https://techtiefen.de//index.php/feed/mp3/" htmlUrl="https://techtiefen.de/"></outline>
      <outline title="The World of IT-Security" text="The World of IT-Security" type="rss" xmlUrl="https://feeds.buzzsprout.com/1779426.rss" htmlUrl="https://www.suresecure.de/aktuelles/podcast"></outline>
      <outline title="TILpod" text="TILpod" type="rss" xmlUrl="https://tilpod.net/feed/mp3" htmlUrl="https://tilpod.net/"></outline>
