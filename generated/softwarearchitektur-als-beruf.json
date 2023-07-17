@@ -16,7 +16,7 @@
  },
  "episodeCount": 17,
  "latestEpisodePublished": 1673949600,
- "archive": false,
+ "archive": true,
  "itunesID": 1609845784,
  "image": "images/softwarearchitektur-als-beruf.png"
 }

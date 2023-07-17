@@ -6,7 +6,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (81 podcasts)
+* [Podcasts](#podcasts) (80 podcasts)
   * [0d - Zeroday](#0d-zeroday)
   * [Apfelfunk](#apfelfunk)
   * [Armchair Investigators](#armchair-investigators)
@@ -68,7 +68,6 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [Schwarz, Code, Gold – Deutschland, Entwicklungsland?](#schwarz-code-gold-deutschland-entwicklungsland)
   * [Security-Insider](#security-insider)
   * [She for what? She for IT!](#she-for-what-she-for-it)
-  * [Software-Architektur als Beruf](#software-architektur-als-beruf)
   * [SoftwareArchitektur im Stream](#softwarearchitektur-im-stream)
   * [SoftwerkerCast](#softwerkercast)
   * [Speak 1337](#speak-1337)
@@ -88,7 +87,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [Wo wir sind ist vorne](#wo-wir-sind-ist-vorne)
   * [Working Draft](#working-draft)
   * [WP Sofa](#wp-sofa)
-* [Archived podcasts](#archived-podcasts) (8 podcasts)
+* [Archived podcasts](#archived-podcasts) (9 podcasts)
   * [Bits &amp; Böses - Der Tech Crime Podcast](#bits-and-boses-der-tech-crime-podcast)
   * [Codestammtisch](#codestammtisch)
   * [GeekWeek](#geekweek)
@@ -97,6 +96,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [Rheingehäckt](#rheingehackt)
   * [SELECTrageFROMit;](#selectragefromit)
   * [She Likes Tech](#she-likes-tech)
+  * [Software-Architektur als Beruf](#software-architektur-als-beruf)
 * [Legend](#legend)
 * [How to contribute](#how-to-contribute)
 * [In the press](#in-the-press)
@@ -258,8 +258,8 @@ Ransomware Attacken, Phishing oder DDoS - jeden Tag aufs Neue werden Unternehmen
 
 Mitglieder der c&#39;t-Redaktion diskutieren über die aktuellen Themen aus dem c’t Magazin und was sonst noch so in der IT-Welt passiert.
 
-* Number of published episodes: 496
-* Last episode published: 🟢 Tuesday, 11 July 2023
+* Number of published episodes: 497
+* Last episode published: 🟢 Saturday, 15 July 2023
 * [c&#39;t uplink Website](https://www.heise.de/ct/entdecken/?hauptrubrik=%40ctmagazin&amp;unterrubrik=c%27t&#43;uplink)
 * [c&#39;t uplink @ Spotify](https://open.spotify.com/show/4LdN7lGr9winLtQSqoIjVD)
 * [c&#39;t uplink @ Apple Podcasts](https://podcasts.apple.com/de/podcast/835717958)
@@ -334,7 +334,7 @@ Lucas Rott und Markus Herhoffer erzählen alle 14 Tage von Code und Nerd-Kultur.
 Jeden Samstag das Neueste aus Computertechnik und Informationstechnologie. Beiträge, Reportagen und Interviews zu IT-Sicherheit, Informatik, Datenschutz, Smartphones, Cloud-Computing und IT-Politik. Die Trends der IT werden kompakt und informativ zusammengefasst.
 
 * Number of published episodes: 20
-* Last episode published: 🟢 Saturday, 08 July 2023
+* Last episode published: 🟢 Saturday, 15 July 2023
 * [Computer und Kommunikation (Deutschlandfunk) Website](https://www.deutschlandfunk.de/computer-und-kommunikation-102.html)
 * [Computer und Kommunikation (Deutschlandfunk) @ Spotify](https://open.spotify.com/show/4uy56W83RGe8SKmzNpyfAc)
 * [Computer und Kommunikation (Deutschlandfunk) @ Apple Podcasts](https://podcasts.apple.com/de/podcast/173754605)
@@ -375,7 +375,7 @@ Wir sind ein Laber-Technik-Lebensweisheiten-Podcast, mit News, Retrogeschichten 
 
 <h3 id="der-gamedev-podcast">Der GameDev Podcast</h3>
 
-<img align="right" width="215" height="215" src="./generated/images/game-dev-podcast.png" />
+<img align="right" width="215" height="215" src="./generated/generated/images/game-dev-podcast.png" />
 
 Wir reden über Spieleentwicklung und allgemein über die Branche aber gehen auch ins Detail wenn es um Software, Tipps und Fragen geht.
 
@@ -582,7 +582,7 @@ Dieser Podcast ist ein Hörsaal für die Ohren meiner Studierenden an der THM un
 
 <h3 id="hobby-spieleentwickler-podcast">Hobby Spieleentwickler Podcast</h3>
 
-<img align="right" width="215" height="215" src="./generated/images/hobby-spieleentwickler-podcast.jpg" />
+<img align="right" width="215" height="215" src="./generated/generated/images/hobby-spieleentwickler-podcast.jpg" />
 
 Zwei Softwareentwickler und Spiele-Enthusiasten entwickeln in ihrer Freizeit Videospiele und sprechen in einem Podcast über das, was sie tun, geben Tipps und diskutieren Technik sowie Methoden zur Spieleentwicklung.
 
@@ -776,8 +776,8 @@ Logbuch:Netzpolitik ist ein in der Regel wöchentlich erscheinender Podcast, der
 
 Redakteure von heise Mac &amp; i beschäftigen sich jeden Monat mit Apple-Produkten, -Betriebssystemen und dem Drumherum, stellen Testergebnisse vor und geben Tipps.
 
-* Number of published episodes: 48
-* Last episode published: 🟢 Friday, 30 June 2023
+* Number of published episodes: 49
+* Last episode published: 🟢 Friday, 14 July 2023
 * [Mac &amp; I Website](https://www.heise.de/mac-and-i/meldung/Mac-i-Der-Apple-Podcast-4681220.html)
 * [Mac &amp; I @ Spotify](https://open.spotify.com/show/5Tcgc97HvYREYM7kIRsxii)
 * [Mac &amp; I @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1499510618)
@@ -793,7 +793,7 @@ Redakteure von heise Mac &amp; i beschäftigen sich jeden Monat mit Apple-Produk
 Von Menschen für Menschen, die Software entwickeln, ist dieser Podcast gedacht. Damit Du in diesem Leben durch stetiges Lernen, den bestmöglichen Code kreieren kannst. Wir erzählen dir von agiler Softwareentwicklung, Software Craft, Methoden, Techniken und allem, was dazu gehört, um deine Fähigkeiten zu verbessern. Das Bestmögliche zu erschaffen, bedeutet mit dem Puls der Zeit zu gehen und ständig zu lernen.
 
 * Number of published episodes: 10
-* Last episode published: 🟢 Thursday, 25 May 2023
+* Last episode published: 🟢 Saturday, 15 July 2023
 * [Macht der Craft Website](https://macht-der-craft.soler-sanandres.net/)
 * [Macht der Craft @ Spotify](https://open.spotify.com/show/5232Av5Ibaf4shvJzpSKEa)
 * [Macht der Craft Podcast RSS](https://macht-der-craft.soler-sanandres.net/feed/podcast)
@@ -857,7 +857,7 @@ Der MIXEDCAST ist Deutschlands Podcast über Virtual Reality, Augmented Reality,
 Die Welt wird immer digitaler und IT-Sicherheit auch im Alltag immer wichtiger. Im Podcast „Nachgehackt“ spricht Moderator  Henrik Hanses mit Expertinnen, Experten und anderen spannenden Gästen über unterschiedliche Aspekte der IT Security – und zwar so, dass es auch für Laien verständlich ist.
 
 * Number of published episodes: 10
-* Last episode published: 🟢 Tuesday, 16 May 2023
+* Last episode published: 🟡 Tuesday, 16 May 2023
 * [Nachgehackt Website](https://nachgehacktpodcast.podigee.io/)
 * [Nachgehackt @ Spotify](https://open.spotify.com/show/0fn3tYRiZAR3wlkSw5vJdQ)
 * [Nachgehackt @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1641242207)
@@ -952,8 +952,8 @@ Ein Podcast über die dunkle Seite der Digitalisierung: Spionage, Hacker, Sabota
 
 Mit geballter Dev-Power nehmen Dennis, Fabi, Sebi und Jojo neue Podcastfolgen auf und werden dabei regelmäßig von Gäst:innen aus der Branche unterstützt. Taucht in unseren Deep Dives mit uns in Frameworks und Datenbanken ein, hört euch in den CTO-Specials die Erfahrungen führender Persönlichkeiten großer Unternehmen an und bleibt mit unseren News-Folgen stets am Ball in der Welt der App- und Webentwicklung.
 
-* Number of published episodes: 260
-* Last episode published: 🟢 Wednesday, 12 July 2023
+* Number of published episodes: 261
+* Last episode published: 🟢 Friday, 14 July 2023
 * Weekly downloads (avg): 8744 (updated: 2023-04-12)
 * [programmier.bar Website](https://www.programmier.bar/podcast)
 * [programmier.bar @ Spotify](https://open.spotify.com/show/0ik0sXv9paTQCeThcOLCCJ)
@@ -1076,30 +1076,14 @@ Fünf schnelle Fragen an…. In unserem She for IT Podcast geht es um Themen run
 
 ----
 
-<h3 id="software-architektur-als-beruf">Software-Architektur als Beruf</h3>
-
-<img align="right" width="215" height="215" src="./generated/images/softwarearchitektur-als-beruf.png" />
-
-Bei &#34;Software-Architektur als Beruf&#34; erzählen Menschen, wie ihr beruflicher Werdegang aussieht und welche Rolle Software-Architektur dabei spielt.
-
-* Number of published episodes: 17
-* Last episode published: 🟡 Tuesday, 17 January 2023
-* [Software-Architektur als Beruf Website](https://software-architektur.tv/beruf.html)
-* [Software-Architektur als Beruf @ Spotify](https://open.spotify.com/show/2DpgXYFgzqOvNy30pLRj0S)
-* [Software-Architektur als Beruf @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1609845784)
-* [Software-Architektur als Beruf Podcast RSS](https://1evriw.podcaster.de/software-architektur-als-beruf.rss)
-* Tags: Karriere, Technologie
-
-----
-
 <h3 id="softwarearchitektur-im-stream">SoftwareArchitektur im Stream</h3>
 
 <img align="right" width="215" height="215" src="./generated/images/softwarearchitektur-im-stream.jpg" />
 
 Live-Diskussion zu Software-Architektur im Stream. Einmal in der Woche diskutiert Eberhard Wolff Software-Architektur im Live-Stream auf YouTube und Twitch - oft zusammen mit einem Gast. Zuschauer können über den Chat mitdiskutieren oder Fragen stellen. Der Podcast enthält die Audio-Spur des Streams.
 
-* Number of published episodes: 171
-* Last episode published: 🟢 Friday, 07 July 2023
+* Number of published episodes: 172
+* Last episode published: 🟢 Sunday, 16 July 2023
 * [SoftwareArchitektur im Stream Website](https://software-architektur.tv/)
 * [SoftwareArchitektur im Stream @ Spotify](https://open.spotify.com/show/7ySg1eZoWYBshd6QpGaW8B)
 * [SoftwareArchitektur im Stream @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1538545458)
@@ -1110,7 +1094,7 @@ Live-Diskussion zu Software-Architektur im Stream. Einmal in der Woche diskutier
 
 <h3 id="softwerkercast">SoftwerkerCast</h3>
 
-<img align="right" width="215" height="215" src="./generated/images/softwerkercast.png" />
+<img align="right" width="215" height="215" src="./generated/images/softwerkercast.jpg" />
 
 Der SoftwerkerCast präsentiert euch Softwerker-Wissen zum Reinhören und Nachhören. Wie auch bei den anderen Softwerker-Formaten erwartet euch im SoftwerkerCast das volle Themenspektrum aus der bunten Welt der Softwareentwicklung: von A wie APM bis Z wie Zero Downtime. Paradigmen und neue Trends, Evergreens und Eintagsfliegen.
 
@@ -1194,8 +1178,8 @@ Dein täglicher Podcast mit dem, was wichtig war und was wichtig wird im digital
 
 In diesem Podcast diskutiert die t3n-Redaktion mit Gästen über die spannendsten digitalen Themen unserer Zeit. Ob innovative Führungskonzepte, die Digitalisierung der Gesellschaft, smarte Gadgets, neue Mobilität oder Zukunftstechnologien. Jeden Freitag um 10 Uhr!
 
-* Number of published episodes: 514
-* Last episode published: 🟢 Friday, 14 July 2023
+* Number of published episodes: 515
+* Last episode published: 🟢 Monday, 17 July 2023
 * [t3n Interview Website](https://t3n.de/podcast#interview)
 * [t3n Interview @ Spotify](https://open.spotify.com/show/7obTbZaywhQEiUUOMswQBQ)
 * [t3n Interview @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1115601393)
@@ -1274,8 +1258,8 @@ Sujeevan und Dirk reden über Themen, die Ihnen in der letzten Zeit untergekomme
 
 todo:cast ist ein deutschsprachiger Podcast für die großen und kleinen Fragen des Entwickler*innenalltags. Schon seit Langem tauschen sich Malte und Robin-Manuel in regelmäßigen Abständen über diverse Themen aus ihrem Alltag in der Softwareentwicklung aus. Dabei lernen sie jedes Mal etwas Neues! Warum also das Ganze nicht aufzeichnen und als Podcast zur Verfügung stellen?
 
-* Number of published episodes: 67
-* Last episode published: 🟢 Monday, 03 July 2023
+* Number of published episodes: 68
+* Last episode published: 🟢 Monday, 17 July 2023
 * [todo:cast Website](https://todocast.io/)
 * [todo:cast @ Spotify](https://open.spotify.com/show/2tIlVD6vBAtEhOZM4jS1mw)
 * [todo:cast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1467179396)
@@ -1339,8 +1323,8 @@ Alle 14 Tage laden wir zu einer kleinen Kaminzimmerrunde rund um den Themenkompl
 
 In diesem Podcast geht es um Web und User Interface Design, Freelancing, Arbeitsprozesse, Kunden und alles, wo sich diese Bereiche überschneiden.
 
-* Number of published episodes: 188
-* Last episode published: 🟢 Monday, 26 June 2023
+* Number of published episodes: 189
+* Last episode published: 🟢 Monday, 17 July 2023
 * [Web &amp; Design Podcast Website](https://www.jonasarleth.com/podcast)
 * [Web &amp; Design Podcast @ Spotify](https://open.spotify.com/show/6P3ovTvnUXUQZdjEMLEBer)
 * [Web &amp; Design Podcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1197452865)
@@ -1520,6 +1504,22 @@ Jung, weiblich, genial: Im Tech-Podcast von NDR Info sucht die Tech-Journalistin
 * [She Likes Tech @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1530596058)
 * [She Likes Tech Podcast RSS](https://www.ndr.de/nachrichten/info/podcast4808.xml)
 * Tags: Female host
+
+----
+
+<h3 id="software-architektur-als-beruf">Software-Architektur als Beruf</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/softwarearchitektur-als-beruf.png" />
+
+Bei &#34;Software-Architektur als Beruf&#34; erzählen Menschen, wie ihr beruflicher Werdegang aussieht und welche Rolle Software-Architektur dabei spielt.
+
+* Number of published episodes: 17
+* Last episode published: 🔴 Tuesday, 17 January 2023
+* [Software-Architektur als Beruf Website](https://software-architektur.tv/beruf.html)
+* [Software-Architektur als Beruf @ Spotify](https://open.spotify.com/show/2DpgXYFgzqOvNy30pLRj0S)
+* [Software-Architektur als Beruf @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1609845784)
+* [Software-Architektur als Beruf Podcast RSS](https://1evriw.podcaster.de/software-architektur-als-beruf.rss)
+* Tags: Karriere, Technologie
 
 ----
 
