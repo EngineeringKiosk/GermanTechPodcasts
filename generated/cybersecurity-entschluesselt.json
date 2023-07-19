@@ -1,0 +1,23 @@
+{
+ "name": "Cybersecurity entschluesselt",
+ "slug": "cybersecurity-entschluesselt",
+ "website": "https://www.cybersecurity-entschluesselt.de",
+ "podcastIndexID": 5606687,
+ "rssFeed": "https://cybersecurity-entschluesselt.de/rss.xml",
+ "spotify": "https://open.spotify.com/show/0sAcefh8cixTxjJn9s1dvM",
+ "description": "Cybersecurity entschüsselt ist ein deutschsprachiger Podcast, in dem sich alles um Sicherheit dreht.",
+ "tags": [
+  "Security",
+  "IT Security",
+  "Technology"
+ ],
+ "weekly_downloads_avg": {
+  "value": 0,
+  "updated": ""
+ },
+ "episodeCount": 32,
+ "latestEpisodePublished": 1686681000,
+ "archive": false,
+ "itunesID": 1637327527,
+ "image": "images/cybersecurity-entschluesselt.jpg"
+}

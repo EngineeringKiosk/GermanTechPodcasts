@@ -6,7 +6,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (80 podcasts)
+* [Podcasts](#podcasts) (81 podcasts)
   * [0d - Zeroday](#0d-zeroday)
   * [Apfelfunk](#apfelfunk)
   * [Armchair Investigators](#armchair-investigators)
@@ -22,6 +22,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [Code and Ship](#code-and-ship)
   * [Code Culture](#code-culture)
   * [Computer und Kommunikation (Deutschlandfunk)](#computer-und-kommunikation-deutschlandfunk)
+  * [Cybersecurity entschluesselt](#cybersecurity-entschluesselt)
   * [Das Duumvirat](#das-duumvirat)
   * [DAS WAR SCHON KAPUTT](#das-war-schon-kaputt)
   * [Der GameDev Podcast](#der-gamedev-podcast)
@@ -343,6 +344,22 @@ Jeden Samstag das Neueste aus Computertechnik und Informationstechnologie. Beitr
 
 ----
 
+<h3 id="cybersecurity-entschluesselt">Cybersecurity entschluesselt</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/cybersecurity-entschluesselt.jpg" />
+
+Cybersecurity entschüsselt ist ein deutschsprachiger Podcast, in dem sich alles um Sicherheit dreht.
+
+* Number of published episodes: 32
+* Last episode published: 🟢 Tuesday, 13 June 2023
+* [Cybersecurity entschluesselt Website](https://www.cybersecurity-entschluesselt.de)
+* [Cybersecurity entschluesselt @ Spotify](https://open.spotify.com/show/0sAcefh8cixTxjJn9s1dvM)
+* [Cybersecurity entschluesselt @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1637327527)
+* [Cybersecurity entschluesselt Podcast RSS](https://cybersecurity-entschluesselt.de/rss.xml)
+* Tags: Security, IT Security, Technology
+
+----
+
 <h3 id="das-duumvirat">Das Duumvirat</h3>
 
 <img align="right" width="215" height="215" src="./generated/images/das-duumvirat.png" />
@@ -375,7 +392,7 @@ Wir sind ein Laber-Technik-Lebensweisheiten-Podcast, mit News, Retrogeschichten 
 
 <h3 id="der-gamedev-podcast">Der GameDev Podcast</h3>
 
-<img align="right" width="215" height="215" src="./generated/images/game-dev-podcast.png" />
+<img align="right" width="215" height="215" src="./generated/generated/images/game-dev-podcast.png" />
 
 Wir reden über Spieleentwicklung und allgemein über die Branche aber gehen auch ins Detail wenn es um Software, Tipps und Fragen geht.
 
