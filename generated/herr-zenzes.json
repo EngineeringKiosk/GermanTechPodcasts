@@ -1,0 +1,24 @@
+{
+ "name": "Herr Zenzes wills wissen",
+ "slug": "herr-zenzes-wills-wissen",
+ "website": "https://zenzes.me/",
+ "podcastIndexID": 6450923,
+ "rssFeed": "https://zenzes.me/podcast/feed.xml",
+ "spotify": "https://open.spotify.com/show/0RsiWLsZwLMnB70HpA5hnk",
+ "description": "\"Herr Zenzes wills wissen\" stellt jeden Monat eine interessante Person und ihre Themen aus der IT-Welt vor.",
+ "tags": [
+  "Agilität",
+  "Softwareentwicklung",
+  "Software-Crafting",
+  "Interviews"
+ ],
+ "weekly_downloads_avg": {
+  "value": 0,
+  "updated": ""
+ },
+ "episodeCount": 53,
+ "latestEpisodePublished": 1690891651,
+ "archive": false,
+ "itunesID": 0,
+ "image": "images/herr-zenzes.png"
+}
