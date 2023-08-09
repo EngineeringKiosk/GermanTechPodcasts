@@ -414,8 +414,8 @@ Wir reden über Spieleentwicklung und allgemein über die Branche aber gehen auc
 
 Der einzige IT Podcast in dem es nicht um IT geht. Ivan Ushmorov spricht mit Menschen aus der IT Industrie. Freelancer, Tech Leads, Headhunter, Founder, PMs, Agile Coaches und digitale Hustler hier kommen alle zu Wort.
 
-* Number of published episodes: 35
-* Last episode published: 🟢 Wednesday, 02 August 2023
+* Number of published episodes: 36
+* Last episode published: 🟢 Wednesday, 09 August 2023
 * [dev.env Website](https://shows.acast.com/dev-env)
 * [dev.env @ Spotify](https://open.spotify.com/show/6e9gpjtx54G0293RsH6agn)
 * [dev.env @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1667384138)
@@ -542,8 +542,8 @@ Freak Show ist ein Podcast, der sich mit dem Leben mit Technik im 21. Jahrhunder
 
 Wir talken GameDev und haben Unreal News.
 
-* Number of published episodes: 61
-* Last episode published: 🟢 Tuesday, 01 August 2023
+* Number of published episodes: 62
+* Last episode published: 🟢 Tuesday, 08 August 2023
 * [Gamedev für die Platte - Der Unreal Podcast Website](https://gamedevfuerdieplatte.podbean.com/)
 * [Gamedev für die Platte - Der Unreal Podcast @ Spotify](https://open.spotify.com/show/3UtoyAbMfEvkSIx5w3HohY)
 * [Gamedev für die Platte - Der Unreal Podcast Podcast RSS](https://feed.podbean.com/gamedevfuerdieplatte/feed.xml)
@@ -557,8 +557,8 @@ Wir talken GameDev und haben Unreal News.
 
 Ein monatlicher Podcast der GNU/Linux.ch Community mit Themen und Interviews rund um die Themen GNU/Linux, Freie Software und Freie Gesellschaft.
 
-* Number of published episodes: 54
-* Last episode published: 🟢 Wednesday, 02 August 2023
+* Number of published episodes: 55
+* Last episode published: 🟢 Wednesday, 09 August 2023
 * [GNU/Linux.ch Website](https://gnulinux.ch/)
 * [GNU/Linux.ch @ Spotify](https://open.spotify.com/show/0rs1Zm91TsjHhGo2lt0uPi)
 * [GNU/Linux.ch @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1527155920)
@@ -922,8 +922,8 @@ Wir thematisieren die wichtigen Fragestellungen rund um Internet, Gesellschaft u
 
 Mehr Wissen über die digitale Welt. Experten des Hasso-Plattner-Instituts sprechen verständlich über digitale Entwicklungen und Trends, über Chancen und Risiken der Digitalisierung. Jede Sendung widmet sich einem gesellschaftlich relevanten Thema: Von der Macht der Künstlichen Intelligenz über die Blockchain bis zu Hetze in den sozialen Medien.
 
-* Number of published episodes: 71
-* Last episode published: 🟢 Wednesday, 12 July 2023
+* Number of published episodes: 72
+* Last episode published: 🟢 Wednesday, 09 August 2023
 * [Neuland Website](https://podcast.hpi.de/)
 * [Neuland @ Spotify](https://open.spotify.com/show/0kd8vXJDv3sN7VMtcLRsH9)
 * [Neuland @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1448992875)
@@ -1181,8 +1181,8 @@ Jede Woche setzen wir uns mit Expert:innen aus der Webentwicklung zusammen. Imme
 
 Digitalisierung ist komplex. Heute entsteht dies, morgen das. Und was übermorgen noch wichtig ist, wissen die wenigsten. Wir schon! Im Podcast besprechen wir mit den Expert:innen unserer Redaktion die wichtigsten Entwicklungen der Woche und der Zukunft. Wir geben Wissensvorsprung und Impulse.
 
-* Number of published episodes: 58
-* Last episode published: 🟢 Wednesday, 02 August 2023
+* Number of published episodes: 59
+* Last episode published: 🟢 Wednesday, 09 August 2023
 * [t3n Catch up Website](https://t3n.de/podcast#catchup)
 * [t3n Catch up @ Spotify](https://open.spotify.com/show/0Bjrzu6l2RtRRyvTf0QEKQ)
 * [t3n Catch up @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1627024991)
@@ -1389,8 +1389,8 @@ Latenight-Frontend-Talkshow rund um Webdesign und Entwicklung. Es reden sich um 
 
 Wöchentlicher Podcast für Webdesigner:innen und -entwickler:innen
 
-* Number of published episodes: 596
-* Last episode published: 🟢 Tuesday, 01 August 2023
+* Number of published episodes: 597
+* Last episode published: 🟢 Tuesday, 08 August 2023
 * [Working Draft Website](https://workingdraft.de/)
 * [Working Draft @ Spotify](https://open.spotify.com/show/78iH7cIFzu1ejoB6aQUsIh)
 * [Working Draft @ Apple Podcasts](https://podcasts.apple.com/de/podcast/402204581)
