@@ -213,8 +213,8 @@ Ein Podcast über Web, Entwicklung, Mobile und Technologie. Betrachtet aus der S
 
 Prozessoren, Grafikkarten, Notebooks, Desktop-PCs, Server, KI, Rechenzentren und IT-Markt: In &#34;Bit-Rauschen&#34;, dem Prozessor-Podcast des Computermagazins c’t, dreht sich alles um Chips.
 
-* Number of published episodes: 70
-* Last episode published: 🟢 Wednesday, 30 August 2023
+* Number of published episodes: 71
+* Last episode published: 🟢 Wednesday, 13 September 2023
 * [Bit-Rauschen Website](https://www.ct.de/bit-rauschen)
 * [Bit-Rauschen @ Spotify](https://open.spotify.com/show/6JD6gwqgVR27GYZACrWOT1)
 * [Bit-Rauschen @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1549821753)
@@ -320,8 +320,8 @@ Jonathan und Ingmar sprechen übers Programmieren und Ausliefern von Software Pr
 
 Lucas Rott und Markus Herhoffer erzählen alle 14 Tage von Code und Nerd-Kultur. Mit News aus der Tech-Bubble, einem Thema der Woche über Software development und dem Code der Woche.
 
-* Number of published episodes: 108
-* Last episode published: 🟢 Sunday, 20 August 2023
+* Number of published episodes: 109
+* Last episode published: 🟢 Tuesday, 12 September 2023
 * [Code Culture Website](https://codeculture.podigee.io/)
 * [Code Culture @ Spotify](https://open.spotify.com/show/01ZL2aPP50lLW51u2aTOkN)
 * [Code Culture @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1516904389)
@@ -414,8 +414,8 @@ Wir reden über Spieleentwicklung und allgemein über die Branche aber gehen auc
 
 Der einzige IT Podcast in dem es nicht um IT geht. Ivan Ushmorov spricht mit Menschen aus der IT Industrie. Freelancer, Tech Leads, Headhunter, Founder, PMs, Agile Coaches und digitale Hustler hier kommen alle zu Wort.
 
-* Number of published episodes: 40
-* Last episode published: 🟢 Thursday, 07 September 2023
+* Number of published episodes: 41
+* Last episode published: 🟢 Wednesday, 13 September 2023
 * [dev.env Website](https://shows.acast.com/dev-env)
 * [dev.env @ Spotify](https://open.spotify.com/show/6e9gpjtx54G0293RsH6agn)
 * [dev.env @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1667384138)
@@ -462,8 +462,8 @@ Digitalisierungsfieber, dem Podcast für IT Security, Datenschutz, und IT Servic
 
 Der Engineering Kiosk ist der deutschsprachige Software-Engineering-Podcast mit Wolfgang Gassler und Andy Grunwald rund um die Themen Engineering-Kultur, Open Source, Menschen, Technologie und allen anderen Bereichen, die damit in Verbindung stehen.
 
-* Number of published episodes: 89
-* Last episode published: 🟢 Tuesday, 05 September 2023
+* Number of published episodes: 90
+* Last episode published: 🟢 Tuesday, 12 September 2023
 * Weekly downloads (avg): 1099 (updated: 2023-01-31)
 * [Engineering Kiosk Website](https://engineeringkiosk.dev/)
 * [Engineering Kiosk @ Spotify](https://open.spotify.com/show/0tJRC0UsObPCWLmmzmOkIs)
@@ -480,7 +480,7 @@ Der Engineering Kiosk ist der deutschsprachige Software-Engineering-Podcast mit 
 Student*innen der Informatik, die einen Podcast machen, damit ihr alle checkt wie geil Informatik eigentlich ist.
 
 * Number of published episodes: 34
-* Last episode published: 🟢 Wednesday, 12 July 2023
+* Last episode published: 🟡 Wednesday, 12 July 2023
 * [Female TechTalk Website](https://www.female-techtalk.com/)
 * [Female TechTalk @ Spotify](https://open.spotify.com/show/23CmXEDANTleEB6hmeVj4W)
 * [Female TechTalk @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1589781968)
@@ -542,8 +542,8 @@ Freak Show ist ein Podcast, der sich mit dem Leben mit Technik im 21. Jahrhunder
 
 Wir talken GameDev und haben Unreal News.
 
-* Number of published episodes: 66
-* Last episode published: 🟢 Tuesday, 05 September 2023
+* Number of published episodes: 67
+* Last episode published: 🟢 Tuesday, 12 September 2023
 * [Gamedev für die Platte - Der Unreal Podcast Website](https://gamedevfuerdieplatte.podbean.com/)
 * [Gamedev für die Platte - Der Unreal Podcast @ Spotify](https://open.spotify.com/show/3UtoyAbMfEvkSIx5w3HohY)
 * [Gamedev für die Platte - Der Unreal Podcast Podcast RSS](https://feed.podbean.com/gamedevfuerdieplatte/feed.xml)
@@ -557,7 +557,7 @@ Wir talken GameDev und haben Unreal News.
 
 Ein monatlicher Podcast der GNU/Linux.ch Community mit Themen und Interviews rund um die Themen GNU/Linux, Freie Software und Freie Gesellschaft.
 
-* Number of published episodes: 59
+* Number of published episodes: 60
 * Last episode published: 🟢 Wednesday, 06 September 2023
 * [GNU/Linux.ch Website](https://gnulinux.ch/)
 * [GNU/Linux.ch @ Spotify](https://open.spotify.com/show/0rs1Zm91TsjHhGo2lt0uPi)
@@ -1181,8 +1181,8 @@ Jede Woche setzen wir uns mit Expert:innen aus der Webentwicklung zusammen. Imme
 
 Digitalisierung ist komplex. Heute entsteht dies, morgen das. Und was übermorgen noch wichtig ist, wissen die wenigsten. Wir schon! Im Podcast besprechen wir mit den Expert:innen unserer Redaktion die wichtigsten Entwicklungen der Woche und der Zukunft. Wir geben Wissensvorsprung und Impulse.
 
-* Number of published episodes: 63
-* Last episode published: 🟢 Wednesday, 06 September 2023
+* Number of published episodes: 64
+* Last episode published: 🟢 Wednesday, 13 September 2023
 * [t3n Catch up Website](https://t3n.de/podcast#catchup)
 * [t3n Catch up @ Spotify](https://open.spotify.com/show/0Bjrzu6l2RtRRyvTf0QEKQ)
 * [t3n Catch up @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1627024991)
@@ -1227,8 +1227,8 @@ In diesem Podcast diskutiert die t3n-Redaktion mit Gästen über die spannendste
 
 Der Podcast rund um Technologie, Smart Home, Gadgets und mehr. Patrick und Ingo sprechen regelmäßig über Hard- und Software, die Ihnen im Alltag helfen - doch das ist noch längst nicht alles. Sie probieren Neues aus, berichten ganz offen und ehrlich über Vor- und Nachteile verschiedenster Produkte und geben Ihrer Meinung freien Lauf. Designliebe, Produktivitäts-Junkies, neugierige Technik-Besessene, Smart Home Neulinge und Liebhaber von Innovationen finden sich hier schnell zu Recht - alle andere sollten einschalten, mitreden und staunen, was alles möglich ist!
 
-* Number of published episodes: 23
-* Last episode published: 🟢 Thursday, 07 September 2023
+* Number of published episodes: 24
+* Last episode published: 🟢 Tuesday, 12 September 2023
 * [Tech me if you can Website](https://techmeifyoucan.letscast.fm/)
 * [Tech me if you can @ Spotify](https://open.spotify.com/show/34sAq6pHjadCQyPoydwZfN?si=5a0cf3dda5f74983)
 * [Tech me if you can @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1674729698)
