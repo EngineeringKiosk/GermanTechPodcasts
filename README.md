@@ -132,8 +132,8 @@ Deutschsprachiger Podcast zu den Themen IT-Sicherheit und Privatsphäre. Stefan 
 
 Apfelfunk ist ein wöchentlicher Podcast über Apple-Themen. Jean-Claude Frick und Malte Kirchner berichten und bewerten darin die Neuigkeiten über den wichtigsten Computerkonzern der Welt.
 
-* Number of published episodes: 397
-* Last episode published: 🟢 Wednesday, 06 September 2023
+* Number of published episodes: 398
+* Last episode published: 🟢 Thursday, 14 September 2023
 * [Apfelfunk Website](http://www.apfelfunk.com/)
 * [Apfelfunk @ Spotify](https://open.spotify.com/show/7FQLyWiNhMR0KS93ReaI4h)
 * [Apfelfunk @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1081146940)
@@ -230,7 +230,7 @@ Prozessoren, Grafikkarten, Notebooks, Desktop-PCs, Server, KI, Rechenzentren und
 Die wöchentliche Talkrunde rund um Apple, Mac, iPod &#43; iPhone, Gadgets und so. Fast live aus München.
 
 * Number of published episodes: 10
-* Last episode published: 🟢 Saturday, 09 September 2023
+* Last episode published: 🟢 Thursday, 14 September 2023
 * [Bits und so Website](http://www.bitsundso.de/)
 * [Bits und so @ Apple Podcasts](https://podcasts.apple.com/de/podcast/202753375)
 * [Bits und so Podcast RSS](http://www.bitsundso.de/feed/)
@@ -429,8 +429,8 @@ Der einzige IT Podcast in dem es nicht um IT geht. Ivan Ushmorov spricht mit Men
 
 Der Unterhaltungs-Podcast für .NET Entwickler - ca. alle zwei Wochen treffen sich die freiberuflichen Entwickler Oliver Vogel, Thomas Krause und Manuel Wenk um über allerlei News und Infos aus der .NET und Microsoft Azure Welt zu berichten. Ist das Essen schon da?
 
-* Number of published episodes: 102
-* Last episode published: 🟢 Tuesday, 15 August 2023
+* Number of published episodes: 103
+* Last episode published: 🟢 Thursday, 14 September 2023
 * Weekly downloads (avg): 471 (updated: 2023-01-03)
 * [DevCouch Website](https://devcouch.de/)
 * [DevCouch @ Spotify](https://open.spotify.com/show/0MfjnJ0I7SxJ89JIBWIcJJ)
@@ -558,7 +558,7 @@ Wir talken GameDev und haben Unreal News.
 Ein monatlicher Podcast der GNU/Linux.ch Community mit Themen und Interviews rund um die Themen GNU/Linux, Freie Software und Freie Gesellschaft.
 
 * Number of published episodes: 60
-* Last episode published: 🟢 Wednesday, 06 September 2023
+* Last episode published: 🟢 Wednesday, 13 September 2023
 * [GNU/Linux.ch Website](https://gnulinux.ch/)
 * [GNU/Linux.ch @ Spotify](https://open.spotify.com/show/0rs1Zm91TsjHhGo2lt0uPi)
 * [GNU/Linux.ch @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1527155920)
@@ -699,8 +699,8 @@ Dieser Podcast unterstützt schnell, konkret und umfänglich beim Einstieg in di
 
 Nur etwas mehr als 60 Jahre liegen zwischen dem ersten Start eines Motorflugzeugs und dem ersten bemannten Flug zum Mond. Das Handy wurde in nur 30 Jahren zum wichtigsten Kommunikationskanal unserer Zeit. Und IT? Die entwickelt sich nicht weniger rasant und macht in einer vernetzten und digitalen Welt vor keinem Bereich mehr halt. Im Podcast sprechen wir über Trendthemen, die zwar nichts mit Raketenwissenschaft zu tun haben, dafür aber Menschen auf dem Weg in eine digitale Zukunft begleiten. Bist Du bereit?
 
-* Number of published episodes: 66
-* Last episode published: 🟢 Wednesday, 30 August 2023
+* Number of published episodes: 67
+* Last episode published: 🟢 Wednesday, 13 September 2023
 * [IT ist alles Website](https://www.pco-online.de/magazin/2020/07/podcast)
 * [IT ist alles @ Spotify](https://open.spotify.com/show/46EUTeJsHSfscbkrI38f6p)
 * [IT ist alles @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1524049773)
@@ -794,8 +794,8 @@ Der Podcast über unsere digitale Lebens- und Arbeitswelt mit Markus Hörster un
 
 Logbuch:Netzpolitik ist ein in der Regel wöchentlich erscheinender Podcast, der im Dialog zwischen Linus Neumann und Tim Pritlove die wichtigsten Themen und Ereignisse mit netzpolitischem Bezug aufgreift und diskutiert.
 
-* Number of published episodes: 471
-* Last episode published: 🟢 Thursday, 07 September 2023
+* Number of published episodes: 472
+* Last episode published: 🟢 Thursday, 14 September 2023
 * [Logbuch: Netzpolitik Website](https://logbuch-netzpolitik.de/)
 * [Logbuch: Netzpolitik @ Apple Podcasts](https://podcasts.apple.com/de/podcast/476856034)
 * [Logbuch: Netzpolitik Podcast RSS](https://feeds.metaebene.me/lnp/m4a)
@@ -809,8 +809,8 @@ Logbuch:Netzpolitik ist ein in der Regel wöchentlich erscheinender Podcast, der
 
 Redakteure von heise Mac &amp; i beschäftigen sich jeden Monat mit Apple-Produkten, -Betriebssystemen und dem Drumherum, stellen Testergebnisse vor und geben Tipps.
 
-* Number of published episodes: 53
-* Last episode published: 🟢 Friday, 08 September 2023
+* Number of published episodes: 54
+* Last episode published: 🟢 Thursday, 14 September 2023
 * [Mac &amp; I Website](https://www.heise.de/mac-and-i/meldung/Mac-i-Der-Apple-Podcast-4681220.html)
 * [Mac &amp; I @ Spotify](https://open.spotify.com/show/5Tcgc97HvYREYM7kIRsxii)
 * [Mac &amp; I @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1499510618)
@@ -986,8 +986,8 @@ Ein Podcast über die dunkle Seite der Digitalisierung: Spionage, Hacker, Sabota
 
 Mit geballter Dev-Power nehmen Dennis, Fabi, Sebi und Jojo neue Podcastfolgen auf und werden dabei regelmäßig von Gäst:innen aus der Branche unterstützt. Taucht in unseren Deep Dives mit uns in Frameworks und Datenbanken ein, hört euch in den CTO-Specials die Erfahrungen führender Persönlichkeiten großer Unternehmen an und bleibt mit unseren News-Folgen stets am Ball in der Welt der App- und Webentwicklung.
 
-* Number of published episodes: 265
-* Last episode published: 🟢 Friday, 28 July 2023
+* Number of published episodes: 266
+* Last episode published: 🟢 Wednesday, 13 September 2023
 * Weekly downloads (avg): 8744 (updated: 2023-04-12)
 * [programmier.bar Website](https://www.programmier.bar/podcast)
 * [programmier.bar @ Spotify](https://open.spotify.com/show/0ik0sXv9paTQCeThcOLCCJ)
@@ -1132,8 +1132,8 @@ Live-Diskussion zu Software-Architektur im Stream. Einmal in der Woche diskutier
 
 Der SoftwerkerCast präsentiert euch Softwerker-Wissen zum Reinhören und Nachhören. Wie auch bei den anderen Softwerker-Formaten erwartet euch im SoftwerkerCast das volle Themenspektrum aus der bunten Welt der Softwareentwicklung: von A wie APM bis Z wie Zero Downtime. Paradigmen und neue Trends, Evergreens und Eintagsfliegen.
 
-* Number of published episodes: 27
-* Last episode published: 🟢 Friday, 01 September 2023
+* Number of published episodes: 28
+* Last episode published: 🟢 Friday, 15 September 2023
 * [SoftwerkerCast Website](https://www.codecentric.de/softwerkercast)
 * [SoftwerkerCast @ Spotify](https://open.spotify.com/show/0GMFlDJabOtXYm8u8HfAvL)
 * [SoftwerkerCast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1592472699)
@@ -1212,8 +1212,8 @@ Dein täglicher Podcast mit dem, was wichtig war und was wichtig wird im digital
 
 In diesem Podcast diskutiert die t3n-Redaktion mit Gästen über die spannendsten digitalen Themen unserer Zeit. Ob innovative Führungskonzepte, die Digitalisierung der Gesellschaft, smarte Gadgets, neue Mobilität oder Zukunftstechnologien. Jeden Freitag um 10 Uhr!
 
-* Number of published episodes: 531
-* Last episode published: 🟢 Monday, 11 September 2023
+* Number of published episodes: 532
+* Last episode published: 🟢 Friday, 15 September 2023
 * [t3n Interview Website](https://t3n.de/podcast#interview)
 * [t3n Interview @ Spotify](https://open.spotify.com/show/7obTbZaywhQEiUUOMswQBQ)
 * [t3n Interview @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1115601393)
