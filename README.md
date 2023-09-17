@@ -260,8 +260,8 @@ Ransomware Attacken, Phishing oder DDoS - jeden Tag aufs Neue werden Unternehmen
 
 Mitglieder der c&#39;t-Redaktion diskutieren über die aktuellen Themen aus dem c’t Magazin und was sonst noch so in der IT-Welt passiert.
 
-* Number of published episodes: 506
-* Last episode published: 🟢 Saturday, 09 September 2023
+* Number of published episodes: 507
+* Last episode published: 🟢 Saturday, 16 September 2023
 * [c&#39;t uplink Website](https://www.heise.de/ct/entdecken/?hauptrubrik=%40ctmagazin&amp;unterrubrik=c%27t&#43;uplink)
 * [c&#39;t uplink @ Spotify](https://open.spotify.com/show/4LdN7lGr9winLtQSqoIjVD)
 * [c&#39;t uplink @ Apple Podcasts](https://podcasts.apple.com/de/podcast/835717958)
@@ -336,7 +336,7 @@ Lucas Rott und Markus Herhoffer erzählen alle 14 Tage von Code und Nerd-Kultur.
 Jeden Samstag das Neueste aus Computertechnik und Informationstechnologie. Beiträge, Reportagen und Interviews zu IT-Sicherheit, Informatik, Datenschutz, Smartphones, Cloud-Computing und IT-Politik. Die Trends der IT werden kompakt und informativ zusammengefasst.
 
 * Number of published episodes: 20
-* Last episode published: 🟢 Saturday, 09 September 2023
+* Last episode published: 🟢 Saturday, 16 September 2023
 * [Computer und Kommunikation (Deutschlandfunk) Website](https://www.deutschlandfunk.de/computer-und-kommunikation-102.html)
 * [Computer und Kommunikation (Deutschlandfunk) @ Spotify](https://open.spotify.com/show/4uy56W83RGe8SKmzNpyfAc)
 * [Computer und Kommunikation (Deutschlandfunk) @ Apple Podcasts](https://podcasts.apple.com/de/podcast/173754605)
@@ -367,8 +367,8 @@ Cybersecurity entschüsselt ist ein deutschsprachiger Podcast, in dem sich alles
 
 Im Podcast Das Duumvirat unterhalten wir uns über verschiedene Mac-Themen aus dem Alltag von Anwendern. Wir schauen über den Tellerrand. Und manchmal haben wir auch Gäste.
 
-* Number of published episodes: 54
-* Last episode published: 🟡 Friday, 23 June 2023
+* Number of published episodes: 55
+* Last episode published: 🟢 Saturday, 16 September 2023
 * [Das Duumvirat Website](https://www.trommelspeicher.de/podcast/)
 * [Das Duumvirat @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1212750085)
 * [Das Duumvirat Podcast RSS](https://www.trommelspeicher.de/resource/podcast/feed.xml)
@@ -511,8 +511,8 @@ Der FOCUS ON: DevOps Podcast beschäftigt sich mit verschiedenen Methoden und We
 
 Der FOCUS ON: Linux Podcast beschäftigt sich mit verschiedenen Themen rund um Linux. Unser Ziel ist es, euch monatlich über die Entwicklungen und Neuigkeiten zu informieren und auch praktische Tool-Tipps an die Hand zu geben.
 
-* Number of published episodes: 65
-* Last episode published: 🟢 Thursday, 24 August 2023
+* Number of published episodes: 66
+* Last episode published: 🟢 Saturday, 16 September 2023
 * Weekly downloads (avg): 710 (updated: 2022-10-26)
 * [FOCUS ON: Linux Website](https://focusonlinux.podigee.io/)
 * [FOCUS ON: Linux @ Spotify](https://open.spotify.com/show/4Yj9EaidQuwEZL0NkAafzh)
@@ -637,7 +637,7 @@ Du bist Entwickler/Developer? Dann Lauscher auf! Thomas und Christian sprechen i
 
 * Number of published episodes: 60
 * Last episode published: 🟢 Saturday, 09 September 2023
-* [Index out of bounds Website](https://anchor.fm/indexoutofbounds)
+* [Index out of bounds Website](https://www.ioob.de/)
 * [Index out of bounds @ Spotify](https://open.spotify.com/show/2r1FGvYRkSYq4SmXyVKmnA)
 * [Index out of bounds @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1564647339)
 * [Index out of bounds Podcast RSS](https://anchor.fm/s/54509264/podcast/rss)
@@ -763,7 +763,7 @@ Ja sia! Der Technikpodcast von und mit Chris und Pati. Wir bringen euch regelmä
 Die IT-News des Tages von heise online
 
 * Number of published episodes: 291
-* Last episode published: 🟢 Friday, 08 September 2023
+* Last episode published: 🟢 Friday, 15 September 2023
 * [Kurz informiert by heise online Website](http://www.heise.de/)
 * [Kurz informiert by heise online @ Spotify](https://open.spotify.com/show/2etf1jog8leNHbnhIArM9Z)
 * [Kurz informiert by heise online @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1485884061)
@@ -907,7 +907,7 @@ Die Welt wird immer digitaler und IT-Sicherheit auch im Alltag immer wichtiger. 
 Wir thematisieren die wichtigen Fragestellungen rund um Internet, Gesellschaft und Politik und zeigen Wege auf, wie man sich auch selbst mit Hilfe des Netzes für digitale Freiheiten und Offenheit engagieren kann. Mit netzpolitik.org beschreiben wir, wie die Politik das Internet durch Regulierung verändert und wie das Netz Politik, Öffentlichkeiten und alles andere verändert.
 
 * Number of published episodes: 25
-* Last episode published: 🟢 Saturday, 02 September 2023
+* Last episode published: 🟢 Saturday, 16 September 2023
 * [Netzpolitik Website](https://netzpolitik.org/podcast/)
 * [Netzpolitik @ Spotify](https://open.spotify.com/show/2GLuMhSNEFzUIXfx9BDxBt)
 * [Netzpolitik @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1281525246)
@@ -1036,8 +1036,8 @@ Rund um Open Source, Freie Software, Linux und gesellschaftspolitische Themen.
 
 Sandra Parsick &amp; Daniel Zenzes präsentieren mit Ready for Review einen bunten Mix aus aktuellen IT-Themen und ihrem täglichen Entwickler-Alltag.
 
-* Number of published episodes: 53
-* Last episode published: 🟢 Tuesday, 29 August 2023
+* Number of published episodes: 54
+* Last episode published: 🟢 Sunday, 17 September 2023
 * Weekly downloads (avg): 66 (updated: 2022-07-29)
 * [Ready for Review Website](https://ready-for-review.dev/)
 * [Ready for Review @ Spotify](https://open.spotify.com/show/7dxK2wi4ZMGEYO3UHhTSc4)
@@ -1116,8 +1116,8 @@ Fünf schnelle Fragen an…. In unserem She for IT Podcast geht es um Themen run
 
 Live-Diskussion zu Software-Architektur im Stream. Einmal in der Woche diskutiert Eberhard Wolff Software-Architektur im Live-Stream auf YouTube und Twitch - oft zusammen mit einem Gast. Zuschauer können über den Chat mitdiskutieren oder Fragen stellen. Der Podcast enthält die Audio-Spur des Streams.
 
-* Number of published episodes: 177
-* Last episode published: 🟢 Friday, 01 September 2023
+* Number of published episodes: 178
+* Last episode published: 🟢 Saturday, 16 September 2023
 * [SoftwareArchitektur im Stream Website](https://software-architektur.tv/)
 * [SoftwareArchitektur im Stream @ Spotify](https://open.spotify.com/show/7ySg1eZoWYBshd6QpGaW8B)
 * [SoftwareArchitektur im Stream @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1538545458)
@@ -1340,8 +1340,8 @@ IT Security Podcast
 
 Alle 14 Tage laden wir zu einer kleinen Kaminzimmerrunde rund um den Themenkomplex Datacenter, Cloud und IT ein. In Ermangelung eines Kaminzimmers sitzen wir in der Hot Aisle eines Datacenters, statt feudaler Sessel gibt es faltbare Campingstühle, und die Cognacschwenker durften wir auch nicht mit reinnehmen. :/
 
-* Number of published episodes: 41
-* Last episode published: 🟢 Tuesday, 29 August 2023
+* Number of published episodes: 42
+* Last episode published: 🟢 Tuesday, 12 September 2023
 * Weekly downloads (avg): 100 (updated: 2022-07-31)
 * [Wartungsfenster Website](https://wartungsfenster.podigee.io/)
 * [Wartungsfenster @ Spotify](https://open.spotify.com/show/063YcVklbp1N8z1ZHSA709)
@@ -1389,8 +1389,8 @@ Latenight-Frontend-Talkshow rund um Webdesign und Entwicklung. Es reden sich um 
 
 Wöchentlicher Podcast für Webdesigner:innen und -entwickler:innen
 
-* Number of published episodes: 601
-* Last episode published: 🟢 Tuesday, 05 September 2023
+* Number of published episodes: 602
+* Last episode published: 🟢 Friday, 15 September 2023
 * [Working Draft Website](https://workingdraft.de/)
 * [Working Draft @ Spotify](https://open.spotify.com/show/78iH7cIFzu1ejoB6aQUsIh)
 * [Working Draft @ Apple Podcasts](https://podcasts.apple.com/de/podcast/402204581)
