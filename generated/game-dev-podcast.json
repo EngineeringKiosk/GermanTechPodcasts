@@ -21,9 +21,9 @@
   "value": 570,
   "updated": "2023-01-01"
  },
- "episodeCount": 72,
- "latestEpisodePublished": 1693742405,
+ "episodeCount": 73,
+ "latestEpisodePublished": 1696168803,
  "archive": false,
  "itunesID": 1143613851,
- "image": "images/game-dev-podcast.png"
+ "image": "generated/images/game-dev-podcast.png"
 }
