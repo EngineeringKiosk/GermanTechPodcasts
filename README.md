@@ -6,7 +6,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (82 podcasts)
+* [Podcasts](#podcasts) (81 podcasts)
   * [0d - Zeroday](#0d-zeroday)
   * [Apfelfunk](#apfelfunk)
   * [Armchair Investigators](#armchair-investigators)
@@ -69,7 +69,6 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [Schlüsseltechnologie](#schlusseltechnologie)
   * [Schwarz, Code, Gold – Deutschland, Entwicklungsland?](#schwarz-code-gold-deutschland-entwicklungsland)
   * [Security-Insider](#security-insider)
-  * [She for what? She for IT!](#she-for-what-she-for-it)
   * [SoftwareArchitektur im Stream](#softwarearchitektur-im-stream)
   * [SoftwerkerCast](#softwerkercast)
   * [Speak 1337](#speak-1337)
@@ -89,7 +88,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [Wo wir sind ist vorne](#wo-wir-sind-ist-vorne)
   * [Working Draft](#working-draft)
   * [WP Sofa](#wp-sofa)
-* [Archived podcasts](#archived-podcasts) (9 podcasts)
+* [Archived podcasts](#archived-podcasts) (10 podcasts)
   * [Bits &amp; Böses - Der Tech Crime Podcast](#bits-and-boses-der-tech-crime-podcast)
   * [Codestammtisch](#codestammtisch)
   * [GeekWeek](#geekweek)
@@ -97,6 +96,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [Request for Comments](#request-for-comments)
   * [Rheingehäckt](#rheingehackt)
   * [SELECTrageFROMit;](#selectragefromit)
+  * [She for what? She for IT!](#she-for-what-she-for-it)
   * [She Likes Tech](#she-likes-tech)
   * [Software-Architektur als Beruf](#software-architektur-als-beruf)
 * [Legend](#legend)
@@ -132,8 +132,8 @@ Deutschsprachiger Podcast zu den Themen IT-Sicherheit und Privatsphäre. Stefan 
 
 Apfelfunk ist ein wöchentlicher Podcast über Apple-Themen. Jean-Claude Frick und Malte Kirchner berichten und bewerten darin die Neuigkeiten über den wichtigsten Computerkonzern der Welt.
 
-* Number of published episodes: 400
-* Last episode published: 🟢 Wednesday, 27 September 2023
+* Number of published episodes: 401
+* Last episode published: 🟢 Wednesday, 04 October 2023
 * [Apfelfunk Website](http://www.apfelfunk.com/)
 * [Apfelfunk @ Spotify](https://open.spotify.com/show/7FQLyWiNhMR0KS93ReaI4h)
 * [Apfelfunk @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1081146940)
@@ -230,7 +230,7 @@ Prozessoren, Grafikkarten, Notebooks, Desktop-PCs, Server, KI, Rechenzentren und
 Die wöchentliche Talkrunde rund um Apple, Mac, iPod &#43; iPhone, Gadgets und so. Fast live aus München.
 
 * Number of published episodes: 10
-* Last episode published: 🟢 Sunday, 24 September 2023
+* Last episode published: 🟢 Monday, 02 October 2023
 * [Bits und so Website](http://www.bitsundso.de/)
 * [Bits und so @ Apple Podcasts](https://podcasts.apple.com/de/podcast/202753375)
 * [Bits und so Podcast RSS](http://www.bitsundso.de/feed/)
@@ -393,7 +393,7 @@ Wir sind ein Laber-Technik-Lebensweisheiten-Podcast, mit News, Retrogeschichten 
 
 <h3 id="der-gamedev-podcast">Der GameDev Podcast</h3>
 
-<img align="right" width="215" height="215" src="./generated/generated/images/game-dev-podcast.png" />
+<img align="right" width="215" height="215" src="./generated/images/game-dev-podcast.png" />
 
 Wir reden über Spieleentwicklung und allgemein über die Branche aber gehen auch ins Detail wenn es um Software, Tipps und Fragen geht.
 
@@ -462,8 +462,8 @@ Digitalisierungsfieber, dem Podcast für IT Security, Datenschutz, und IT Servic
 
 Der Engineering Kiosk ist der deutschsprachige Software-Engineering-Podcast mit Wolfgang Gassler und Andy Grunwald rund um die Themen Engineering-Kultur, Open Source, Menschen, Technologie und allen anderen Bereichen, die damit in Verbindung stehen.
 
-* Number of published episodes: 92
-* Last episode published: 🟢 Tuesday, 26 September 2023
+* Number of published episodes: 93
+* Last episode published: 🟢 Tuesday, 03 October 2023
 * Weekly downloads (avg): 1099 (updated: 2023-01-31)
 * [Engineering Kiosk Website](https://engineeringkiosk.dev/)
 * [Engineering Kiosk @ Spotify](https://open.spotify.com/show/0tJRC0UsObPCWLmmzmOkIs)
@@ -557,8 +557,8 @@ Wir talken GameDev und haben Unreal News.
 
 Ein monatlicher Podcast der GNU/Linux.ch Community mit Themen und Interviews rund um die Themen GNU/Linux, Freie Software und Freie Gesellschaft.
 
-* Number of published episodes: 62
-* Last episode published: 🟢 Wednesday, 27 September 2023
+* Number of published episodes: 63
+* Last episode published: 🟢 Wednesday, 04 October 2023
 * [GNU/Linux.ch Website](https://gnulinux.ch/)
 * [GNU/Linux.ch @ Spotify](https://open.spotify.com/show/0rs1Zm91TsjHhGo2lt0uPi)
 * [GNU/Linux.ch @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1527155920)
@@ -858,8 +858,8 @@ Scrum kann doch inzwischen eh jeder? Von wegen! Denn - ganz unter uns: genug fal
 
 Mind the Tech ist ein Podcast, der die dunklen Seiten der IT- und Tech-Welt beleuchtet. Dazu zählen legendäre Hackerangriffe, Datendiebstähle und Cyberattacken. Ebenso kommen die unzähligen Geschichten von Menschen auf den Tisch, die es mit Recht und Gesetz im Web nicht so ernst nehmen – und irgendwann die Konsequenzen ihres Handelns zu spüren bekommen. Wir widmen uns Antitrends und Mythen, stellen Entwicklungen im und rund ums Internet in Frage, wägen ab. Denn wir sind fest davon überzeugt: Nur wenn wir uns ihren Schattenseiten widmen, können wir die (digitale) Welt zu einem besseren Ort machen.
 
-* Number of published episodes: 71
-* Last episode published: 🟢 Wednesday, 20 September 2023
+* Number of published episodes: 72
+* Last episode published: 🟢 Wednesday, 04 October 2023
 * [Mind the Tech Website](https://www.mindthetech.de/)
 * [Mind the Tech @ Spotify](https://open.spotify.com/show/6FydYmBjELizU8k8DOIcaA)
 * [Mind the Tech @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1515173582)
@@ -874,8 +874,8 @@ Mind the Tech ist ein Podcast, der die dunklen Seiten der IT- und Tech-Welt bele
 
 Der MIXEDCAST ist Deutschlands Podcast über Virtual Reality, Augmented Reality, Mixed Reality, Künstliche Intelligenz und generell neue Formen der Mensch-Computer-Interaktion. Wir sprechen über Themen wie Virtual Reality für Games, Entertainment und das Business, neue Augmented-Reality-Technologien oder Transhumanisums und wie sich die Beziehung zwischen Mensch, Computer und digitaler Welt verändert.
 
-* Number of published episodes: 367
-* Last episode published: 🟢 Friday, 22 September 2023
+* Number of published episodes: 368
+* Last episode published: 🟢 Wednesday, 04 October 2023
 * [Mixedcast Website](https://mixed.de/podcast/)
 * [Mixedcast @ Spotify](https://open.spotify.com/show/7nqUnwk9j5qFfjACXzc8Yg)
 * [Mixedcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1141873988)
@@ -922,8 +922,8 @@ Wir thematisieren die wichtigen Fragestellungen rund um Internet, Gesellschaft u
 
 Mehr Wissen über die digitale Welt. Experten des Hasso-Plattner-Instituts sprechen verständlich über digitale Entwicklungen und Trends, über Chancen und Risiken der Digitalisierung. Jede Sendung widmet sich einem gesellschaftlich relevanten Thema: Von der Macht der Künstlichen Intelligenz über die Blockchain bis zu Hetze in den sozialen Medien.
 
-* Number of published episodes: 73
-* Last episode published: 🟢 Wednesday, 06 September 2023
+* Number of published episodes: 74
+* Last episode published: 🟢 Wednesday, 04 October 2023
 * [Neuland Website](https://podcast.hpi.de/)
 * [Neuland @ Spotify](https://open.spotify.com/show/0kd8vXJDv3sN7VMtcLRsH9)
 * [Neuland @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1448992875)
@@ -969,8 +969,8 @@ Wir berichten alle zwei Wochen über Open Source Anwendungen, Ideen und Konzepte
 
 Ein Podcast über die dunkle Seite der Digitalisierung: Spionage, Hacker, Sabotage, Subversion, Desinformation und die Cyber Konflikte der Vergangenheit und Zukunft. Irgendwo zwischen IT-Sicherheit und Cyber Security geht es um die großen Linien, um eine kritische, politik- bzw. sozialwissenschaftliche Einordnung der Phänomene, statt um das Verbreiten von FUD: Fear, Uncertainty and Doubt. Betrieben wird das ganze von Dr. Matthias Schulze, der unter percepticon.de schon seit Jahren dazu bloggt.
 
-* Number of published episodes: 41
-* Last episode published: 🟢 Friday, 25 August 2023
+* Number of published episodes: 42
+* Last episode published: 🟢 Tuesday, 03 October 2023
 * Weekly downloads (avg): 375 (updated: 2023-01-02)
 * [Percepticon Website](https://percepticon.de/category/podcast/)
 * [Percepticon @ Spotify](https://open.spotify.com/show/1BgA82Dtniy7Aaj2aktJI2)
@@ -986,8 +986,8 @@ Ein Podcast über die dunkle Seite der Digitalisierung: Spionage, Hacker, Sabota
 
 Mit geballter Dev-Power nehmen Dennis, Fabi, Sebi und Jojo neue Podcastfolgen auf und werden dabei regelmäßig von Gäst:innen aus der Branche unterstützt. Taucht in unseren Deep Dives mit uns in Frameworks und Datenbanken ein, hört euch in den CTO-Specials die Erfahrungen führender Persönlichkeiten großer Unternehmen an und bleibt mit unseren News-Folgen stets am Ball in der Welt der App- und Webentwicklung.
 
-* Number of published episodes: 268
-* Last episode published: 🟢 Wednesday, 27 September 2023
+* Number of published episodes: 269
+* Last episode published: 🟢 Wednesday, 04 October 2023
 * Weekly downloads (avg): 8744 (updated: 2023-04-12)
 * [programmier.bar Website](https://www.programmier.bar/podcast)
 * [programmier.bar @ Spotify](https://open.spotify.com/show/0ik0sXv9paTQCeThcOLCCJ)
@@ -1021,7 +1021,7 @@ Ein deutschsprachiger Podcast rund um die Programmiersprache Python
 Rund um Open Source, Freie Software, Linux und gesellschaftspolitische Themen.
 
 * Number of published episodes: 1
-* Last episode published: 🟢 Tuesday, 29 August 2023
+* Last episode published: 🟢 Tuesday, 03 October 2023
 * [RadioTux Website](https://www.radiotux.de/)
 * [RadioTux @ Spotify](https://open.spotify.com/show/3ycOmt9723grwgr0wCbTye)
 * [RadioTux @ Apple Podcasts](https://podcasts.apple.com/de/podcast/122070498)
@@ -1091,22 +1091,6 @@ Der Security-Insider Podcast ist ein Podcast für Security-Profis mit Infos, Nac
 * [Security-Insider @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1470962583)
 * [Security-Insider Podcast RSS](https://security-insider.podigee.io/feed/mp3)
 * Tags: Security, IT-Sicherheit, Cybersecurity, Datenschutz, Compliance, Malware, Sicherheitslücken
-
-----
-
-<h3 id="she-for-what-she-for-it">She for what? She for IT!</h3>
-
-<img align="right" width="215" height="215" src="./generated/images/she-for-what-she-for-it.jpg" />
-
-Fünf schnelle Fragen an…. In unserem She for IT Podcast geht es um Themen rund um IT und digitale Transformation – und das mit der besonderen weiblichen Note. Unsere Moderatorinnen interviewen IT-Frauen, die etwas zu sagen haben. Locker, spannend und kurzweilig. Hören Sie rein, wo immer Sie auch sind. Langeweile ist woanders!
-
-* Number of published episodes: 38
-* Last episode published: 🟡 Wednesday, 05 April 2023
-* [She for what? She for IT! Website](https://www.adesso.de/de/unternehmen/she-for-it/podcasts.jsp)
-* [She for what? She for IT! @ Spotify](https://open.spotify.com/show/2WKgGIRsBWp7VkC5hMI66p)
-* [She for what? She for IT! @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1538127890)
-* [She for what? She for IT! Podcast RSS](https://sheforwhat-sheforit.podigee.io/feed/mp3)
-* Tags: Female host
 
 ----
 
@@ -1227,8 +1211,8 @@ In diesem Podcast diskutiert die t3n-Redaktion mit Gästen über die spannendste
 
 Der Podcast rund um Technologie, Smart Home, Gadgets und mehr. Patrick und Ingo sprechen regelmäßig über Hard- und Software, die Ihnen im Alltag helfen - doch das ist noch längst nicht alles. Sie probieren Neues aus, berichten ganz offen und ehrlich über Vor- und Nachteile verschiedenster Produkte und geben Ihrer Meinung freien Lauf. Designliebe, Produktivitäts-Junkies, neugierige Technik-Besessene, Smart Home Neulinge und Liebhaber von Innovationen finden sich hier schnell zu Recht - alle andere sollten einschalten, mitreden und staunen, was alles möglich ist!
 
-* Number of published episodes: 26
-* Last episode published: 🟢 Wednesday, 27 September 2023
+* Number of published episodes: 27
+* Last episode published: 🟢 Wednesday, 04 October 2023
 * [Tech me if you can Website](https://techmeifyoucan.letscast.fm/)
 * [Tech me if you can @ Spotify](https://open.spotify.com/show/34sAq6pHjadCQyPoydwZfN?si=5a0cf3dda5f74983)
 * [Tech me if you can @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1674729698)
@@ -1260,8 +1244,8 @@ Ausführliche, häufig zeitlose Gespräche von Gastgeber Nico Kreiling mit wechs
 
 IT-Security, unendliche Weiten ... So oder so ähnlich lässt sich die Größenordnung von alldem, was IT-Security betrifft, beschreiben - Netzwerk, Cloud, Endpoint, E-Mail, SOC, Schwachstellen, Sicherheitsvorfall, Awareness und vieeeles mehr. Klingt unfassbar kompliziert – ist aber auch unfassbar spannend. In unserem Podcast berichten wir über aktuelle Themen und zeigen euch, warum das Thema IT-Sicherheit auch für euren Alltag extrem wichtig ist. Denn das ist unsere Leidenschaft: eure Unternehmen und eure Arbeit sicher zu machen. Habt ihr heute schon auf einen Link geklickt? 😉
 
-* Number of published episodes: 23
-* Last episode published: 🟢 Thursday, 21 September 2023
+* Number of published episodes: 24
+* Last episode published: 🟢 Wednesday, 04 October 2023
 * [The World of IT-Security Website](https://www.suresecure.de/aktuelles/podcast)
 * [The World of IT-Security @ Spotify](https://open.spotify.com/show/38ro5pDX7ToVMA9w6RVyNM)
 * [The World of IT-Security @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1567043544)
@@ -1308,8 +1292,8 @@ todo:cast ist ein deutschsprachiger Podcast für die großen und kleinen Fragen 
 
 Wir sind UNMUTE IT, der Podcast von und mit Frauen aus der IT. Wir erzählen von unseren Erfahrungen, begegneten Herausforderungen, Tipps &amp; Tricks und teilen die eine oder andere Anekdote. Frauen gehören in STEM Felder.Mit unserer Präsenz wollen wir dies untermauern und Frauen motivieren, sich mit dem Thema zu beschäftigen und den Schritt in die IT zu gehen.
 
-* Number of published episodes: 51
-* Last episode published: 🟢 Sunday, 17 September 2023
+* Number of published episodes: 52
+* Last episode published: 🟢 Wednesday, 04 October 2023
 * Weekly downloads (avg): 177 (updated: 2023-01-21)
 * [Unmute IT Website](https://linkr.bio/unmute-it)
 * [Unmute IT @ Spotify](https://open.spotify.com/show/4v3xXuY5Km98xnmeXeGZgx)
@@ -1357,8 +1341,8 @@ Alle 14 Tage laden wir zu einer kleinen Kaminzimmerrunde rund um den Themenkompl
 
 In diesem Podcast geht es um Web und User Interface Design, Freelancing, Arbeitsprozesse, Kunden und alles, wo sich diese Bereiche überschneiden.
 
-* Number of published episodes: 194
-* Last episode published: 🟢 Monday, 25 September 2023
+* Number of published episodes: 195
+* Last episode published: 🟢 Tuesday, 03 October 2023
 * [Web &amp; Design Podcast Website](https://www.jonasarleth.com/podcast)
 * [Web &amp; Design Podcast @ Spotify](https://open.spotify.com/show/6P3ovTvnUXUQZdjEMLEBer)
 * [Web &amp; Design Podcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1197452865)
@@ -1389,8 +1373,8 @@ Latenight-Frontend-Talkshow rund um Webdesign und Entwicklung. Es reden sich um 
 
 Wöchentlicher Podcast für Webdesigner:innen und -entwickler:innen
 
-* Number of published episodes: 604
-* Last episode published: 🟢 Tuesday, 26 September 2023
+* Number of published episodes: 605
+* Last episode published: 🟢 Tuesday, 03 October 2023
 * [Working Draft Website](https://workingdraft.de/)
 * [Working Draft @ Spotify](https://open.spotify.com/show/78iH7cIFzu1ejoB6aQUsIh)
 * [Working Draft @ Apple Podcasts](https://podcasts.apple.com/de/podcast/402204581)
@@ -1522,6 +1506,22 @@ Der etwas andere Podcast über IT-Themen. Echte Erfahrungen aus dem Feld. Ungefi
 * [SELECTrageFROMit; @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1547576873)
 * [SELECTrageFROMit; Podcast RSS](https://anchor.fm/s/6c46c0c8/podcast/rss)
 * Tags: DevOps, Admin, Hardware
+
+----
+
+<h3 id="she-for-what-she-for-it">She for what? She for IT!</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/she-for-what-she-for-it.jpg" />
+
+Fünf schnelle Fragen an…. In unserem She for IT Podcast geht es um Themen rund um IT und digitale Transformation – und das mit der besonderen weiblichen Note. Unsere Moderatorinnen interviewen IT-Frauen, die etwas zu sagen haben. Locker, spannend und kurzweilig. Hören Sie rein, wo immer Sie auch sind. Langeweile ist woanders!
+
+* Number of published episodes: 38
+* Last episode published: 🔴 Wednesday, 05 April 2023
+* [She for what? She for IT! Website](https://www.adesso.de/de/unternehmen/she-for-it/podcasts.jsp)
+* [She for what? She for IT! @ Spotify](https://open.spotify.com/show/2WKgGIRsBWp7VkC5hMI66p)
+* [She for what? She for IT! @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1538127890)
+* [She for what? She for IT! Podcast RSS](https://sheforwhat-sheforit.podigee.io/feed/mp3)
+* Tags: Female host
 
 ----
 
