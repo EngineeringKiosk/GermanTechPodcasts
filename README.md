@@ -164,8 +164,8 @@ Ein Dialog über Malware, Cybercrime und Cyberspionage
 
 Sie möchten beim Thema Datenschutz auf dem Laufenden bleiben, aber keine seitenlange Literatur wälzen? Dann wenden Sie sich vertrauensvoll an unser Juristen-Redakteurs-Duo. Alle 14 Tage bespricht c&#39;t-Redakteur Holger Bleich mit Joerg Heidrich aktuelle Entwicklungen rund um den Datenschutz. Joerg ist beim c&#39;t-Mutterschiff Heise Medien als Justiziar für das Thema zuständig und hat täglich mit der europäischen Datenschutz-Grundverordnung (DSGVO) zu tun. Wechselnde Gäste ergänzen das Duo.
 
-* Number of published episodes: 94
-* Last episode published: 🟢 Friday, 22 September 2023
+* Number of published episodes: 95
+* Last episode published: 🟢 Friday, 06 October 2023
 * [Auslegungssache Website](https://heise.de/-4571821)
 * [Auslegungssache @ Spotify](https://open.spotify.com/show/3Jrnu7vrTurguBaCiPapkA)
 * [Auslegungssache @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1485860893)
@@ -198,7 +198,7 @@ Sie möchten beim Thema Datenschutz auf dem Laufenden bleiben, aber keine seiten
 Ein Podcast über Web, Entwicklung, Mobile und Technologie. Betrachtet aus der Sicht von Entwicklern bzw. Open Source Begeisterten. Das heißt aber nicht, dass wir alles mit einer Rosa-Roten Brille sehen. Wir suchen bei Apple und Microsoft genauso das Gute und Schlechte wie auch bei Linux und anderen Open Source Projekten. Wir wollen realistisch sein. Auch wenn wir damit anecken sollten.
 
 * Number of published episodes: 50
-* Last episode published: 🟢 Wednesday, 20 September 2023
+* Last episode published: 🟢 Thursday, 05 October 2023
 * [Binärgewitter Website](http://blog.binaergewitter.de/)
 * [Binärgewitter @ Spotify](https://open.spotify.com/show/19LedqK0fGWfzfKzySDoVW)
 * [Binärgewitter @ Apple Podcasts](https://podcasts.apple.com/de/podcast/216877594)
@@ -763,7 +763,7 @@ Ja sia! Der Technikpodcast von und mit Chris und Pati. Wir bringen euch regelmä
 Die IT-News des Tages von heise online
 
 * Number of published episodes: 291
-* Last episode published: 🟢 Thursday, 28 September 2023
+* Last episode published: 🟢 Thursday, 05 October 2023
 * [Kurz informiert by heise online Website](http://www.heise.de/)
 * [Kurz informiert by heise online @ Spotify](https://open.spotify.com/show/2etf1jog8leNHbnhIArM9Z)
 * [Kurz informiert by heise online @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1485884061)
@@ -794,8 +794,8 @@ Der Podcast über unsere digitale Lebens- und Arbeitswelt mit Markus Hörster un
 
 Logbuch:Netzpolitik ist ein in der Regel wöchentlich erscheinender Podcast, der im Dialog zwischen Linus Neumann und Tim Pritlove die wichtigsten Themen und Ereignisse mit netzpolitischem Bezug aufgreift und diskutiert.
 
-* Number of published episodes: 473
-* Last episode published: 🟢 Thursday, 28 September 2023
+* Number of published episodes: 474
+* Last episode published: 🟢 Friday, 06 October 2023
 * [Logbuch: Netzpolitik Website](https://logbuch-netzpolitik.de/)
 * [Logbuch: Netzpolitik @ Apple Podcasts](https://podcasts.apple.com/de/podcast/476856034)
 * [Logbuch: Netzpolitik Podcast RSS](https://feeds.metaebene.me/lnp/m4a)
@@ -1196,8 +1196,8 @@ Dein täglicher Podcast mit dem, was wichtig war und was wichtig wird im digital
 
 In diesem Podcast diskutiert die t3n-Redaktion mit Gästen über die spannendsten digitalen Themen unserer Zeit. Ob innovative Führungskonzepte, die Digitalisierung der Gesellschaft, smarte Gadgets, neue Mobilität oder Zukunftstechnologien. Jeden Freitag um 10 Uhr!
 
-* Number of published episodes: 537
-* Last episode published: 🟢 Monday, 02 October 2023
+* Number of published episodes: 538
+* Last episode published: 🟢 Friday, 06 October 2023
 * [t3n Interview Website](https://t3n.de/podcast#interview)
 * [t3n Interview @ Spotify](https://open.spotify.com/show/7obTbZaywhQEiUUOMswQBQ)
 * [t3n Interview @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1115601393)
