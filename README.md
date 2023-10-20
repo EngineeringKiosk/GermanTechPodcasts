@@ -132,8 +132,8 @@ Deutschsprachiger Podcast zu den Themen IT-Sicherheit und Privatsphäre. Stefan 
 
 Apfelfunk ist ein wöchentlicher Podcast über Apple-Themen. Jean-Claude Frick und Malte Kirchner berichten und bewerten darin die Neuigkeiten über den wichtigsten Computerkonzern der Welt.
 
-* Number of published episodes: 402
-* Last episode published: 🟢 Wednesday, 11 October 2023
+* Number of published episodes: 403
+* Last episode published: 🟢 Wednesday, 18 October 2023
 * [Apfelfunk Website](http://www.apfelfunk.com/)
 * [Apfelfunk @ Spotify](https://open.spotify.com/show/7FQLyWiNhMR0KS93ReaI4h)
 * [Apfelfunk @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1081146940)
@@ -164,8 +164,8 @@ Ein Dialog über Malware, Cybercrime und Cyberspionage
 
 Sie möchten beim Thema Datenschutz auf dem Laufenden bleiben, aber keine seitenlange Literatur wälzen? Dann wenden Sie sich vertrauensvoll an unser Juristen-Redakteurs-Duo. Alle 14 Tage bespricht c&#39;t-Redakteur Holger Bleich mit Joerg Heidrich aktuelle Entwicklungen rund um den Datenschutz. Joerg ist beim c&#39;t-Mutterschiff Heise Medien als Justiziar für das Thema zuständig und hat täglich mit der europäischen Datenschutz-Grundverordnung (DSGVO) zu tun. Wechselnde Gäste ergänzen das Duo.
 
-* Number of published episodes: 95
-* Last episode published: 🟢 Friday, 06 October 2023
+* Number of published episodes: 96
+* Last episode published: 🟢 Friday, 20 October 2023
 * [Auslegungssache Website](https://heise.de/-4571821)
 * [Auslegungssache @ Spotify](https://open.spotify.com/show/3Jrnu7vrTurguBaCiPapkA)
 * [Auslegungssache @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1485860893)
@@ -479,8 +479,8 @@ Der Engineering Kiosk ist der deutschsprachige Software-Engineering-Podcast mit 
 
 Student*innen der Informatik, die einen Podcast machen, damit ihr alle checkt wie geil Informatik eigentlich ist.
 
-* Number of published episodes: 34
-* Last episode published: 🟡 Wednesday, 12 July 2023
+* Number of published episodes: 35
+* Last episode published: 🟢 Thursday, 19 October 2023
 * [Female TechTalk Website](https://www.female-techtalk.com/)
 * [Female TechTalk @ Spotify](https://open.spotify.com/show/23CmXEDANTleEB6hmeVj4W)
 * [Female TechTalk @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1589781968)
@@ -557,8 +557,8 @@ Wir talken GameDev und haben Unreal News.
 
 Ein monatlicher Podcast der GNU/Linux.ch Community mit Themen und Interviews rund um die Themen GNU/Linux, Freie Software und Freie Gesellschaft.
 
-* Number of published episodes: 64
-* Last episode published: 🟢 Wednesday, 11 October 2023
+* Number of published episodes: 65
+* Last episode published: 🟢 Wednesday, 18 October 2023
 * [GNU/Linux.ch Website](https://gnulinux.ch/)
 * [GNU/Linux.ch @ Spotify](https://open.spotify.com/show/0rs1Zm91TsjHhGo2lt0uPi)
 * [GNU/Linux.ch @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1527155920)
@@ -763,7 +763,7 @@ Ja sia! Der Technikpodcast von und mit Chris und Pati. Wir bringen euch regelmä
 Die IT-News des Tages von heise online
 
 * Number of published episodes: 291
-* Last episode published: 🟢 Friday, 13 October 2023
+* Last episode published: 🟢 Wednesday, 18 October 2023
 * [Kurz informiert by heise online Website](http://www.heise.de/)
 * [Kurz informiert by heise online @ Spotify](https://open.spotify.com/show/2etf1jog8leNHbnhIArM9Z)
 * [Kurz informiert by heise online @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1485884061)
@@ -809,8 +809,8 @@ Logbuch:Netzpolitik ist ein in der Regel wöchentlich erscheinender Podcast, der
 
 Redakteure von heise Mac &amp; i beschäftigen sich jeden Monat mit Apple-Produkten, -Betriebssystemen und dem Drumherum, stellen Testergebnisse vor und geben Tipps.
 
-* Number of published episodes: 56
-* Last episode published: 🟢 Friday, 06 October 2023
+* Number of published episodes: 57
+* Last episode published: 🟢 Friday, 20 October 2023
 * [Mac &amp; I Website](https://www.heise.de/mac-and-i/meldung/Mac-i-Der-Apple-Podcast-4681220.html)
 * [Mac &amp; I @ Spotify](https://open.spotify.com/show/5Tcgc97HvYREYM7kIRsxii)
 * [Mac &amp; I @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1499510618)
@@ -986,8 +986,8 @@ Ein Podcast über die dunkle Seite der Digitalisierung: Spionage, Hacker, Sabota
 
 Mit geballter Dev-Power nehmen Dennis, Fabi, Sebi und Jojo neue Podcastfolgen auf und werden dabei regelmäßig von Gäst:innen aus der Branche unterstützt. Taucht in unseren Deep Dives mit uns in Frameworks und Datenbanken ein, hört euch in den CTO-Specials die Erfahrungen führender Persönlichkeiten großer Unternehmen an und bleibt mit unseren News-Folgen stets am Ball in der Welt der App- und Webentwicklung.
 
-* Number of published episodes: 271
-* Last episode published: 🟢 Wednesday, 11 October 2023
+* Number of published episodes: 273
+* Last episode published: 🟢 Thursday, 19 October 2023
 * Weekly downloads (avg): 8744 (updated: 2023-04-12)
 * [programmier.bar Website](https://www.programmier.bar/podcast)
 * [programmier.bar @ Spotify](https://open.spotify.com/show/0ik0sXv9paTQCeThcOLCCJ)
@@ -1053,8 +1053,8 @@ Sandra Parsick &amp; Daniel Zenzes präsentieren mit Ready for Review einen bunt
 
 Die IT hat unser Leben in den letzten Jahrzehnten von Grund auf verändert. Aber wie funktioniert sie wirklich? Das möchte ttimeless mal erklärt bekommen. Zum Glück hat Xyrill Antworten.
 
-* Number of published episodes: 45
-* Last episode published: 🟢 Thursday, 28 September 2023
+* Number of published episodes: 46
+* Last episode published: 🟢 Thursday, 19 October 2023
 * [Schlüsseltechnologie Website](https://xyrillian.de/noises/stp/)
 * [Schlüsseltechnologie @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1559995829)
 * [Schlüsseltechnologie Podcast RSS](https://xyrillian.de/noises/stp/rss.xml)
@@ -1079,7 +1079,7 @@ Digitalisierung in Deutschland? Sagen wir mal so: Niemand klebt sich heute das Q
 
 <h3 id="security-insider">Security-Insider</h3>
 
-<img align="right" width="215" height="215" src="./generated/generated/images/security-insider.jpg" />
+<img align="right" width="215" height="215" src="./generated/images/security-insider.jpg" />
 
 Der Security-Insider Podcast ist ein Podcast für Security-Profis mit Infos, Nachrichten und Meinungen rund um die IT-Sicherheit. Hier unterhält sich Chefredakteur Peter Schmitz mit seinem Co-Host Dirk Srocke und manchmal auch mit spannenden Gästen. Zum Gespräch stehen alle Themen rund um die IT-Sicherheit, Datenschutz und Compliance.
 
@@ -1100,8 +1100,8 @@ Der Security-Insider Podcast ist ein Podcast für Security-Profis mit Infos, Nac
 
 Live-Diskussion zu Software-Architektur im Stream. Einmal in der Woche diskutiert Eberhard Wolff Software-Architektur im Live-Stream auf YouTube und Twitch - oft zusammen mit einem Gast. Zuschauer können über den Chat mitdiskutieren oder Fragen stellen. Der Podcast enthält die Audio-Spur des Streams.
 
-* Number of published episodes: 182
-* Last episode published: 🟢 Friday, 13 October 2023
+* Number of published episodes: 183
+* Last episode published: 🟢 Thursday, 19 October 2023
 * [SoftwareArchitektur im Stream Website](https://software-architektur.tv/)
 * [SoftwareArchitektur im Stream @ Spotify](https://open.spotify.com/show/7ySg1eZoWYBshd6QpGaW8B)
 * [SoftwareArchitektur im Stream @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1538545458)
@@ -1196,8 +1196,8 @@ Dein täglicher Podcast mit dem, was wichtig war und was wichtig wird im digital
 
 In diesem Podcast diskutiert die t3n-Redaktion mit Gästen über die spannendsten digitalen Themen unserer Zeit. Ob innovative Führungskonzepte, die Digitalisierung der Gesellschaft, smarte Gadgets, neue Mobilität oder Zukunftstechnologien. Jeden Freitag um 10 Uhr!
 
-* Number of published episodes: 541
-* Last episode published: 🟢 Monday, 16 October 2023
+* Number of published episodes: 542
+* Last episode published: 🟢 Friday, 20 October 2023
 * [t3n Interview Website](https://t3n.de/podcast#interview)
 * [t3n Interview @ Spotify](https://open.spotify.com/show/7obTbZaywhQEiUUOMswQBQ)
 * [t3n Interview @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1115601393)
@@ -1292,8 +1292,8 @@ todo:cast ist ein deutschsprachiger Podcast für die großen und kleinen Fragen 
 
 Wir sind UNMUTE IT, der Podcast von und mit Frauen aus der IT. Wir erzählen von unseren Erfahrungen, begegneten Herausforderungen, Tipps &amp; Tricks und teilen die eine oder andere Anekdote. Frauen gehören in STEM Felder.Mit unserer Präsenz wollen wir dies untermauern und Frauen motivieren, sich mit dem Thema zu beschäftigen und den Schritt in die IT zu gehen.
 
-* Number of published episodes: 52
-* Last episode published: 🟢 Wednesday, 04 October 2023
+* Number of published episodes: 53
+* Last episode published: 🟢 Friday, 20 October 2023
 * Weekly downloads (avg): 177 (updated: 2023-01-21)
 * [Unmute IT Website](https://linkr.bio/unmute-it)
 * [Unmute IT @ Spotify](https://open.spotify.com/show/4v3xXuY5Km98xnmeXeGZgx)
