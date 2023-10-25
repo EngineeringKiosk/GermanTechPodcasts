@@ -213,8 +213,8 @@ Ein Podcast über Web, Entwicklung, Mobile und Technologie. Betrachtet aus der S
 
 Prozessoren, Grafikkarten, Notebooks, Desktop-PCs, Server, KI, Rechenzentren und IT-Markt: In &#34;Bit-Rauschen&#34;, dem Prozessor-Podcast des Computermagazins c’t, dreht sich alles um Chips.
 
-* Number of published episodes: 73
-* Last episode published: 🟢 Wednesday, 11 October 2023
+* Number of published episodes: 74
+* Last episode published: 🟢 Wednesday, 25 October 2023
 * [Bit-Rauschen Website](https://www.ct.de/bit-rauschen)
 * [Bit-Rauschen @ Spotify](https://open.spotify.com/show/6JD6gwqgVR27GYZACrWOT1)
 * [Bit-Rauschen @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1549821753)
@@ -462,8 +462,8 @@ Digitalisierungsfieber, dem Podcast für IT Security, Datenschutz, und IT Servic
 
 Der Engineering Kiosk ist der deutschsprachige Software-Engineering-Podcast mit Wolfgang Gassler und Andy Grunwald rund um die Themen Engineering-Kultur, Open Source, Menschen, Technologie und allen anderen Bereichen, die damit in Verbindung stehen.
 
-* Number of published episodes: 95
-* Last episode published: 🟢 Tuesday, 17 October 2023
+* Number of published episodes: 96
+* Last episode published: 🟢 Tuesday, 24 October 2023
 * Weekly downloads (avg): 1099 (updated: 2023-01-31)
 * [Engineering Kiosk Website](https://engineeringkiosk.dev/)
 * [Engineering Kiosk @ Spotify](https://open.spotify.com/show/0tJRC0UsObPCWLmmzmOkIs)
@@ -495,8 +495,8 @@ Student*innen der Informatik, die einen Podcast machen, damit ihr alle checkt wi
 
 Der FOCUS ON: DevOps Podcast beschäftigt sich mit verschiedenen Methoden und Werkzeugen rund um das Thema DevOps. Dabei wechseln sich technische mit methodischen Folgen ab. Unser Ziel ist es über relevante Themen zu informieren und auch die Hersteller auf dem Markt als Gäste mit einzubinden.
 
-* Number of published episodes: 78
-* Last episode published: 🟢 Tuesday, 10 October 2023
+* Number of published episodes: 79
+* Last episode published: 🟢 Tuesday, 24 October 2023
 * [FOCUS ON: DevOps Website](https://focusondevops.podigee.io/)
 * [FOCUS ON: DevOps @ Spotify](https://open.spotify.com/show/0gXBw5mGcqXQkPW9h2JTaa)
 * [FOCUS ON: DevOps @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1542623849)
@@ -651,8 +651,8 @@ Du bist Entwickler/Developer? Dann Lauscher auf! Thomas und Christian sprechen i
 
 In dieser Serie diskutieren wir interessante Themen aus Software-Entwicklung und -Architektur – immer mit dem Fokus auf Praxistauglichkeit.
 
-* Number of published episodes: 137
-* Last episode published: 🟢 Monday, 09 October 2023
+* Number of published episodes: 138
+* Last episode published: 🟢 Monday, 23 October 2023
 * [INNOQ Podcast Website](https://www.innoq.com/de/podcast/)
 * [INNOQ Podcast @ Spotify](https://open.spotify.com/show/20svL8wDDgtidO2Qwf3EWx)
 * [INNOQ Podcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/672695146)
@@ -763,7 +763,7 @@ Ja sia! Der Technikpodcast von und mit Chris und Pati. Wir bringen euch regelmä
 Die IT-News des Tages von heise online
 
 * Number of published episodes: 291
-* Last episode published: 🟢 Wednesday, 18 October 2023
+* Last episode published: 🟢 Tuesday, 24 October 2023
 * [Kurz informiert by heise online Website](http://www.heise.de/)
 * [Kurz informiert by heise online @ Spotify](https://open.spotify.com/show/2etf1jog8leNHbnhIArM9Z)
 * [Kurz informiert by heise online @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1485884061)
@@ -858,8 +858,8 @@ Scrum kann doch inzwischen eh jeder? Von wegen! Denn - ganz unter uns: genug fal
 
 Mind the Tech ist ein Podcast, der die dunklen Seiten der IT- und Tech-Welt beleuchtet. Dazu zählen legendäre Hackerangriffe, Datendiebstähle und Cyberattacken. Ebenso kommen die unzähligen Geschichten von Menschen auf den Tisch, die es mit Recht und Gesetz im Web nicht so ernst nehmen – und irgendwann die Konsequenzen ihres Handelns zu spüren bekommen. Wir widmen uns Antitrends und Mythen, stellen Entwicklungen im und rund ums Internet in Frage, wägen ab. Denn wir sind fest davon überzeugt: Nur wenn wir uns ihren Schattenseiten widmen, können wir die (digitale) Welt zu einem besseren Ort machen.
 
-* Number of published episodes: 72
-* Last episode published: 🟢 Wednesday, 04 October 2023
+* Number of published episodes: 73
+* Last episode published: 🟢 Wednesday, 25 October 2023
 * [Mind the Tech Website](https://www.mindthetech.de/)
 * [Mind the Tech @ Spotify](https://open.spotify.com/show/6FydYmBjELizU8k8DOIcaA)
 * [Mind the Tech @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1515173582)
@@ -874,8 +874,8 @@ Mind the Tech ist ein Podcast, der die dunklen Seiten der IT- und Tech-Welt bele
 
 Der MIXEDCAST ist Deutschlands Podcast über Virtual Reality, Augmented Reality, Mixed Reality, Künstliche Intelligenz und generell neue Formen der Mensch-Computer-Interaktion. Wir sprechen über Themen wie Virtual Reality für Games, Entertainment und das Business, neue Augmented-Reality-Technologien oder Transhumanisums und wie sich die Beziehung zwischen Mensch, Computer und digitaler Welt verändert.
 
-* Number of published episodes: 368
-* Last episode published: 🟢 Wednesday, 04 October 2023
+* Number of published episodes: 369
+* Last episode published: 🟢 Tuesday, 24 October 2023
 * [Mixedcast Website](https://mixed.de/podcast/)
 * [Mixedcast @ Spotify](https://open.spotify.com/show/7nqUnwk9j5qFfjACXzc8Yg)
 * [Mixedcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1141873988)
@@ -1036,8 +1036,8 @@ Rund um Open Source, Freie Software, Linux und gesellschaftspolitische Themen.
 
 Sandra Parsick &amp; Daniel Zenzes präsentieren mit Ready for Review einen bunten Mix aus aktuellen IT-Themen und ihrem täglichen Entwickler-Alltag.
 
-* Number of published episodes: 54
-* Last episode published: 🟢 Sunday, 17 September 2023
+* Number of published episodes: 55
+* Last episode published: 🟢 Tuesday, 24 October 2023
 * Weekly downloads (avg): 66 (updated: 2022-07-29)
 * [Ready for Review Website](https://ready-for-review.dev/)
 * [Ready for Review @ Spotify](https://open.spotify.com/show/7dxK2wi4ZMGEYO3UHhTSc4)
@@ -1165,8 +1165,8 @@ Jede Woche setzen wir uns mit Expert:innen aus der Webentwicklung zusammen. Imme
 
 Digitalisierung ist komplex. Heute entsteht dies, morgen das. Und was übermorgen noch wichtig ist, wissen die wenigsten. Wir schon! Im Podcast besprechen wir mit den Expert:innen unserer Redaktion die wichtigsten Entwicklungen der Woche und der Zukunft. Wir geben Wissensvorsprung und Impulse.
 
-* Number of published episodes: 68
-* Last episode published: 🟢 Wednesday, 18 October 2023
+* Number of published episodes: 69
+* Last episode published: 🟢 Wednesday, 25 October 2023
 * [t3n Catch up Website](https://t3n.de/podcast#catchup)
 * [t3n Catch up @ Spotify](https://open.spotify.com/show/0Bjrzu6l2RtRRyvTf0QEKQ)
 * [t3n Catch up @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1627024991)
@@ -1308,8 +1308,8 @@ Wir sind UNMUTE IT, der Podcast von und mit Frauen aus der IT. Wir erzählen von
 
 IT Security Podcast
 
-* Number of published episodes: 41
-* Last episode published: 🟢 Monday, 25 September 2023
+* Number of published episodes: 42
+* Last episode published: 🟢 Tuesday, 24 October 2023
 * [Unter 4 Ohren Website](https://www.all-about-security.de/unter4ohren/)
 * [Unter 4 Ohren @ Spotify](https://open.spotify.com/show/7EQFf6fL4dytVJWB4DXYsQ)
 * [Unter 4 Ohren @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1551939691)
@@ -1324,8 +1324,8 @@ IT Security Podcast
 
 Alle 14 Tage laden wir zu einer kleinen Kaminzimmerrunde rund um den Themenkomplex Datacenter, Cloud und IT ein. In Ermangelung eines Kaminzimmers sitzen wir in der Hot Aisle eines Datacenters, statt feudaler Sessel gibt es faltbare Campingstühle, und die Cognacschwenker durften wir auch nicht mit reinnehmen. :/
 
-* Number of published episodes: 44
-* Last episode published: 🟢 Tuesday, 10 October 2023
+* Number of published episodes: 45
+* Last episode published: 🟢 Tuesday, 24 October 2023
 * Weekly downloads (avg): 100 (updated: 2022-07-31)
 * [Wartungsfenster Website](https://wartungsfenster.podigee.io/)
 * [Wartungsfenster @ Spotify](https://open.spotify.com/show/063YcVklbp1N8z1ZHSA709)
@@ -1373,8 +1373,8 @@ Latenight-Frontend-Talkshow rund um Webdesign und Entwicklung. Es reden sich um 
 
 Wöchentlicher Podcast für Webdesigner:innen und -entwickler:innen
 
-* Number of published episodes: 607
-* Last episode published: 🟢 Tuesday, 17 October 2023
+* Number of published episodes: 608
+* Last episode published: 🟢 Tuesday, 24 October 2023
 * [Working Draft Website](https://workingdraft.de/)
 * [Working Draft @ Spotify](https://open.spotify.com/show/78iH7cIFzu1ejoB6aQUsIh)
 * [Working Draft @ Apple Podcasts](https://podcasts.apple.com/de/podcast/402204581)
