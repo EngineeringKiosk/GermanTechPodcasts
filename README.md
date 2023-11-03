@@ -6,10 +6,9 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (80 podcasts)
+* [Podcasts](#podcasts) (79 podcasts)
   * [0d - Zeroday](#0d-zeroday)
   * [Apfelfunk](#apfelfunk)
-  * [Armchair Investigators](#armchair-investigators)
   * [Auslegungssache](#auslegungssache)
   * [Autoweird](#autoweird)
   * [Binärgewitter](#binargewitter)
@@ -87,7 +86,8 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [Wo wir sind ist vorne](#wo-wir-sind-ist-vorne)
   * [Working Draft](#working-draft)
   * [WP Sofa](#wp-sofa)
-* [Archived podcasts](#archived-podcasts) (11 podcasts)
+* [Archived podcasts](#archived-podcasts) (12 podcasts)
+  * [Armchair Investigators](#armchair-investigators)
   * [Bits &amp; Böses - Der Tech Crime Podcast](#bits-and-boses-der-tech-crime-podcast)
   * [Codestammtisch](#codestammtisch)
   * [GeekWeek](#geekweek)
@@ -132,29 +132,13 @@ Deutschsprachiger Podcast zu den Themen IT-Sicherheit und Privatsphäre. Stefan 
 
 Apfelfunk ist ein wöchentlicher Podcast über Apple-Themen. Jean-Claude Frick und Malte Kirchner berichten und bewerten darin die Neuigkeiten über den wichtigsten Computerkonzern der Welt.
 
-* Number of published episodes: 405
-* Last episode published: 🟢 Wednesday, 25 October 2023
+* Number of published episodes: 406
+* Last episode published: 🟢 Wednesday, 01 November 2023
 * [Apfelfunk Website](http://www.apfelfunk.com/)
 * [Apfelfunk @ Spotify](https://open.spotify.com/show/7FQLyWiNhMR0KS93ReaI4h)
 * [Apfelfunk @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1081146940)
 * [Apfelfunk Podcast RSS](https://feeds.soundcloud.com/users/soundcloud:users:201768667/sounds.rss)
 * Tags: Apple, Hardware
-
-----
-
-<h3 id="armchair-investigators">Armchair Investigators</h3>
-
-<img align="right" width="215" height="215" src="./generated/images/armchair-investigators.png" />
-
-Ein Dialog über Malware, Cybercrime und Cyberspionage
-
-* Number of published episodes: 9
-* Last episode published: 🔴 Monday, 01 May 2023
-* [Armchair Investigators Website](https://armchairinvestigators.de/)
-* [Armchair Investigators @ Spotify](https://open.spotify.com/show/1xaPIhkQWfAtmHPg8llCEJ)
-* [Armchair Investigators @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1555931250)
-* [Armchair Investigators Podcast RSS](https://armchairinvestigators.de/feed/podcast/)
-* Tags: Malware, Cybercrime, Cyberspionage, Security
 
 ----
 
@@ -164,8 +148,8 @@ Ein Dialog über Malware, Cybercrime und Cyberspionage
 
 Sie möchten beim Thema Datenschutz auf dem Laufenden bleiben, aber keine seitenlange Literatur wälzen? Dann wenden Sie sich vertrauensvoll an unser Juristen-Redakteurs-Duo. Alle 14 Tage bespricht c&#39;t-Redakteur Holger Bleich mit Joerg Heidrich aktuelle Entwicklungen rund um den Datenschutz. Joerg ist beim c&#39;t-Mutterschiff Heise Medien als Justiziar für das Thema zuständig und hat täglich mit der europäischen Datenschutz-Grundverordnung (DSGVO) zu tun. Wechselnde Gäste ergänzen das Duo.
 
-* Number of published episodes: 96
-* Last episode published: 🟢 Friday, 20 October 2023
+* Number of published episodes: 97
+* Last episode published: 🟢 Friday, 03 November 2023
 * [Auslegungssache Website](https://heise.de/-4571821)
 * [Auslegungssache @ Spotify](https://open.spotify.com/show/3Jrnu7vrTurguBaCiPapkA)
 * [Auslegungssache @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1485860893)
@@ -198,7 +182,7 @@ Sie möchten beim Thema Datenschutz auf dem Laufenden bleiben, aber keine seiten
 Ein Podcast über Web, Entwicklung, Mobile und Technologie. Betrachtet aus der Sicht von Entwicklern bzw. Open Source Begeisterten. Das heißt aber nicht, dass wir alles mit einer Rosa-Roten Brille sehen. Wir suchen bei Apple und Microsoft genauso das Gute und Schlechte wie auch bei Linux und anderen Open Source Projekten. Wir wollen realistisch sein. Auch wenn wir damit anecken sollten.
 
 * Number of published episodes: 50
-* Last episode published: 🟢 Thursday, 05 October 2023
+* Last episode published: 🟢 Thursday, 02 November 2023
 * [Binärgewitter Website](http://blog.binaergewitter.de/)
 * [Binärgewitter @ Spotify](https://open.spotify.com/show/19LedqK0fGWfzfKzySDoVW)
 * [Binärgewitter @ Apple Podcasts](https://podcasts.apple.com/de/podcast/216877594)
@@ -275,8 +259,8 @@ Mitglieder der c&#39;t-Redaktion diskutieren über die aktuellen Themen aus dem 
 
 Im monatlichen Chaosradio informiert der Chaos Computer Club Berlin seit 1995 über die Auswirkungen von Technik auf die Gesellschaft.
 
-* Number of published episodes: 272
-* Last episode published: 🟢 Saturday, 30 September 2023
+* Number of published episodes: 273
+* Last episode published: 🟢 Tuesday, 31 October 2023
 * [Chaosradio Website](https://chaosradio.de/)
 * [Chaosradio @ Apple Podcasts](https://podcasts.apple.com/de/podcast/135057225)
 * [Chaosradio Podcast RSS](https://chaosradio.de/feed/m4a)
@@ -320,8 +304,8 @@ Jonathan und Ingmar sprechen übers Programmieren und Ausliefern von Software Pr
 
 Lucas Rott und Markus Herhoffer erzählen alle 14 Tage von Code und Nerd-Kultur. Mit News aus der Tech-Bubble, einem Thema der Woche über Software development und dem Code der Woche.
 
-* Number of published episodes: 110
-* Last episode published: 🟢 Sunday, 15 October 2023
+* Number of published episodes: 111
+* Last episode published: 🟢 Wednesday, 01 November 2023
 * [Code Culture Website](https://codeculture.podigee.io/)
 * [Code Culture @ Spotify](https://open.spotify.com/show/01ZL2aPP50lLW51u2aTOkN)
 * [Code Culture @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1516904389)
@@ -479,8 +463,8 @@ Der Engineering Kiosk ist der deutschsprachige Software-Engineering-Podcast mit 
 
 Student*innen der Informatik, die einen Podcast machen, damit ihr alle checkt wie geil Informatik eigentlich ist.
 
-* Number of published episodes: 35
-* Last episode published: 🟢 Thursday, 19 October 2023
+* Number of published episodes: 36
+* Last episode published: 🟢 Thursday, 02 November 2023
 * [Female TechTalk Website](https://www.female-techtalk.com/)
 * [Female TechTalk @ Spotify](https://open.spotify.com/show/23CmXEDANTleEB6hmeVj4W)
 * [Female TechTalk @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1589781968)
@@ -557,8 +541,8 @@ Wir talken GameDev und haben Unreal News.
 
 Ein monatlicher Podcast der GNU/Linux.ch Community mit Themen und Interviews rund um die Themen GNU/Linux, Freie Software und Freie Gesellschaft.
 
-* Number of published episodes: 66
-* Last episode published: 🟢 Wednesday, 25 October 2023
+* Number of published episodes: 67
+* Last episode published: 🟢 Wednesday, 01 November 2023
 * [GNU/Linux.ch Website](https://gnulinux.ch/)
 * [GNU/Linux.ch @ Spotify](https://open.spotify.com/show/0rs1Zm91TsjHhGo2lt0uPi)
 * [GNU/Linux.ch @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1527155920)
@@ -986,8 +970,8 @@ Ein Podcast über die dunkle Seite der Digitalisierung: Spionage, Hacker, Sabota
 
 Mit geballter Dev-Power nehmen Dennis, Fabi, Sebi und Jojo neue Podcastfolgen auf und werden dabei regelmäßig von Gäst:innen aus der Branche unterstützt. Taucht in unseren Deep Dives mit uns in Frameworks und Datenbanken ein, hört euch in den CTO-Specials die Erfahrungen führender Persönlichkeiten großer Unternehmen an und bleibt mit unseren News-Folgen stets am Ball in der Welt der App- und Webentwicklung.
 
-* Number of published episodes: 273
-* Last episode published: 🟢 Friday, 27 October 2023
+* Number of published episodes: 274
+* Last episode published: 🟢 Wednesday, 01 November 2023
 * Weekly downloads (avg): 8744 (updated: 2023-04-12)
 * [programmier.bar Website](https://www.programmier.bar/podcast)
 * [programmier.bar @ Spotify](https://open.spotify.com/show/0ik0sXv9paTQCeThcOLCCJ)
@@ -1196,8 +1180,8 @@ Dein täglicher Podcast mit dem, was wichtig war und was wichtig wird im digital
 
 In diesem Podcast diskutiert die t3n-Redaktion mit Gästen über die spannendsten digitalen Themen unserer Zeit. Ob innovative Führungskonzepte, die Digitalisierung der Gesellschaft, smarte Gadgets, neue Mobilität oder Zukunftstechnologien. Jeden Freitag um 10 Uhr!
 
-* Number of published episodes: 545
-* Last episode published: 🟢 Monday, 30 October 2023
+* Number of published episodes: 546
+* Last episode published: 🟢 Friday, 03 November 2023
 * [t3n Interview Website](https://t3n.de/podcast#interview)
 * [t3n Interview @ Spotify](https://open.spotify.com/show/7obTbZaywhQEiUUOMswQBQ)
 * [t3n Interview @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1115601393)
@@ -1211,8 +1195,8 @@ In diesem Podcast diskutiert die t3n-Redaktion mit Gästen über die spannendste
 
 Der Podcast rund um Technologie, Smart Home, Gadgets und mehr. Patrick und Ingo sprechen regelmäßig über Hard- und Software, die Ihnen im Alltag helfen - doch das ist noch längst nicht alles. Sie probieren Neues aus, berichten ganz offen und ehrlich über Vor- und Nachteile verschiedenster Produkte und geben Ihrer Meinung freien Lauf. Designliebe, Produktivitäts-Junkies, neugierige Technik-Besessene, Smart Home Neulinge und Liebhaber von Innovationen finden sich hier schnell zu Recht - alle andere sollten einschalten, mitreden und staunen, was alles möglich ist!
 
-* Number of published episodes: 29
-* Last episode published: 🟢 Wednesday, 25 October 2023
+* Number of published episodes: 30
+* Last episode published: 🟢 Wednesday, 01 November 2023
 * [Tech me if you can Website](https://techmeifyoucan.letscast.fm/)
 * [Tech me if you can @ Spotify](https://open.spotify.com/show/34sAq6pHjadCQyPoydwZfN?si=5a0cf3dda5f74983)
 * [Tech me if you can @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1674729698)
@@ -1227,8 +1211,8 @@ Der Podcast rund um Technologie, Smart Home, Gadgets und mehr. Patrick und Ingo 
 
 IT-Security, unendliche Weiten ... So oder so ähnlich lässt sich die Größenordnung von alldem, was IT-Security betrifft, beschreiben - Netzwerk, Cloud, Endpoint, E-Mail, SOC, Schwachstellen, Sicherheitsvorfall, Awareness und vieeeles mehr. Klingt unfassbar kompliziert – ist aber auch unfassbar spannend. In unserem Podcast berichten wir über aktuelle Themen und zeigen euch, warum das Thema IT-Sicherheit auch für euren Alltag extrem wichtig ist. Denn das ist unsere Leidenschaft: eure Unternehmen und eure Arbeit sicher zu machen. Habt ihr heute schon auf einen Link geklickt? 😉
 
-* Number of published episodes: 25
-* Last episode published: 🟢 Friday, 20 October 2023
+* Number of published episodes: 26
+* Last episode published: 🟢 Thursday, 02 November 2023
 * [The World of IT-Security Website](https://www.suresecure.de/aktuelles/podcast)
 * [The World of IT-Security @ Spotify](https://open.spotify.com/show/38ro5pDX7ToVMA9w6RVyNM)
 * [The World of IT-Security @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1567043544)
@@ -1384,6 +1368,22 @@ Wir berichten zweiwöchentlich über News und Updates aus dem WordPress Universu
 
 ## Archived podcasts
 
+
+<h3 id="armchair-investigators">Armchair Investigators</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/armchair-investigators.png" />
+
+Ein Dialog über Malware, Cybercrime und Cyberspionage
+
+* Number of published episodes: 9
+* Last episode published: 🔴 Monday, 01 May 2023
+* [Armchair Investigators Website](https://armchairinvestigators.de/)
+* [Armchair Investigators @ Spotify](https://open.spotify.com/show/1xaPIhkQWfAtmHPg8llCEJ)
+* [Armchair Investigators @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1555931250)
+* [Armchair Investigators Podcast RSS](https://armchairinvestigators.de/feed/podcast/)
+* Tags: Malware, Cybercrime, Cyberspionage, Security
+
+----
 
 <h3 id="bits-and-boses-der-tech-crime-podcast">Bits &amp; Böses - Der Tech Crime Podcast</h3>
 
