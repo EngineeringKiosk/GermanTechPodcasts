@@ -1,5 +1,10 @@
+---
 name: Schlüsseltechnologie
 website: https://xyrillian.de/noises/stp/
 podcastIndexID: 3663373
 rssFeed: https://xyrillian.de/noises/stp/rss.xml
 description: Die IT hat unser Leben in den letzten Jahrzehnten von Grund auf verändert. Aber wie funktioniert sie wirklich? Das möchte ttimeless mal erklärt bekommen. Zum Glück hat Xyrill Antworten.
+tags:
+  - Softwareentwicklung
+  - Technologie
+  - Security  
