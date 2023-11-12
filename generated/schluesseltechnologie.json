@@ -6,7 +6,11 @@
  "rssFeed": "https://xyrillian.de/noises/stp/rss.xml",
  "spotify": "",
  "description": "Die IT hat unser Leben in den letzten Jahrzehnten von Grund auf verändert. Aber wie funktioniert sie wirklich? Das möchte ttimeless mal erklärt bekommen. Zum Glück hat Xyrill Antworten.",
- "tags": null,
+ "tags": [
+  "Softwareentwicklung",
+  "Technologie",
+  "Security"
+ ],
  "weekly_downloads_avg": {
   "value": 0,
   "updated": ""

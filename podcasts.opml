@@ -2,11 +2,12 @@
  <opml version="2.0">
    <head>
      <title>Deutschsprachige Tech Podcasts</title>
-     <dateCreated>Fri, 10 Nov 2023 11:17:23 UTC</dateCreated>
+     <dateCreated>Sun, 12 Nov 2023 14:45:28 UTC</dateCreated>
      <ownerName>Engineering Kiosk</ownerName>
      <ownerEmail>stehtisch@engineeringkiosk.dev</ownerEmail>
    </head>
    <body>
+     <outline title="((c3d2)) Pentaradio 24" text="((c3d2)) Pentaradio 24" type="rss" xmlUrl="https://www.c3d2.de/pentaradio.xml" htmlUrl="https://www.c3d2.de/radio.html"></outline>
      <outline title="0d - Zeroday" text="0d - Zeroday" type="rss" xmlUrl="https://0x0d.de/feed/mp3/" htmlUrl="https://0x0d.de/"></outline>
      <outline title="Apfelfunk" text="Apfelfunk" type="rss" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:201768667/sounds.rss" htmlUrl="http://www.apfelfunk.com/"></outline>
      <outline title="Armchair Investigators" text="Armchair Investigators" type="rss" xmlUrl="https://armchairinvestigators.de/feed/podcast/" htmlUrl="https://armchairinvestigators.de/"></outline>
