@@ -6,7 +6,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (80 podcasts)
+* [Podcasts](#podcasts) (81 podcasts)
   * [((c3d2)) Pentaradio 24](#c3d2-pentaradio-24)
   * [0d - Zeroday](#0d-zeroday)
   * [Apfelfunk](#apfelfunk)
@@ -29,6 +29,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [dev.env](#dev-env)
   * [DevCouch](#devcouch)
   * [Digitalisierungsfieber](#digitalisierungsfieber)
+  * [Einfach Komplex](#einfach-komplex)
   * [Engineering Kiosk](#engineering-kiosk)
   * [Female TechTalk](#female-techtalk)
   * [FOCUS ON: DevOps](#focus-on-devops)
@@ -149,8 +150,8 @@ Deutschsprachiger Podcast zu den Themen IT-Sicherheit und Privatsphäre. Stefan 
 
 Apfelfunk ist ein wöchentlicher Podcast über Apple-Themen. Jean-Claude Frick und Malte Kirchner berichten und bewerten darin die Neuigkeiten über den wichtigsten Computerkonzern der Welt.
 
-* Number of published episodes: 408
-* Last episode published: 🟢 Wednesday, 15 November 2023
+* Number of published episodes: 409
+* Last episode published: 🟢 Wednesday, 22 November 2023
 * [Apfelfunk Website](http://www.apfelfunk.com/)
 * [Apfelfunk @ Spotify](https://open.spotify.com/show/7FQLyWiNhMR0KS93ReaI4h)
 * [Apfelfunk @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1081146940)
@@ -457,6 +458,21 @@ Digitalisierungsfieber, dem Podcast für IT Security, Datenschutz, und IT Servic
 
 ----
 
+<h3 id="einfach-komplex">Einfach Komplex</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/einfach-komplex.jpg" />
+
+oftware und IT sind komplex. Gerade Fachfremde, die dennoch häufig mit Software und IT in Berührung kommen, sind sich dessen bewusst. Es kann nur von Vorteil sein, von gängigen Konzepten und Technologien gehört zu haben. So lässt es sich besser mitreden und entscheiden, wenn ein Softwareprojekt, neue Infrastruktur oder andere Fragen mit Bezug zur IT anstehen. Bei &amp;quot;Einfach komplex&amp;quot; erhältst du jeden Dienstag eine Perspektive auf Softwareentwicklung, IT- sowie OT-Themen, um für private als auch berufliche Diskussionen gewappnet zu sein. Doch seien wir ehrlich, es bleibt einfach komplex!
+
+* Number of published episodes: 46
+* Last episode published: 🟢 Monday, 20 November 2023
+* [Einfach Komplex Website](https://heisenware.com/podcast)
+* [Einfach Komplex @ Spotify](https://open.spotify.com/show/4eTpBCjUos9xUXtX294CnY?si=457f567027574f40)
+* [Einfach Komplex @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1663188205)
+* [Einfach Komplex Podcast RSS](https://anchor.fm/s/d4258904/podcast/rss)
+
+----
+
 <h3 id="engineering-kiosk">Engineering Kiosk</h3>
 
 <img align="right" width="215" height="215" src="./generated/images/engineering-kiosk.jpg" />
@@ -543,8 +559,8 @@ Freak Show ist ein Podcast, der sich mit dem Leben mit Technik im 21. Jahrhunder
 
 Wir talken GameDev und haben Unreal News.
 
-* Number of published episodes: 77
-* Last episode published: 🟢 Wednesday, 15 November 2023
+* Number of published episodes: 78
+* Last episode published: 🟢 Wednesday, 22 November 2023
 * [Gamedev für die Platte - Der Unreal Podcast Website](https://gamedevfuerdieplatte.podbean.com/)
 * [Gamedev für die Platte - Der Unreal Podcast @ Spotify](https://open.spotify.com/show/3UtoyAbMfEvkSIx5w3HohY)
 * [Gamedev für die Platte - Der Unreal Podcast Podcast RSS](https://feed.podbean.com/gamedevfuerdieplatte/feed.xml)
@@ -558,8 +574,8 @@ Wir talken GameDev und haben Unreal News.
 
 Ein monatlicher Podcast der GNU/Linux.ch Community mit Themen und Interviews rund um die Themen GNU/Linux, Freie Software und Freie Gesellschaft.
 
-* Number of published episodes: 69
-* Last episode published: 🟢 Tuesday, 14 November 2023
+* Number of published episodes: 70
+* Last episode published: 🟢 Wednesday, 22 November 2023
 * [GNU/Linux.ch Website](https://gnulinux.ch/)
 * [GNU/Linux.ch @ Spotify](https://open.spotify.com/show/0rs1Zm91TsjHhGo2lt0uPi)
 * [GNU/Linux.ch @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1527155920)
@@ -700,8 +716,8 @@ Dieser Podcast unterstützt schnell, konkret und umfänglich beim Einstieg in di
 
 Nur etwas mehr als 60 Jahre liegen zwischen dem ersten Start eines Motorflugzeugs und dem ersten bemannten Flug zum Mond. Das Handy wurde in nur 30 Jahren zum wichtigsten Kommunikationskanal unserer Zeit. Und IT? Die entwickelt sich nicht weniger rasant und macht in einer vernetzten und digitalen Welt vor keinem Bereich mehr halt. Im Podcast sprechen wir über Trendthemen, die zwar nichts mit Raketenwissenschaft zu tun haben, dafür aber Menschen auf dem Weg in eine digitale Zukunft begleiten. Bist Du bereit?
 
-* Number of published episodes: 71
-* Last episode published: 🟢 Wednesday, 08 November 2023
+* Number of published episodes: 72
+* Last episode published: 🟢 Wednesday, 22 November 2023
 * [IT ist alles Website](https://www.pco-online.de/magazin/2020/07/podcast)
 * [IT ist alles @ Spotify](https://open.spotify.com/show/46EUTeJsHSfscbkrI38f6p)
 * [IT ist alles @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1524049773)
@@ -1358,8 +1374,8 @@ Latenight-Frontend-Talkshow rund um Webdesign und Entwicklung. Es reden sich um 
 
 Wöchentlicher Podcast für Webdesigner:innen und -entwickler:innen
 
-* Number of published episodes: 611
-* Last episode published: 🟢 Monday, 20 November 2023
+* Number of published episodes: 612
+* Last episode published: 🟢 Wednesday, 22 November 2023
 * [Working Draft Website](https://workingdraft.de/)
 * [Working Draft @ Spotify](https://open.spotify.com/show/78iH7cIFzu1ejoB6aQUsIh)
 * [Working Draft @ Apple Podcasts](https://podcasts.apple.com/de/podcast/402204581)
