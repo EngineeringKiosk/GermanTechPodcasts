@@ -2,7 +2,7 @@
  <opml version="2.0">
    <head>
      <title>Deutschsprachige Tech Podcasts</title>
-     <dateCreated>Thu, 23 Nov 2023 21:11:44 UTC</dateCreated>
+     <dateCreated>Fri, 24 Nov 2023 08:55:15 UTC</dateCreated>
      <ownerName>Engineering Kiosk</ownerName>
      <ownerEmail>stehtisch@engineeringkiosk.dev</ownerEmail>
    </head>
@@ -24,6 +24,7 @@
      <outline title="Code and Ship" text="Code and Ship" type="rss" xmlUrl="https://codeandship.rocks/podcast/index.xml" htmlUrl="https://codeandship.rocks/"></outline>
      <outline title="Code Culture" text="Code Culture" type="rss" xmlUrl="https://codeculture.podigee.io/feed/mp3" htmlUrl="https://codeculture.podigee.io/"></outline>
      <outline title="Codestammtisch" text="Codestammtisch" type="rss" xmlUrl="https://codestammtis.ch/feed/mp3/" htmlUrl="https://codestammtis.ch/"></outline>
+     <outline title="Coding Buddies" text="Coding Buddies" type="rss" xmlUrl="https://codingbuddies.podcaster.de/cb-podcast.rss" htmlUrl="https://www.codingbuddies.de/"></outline>
      <outline title="Computer und Kommunikation (Deutschlandfunk)" text="Computer und Kommunikation (Deutschlandfunk)" type="rss" xmlUrl="https://www.deutschlandfunk.de/computer-und-kommunikation-102.xml" htmlUrl="https://www.deutschlandfunk.de/computer-und-kommunikation-102.html"></outline>
      <outline title="Cybersecurity entschlüsselt" text="Cybersecurity entschlüsselt" type="rss" xmlUrl="https://cybersecurity-entschluesselt.de/rss.xml" htmlUrl="https://www.cybersecurity-entschluesselt.de"></outline>
      <outline title="Das Duumvirat" text="Das Duumvirat" type="rss" xmlUrl="https://www.trommelspeicher.de/resource/podcast/feed.xml" htmlUrl="https://www.trommelspeicher.de/podcast/"></outline>
