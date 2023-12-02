@@ -15,7 +15,7 @@
  },
  "episodeCount": 183,
  "latestEpisodePublished": 1685631600,
- "archive": false,
+ "archive": true,
  "itunesID": 1643152920,
  "image": "images/t3n-daily.jpg"
 }

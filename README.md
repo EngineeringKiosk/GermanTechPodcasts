@@ -6,7 +6,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (80 podcasts)
+* [Podcasts](#podcasts) (79 podcasts)
   * [((c3d2)) Pentaradio 24](#c3d2-pentaradio-24)
   * [0d - Zeroday](#0d-zeroday)
   * [Apfelfunk](#apfelfunk)
@@ -74,7 +74,6 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [Speak 1337](#speak-1337)
   * [Super Duper Developers Club](#super-duper-developers-club)
   * [t3n Catch up](#t3n-catch-up)
-  * [t3n Daily](#t3n-daily)
   * [t3n Interview](#t3n-interview)
   * [Tech me if you can](#tech-me-if-you-can)
   * [The World of IT-Security](#the-world-of-it-security)
@@ -87,7 +86,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [Wo wir sind ist vorne](#wo-wir-sind-ist-vorne)
   * [Working Draft](#working-draft)
   * [WP Sofa](#wp-sofa)
-* [Archived podcasts](#archived-podcasts) (14 podcasts)
+* [Archived podcasts](#archived-podcasts) (16 podcasts)
   * [Armchair Investigators](#armchair-investigators)
   * [Bits &amp; Böses - Der Tech Crime Podcast](#bits-and-boses-der-tech-crime-podcast)
   * [Codestammtisch](#codestammtisch)
@@ -101,7 +100,9 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [She for what? She for IT!](#she-for-what-she-for-it)
   * [She Likes Tech](#she-likes-tech)
   * [Software-Architektur als Beruf](#software-architektur-als-beruf)
+  * [t3n Daily](#t3n-daily)
   * [Techtiefen](#techtiefen)
+  * [Tux-Flash](#tux-flash)
 * [Legend](#legend)
 * [How to contribute](#how-to-contribute)
 * [In the press](#in-the-press)
@@ -263,8 +264,8 @@ Ransomware Attacken, Phishing oder DDoS - jeden Tag aufs Neue werden Unternehmen
 
 Mitglieder der c&#39;t-Redaktion diskutieren über die aktuellen Themen aus dem c’t Magazin und was sonst noch so in der IT-Welt passiert.
 
-* Number of published episodes: 517
-* Last episode published: 🟢 Saturday, 25 November 2023
+* Number of published episodes: 518
+* Last episode published: 🟢 Saturday, 02 December 2023
 * [c&#39;t uplink Website](https://www.heise.de/ct/entdecken/?hauptrubrik=%40ctmagazin&amp;unterrubrik=c%27t&#43;uplink)
 * [c&#39;t uplink @ Spotify](https://open.spotify.com/show/4LdN7lGr9winLtQSqoIjVD)
 * [c&#39;t uplink @ Apple Podcasts](https://podcasts.apple.com/de/podcast/835717958)
@@ -482,10 +483,12 @@ Software und IT sind komplex. Gerade Fachfremde, die dennoch häufig mit Softwar
 
 * Number of published episodes: 46
 * Last episode published: 🟢 Monday, 20 November 2023
+* Weekly downloads (avg): 417 (updated: 2023-11-16)
 * [Einfach Komplex Website](https://heisenware.com/podcast)
 * [Einfach Komplex @ Spotify](https://open.spotify.com/show/4eTpBCjUos9xUXtX294CnY?si=457f567027574f40)
 * [Einfach Komplex @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1663188205)
 * [Einfach Komplex Podcast RSS](https://anchor.fm/s/d4258904/podcast/rss)
+* Tags: Softwareentwicklung, IoT, IT, Einsteiger, Software
 
 ----
 
@@ -544,8 +547,8 @@ Der FOCUS ON: DevOps Podcast beschäftigt sich mit verschiedenen Methoden und We
 
 Der FOCUS ON: Linux Podcast beschäftigt sich mit verschiedenen Themen rund um Linux. Unser Ziel ist es, euch monatlich über die Entwicklungen und Neuigkeiten zu informieren und auch praktische Tool-Tipps an die Hand zu geben.
 
-* Number of published episodes: 72
-* Last episode published: 🟢 Thursday, 30 November 2023
+* Number of published episodes: 73
+* Last episode published: 🟢 Friday, 01 December 2023
 * Weekly downloads (avg): 710 (updated: 2022-10-26)
 * [FOCUS ON: Linux Website](https://focusonlinux.podigee.io/)
 * [FOCUS ON: Linux @ Spotify](https://open.spotify.com/show/4Yj9EaidQuwEZL0NkAafzh)
@@ -1103,8 +1106,8 @@ Der Security-Insider Podcast ist ein Podcast für Security-Profis mit Infos, Nac
 
 Live-Diskussion zu Software-Architektur im Stream. Einmal in der Woche diskutiert Eberhard Wolff Software-Architektur im Live-Stream auf YouTube und Twitch - oft zusammen mit einem Gast. Zuschauer können über den Chat mitdiskutieren oder Fragen stellen. Der Podcast enthält die Audio-Spur des Streams.
 
-* Number of published episodes: 187
-* Last episode published: 🟢 Friday, 24 November 2023
+* Number of published episodes: 188
+* Last episode published: 🟢 Friday, 01 December 2023
 * [SoftwareArchitektur im Stream Website](https://software-architektur.tv/)
 * [SoftwareArchitektur im Stream @ Spotify](https://open.spotify.com/show/7ySg1eZoWYBshd6QpGaW8B)
 * [SoftwareArchitektur im Stream @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1538545458)
@@ -1174,22 +1177,6 @@ Digitalisierung ist komplex. Heute entsteht dies, morgen das. Und was übermorge
 * [t3n Catch up @ Spotify](https://open.spotify.com/show/0Bjrzu6l2RtRRyvTf0QEKQ)
 * [t3n Catch up @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1627024991)
 * [t3n Catch up Podcast RSS](https://t3n-catch-up.podigee.io/feed/mp3)
-
-----
-
-<h3 id="t3n-daily">t3n Daily</h3>
-
-<img align="right" width="215" height="215" src="./generated/images/t3n-daily.jpg" />
-
-Dein täglicher Podcast mit dem, was wichtig war und was wichtig wird im digitalen Kosmos und dem Arbeitsleben der Zukunft. Die perfekte Begleitung zum Abschluss des Arbeitstages und auf dem Weg in den Abend.
-
-* Number of published episodes: 183
-* Last episode published: 🟡 Thursday, 01 June 2023
-* [t3n Daily Website](https://t3n.de/podcast#daily)
-* [t3n Daily @ Spotify](https://open.spotify.com/show/1Fc1zS8yvRS7Zf0leKn54o)
-* [t3n Daily @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1643152920)
-* [t3n Daily Podcast RSS](https://t3n-daily.podigee.io/feed/mp3)
-* Tags: News
 
 ----
 
@@ -1590,6 +1577,22 @@ Bei &#34;Software-Architektur als Beruf&#34; erzählen Menschen, wie ihr berufli
 
 ----
 
+<h3 id="t3n-daily">t3n Daily</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/t3n-daily.jpg" />
+
+Dein täglicher Podcast mit dem, was wichtig war und was wichtig wird im digitalen Kosmos und dem Arbeitsleben der Zukunft. Die perfekte Begleitung zum Abschluss des Arbeitstages und auf dem Weg in den Abend.
+
+* Number of published episodes: 183
+* Last episode published: 🔴 Thursday, 01 June 2023
+* [t3n Daily Website](https://t3n.de/podcast#daily)
+* [t3n Daily @ Spotify](https://open.spotify.com/show/1Fc1zS8yvRS7Zf0leKn54o)
+* [t3n Daily @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1643152920)
+* [t3n Daily Podcast RSS](https://t3n-daily.podigee.io/feed/mp3)
+* Tags: News
+
+----
+
 <h3 id="techtiefen">Techtiefen</h3>
 
 <img align="right" width="215" height="215" src="./generated/images/techtiefen.jpg" />
@@ -1604,6 +1607,21 @@ Ausführliche, häufig zeitlose Gespräche von Gastgeber Nico Kreiling mit wechs
 * [Techtiefen @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1349481289)
 * [Techtiefen Podcast RSS](https://techtiefen.de//index.php/feed/mp3/)
 * Tags: Softwareentwicklung, Data Science, Machine Learning
+
+----
+
+<h3 id="tux-flash">Tux-Flash</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/tux-flash.png" />
+
+Der Podcast des Tux-Tage Teams. Wir wollen euch über die wichtigsten Themen in der Open Source und Linux Welt am monatlich am Laufenden halten, und diese diskutieren.
+
+* Number of published episodes: 15
+* Last episode published: 🔴 Sunday, 07 August 2022
+* [Tux-Flash Website](https://www.youtube.com/playlist?list=PLPK5iNo_kpNe0dtNukSwl02w64dKSYBlJ)
+* [Tux-Flash @ Spotify](https://open.spotify.com/show/5j5C5a3nTq2L2Z2RBOvLuE)
+* [Tux-Flash Podcast RSS](https://anchor.fm/s/97e43ecc/podcast/rss)
+* Tags: Linux, GNU
 
 ----
 

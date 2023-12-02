@@ -1,0 +1,22 @@
+{
+ "name": "Tux-Flash",
+ "slug": "tux-flash",
+ "website": "https://www.youtube.com/playlist?list=PLPK5iNo_kpNe0dtNukSwl02w64dKSYBlJ",
+ "podcastIndexID": 3299176,
+ "rssFeed": "https://anchor.fm/s/97e43ecc/podcast/rss",
+ "spotify": "https://open.spotify.com/show/5j5C5a3nTq2L2Z2RBOvLuE",
+ "description": "Der Podcast des Tux-Tage Teams. Wir wollen euch über die wichtigsten Themen in der Open Source und Linux Welt am monatlich am Laufenden halten, und diese diskutieren.",
+ "tags": [
+  "Linux",
+  "GNU"
+ ],
+ "weekly_downloads_avg": {
+  "value": 0,
+  "updated": ""
+ },
+ "episodeCount": 15,
+ "latestEpisodePublished": 1659884363,
+ "archive": true,
+ "itunesID": 0,
+ "image": "images/tux-flash.png"
+}
