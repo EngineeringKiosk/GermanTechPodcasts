@@ -13,7 +13,7 @@
  },
  "episodeCount": 50,
  "latestEpisodePublished": 1685997000,
- "archive": false,
+ "archive": true,
  "itunesID": 1458278980,
  "image": "images/code-and-ship.jpg"
 }
