@@ -2,7 +2,7 @@
  <opml version="2.0">
    <head>
      <title>Deutschsprachige Tech Podcasts</title>
-     <dateCreated>Fri, 08 Dec 2023 11:18:19 UTC</dateCreated>
+     <dateCreated>Fri, 08 Dec 2023 19:10:19 UTC</dateCreated>
      <ownerName>Engineering Kiosk</ownerName>
      <ownerEmail>stehtisch@engineeringkiosk.dev</ownerEmail>
    </head>
@@ -32,6 +32,7 @@
      <outline title="Der GameDev Podcast" text="Der GameDev Podcast" type="rss" xmlUrl="http://feed.gamedevpodcast.de/" htmlUrl="https://gamedevpodcast.de/"></outline>
      <outline title="dev.env" text="dev.env" type="rss" xmlUrl="https://python-podcast.de/show/feed/podcast/m4a/rss.xml" htmlUrl="https://shows.acast.com/dev-env"></outline>
      <outline title="DevCouch" text="DevCouch" type="rss" xmlUrl="https://devcouch.de/feed/mp4/" htmlUrl="https://devcouch.de/"></outline>
+     <outline title="Digitale Anomalien" text="Digitale Anomalien" type="rss" xmlUrl="https://digitaleanomalien.de/feed/mp3/" htmlUrl="https://digitaleanomalien.de/"></outline>
      <outline title="Digitalisierungsfieber" text="Digitalisierungsfieber" type="rss" xmlUrl="https://andreaskunz.libsyn.com/rss" htmlUrl="https://andreaskunz.it/"></outline>
      <outline title="Einfach Komplex" text="Einfach Komplex" type="rss" xmlUrl="https://anchor.fm/s/d4258904/podcast/rss" htmlUrl="https://heisenware.com/podcast"></outline>
      <outline title="Engineering Kiosk" text="Engineering Kiosk" type="rss" xmlUrl="https://feeds.redcircle.com/0ecfdfd7-fda1-4c3d-9515-476727f9df5e" htmlUrl="https://engineeringkiosk.dev/"></outline>

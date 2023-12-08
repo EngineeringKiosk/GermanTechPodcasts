@@ -6,7 +6,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (78 podcasts)
+* [Podcasts](#podcasts) (79 podcasts)
   * [((c3d2)) Pentaradio 24](#c3d2-pentaradio-24)
   * [0d - Zeroday](#0d-zeroday)
   * [Apfelfunk](#apfelfunk)
@@ -28,6 +28,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [Der GameDev Podcast](#der-gamedev-podcast)
   * [dev.env](#dev-env)
   * [DevCouch](#devcouch)
+  * [Digitale Anomalien](#digitale-anomalien)
   * [Digitalisierungsfieber](#digitalisierungsfieber)
   * [Einfach Komplex](#einfach-komplex)
   * [Engineering Kiosk](#engineering-kiosk)
@@ -441,6 +442,21 @@ Der Unterhaltungs-Podcast für .NET Entwickler - ca. alle zwei Wochen treffen si
 * [DevCouch @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1249563765)
 * [DevCouch Podcast RSS](https://devcouch.de/feed/mp4/)
 * Tags: .NET
+
+----
+
+<h3 id="digitale-anomalien">Digitale Anomalien</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/digitale-anomalien.jpg" />
+
+Hier geht es um die kleinen und großen Fehlschläge in der Geschichte der Technik. Computer, die falsch rechnen, automatische Finanzsysteme, die Millionen von Dollar vernichten oder abstürzende Raketen: Hinter jedem Fehler steckt eine spannende und oftmals verblüffende Geschichte. Bei all den Fakten kommen ausschweifende Anekdoten, Witz und Bezüge zum aktuellen Zeitgeschehen nicht zu kurz.
+
+* Number of published episodes: 69
+* Last episode published: 🟢 Sunday, 26 November 2023
+* [Digitale Anomalien Website](https://digitaleanomalien.de/)
+* [Digitale Anomalien @ Spotify](https://open.spotify.com/show/0aG1QAgC5wK5uYBfKxp6JB)
+* [Digitale Anomalien @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1556617076)
+* [Digitale Anomalien Podcast RSS](https://digitaleanomalien.de/feed/mp3/)
 
 ----
 
