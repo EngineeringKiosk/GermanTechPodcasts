@@ -15,7 +15,7 @@
  },
  "episodeCount": 180,
  "latestEpisodePublished": 1687601738,
- "archive": false,
+ "archive": true,
  "itunesID": 0,
  "image": "images/wp-sofa.png"
 }
