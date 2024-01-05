@@ -153,8 +153,8 @@ Deutschsprachiger Podcast zu den Themen IT-Sicherheit und Privatsphäre. Stefan 
 
 Apfelfunk ist ein wöchentlicher Podcast über Apple-Themen. Jean-Claude Frick und Malte Kirchner berichten und bewerten darin die Neuigkeiten über den wichtigsten Computerkonzern der Welt.
 
-* Number of published episodes: 413
-* Last episode published: 🟢 Friday, 29 December 2023
+* Number of published episodes: 414
+* Last episode published: 🟢 Wednesday, 03 January 2024
 * [Apfelfunk Website](http://www.apfelfunk.com/)
 * [Apfelfunk @ Spotify](https://open.spotify.com/show/7FQLyWiNhMR0KS93ReaI4h)
 * [Apfelfunk @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1081146940)
@@ -165,7 +165,7 @@ Apfelfunk ist ein wöchentlicher Podcast über Apple-Themen. Jean-Claude Frick u
 
 <h3 id="auslegungssache">Auslegungssache</h3>
 
-<img align="right" width="215" height="215" src="./generated/images/auslegungssache.jpg" />
+<img align="right" width="215" height="215" src="./generated/generated/images/auslegungssache.jpg" />
 
 Sie möchten beim Thema Datenschutz auf dem Laufenden bleiben, aber keine seitenlange Literatur wälzen? Dann wenden Sie sich vertrauensvoll an unser Juristen-Redakteurs-Duo. Alle 14 Tage bespricht c&#39;t-Redakteur Holger Bleich mit Joerg Heidrich aktuelle Entwicklungen rund um den Datenschutz. Joerg ist beim c&#39;t-Mutterschiff Heise Medien als Justiziar für das Thema zuständig und hat täglich mit der europäischen Datenschutz-Grundverordnung (DSGVO) zu tun. Wechselnde Gäste ergänzen das Duo.
 
@@ -310,8 +310,8 @@ Ein Podcast über den nahezu unendlich tiefen Kaninchenbau der mechanische Tasta
 
 Lucas Rott und Markus Herhoffer erzählen alle 14 Tage von Code und Nerd-Kultur. Mit News aus der Tech-Bubble, einem Thema der Woche über Software development und dem Code der Woche.
 
-* Number of published episodes: 113
-* Last episode published: 🟢 Sunday, 10 December 2023
+* Number of published episodes: 114
+* Last episode published: 🟢 Thursday, 04 January 2024
 * [Code Culture Website](https://codeculture.podigee.io/)
 * [Code Culture @ Spotify](https://open.spotify.com/show/01ZL2aPP50lLW51u2aTOkN)
 * [Code Culture @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1516904389)
@@ -325,8 +325,8 @@ Lucas Rott und Markus Herhoffer erzählen alle 14 Tage von Code und Nerd-Kultur.
 
 Dein Podcast rund um Softwareentwicklung und aktueller Tech News. Lernt die Coding Buddies Tino und Fabi kennen. Erfahrt spannende Dinge über diverse Themen aus der Softwareentwicklung und lauscht den Erfahrungen der Beiden. Dazu gibt es witzige Anekdoten der Coding Buddies.
 
-* Number of published episodes: 40
-* Last episode published: 🟢 Thursday, 28 December 2023
+* Number of published episodes: 41
+* Last episode published: 🟢 Thursday, 04 January 2024
 * [Coding Buddies Website](https://www.codingbuddies.de/)
 * [Coding Buddies @ Spotify](https://open.spotify.com/show/5DaiBkAgQBt8DRCcwZY8xT?si=4acf817842f44c43)
 * [Coding Buddies @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1680339110)
@@ -402,8 +402,8 @@ Wir sind ein Laber-Technik-Lebensweisheiten-Podcast, mit News, Retrogeschichten 
 
 Wir reden über Spieleentwicklung und allgemein über die Branche aber gehen auch ins Detail wenn es um Software, Tipps und Fragen geht.
 
-* Number of published episodes: 76
-* Last episode published: 🟢 Saturday, 23 December 2023
+* Number of published episodes: 77
+* Last episode published: 🟢 Thursday, 04 January 2024
 * Weekly downloads (avg): 570 (updated: 2023-01-01)
 * [Der GameDev Podcast Website](https://gamedevpodcast.de/)
 * [Der GameDev Podcast @ Spotify](https://open.spotify.com/show/1AyPHtyeaeROvPtLsw1prl)
@@ -608,7 +608,7 @@ Ein monatlicher Podcast der GNU/Linux.ch Community mit Themen und Interviews run
 
 <h3 id="heise-developer-softwarearchitektour">heise Developer: SoftwareArchitekTOUR</h3>
 
-<img align="right" width="215" height="215" src="./generated/images/heise-developer-softwarearchitektour.jpg" />
+<img align="right" width="215" height="215" src="./generated/generated/images/heise-developer-softwarearchitektour.jpg" />
 
 Der Podcast für den praktizierenden Softwarearchitekten
 
@@ -771,8 +771,8 @@ Der Podcast für Auszubildende, Ausbilder und IHK-Prüfer in den IT-Berufen (Fac
 
 IT@DB ist ein Podcast für IT Fach- und Führungskräfte (w/m/d). Hier erhältst du einen exklusiven Einblick zu spannenden IT Projekten der Deutschen Bahn.
 
-* Number of published episodes: 71
-* Last episode published: 🟢 Thursday, 07 December 2023
+* Number of published episodes: 72
+* Last episode published: 🟢 Thursday, 04 January 2024
 * [IT@DB Website](https://cqlshb.podcaster.de/)
 * [IT@DB @ Spotify](https://open.spotify.com/show/3uV0oOeigGJCAAQbXZ49Dv)
 * [IT@DB @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1462447493)
@@ -817,8 +817,8 @@ Die IT-News des Tages von heise online
 
 Der Podcast über unsere digitale Lebens- und Arbeitswelt mit Markus Hörster und Christian Cordes. Alle vier Wochen dienstags um 19.00 Uhr im Radio auf Radio Okerwelle (UKW 104,6 in der Region Braunschweig) und nach der Ausstrahlung als Podcast. Wir beschäftigen uns mit allen Themen, die etwas mit Digitalien zu tun haben.
 
-* Number of published episodes: 81
-* Last episode published: 🟢 Thursday, 14 December 2023
+* Number of published episodes: 82
+* Last episode published: 🟢 Wednesday, 03 January 2024
 * [Logbuch Digitalien Website](https://www.logbuch-digitalien.de/)
 * [Logbuch Digitalien @ Spotify](https://open.spotify.com/show/5HxbvAOx6qOMOXbtulHji1)
 * [Logbuch Digitalien @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1240755398)
@@ -860,7 +860,7 @@ Redakteure von heise Mac &amp; i beschäftigen sich jeden Monat mit Apple-Produk
 
 <h3 id="macht-der-craft">Macht der Craft</h3>
 
-<img align="right" width="215" height="215" src="./generated/images/macht-der-craft.jpg" />
+<img align="right" width="215" height="215" src="./generated/generated/images/macht-der-craft.jpg" />
 
 Von Menschen für Menschen, die Software entwickeln, ist dieser Podcast gedacht. Damit Du in diesem Leben durch stetiges Lernen, den bestmöglichen Code kreieren kannst. Wir erzählen dir von agiler Softwareentwicklung, Software Craft, Methoden, Techniken und allem, was dazu gehört, um deine Fähigkeiten zu verbessern. Das Bestmögliche zu erschaffen, bedeutet mit dem Puls der Zeit zu gehen und ständig zu lernen.
 
@@ -941,7 +941,7 @@ Die Welt wird immer digitaler und IT-Sicherheit auch im Alltag immer wichtiger. 
 
 <h3 id="netzpolitik">Netzpolitik</h3>
 
-<img align="right" width="215" height="215" src="./generated/images/netzpolitik.jpg" />
+<img align="right" width="215" height="215" src="./generated/generated/images/netzpolitik.jpg" />
 
 Wir thematisieren die wichtigen Fragestellungen rund um Internet, Gesellschaft und Politik und zeigen Wege auf, wie man sich auch selbst mit Hilfe des Netzes für digitale Freiheiten und Offenheit engagieren kann. Mit netzpolitik.org beschreiben wir, wie die Politik das Internet durch Regulierung verändert und wie das Netz Politik, Öffentlichkeiten und alles andere verändert.
 
@@ -1092,8 +1092,8 @@ Die IT hat unser Leben in den letzten Jahrzehnten von Grund auf verändert. Aber
 
 Der Security-Insider Podcast ist ein Podcast für Security-Profis mit Infos, Nachrichten und Meinungen rund um die IT-Sicherheit. Hier unterhält sich Chefredakteur Peter Schmitz mit seinem Co-Host Dirk Srocke und manchmal auch mit spannenden Gästen. Zum Gespräch stehen alle Themen rund um die IT-Sicherheit, Datenschutz und Compliance.
 
-* Number of published episodes: 83
-* Last episode published: 🟢 Tuesday, 19 December 2023
+* Number of published episodes: 84
+* Last episode published: 🟢 Friday, 05 January 2024
 * Weekly downloads (avg): 1060 (updated: 2023-01-16)
 * [Security-Insider Website](https://www.security-insider.de/)
 * [Security-Insider @ Spotify](https://open.spotify.com/show/3n8Pbu19oN32bzq7zsQbvC)
@@ -1105,7 +1105,7 @@ Der Security-Insider Podcast ist ein Podcast für Security-Profis mit Infos, Nac
 
 <h3 id="softwarearchitektur-im-stream">SoftwareArchitektur im Stream</h3>
 
-<img align="right" width="215" height="215" src="./generated/images/softwarearchitektur-im-stream.png" />
+<img align="right" width="215" height="215" src="./generated/generated/images/softwarearchitektur-im-stream.png" />
 
 Live-Diskussion zu Software-Architektur im Stream. Einmal in der Woche diskutiert Eberhard Wolff Software-Architektur im Live-Stream auf YouTube und Twitch - oft zusammen mit einem Gast. Zuschauer können über den Chat mitdiskutieren oder Fragen stellen. Der Podcast enthält die Audio-Spur des Streams.
 
@@ -1170,7 +1170,7 @@ Jede Woche setzen wir uns mit Expert:innen aus der Webentwicklung zusammen. Imme
 
 <h3 id="t3n-catch-up">t3n Catch up</h3>
 
-<img align="right" width="215" height="215" src="./generated/images/t3n-catch-up.jpg" />
+<img align="right" width="215" height="215" src="./generated/generated/images/t3n-catch-up.jpg" />
 
 Digitalisierung ist komplex. Heute entsteht dies, morgen das. Und was übermorgen noch wichtig ist, wissen die wenigsten. Wir schon! Im Podcast besprechen wir mit den Expert:innen unserer Redaktion die wichtigsten Entwicklungen der Woche und der Zukunft. Wir geben Wissensvorsprung und Impulse.
 
@@ -1232,7 +1232,7 @@ IT-Security, unendliche Weiten ... So oder so ähnlich lässt sich die Größeno
 
 <h3 id="tilpod">TILpod</h3>
 
-<img align="right" width="215" height="215" src="./generated/images/tilpod.png" />
+<img align="right" width="215" height="215" src="./generated/generated/images/tilpod.png" />
 
 Sujeevan und Dirk reden über Themen, die Ihnen in der letzten Zeit untergekommen sind. Die Abkürzung &#34;TIL&#34; steht für &#34;Today I learned&#34;, es geht also um Themen, die neu für die beiden waren oder die sie in der letzten Zeit erst so richtig verstanden haben. Dazu kommen Hinweise, wie sie versuchen, ihr Arbeitsleben zu verbessern und zusätzlich gibt es auch den einen oder anderen Karrierehinweis.
 
@@ -1534,7 +1534,7 @@ Der etwas andere Podcast über IT-Themen. Echte Erfahrungen aus dem Feld. Ungefi
 
 <h3 id="she-for-what-she-for-it">She for what? She for IT!</h3>
 
-<img align="right" width="215" height="215" src="./generated/images/she-for-what-she-for-it.jpg" />
+<img align="right" width="215" height="215" src="./generated/generated/images/she-for-what-she-for-it.jpg" />
 
 Fünf schnelle Fragen an…. In unserem She for IT Podcast geht es um Themen rund um IT und digitale Transformation – und das mit der besonderen weiblichen Note. Unsere Moderatorinnen interviewen IT-Frauen, die etwas zu sagen haben. Locker, spannend und kurzweilig. Hören Sie rein, wo immer Sie auch sind. Langeweile ist woanders!
 
@@ -1566,7 +1566,7 @@ Jung, weiblich, genial: Im Tech-Podcast von NDR Info sucht die Tech-Journalistin
 
 <h3 id="software-architektur-als-beruf">Software-Architektur als Beruf</h3>
 
-<img align="right" width="215" height="215" src="./generated/images/softwarearchitektur-als-beruf.png" />
+<img align="right" width="215" height="215" src="./generated/generated/images/softwarearchitektur-als-beruf.png" />
 
 Bei &#34;Software-Architektur als Beruf&#34; erzählen Menschen, wie ihr beruflicher Werdegang aussieht und welche Rolle Software-Architektur dabei spielt.
 
