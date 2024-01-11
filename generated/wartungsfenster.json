@@ -5,17 +5,16 @@
  "podcastIndexID": 4943237,
  "rssFeed": "https://wartungsfenster.podigee.io/feed/mp3",
  "spotify": "https://open.spotify.com/show/063YcVklbp1N8z1ZHSA709",
- "description": "Alle 14 Tage laden wir zu einer kleinen Kaminzimmerrunde rund um den Themenkomplex Datacenter, Cloud und IT ein. In Ermangelung eines Kaminzimmers sitzen wir in der Hot Aisle eines Datacenters, statt feudaler Sessel gibt es faltbare Campingstühle, und die Cognacschwenker durften wir auch nicht mit reinnehmen. :/",
+ "description": "Alle 14 Tage laden wir zu einer kleinen Kaminzimmerrunde über IT-Kram ein. In Ermangelung eines Kaminzimmers sitzen wir in der Hot Aisle eines Datacenters, statt feudaler Sessel gibt es faltbare Campingstühle, und die Cognacschwenker durften wir auch nicht mit reinnehmen. :/",
  "tags": [
   "Datacenter",
   "Cloud",
-  "Microsoft",
   "Security",
   "Female host"
  ],
  "weekly_downloads_avg": {
-  "value": 100,
-  "updated": "2022-07-31"
+  "value": 250,
+  "updated": "2024-01-11"
  },
  "episodeCount": 50,
  "latestEpisodePublished": 1704841200,

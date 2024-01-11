@@ -1298,16 +1298,16 @@ IT Security Podcast
 
 <img align="right" width="215" height="215" src="./generated/images/wartungsfenster.jpg" />
 
-Alle 14 Tage laden wir zu einer kleinen Kaminzimmerrunde rund um den Themenkomplex Datacenter, Cloud und IT ein. In Ermangelung eines Kaminzimmers sitzen wir in der Hot Aisle eines Datacenters, statt feudaler Sessel gibt es faltbare Campingstühle, und die Cognacschwenker durften wir auch nicht mit reinnehmen. :/
+Alle 14 Tage laden wir zu einer kleinen Kaminzimmerrunde über IT-Kram ein. In Ermangelung eines Kaminzimmers sitzen wir in der Hot Aisle eines Datacenters, statt feudaler Sessel gibt es faltbare Campingstühle, und die Cognacschwenker durften wir auch nicht mit reinnehmen. :/
 
 * Number of published episodes: 50
 * Last episode published: 🟢 Tuesday, 09 January 2024
-* Weekly downloads (avg): 100 (updated: 2022-07-31)
+* Weekly downloads (avg): 250 (updated: 2024-01-11)
 * [Wartungsfenster Website](https://wartungsfenster.podigee.io/)
 * [Wartungsfenster @ Spotify](https://open.spotify.com/show/063YcVklbp1N8z1ZHSA709)
 * [Wartungsfenster @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1607047978)
 * [Wartungsfenster Podcast RSS](https://wartungsfenster.podigee.io/feed/mp3)
-* Tags: Datacenter, Cloud, Microsoft, Security, Female host
+* Tags: Datacenter, Cloud, Security, Female host
 
 ----
 
