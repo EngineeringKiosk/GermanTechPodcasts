@@ -13,7 +13,7 @@
  },
  "episodeCount": 96,
  "latestEpisodePublished": 1689918900,
- "archive": false,
+ "archive": true,
  "itunesID": 313825047,
  "image": "images/heise-developer-softwarearchitektour.jpg"
 }
