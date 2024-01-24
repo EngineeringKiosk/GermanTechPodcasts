@@ -22,7 +22,7 @@
  },
  "episodeCount": 121,
  "latestEpisodePublished": 1690178174,
- "archive": false,
+ "archive": true,
  "itunesID": 1180414602,
  "image": "images/autoweird.png"
 }

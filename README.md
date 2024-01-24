@@ -6,12 +6,11 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (78 podcasts)
+* [Podcasts](#podcasts) (77 podcasts)
   * [((c3d2)) Pentaradio 24](#c3d2-pentaradio-24)
   * [0d - Zeroday](#0d-zeroday)
   * [Apfelfunk](#apfelfunk)
   * [Auslegungssache](#auslegungssache)
-  * [Autoweird](#autoweird)
   * [Binärgewitter](#binargewitter)
   * [Bit-Rauschen](#bit-rauschen)
   * [Bits und so](#bits-und-so)
@@ -85,8 +84,9 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [Wo wir sind ist vorne](#wo-wir-sind-ist-vorne)
   * [Working Draft](#working-draft)
   * [WP Sofa](#wp-sofa)
-* [Archived podcasts](#archived-podcasts) (18 podcasts)
+* [Archived podcasts](#archived-podcasts) (19 podcasts)
   * [Armchair Investigators](#armchair-investigators)
+  * [Autoweird](#autoweird)
   * [Bits &amp; Böses - Der Tech Crime Podcast](#bits-and-boses-der-tech-crime-podcast)
   * [Code and Ship](#code-and-ship)
   * [Codestammtisch](#codestammtisch)
@@ -179,23 +179,6 @@ Sie möchten beim Thema Datenschutz auf dem Laufenden bleiben, aber keine seiten
 
 ----
 
-<h3 id="autoweird">Autoweird</h3>
-
-<img align="right" width="215" height="215" src="./generated/images/autoweird.png" />
-
-@Autoweird.fm ist der regelmäßig erscheinende Podcast rund um die Themen Software Entwicklung, Agilität und Software Crafting.
-
-* Number of published episodes: 121
-* Last episode published: 🟡 Monday, 24 July 2023
-* Weekly downloads (avg): 175 (updated: 2022-12-29)
-* [Autoweird Website](https://autoweird.fm/)
-* [Autoweird @ Spotify](https://open.spotify.com/show/6TDrYLHYxoo7VjvSglunew)
-* [Autoweird @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1180414602)
-* [Autoweird Podcast RSS](http://autoweird.fm/feed/podcast/)
-* Tags: Software-Crafting, Agilität, Softskills, Nerdquatsch, Funktionale Programmierung, Testing, Development Trends, Craft-Beer
-
-----
-
 <h3 id="binargewitter">Binärgewitter</h3>
 
 <img align="right" width="215" height="215" src="./generated/images/binaergewitter.png" />
@@ -249,8 +232,8 @@ Die wöchentliche Talkrunde rund um Apple, Mac, iPod &#43; iPhone, Gadgets und s
 
 Ransomware Attacken, Phishing oder DDoS - jeden Tag aufs Neue werden Unternehmen Ziel von Angriffen. Was sind die Geschichten dahinter, wie laufen die Attacken ab und wie kann Schaden verhindert werden? Kim und Robert haben tagtäglich Einblicke in die Info Sec Welt und teilen in diesem Podcast mit Euch ihre Erfahrungen. Schaltet ein, wenn ihr regelmäßige Updates zu aktuellen Sicherheitslücken, Diskussionen zu Technologie Trends oder anderen Themen aus der Welt der Info Sec haben möchtet!
 
-* Number of published episodes: 36
-* Last episode published: 🟡 Friday, 17 November 2023
+* Number of published episodes: 37
+* Last episode published: 🟢 Monday, 22 January 2024
 * [Breach FM Website](https://breachfm.transistor.fm/)
 * [Breach FM @ Spotify](https://open.spotify.com/show/4ooV9mM8Qiyfkj9jUkdZjj)
 * [Breach FM @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1641279793)
@@ -434,8 +417,8 @@ Der einzige IT Podcast in dem es nicht um IT geht. Ivan Ushmorov spricht mit Men
 
 Der Unterhaltungs-Podcast für .NET Entwickler - ca. alle zwei Wochen treffen sich die freiberuflichen Entwickler Oliver Vogel, Thomas Krause und Manuel Wenk um über allerlei News und Infos aus der .NET und Microsoft Azure Welt zu berichten. Ist das Essen schon da?
 
-* Number of published episodes: 105
-* Last episode published: 🟢 Thursday, 14 December 2023
+* Number of published episodes: 106
+* Last episode published: 🟢 Tuesday, 23 January 2024
 * Weekly downloads (avg): 471 (updated: 2023-01-03)
 * [DevCouch Website](https://devcouch.de/)
 * [DevCouch @ Spotify](https://open.spotify.com/show/0MfjnJ0I7SxJ89JIBWIcJJ)
@@ -581,8 +564,8 @@ Freak Show ist ein Podcast, der sich mit dem Leben mit Technik im 21. Jahrhunder
 
 Wir talken GameDev und haben Unreal News.
 
-* Number of published episodes: 85
-* Last episode published: 🟢 Tuesday, 16 January 2024
+* Number of published episodes: 86
+* Last episode published: 🟢 Tuesday, 23 January 2024
 * [Gamedev für die Platte - Der Unreal Podcast Website](https://gamedevfuerdieplatte.podbean.com/)
 * [Gamedev für die Platte - Der Unreal Podcast @ Spotify](https://open.spotify.com/show/3UtoyAbMfEvkSIx5w3HohY)
 * [Gamedev für die Platte - Der Unreal Podcast Podcast RSS](https://feed.podbean.com/gamedevfuerdieplatte/feed.xml)
@@ -596,8 +579,8 @@ Wir talken GameDev und haben Unreal News.
 
 Ein monatlicher Podcast der GNU/Linux.ch Community mit Themen und Interviews rund um die Themen GNU/Linux, Freie Software und Freie Gesellschaft.
 
-* Number of published episodes: 76
-* Last episode published: 🟢 Tuesday, 16 January 2024
+* Number of published episodes: 77
+* Last episode published: 🟢 Tuesday, 23 January 2024
 * [GNU/Linux.ch Website](https://gnulinux.ch/)
 * [GNU/Linux.ch @ Spotify](https://open.spotify.com/show/0rs1Zm91TsjHhGo2lt0uPi)
 * [GNU/Linux.ch @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1527155920)
@@ -771,8 +754,8 @@ IT@DB ist ein Podcast für IT Fach- und Führungskräfte (w/m/d). Hier erhältst
 
 Ja sia! Der Technikpodcast von und mit Chris und Pati. Wir bringen euch regelmäßig neue Infos zu aktuellen technologischen- und dazugehörigen wissenschaftlichen Themen kombiniert mit der einen oder anderen unterhaltsamen Spaßrubrik. ;)
 
-* Number of published episodes: 83
-* Last episode published: 🟢 Tuesday, 09 January 2024
+* Number of published episodes: 84
+* Last episode published: 🟢 Tuesday, 23 January 2024
 * [Ja sia! Website](https://www.ja-sia.de/)
 * [Ja sia! @ Spotify](https://open.spotify.com/show/6hjVDLM5ldA2t3YEwLfeKI)
 * [Ja sia! @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1527996174)
@@ -882,8 +865,8 @@ Scrum kann doch inzwischen eh jeder? Von wegen! Denn - ganz unter uns: genug fal
 
 Mind the Tech ist ein Podcast, der die dunklen Seiten der IT- und Tech-Welt beleuchtet. Dazu zählen legendäre Hackerangriffe, Datendiebstähle und Cyberattacken. Ebenso kommen die unzähligen Geschichten von Menschen auf den Tisch, die es mit Recht und Gesetz im Web nicht so ernst nehmen – und irgendwann die Konsequenzen ihres Handelns zu spüren bekommen. Wir widmen uns Antitrends und Mythen, stellen Entwicklungen im und rund ums Internet in Frage, wägen ab. Denn wir sind fest davon überzeugt: Nur wenn wir uns ihren Schattenseiten widmen, können wir die (digitale) Welt zu einem besseren Ort machen.
 
-* Number of published episodes: 77
-* Last episode published: 🟢 Wednesday, 20 December 2023
+* Number of published episodes: 78
+* Last episode published: 🟢 Wednesday, 24 January 2024
 * [Mind the Tech Website](https://www.mindthetech.de/)
 * [Mind the Tech @ Spotify](https://open.spotify.com/show/6FydYmBjELizU8k8DOIcaA)
 * [Mind the Tech @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1515173582)
@@ -979,7 +962,7 @@ Oli und Michael sprechen über alles Wichtige aus der Welt der Open Source, Tech
 Ein Podcast über die dunkle Seite der Digitalisierung: Spionage, Hacker, Sabotage, Subversion, Desinformation und die Cyber Konflikte der Vergangenheit und Zukunft. Irgendwo zwischen IT-Sicherheit und Cyber Security geht es um die großen Linien, um eine kritische, politik- bzw. sozialwissenschaftliche Einordnung der Phänomene, statt um das Verbreiten von FUD: Fear, Uncertainty and Doubt. Betrieben wird das ganze von Dr. Matthias Schulze, der unter percepticon.de schon seit Jahren dazu bloggt.
 
 * Number of published episodes: 43
-* Last episode published: 🟢 Friday, 24 November 2023
+* Last episode published: 🟡 Friday, 24 November 2023
 * Weekly downloads (avg): 375 (updated: 2023-01-02)
 * [Percepticon Website](https://percepticon.de/category/podcast/)
 * [Percepticon @ Spotify](https://open.spotify.com/show/1BgA82Dtniy7Aaj2aktJI2)
@@ -1094,8 +1077,8 @@ Der Security-Insider Podcast ist ein Podcast für Security-Profis mit Infos, Nac
 
 Live-Diskussion zu Software-Architektur im Stream. Einmal in der Woche diskutiert Eberhard Wolff Software-Architektur im Live-Stream auf YouTube und Twitch - oft zusammen mit einem Gast. Zuschauer können über den Chat mitdiskutieren oder Fragen stellen. Der Podcast enthält die Audio-Spur des Streams.
 
-* Number of published episodes: 195
-* Last episode published: 🟢 Friday, 19 January 2024
+* Number of published episodes: 196
+* Last episode published: 🟢 Tuesday, 23 January 2024
 * [SoftwareArchitektur im Stream Website](https://software-architektur.tv/)
 * [SoftwareArchitektur im Stream @ Spotify](https://open.spotify.com/show/7ySg1eZoWYBshd6QpGaW8B)
 * [SoftwareArchitektur im Stream @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1538545458)
@@ -1159,8 +1142,8 @@ Jede Woche setzen wir uns mit Expert:innen aus der Webentwicklung zusammen. Imme
 
 Digitalisierung ist komplex. Heute entsteht dies, morgen das. Und was übermorgen noch wichtig ist, wissen die wenigsten. Wir schon! Im Podcast besprechen wir mit den Expert:innen unserer Redaktion die wichtigsten Entwicklungen der Woche und der Zukunft. Wir geben Wissensvorsprung und Impulse.
 
-* Number of published episodes: 79
-* Last episode published: 🟢 Wednesday, 17 January 2024
+* Number of published episodes: 80
+* Last episode published: 🟢 Wednesday, 24 January 2024
 * [t3n Catch up Website](https://t3n.de/podcast#catchup)
 * [t3n Catch up @ Spotify](https://open.spotify.com/show/0Bjrzu6l2RtRRyvTf0QEKQ)
 * [t3n Catch up @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1627024991)
@@ -1269,8 +1252,8 @@ Wir sind UNMUTE IT, der Podcast von und mit Frauen aus der IT. Wir erzählen von
 
 IT Security Podcast
 
-* Number of published episodes: 44
-* Last episode published: 🟢 Monday, 15 January 2024
+* Number of published episodes: 45
+* Last episode published: 🟢 Tuesday, 23 January 2024
 * [Unter 4 Ohren Website](https://www.all-about-security.de/unter4ohren/)
 * [Unter 4 Ohren @ Spotify](https://open.spotify.com/show/7EQFf6fL4dytVJWB4DXYsQ)
 * [Unter 4 Ohren @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1551939691)
@@ -1318,8 +1301,8 @@ In diesem Podcast geht es um Web und User Interface Design, Freelancing, Arbeits
 
 Latenight-Frontend-Talkshow rund um Webdesign und Entwicklung. Es reden sich um &lt;HEAD&gt; und Kragen: HTML-Fundamentalist Moritz Gießmann und JavaScript Jongleur Constantin Groß.
 
-* Number of published episodes: 63
-* Last episode published: 🟢 Sunday, 24 December 2023
+* Number of published episodes: 64
+* Last episode published: 🟢 Monday, 22 January 2024
 * [Wo wir sind ist vorne Website](https://wowirsindistvorne.show/)
 * [Wo wir sind ist vorne @ Spotify](https://open.spotify.com/show/54K1DpiQYHBHSnIO6OzSKs)
 * [Wo wir sind ist vorne @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1500485579)
@@ -1376,6 +1359,23 @@ Ein Dialog über Malware, Cybercrime und Cyberspionage
 * [Armchair Investigators @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1555931250)
 * [Armchair Investigators Podcast RSS](https://armchairinvestigators.de/feed/podcast/)
 * Tags: Malware, Cybercrime, Cyberspionage, Security
+
+----
+
+<h3 id="autoweird">Autoweird</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/autoweird.png" />
+
+@Autoweird.fm ist der regelmäßig erscheinende Podcast rund um die Themen Software Entwicklung, Agilität und Software Crafting.
+
+* Number of published episodes: 121
+* Last episode published: 🔴 Monday, 24 July 2023
+* Weekly downloads (avg): 175 (updated: 2022-12-29)
+* [Autoweird Website](https://autoweird.fm/)
+* [Autoweird @ Spotify](https://open.spotify.com/show/6TDrYLHYxoo7VjvSglunew)
+* [Autoweird @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1180414602)
+* [Autoweird Podcast RSS](http://autoweird.fm/feed/podcast/)
+* Tags: Software-Crafting, Agilität, Softskills, Nerdquatsch, Funktionale Programmierung, Testing, Development Trends, Craft-Beer
 
 ----
 
