@@ -201,8 +201,8 @@ Ein Podcast über Web, Entwicklung, Mobile und Technologie. Betrachtet aus der S
 
 Prozessoren, Grafikkarten, Notebooks, Desktop-PCs, Server, KI, Rechenzentren und IT-Markt: In &#34;Bit-Rauschen&#34;, dem Prozessor-Podcast des Computermagazins c’t, dreht sich alles um Chips.
 
-* Number of published episodes: 80
-* Last episode published: 🟢 Wednesday, 17 January 2024
+* Number of published episodes: 81
+* Last episode published: 🟢 Wednesday, 31 January 2024
 * [Bit-Rauschen Website](https://www.ct.de/bit-rauschen)
 * [Bit-Rauschen @ Spotify](https://open.spotify.com/show/6JD6gwqgVR27GYZACrWOT1)
 * [Bit-Rauschen @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1549821753)
@@ -381,7 +381,7 @@ Wir sind ein Laber-Technik-Lebensweisheiten-Podcast, mit News, Retrogeschichten 
 
 <h3 id="der-gamedev-podcast">Der GameDev Podcast</h3>
 
-<img align="right" width="215" height="215" src="./generated/generated/images/game-dev-podcast.png" />
+<img align="right" width="215" height="215" src="./generated/images/game-dev-podcast.png" />
 
 Wir reden über Spieleentwicklung und allgemein über die Branche aber gehen auch ins Detail wenn es um Software, Tipps und Fragen geht.
 
@@ -434,8 +434,8 @@ Der Unterhaltungs-Podcast für .NET Entwickler - ca. alle zwei Wochen treffen si
 
 Hier geht es um die kleinen und großen Fehlschläge in der Geschichte der Technik. Computer, die falsch rechnen, automatische Finanzsysteme, die Millionen von Dollar vernichten oder abstürzende Raketen: Hinter jedem Fehler steckt eine spannende und oftmals verblüffende Geschichte. Bei all den Fakten kommen ausschweifende Anekdoten, Witz und Bezüge zum aktuellen Zeitgeschehen nicht zu kurz.
 
-* Number of published episodes: 72
-* Last episode published: 🟢 Monday, 15 January 2024
+* Number of published episodes: 73
+* Last episode published: 🟢 Tuesday, 30 January 2024
 * Weekly downloads (avg): 1982 (updated: 2023-12-11)
 * [Digitale Anomalien Website](https://digitaleanomalien.de/)
 * [Digitale Anomalien @ Spotify](https://open.spotify.com/show/0aG1QAgC5wK5uYBfKxp6JB)
@@ -467,8 +467,8 @@ Digitalisierungsfieber, dem Podcast für IT Security, Datenschutz, und IT Servic
 
 Software und IT sind komplex. Gerade Fachfremde, die dennoch häufig mit Software und IT in Berührung kommen, sind sich dessen bewusst. Es kann nur von Vorteil sein, von gängigen Konzepten und Technologien gehört zu haben. So lässt es sich besser mitreden und entscheiden, wenn ein Softwareprojekt, neue Infrastruktur oder andere Fragen mit Bezug zur IT anstehen. Bei &#34;Einfach komplex&#34; erhältst du jeden Dienstag eine Perspektive auf Softwareentwicklung, IT- sowie OT-Themen, um für private als auch berufliche Diskussionen gewappnet zu sein. Doch seien wir ehrlich, es bleibt einfach komplex!
 
-* Number of published episodes: 50
-* Last episode published: 🟢 Monday, 15 January 2024
+* Number of published episodes: 51
+* Last episode published: 🟢 Tuesday, 30 January 2024
 * Weekly downloads (avg): 850 (updated: 2023-11-16)
 * [Einfach Komplex Website](https://heisenware.com/podcast)
 * [Einfach Komplex @ Spotify](https://open.spotify.com/show/4eTpBCjUos9xUXtX294CnY?si=457f567027574f40)
@@ -564,8 +564,8 @@ Freak Show ist ein Podcast, der sich mit dem Leben mit Technik im 21. Jahrhunder
 
 Wir talken GameDev und haben Unreal News.
 
-* Number of published episodes: 86
-* Last episode published: 🟢 Tuesday, 23 January 2024
+* Number of published episodes: 87
+* Last episode published: 🟢 Tuesday, 30 January 2024
 * [Gamedev für die Platte - Der Unreal Podcast Website](https://gamedevfuerdieplatte.podbean.com/)
 * [Gamedev für die Platte - Der Unreal Podcast @ Spotify](https://open.spotify.com/show/3UtoyAbMfEvkSIx5w3HohY)
 * [Gamedev für die Platte - Der Unreal Podcast Podcast RSS](https://feed.podbean.com/gamedevfuerdieplatte/feed.xml)
@@ -579,8 +579,8 @@ Wir talken GameDev und haben Unreal News.
 
 Ein monatlicher Podcast der GNU/Linux.ch Community mit Themen und Interviews rund um die Themen GNU/Linux, Freie Software und Freie Gesellschaft.
 
-* Number of published episodes: 77
-* Last episode published: 🟢 Tuesday, 23 January 2024
+* Number of published episodes: 78
+* Last episode published: 🟢 Tuesday, 30 January 2024
 * [GNU/Linux.ch Website](https://gnulinux.ch/)
 * [GNU/Linux.ch @ Spotify](https://open.spotify.com/show/0rs1Zm91TsjHhGo2lt0uPi)
 * [GNU/Linux.ch @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1527155920)
@@ -596,7 +596,7 @@ Ein monatlicher Podcast der GNU/Linux.ch Community mit Themen und Interviews run
 &#34;Herr Zenzes wills wissen&#34; stellt jeden Monat eine interessante Person und ihre Themen aus der IT-Welt vor.
 
 * Number of published episodes: 55
-* Last episode published: 🟢 Wednesday, 29 November 2023
+* Last episode published: 🟡 Wednesday, 29 November 2023
 * [Herr Zenzes wills wissen Website](https://zenzes.me/)
 * [Herr Zenzes wills wissen @ Spotify](https://open.spotify.com/show/0RsiWLsZwLMnB70HpA5hnk)
 * [Herr Zenzes wills wissen Podcast RSS](https://zenzes.me/podcast/feed.xml)
@@ -1013,7 +1013,7 @@ Ein deutschsprachiger Podcast rund um die Programmiersprache Python
 Rund um Open Source, Freie Software, Linux und gesellschaftspolitische Themen.
 
 * Number of published episodes: 1
-* Last episode published: 🟢 Wednesday, 29 November 2023
+* Last episode published: 🟡 Wednesday, 29 November 2023
 * [RadioTux Website](https://www.radiotux.de/)
 * [RadioTux @ Spotify](https://open.spotify.com/show/3ycOmt9723grwgr0wCbTye)
 * [RadioTux @ Apple Podcasts](https://podcasts.apple.com/de/podcast/122070498)
@@ -1142,8 +1142,8 @@ Jede Woche setzen wir uns mit Expert:innen aus der Webentwicklung zusammen. Imme
 
 Digitalisierung ist komplex. Heute entsteht dies, morgen das. Und was übermorgen noch wichtig ist, wissen die wenigsten. Wir schon! Im Podcast besprechen wir mit den Expert:innen unserer Redaktion die wichtigsten Entwicklungen der Woche und der Zukunft. Wir geben Wissensvorsprung und Impulse.
 
-* Number of published episodes: 80
-* Last episode published: 🟢 Wednesday, 24 January 2024
+* Number of published episodes: 81
+* Last episode published: 🟢 Wednesday, 31 January 2024
 * [t3n Catch up Website](https://t3n.de/podcast#catchup)
 * [t3n Catch up @ Spotify](https://open.spotify.com/show/0Bjrzu6l2RtRRyvTf0QEKQ)
 * [t3n Catch up @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1627024991)
@@ -1252,7 +1252,7 @@ Wir sind UNMUTE IT, der Podcast von und mit Frauen aus der IT. Wir erzählen von
 
 IT Security Podcast
 
-* Number of published episodes: 45
+* Number of published episodes: 25
 * Last episode published: 🟢 Tuesday, 23 January 2024
 * [Unter 4 Ohren Website](https://www.all-about-security.de/unter4ohren/)
 * [Unter 4 Ohren @ Spotify](https://open.spotify.com/show/7EQFf6fL4dytVJWB4DXYsQ)
@@ -1268,8 +1268,8 @@ IT Security Podcast
 
 Alle 14 Tage laden wir zu einer kleinen Kaminzimmerrunde über IT-Kram ein. In Ermangelung eines Kaminzimmers sitzen wir in der Hot Aisle eines Datacenters, statt feudaler Sessel gibt es faltbare Campingstühle, und die Cognacschwenker durften wir auch nicht mit reinnehmen. :/
 
-* Number of published episodes: 51
-* Last episode published: 🟢 Tuesday, 16 January 2024
+* Number of published episodes: 52
+* Last episode published: 🟢 Tuesday, 30 January 2024
 * Weekly downloads (avg): 250 (updated: 2024-01-11)
 * [Wartungsfenster Website](https://wartungsfenster.podigee.io/)
 * [Wartungsfenster @ Spotify](https://open.spotify.com/show/063YcVklbp1N8z1ZHSA709)
@@ -1317,8 +1317,8 @@ Latenight-Frontend-Talkshow rund um Webdesign und Entwicklung. Es reden sich um 
 
 Wöchentlicher Podcast für Webdesigner:innen und -entwickler:innen
 
-* Number of published episodes: 620
-* Last episode published: 🟢 Monday, 22 January 2024
+* Number of published episodes: 621
+* Last episode published: 🟢 Tuesday, 30 January 2024
 * [Working Draft Website](https://workingdraft.de/)
 * [Working Draft @ Spotify](https://open.spotify.com/show/78iH7cIFzu1ejoB6aQUsIh)
 * [Working Draft @ Apple Podcasts](https://podcasts.apple.com/de/podcast/402204581)
