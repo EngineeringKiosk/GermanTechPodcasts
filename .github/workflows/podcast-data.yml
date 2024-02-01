@@ -57,7 +57,7 @@ jobs:
           commit_author: Podcast data update bot <stehtisch@engineeringkiosk.dev>
 
       - name: Trigger webpage to sync
-        uses: peter-evans/repository-dispatch@v2.1.2
+        uses: peter-evans/repository-dispatch@v3.0.0
         with:
           token: ${{ secrets.REPOSITORY_DISPATCH_TOKEN }}
           repository: EngineeringKiosk/webpage
