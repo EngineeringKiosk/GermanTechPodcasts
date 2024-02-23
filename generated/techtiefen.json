@@ -15,9 +15,9 @@
   "value": 900,
   "updated": "2022-08-01"
  },
- "episodeCount": 42,
- "latestEpisodePublished": 1682498890,
- "archive": true,
+ "episodeCount": 43,
+ "latestEpisodePublished": 1708678800,
+ "archive": false,
  "itunesID": 1349481289,
- "image": "generated/images/techtiefen.jpg"
+ "image": "images/techtiefen.jpg"
 }
