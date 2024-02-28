@@ -201,8 +201,8 @@ Ein Podcast über Web, Entwicklung, Mobile und Technologie. Betrachtet aus der S
 
 Prozessoren, Grafikkarten, Notebooks, Desktop-PCs, Server, KI, Rechenzentren und IT-Markt: In &#34;Bit-Rauschen&#34;, dem Prozessor-Podcast des Computermagazins c’t, dreht sich alles um Chips.
 
-* Number of published episodes: 82
-* Last episode published: 🟢 Wednesday, 14 February 2024
+* Number of published episodes: 83
+* Last episode published: 🟢 Wednesday, 28 February 2024
 * [Bit-Rauschen Website](https://www.ct.de/bit-rauschen)
 * [Bit-Rauschen @ Spotify](https://open.spotify.com/show/6JD6gwqgVR27GYZACrWOT1)
 * [Bit-Rauschen @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1549821753)
@@ -355,8 +355,8 @@ Cybersecurity entschüsselt ist ein deutschsprachiger Podcast, in dem sich alles
 
 Im Podcast Das Duumvirat unterhalten wir uns über verschiedene Mac-Themen aus dem Alltag von Anwendern. Wir schauen über den Tellerrand. Und manchmal haben wir auch Gäste.
 
-* Number of published episodes: 58
-* Last episode published: 🟢 Thursday, 01 February 2024
+* Number of published episodes: 59
+* Last episode published: 🟢 Monday, 26 February 2024
 * [Das Duumvirat Website](https://www.trommelspeicher.de/podcast/)
 * [Das Duumvirat @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1212750085)
 * [Das Duumvirat Podcast RSS](https://www.trommelspeicher.de/resource/podcast/feed.xml)
@@ -451,8 +451,8 @@ Hier geht es um die kleinen und großen Fehlschläge in der Geschichte der Techn
 
 Software und IT sind komplex. Gerade Fachfremde, die dennoch häufig mit Software und IT in Berührung kommen, sind sich dessen bewusst. Es kann nur von Vorteil sein, von gängigen Konzepten und Technologien gehört zu haben. So lässt es sich besser mitreden und entscheiden, wenn ein Softwareprojekt, neue Infrastruktur oder andere Fragen mit Bezug zur IT anstehen. Bei &#34;Einfach komplex&#34; erhältst du jeden Dienstag eine Perspektive auf Softwareentwicklung, IT- sowie OT-Themen, um für private als auch berufliche Diskussionen gewappnet zu sein. Doch seien wir ehrlich, es bleibt einfach komplex!
 
-* Number of published episodes: 52
-* Last episode published: 🟢 Tuesday, 13 February 2024
+* Number of published episodes: 53
+* Last episode published: 🟢 Tuesday, 27 February 2024
 * Weekly downloads (avg): 850 (updated: 2023-11-16)
 * [Einfach Komplex Website](https://heisenware.com/podcast)
 * [Einfach Komplex @ Spotify](https://open.spotify.com/show/4eTpBCjUos9xUXtX294CnY?si=457f567027574f40)
@@ -501,8 +501,8 @@ Student*innen der Informatik, die einen Podcast machen, damit ihr alle checkt wi
 
 Der FOCUS ON: DevOps Podcast beschäftigt sich mit verschiedenen Methoden und Werkzeugen rund um das Thema DevOps. Dabei wechseln sich technische mit methodischen Folgen ab. Unser Ziel ist es über relevante Themen zu informieren und auch die Hersteller auf dem Markt als Gäste mit einzubinden.
 
-* Number of published episodes: 87
-* Last episode published: 🟢 Wednesday, 14 February 2024
+* Number of published episodes: 88
+* Last episode published: 🟢 Tuesday, 27 February 2024
 * [FOCUS ON: DevOps Website](https://focusondevops.podigee.io/)
 * [FOCUS ON: DevOps @ Spotify](https://open.spotify.com/show/0gXBw5mGcqXQkPW9h2JTaa)
 * [FOCUS ON: DevOps @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1542623849)
@@ -548,8 +548,8 @@ Freak Show ist ein Podcast, der sich mit dem Leben mit Technik im 21. Jahrhunder
 
 Wir talken GameDev und haben Unreal News.
 
-* Number of published episodes: 89
-* Last episode published: 🟢 Tuesday, 20 February 2024
+* Number of published episodes: 90
+* Last episode published: 🟢 Tuesday, 27 February 2024
 * [Gamedev für die Platte - Der Unreal Podcast Website](https://gamedevfuerdieplatte.podbean.com/)
 * [Gamedev für die Platte - Der Unreal Podcast @ Spotify](https://open.spotify.com/show/3UtoyAbMfEvkSIx5w3HohY)
 * [Gamedev für die Platte - Der Unreal Podcast Podcast RSS](https://feed.podbean.com/gamedevfuerdieplatte/feed.xml)
@@ -785,8 +785,8 @@ Der Podcast über unsere digitale Lebens- und Arbeitswelt mit Markus Hörster un
 
 Logbuch:Netzpolitik ist ein in der Regel wöchentlich erscheinender Podcast, der im Dialog zwischen Linus Neumann und Tim Pritlove die wichtigsten Themen und Ereignisse mit netzpolitischem Bezug aufgreift und diskutiert.
 
-* Number of published episodes: 487
-* Last episode published: 🟢 Monday, 12 February 2024
+* Number of published episodes: 488
+* Last episode published: 🟢 Wednesday, 28 February 2024
 * [Logbuch: Netzpolitik Website](https://logbuch-netzpolitik.de/)
 * [Logbuch: Netzpolitik @ Apple Podcasts](https://podcasts.apple.com/de/podcast/476856034)
 * [Logbuch: Netzpolitik Podcast RSS](https://feeds.metaebene.me/lnp/m4a)
@@ -1008,7 +1008,7 @@ Rund um Open Source, Freie Software, Linux und gesellschaftspolitische Themen.
 
 <h3 id="ready-for-review">Ready for Review</h3>
 
-<img align="right" width="215" height="215" src="./generated/generated/images/ready-for-review.png" />
+<img align="right" width="215" height="215" src="./generated/images/ready-for-review.png" />
 
 Sandra Parsick &amp; Daniel Zenzes präsentieren mit Ready for Review einen bunten Mix aus aktuellen IT-Themen und ihrem täglichen Entwickler-Alltag.
 
@@ -1126,8 +1126,8 @@ Jede Woche setzen wir uns mit Expert:innen aus der Webentwicklung zusammen. Imme
 
 Digitalisierung ist komplex. Heute entsteht dies, morgen das. Und was übermorgen noch wichtig ist, wissen die wenigsten. Wir schon! Im Podcast besprechen wir mit den Expert:innen unserer Redaktion die wichtigsten Entwicklungen der Woche und der Zukunft. Wir geben Wissensvorsprung und Impulse.
 
-* Number of published episodes: 84
-* Last episode published: 🟢 Wednesday, 21 February 2024
+* Number of published episodes: 85
+* Last episode published: 🟢 Wednesday, 28 February 2024
 * [t3n Catch up Website](https://t3n.de/podcast#catchup)
 * [t3n Catch up @ Spotify](https://open.spotify.com/show/0Bjrzu6l2RtRRyvTf0QEKQ)
 * [t3n Catch up @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1627024991)
@@ -1141,8 +1141,8 @@ Digitalisierung ist komplex. Heute entsteht dies, morgen das. Und was übermorge
 
 In diesem Podcast diskutiert die t3n-Redaktion mit Gästen über die spannendsten digitalen Themen unserer Zeit. Ob innovative Führungskonzepte, die Digitalisierung der Gesellschaft, smarte Gadgets, neue Mobilität oder Zukunftstechnologien. Jeden Freitag um 10 Uhr!
 
-* Number of published episodes: 575
-* Last episode published: 🟢 Monday, 26 February 2024
+* Number of published episodes: 576
+* Last episode published: 🟢 Wednesday, 28 February 2024
 * [t3n Interview Website](https://t3n.de/podcast#interview)
 * [t3n Interview @ Spotify](https://open.spotify.com/show/7obTbZaywhQEiUUOMswQBQ)
 * [t3n Interview @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1115601393)
@@ -1269,8 +1269,8 @@ IT Security Podcast
 
 Alle 14 Tage laden wir zu einer kleinen Kaminzimmerrunde über IT-Kram ein. In Ermangelung eines Kaminzimmers sitzen wir in der Hot Aisle eines Datacenters, statt feudaler Sessel gibt es faltbare Campingstühle, und die Cognacschwenker durften wir auch nicht mit reinnehmen. :/
 
-* Number of published episodes: 53
-* Last episode published: 🟢 Tuesday, 13 February 2024
+* Number of published episodes: 54
+* Last episode published: 🟢 Tuesday, 27 February 2024
 * Weekly downloads (avg): 250 (updated: 2024-01-11)
 * [Wartungsfenster Website](https://wartungsfenster.podigee.io/)
 * [Wartungsfenster @ Spotify](https://open.spotify.com/show/063YcVklbp1N8z1ZHSA709)
