@@ -453,7 +453,7 @@ Software und IT sind komplex. Gerade Fachfremde, die dennoch häufig mit Softwar
 
 * Number of published episodes: 53
 * Last episode published: 🟢 Tuesday, 27 February 2024
-* Weekly downloads (avg): 850 (updated: 2023-11-16)
+* Weekly downloads (avg): 1050 (updated: 2024-02-05)
 * [Einfach Komplex Website](https://heisenware.com/podcast)
 * [Einfach Komplex @ Spotify](https://open.spotify.com/show/4eTpBCjUos9xUXtX294CnY?si=457f567027574f40)
 * [Einfach Komplex @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1663188205)
@@ -800,8 +800,8 @@ Logbuch:Netzpolitik ist ein in der Regel wöchentlich erscheinender Podcast, der
 
 Redakteure von heise Mac &amp; i beschäftigen sich jeden Monat mit Apple-Produkten, -Betriebssystemen und dem Drumherum, stellen Testergebnisse vor und geben Tipps.
 
-* Number of published episodes: 65
-* Last episode published: 🟢 Friday, 16 February 2024
+* Number of published episodes: 66
+* Last episode published: 🟢 Friday, 01 March 2024
 * [Mac &amp; I Website](https://www.heise.de/mac-and-i/meldung/Mac-i-Der-Apple-Podcast-4681220.html)
 * [Mac &amp; I @ Spotify](https://open.spotify.com/show/5Tcgc97HvYREYM7kIRsxii)
 * [Mac &amp; I @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1499510618)
