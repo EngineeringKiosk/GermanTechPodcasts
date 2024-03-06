@@ -417,8 +417,8 @@ Der einzige IT Podcast in dem es nicht um IT geht. Ivan Ushmorov spricht mit Men
 
 Der Unterhaltungs-Podcast für .NET Entwickler - ca. alle zwei Wochen treffen sich die freiberuflichen Entwickler Oliver Vogel, Thomas Krause und Manuel Wenk um über allerlei News und Infos aus der .NET und Microsoft Azure Welt zu berichten. Ist das Essen schon da?
 
-* Number of published episodes: 106
-* Last episode published: 🟢 Tuesday, 23 January 2024
+* Number of published episodes: 107
+* Last episode published: 🟢 Tuesday, 05 March 2024
 * Weekly downloads (avg): 471 (updated: 2023-01-03)
 * [DevCouch Website](https://devcouch.de/)
 * [DevCouch @ Spotify](https://open.spotify.com/show/0MfjnJ0I7SxJ89JIBWIcJJ)
@@ -548,8 +548,8 @@ Freak Show ist ein Podcast, der sich mit dem Leben mit Technik im 21. Jahrhunder
 
 Wir talken GameDev und haben Unreal News.
 
-* Number of published episodes: 90
-* Last episode published: 🟢 Tuesday, 27 February 2024
+* Number of published episodes: 91
+* Last episode published: 🟢 Tuesday, 05 March 2024
 * [Gamedev für die Platte - Der Unreal Podcast Website](https://gamedevfuerdieplatte.podbean.com/)
 * [Gamedev für die Platte - Der Unreal Podcast @ Spotify](https://open.spotify.com/show/3UtoyAbMfEvkSIx5w3HohY)
 * [Gamedev für die Platte - Der Unreal Podcast Podcast RSS](https://feed.podbean.com/gamedevfuerdieplatte/feed.xml)
@@ -738,8 +738,8 @@ IT@DB ist ein Podcast für IT Fach- und Führungskräfte (w/m/d). Hier erhältst
 
 Ja sia! Der Technikpodcast von und mit Chris und Pati. Wir bringen euch regelmäßig neue Infos zu aktuellen technologischen- und dazugehörigen wissenschaftlichen Themen kombiniert mit der einen oder anderen unterhaltsamen Spaßrubrik. ;)
 
-* Number of published episodes: 86
-* Last episode published: 🟢 Tuesday, 20 February 2024
+* Number of published episodes: 87
+* Last episode published: 🟢 Tuesday, 05 March 2024
 * [Ja sia! Website](https://www.ja-sia.de/)
 * [Ja sia! @ Spotify](https://open.spotify.com/show/6hjVDLM5ldA2t3YEwLfeKI)
 * [Ja sia! @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1527996174)
@@ -849,8 +849,8 @@ Scrum kann doch inzwischen eh jeder? Von wegen! Denn - ganz unter uns: genug fal
 
 Mind the Tech ist ein Podcast, der die dunklen Seiten der IT- und Tech-Welt beleuchtet. Dazu zählen legendäre Hackerangriffe, Datendiebstähle und Cyberattacken. Ebenso kommen die unzähligen Geschichten von Menschen auf den Tisch, die es mit Recht und Gesetz im Web nicht so ernst nehmen – und irgendwann die Konsequenzen ihres Handelns zu spüren bekommen. Wir widmen uns Antitrends und Mythen, stellen Entwicklungen im und rund ums Internet in Frage, wägen ab. Denn wir sind fest davon überzeugt: Nur wenn wir uns ihren Schattenseiten widmen, können wir die (digitale) Welt zu einem besseren Ort machen.
 
-* Number of published episodes: 79
-* Last episode published: 🟢 Monday, 19 February 2024
+* Number of published episodes: 80
+* Last episode published: 🟢 Tuesday, 05 March 2024
 * [Mind the Tech Website](https://www.mindthetech.de/)
 * [Mind the Tech @ Spotify](https://open.spotify.com/show/6FydYmBjELizU8k8DOIcaA)
 * [Mind the Tech @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1515173582)
@@ -1062,7 +1062,7 @@ Der Security-Insider Podcast ist ein Podcast für Security-Profis mit Infos, Nac
 Live-Diskussion zu Software-Architektur im Stream. Einmal in der Woche diskutiert Eberhard Wolff Software-Architektur im Live-Stream auf YouTube und Twitch - oft zusammen mit einem Gast. Zuschauer können über den Chat mitdiskutieren oder Fragen stellen. Der Podcast enthält die Audio-Spur des Streams.
 
 * Number of published episodes: 200
-* Last episode published: 🟢 Friday, 23 February 2024
+* Last episode published: 🟢 Tuesday, 05 March 2024
 * [SoftwareArchitektur im Stream Website](https://software-architektur.tv/)
 * [SoftwareArchitektur im Stream @ Spotify](https://open.spotify.com/show/7ySg1eZoWYBshd6QpGaW8B)
 * [SoftwareArchitektur im Stream @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1538545458)
@@ -1126,8 +1126,8 @@ Jede Woche setzen wir uns mit Expert:innen aus der Webentwicklung zusammen. Imme
 
 Digitalisierung ist komplex. Heute entsteht dies, morgen das. Und was übermorgen noch wichtig ist, wissen die wenigsten. Wir schon! Im Podcast besprechen wir mit den Expert:innen unserer Redaktion die wichtigsten Entwicklungen der Woche und der Zukunft. Wir geben Wissensvorsprung und Impulse.
 
-* Number of published episodes: 85
-* Last episode published: 🟢 Wednesday, 28 February 2024
+* Number of published episodes: 86
+* Last episode published: 🟢 Wednesday, 06 March 2024
 * [t3n Catch up Website](https://t3n.de/podcast#catchup)
 * [t3n Catch up @ Spotify](https://open.spotify.com/show/0Bjrzu6l2RtRRyvTf0QEKQ)
 * [t3n Catch up @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1627024991)
@@ -1253,8 +1253,8 @@ Wir sind UNMUTE IT, der Podcast von und mit Frauen aus der IT. Wir erzählen von
 
 IT Security Podcast
 
-* Number of published episodes: 27
-* Last episode published: 🟢 Tuesday, 20 February 2024
+* Number of published episodes: 28
+* Last episode published: 🟢 Monday, 04 March 2024
 * [Unter 4 Ohren Website](https://www.all-about-security.de/unter4ohren/)
 * [Unter 4 Ohren @ Spotify](https://open.spotify.com/show/7EQFf6fL4dytVJWB4DXYsQ)
 * [Unter 4 Ohren @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1551939691)
@@ -1318,8 +1318,8 @@ Latenight-Frontend-Talkshow rund um Webdesign und Entwicklung. Es reden sich um 
 
 Wöchentlicher Podcast für Webdesigner:innen und -entwickler:innen
 
-* Number of published episodes: 625
-* Last episode published: 🟢 Friday, 01 March 2024
+* Number of published episodes: 626
+* Last episode published: 🟢 Tuesday, 05 March 2024
 * [Working Draft Website](https://workingdraft.de/)
 * [Working Draft @ Spotify](https://open.spotify.com/show/78iH7cIFzu1ejoB6aQUsIh)
 * [Working Draft @ Apple Podcasts](https://podcasts.apple.com/de/podcast/402204581)
