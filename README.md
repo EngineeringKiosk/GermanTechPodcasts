@@ -121,7 +121,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
 Pentaradio24 ist eine Sendung, die jeden vierten Dienstag im Monat zwischen 21:30 und 23:00 Uhr auf coloRadio live ausgestrahlt wird, bestehend aus einem informativen Rahmenprogramm und Beiträgen zu einem sendungsspezifischen Thema.
 
 
-* Number of published episodes: 50
+* Number of published episodes: 49
 * Last episode published: 🟢 Sunday, 03 March 2024
 * [((c3d2)) Pentaradio 24 Website](https://www.c3d2.de/radio.html)
 * [((c3d2)) Pentaradio 24 @ Apple Podcasts](https://podcasts.apple.com/de/podcast/350873124)
@@ -153,8 +153,8 @@ Deutschsprachiger Podcast zu den Themen IT-Sicherheit und Privatsphäre. Stefan 
 
 Apfelfunk ist ein wöchentlicher Podcast über Apple-Themen. Jean-Claude Frick und Malte Kirchner berichten und bewerten darin die Neuigkeiten über den wichtigsten Computerkonzern der Welt.
 
-* Number of published episodes: 426
-* Last episode published: 🟢 Wednesday, 27 March 2024
+* Number of published episodes: 427
+* Last episode published: 🟢 Wednesday, 03 April 2024
 * [Apfelfunk Website](http://www.apfelfunk.com/)
 * [Apfelfunk @ Spotify](https://open.spotify.com/show/7FQLyWiNhMR0KS93ReaI4h)
 * [Apfelfunk @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1081146940)
@@ -169,8 +169,8 @@ Apfelfunk ist ein wöchentlicher Podcast über Apple-Themen. Jean-Claude Frick u
 
 Sie möchten beim Thema Datenschutz auf dem Laufenden bleiben, aber keine seitenlange Literatur wälzen? Dann wenden Sie sich vertrauensvoll an unser Juristen-Redakteurs-Duo. Alle 14 Tage bespricht c&#39;t-Redakteur Holger Bleich mit Joerg Heidrich aktuelle Entwicklungen rund um den Datenschutz. Joerg ist beim c&#39;t-Mutterschiff Heise Medien als Justiziar für das Thema zuständig und hat täglich mit der europäischen Datenschutz-Grundverordnung (DSGVO) zu tun. Wechselnde Gäste ergänzen das Duo.
 
-* Number of published episodes: 106
-* Last episode published: 🟢 Friday, 22 March 2024
+* Number of published episodes: 107
+* Last episode published: 🟢 Friday, 05 April 2024
 * [Auslegungssache Website](https://heise.de/-4571821)
 * [Auslegungssache @ Spotify](https://open.spotify.com/show/3Jrnu7vrTurguBaCiPapkA)
 * [Auslegungssache @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1485860893)
@@ -263,8 +263,8 @@ Mitglieder der c&#39;t-Redaktion diskutieren über die aktuellen Themen aus dem 
 
 Im monatlichen Chaosradio informiert der Chaos Computer Club Berlin seit 1995 über die Auswirkungen von Technik auf die Gesellschaft.
 
-* Number of published episodes: 277
-* Last episode published: 🟢 Tuesday, 05 March 2024
+* Number of published episodes: 278
+* Last episode published: 🟢 Wednesday, 03 April 2024
 * [Chaosradio Website](https://chaosradio.de/)
 * [Chaosradio @ Apple Podcasts](https://podcasts.apple.com/de/podcast/135057225)
 * [Chaosradio Podcast RSS](https://chaosradio.de/feed/m4a)
@@ -308,8 +308,8 @@ Lucas Rott und Markus Herhoffer erzählen alle 14 Tage von Code und Nerd-Kultur.
 
 Dein Podcast rund um Softwareentwicklung und aktueller Tech News. Lernt die Coding Buddies Tino und Fabi kennen. Erfahrt spannende Dinge über diverse Themen aus der Softwareentwicklung und lauscht den Erfahrungen der Beiden. Dazu gibt es witzige Anekdoten der Coding Buddies.
 
-* Number of published episodes: 53
-* Last episode published: 🟢 Thursday, 28 March 2024
+* Number of published episodes: 54
+* Last episode published: 🟢 Thursday, 04 April 2024
 * [Coding Buddies Website](https://www.codingbuddies.de/)
 * [Coding Buddies @ Spotify](https://open.spotify.com/show/5DaiBkAgQBt8DRCcwZY8xT?si=4acf817842f44c43)
 * [Coding Buddies @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1680339110)
@@ -485,8 +485,8 @@ Der Engineering Kiosk ist der deutschsprachige Software-Engineering-Podcast mit 
 
 Student*innen der Informatik, die einen Podcast machen, damit ihr alle checkt wie geil Informatik eigentlich ist.
 
-* Number of published episodes: 45
-* Last episode published: 🟢 Thursday, 21 March 2024
+* Number of published episodes: 46
+* Last episode published: 🟢 Thursday, 04 April 2024
 * [Female TechTalk Website](https://www.female-techtalk.com/)
 * [Female TechTalk @ Spotify](https://open.spotify.com/show/23CmXEDANTleEB6hmeVj4W)
 * [Female TechTalk @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1589781968)
@@ -580,7 +580,7 @@ Ein monatlicher Podcast der GNU/Linux.ch Community mit Themen und Interviews run
 &#34;Herr Zenzes wills wissen&#34; stellt jeden Monat eine interessante Person und ihre Themen aus der IT-Welt vor.
 
 * Number of published episodes: 56
-* Last episode published: 🟢 Monday, 05 February 2024
+* Last episode published: 🟡 Monday, 05 February 2024
 * [Herr Zenzes wills wissen Website](https://zenzes.me/)
 * [Herr Zenzes wills wissen @ Spotify](https://open.spotify.com/show/0RsiWLsZwLMnB70HpA5hnk)
 * [Herr Zenzes wills wissen Podcast RSS](https://zenzes.me/podcast/feed.xml)
@@ -690,8 +690,8 @@ Dieser Podcast unterstützt schnell, konkret und umfänglich beim Einstieg in di
 
 Nur etwas mehr als 60 Jahre liegen zwischen dem ersten Start eines Motorflugzeugs und dem ersten bemannten Flug zum Mond. Das Handy wurde in nur 30 Jahren zum wichtigsten Kommunikationskanal unserer Zeit. Und IT? Die entwickelt sich nicht weniger rasant und macht in einer vernetzten und digitalen Welt vor keinem Bereich mehr halt. Im Podcast sprechen wir über Trendthemen, die zwar nichts mit Raketenwissenschaft zu tun haben, dafür aber Menschen auf dem Weg in eine digitale Zukunft begleiten. Bist Du bereit?
 
-* Number of published episodes: 80
-* Last episode published: 🟢 Wednesday, 27 March 2024
+* Number of published episodes: 81
+* Last episode published: 🟢 Wednesday, 03 April 2024
 * [IT ist alles Website](https://www.pco-online.de/magazin/2020/07/podcast)
 * [IT ist alles @ Spotify](https://open.spotify.com/show/46EUTeJsHSfscbkrI38f6p)
 * [IT ist alles @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1524049773)
@@ -962,8 +962,8 @@ Ein Podcast über die dunkle Seite der Digitalisierung: Spionage, Hacker, Sabota
 
 Mit geballter Dev-Power nehmen Dennis, Fabi, Sebi und Jojo neue Podcastfolgen auf und werden dabei regelmäßig von Gäst:innen aus der Branche unterstützt. Taucht in unseren Deep Dives mit uns in Frameworks und Datenbanken ein, hört euch in den CTO-Specials die Erfahrungen führender Persönlichkeiten großer Unternehmen an und bleibt mit unseren News-Folgen stets am Ball in der Welt der App- und Webentwicklung.
 
-* Number of published episodes: 307
-* Last episode published: 🟢 Wednesday, 27 March 2024
+* Number of published episodes: 308
+* Last episode published: 🟢 Wednesday, 03 April 2024
 * Weekly downloads (avg): 8744 (updated: 2023-04-12)
 * [programmier.bar Website](https://www.programmier.bar/podcast)
 * [programmier.bar @ Spotify](https://open.spotify.com/show/0ik0sXv9paTQCeThcOLCCJ)
@@ -992,7 +992,7 @@ Ein deutschsprachiger Podcast rund um die Programmiersprache Python
 
 <h3 id="radiotux">RadioTux</h3>
 
-<img align="right" width="215" height="215" src="./generated/images/radiotux.png" />
+<img align="right" width="215" height="215" src="./generated/generated/images/radiotux.png" />
 
 Rund um Open Source, Freie Software, Linux und gesellschaftspolitische Themen.
 
@@ -1029,8 +1029,8 @@ Sandra Parsick &amp; Daniel Zenzes präsentieren mit Ready for Review einen bunt
 
 Die IT hat unser Leben in den letzten Jahrzehnten von Grund auf verändert. Aber wie funktioniert sie wirklich? Das möchte ttimeless mal erklärt bekommen. Zum Glück hat Xyrill Antworten.
 
-* Number of published episodes: 53
-* Last episode published: 🟢 Thursday, 14 March 2024
+* Number of published episodes: 54
+* Last episode published: 🟢 Thursday, 04 April 2024
 * [Schlüsseltechnologie Website](https://xyrillian.de/noises/stp/)
 * [Schlüsseltechnologie @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1559995829)
 * [Schlüsseltechnologie Podcast RSS](https://xyrillian.de/noises/stp/rss.xml)
@@ -1156,8 +1156,8 @@ In diesem Podcast diskutiert die t3n-Redaktion mit Gästen über die spannendste
 
 Der Podcast rund um Technologie, Smart Home, Gadgets und mehr. Patrick und Ingo sprechen regelmäßig über Hard- und Software, die Ihnen im Alltag helfen - doch das ist noch längst nicht alles. Sie probieren Neues aus, berichten ganz offen und ehrlich über Vor- und Nachteile verschiedenster Produkte und geben Ihrer Meinung freien Lauf. Designliebe, Produktivitäts-Junkies, neugierige Technik-Besessene, Smart Home Neulinge und Liebhaber von Innovationen finden sich hier schnell zu Recht - alle andere sollten einschalten, mitreden und staunen, was alles möglich ist!
 
-* Number of published episodes: 44
-* Last episode published: 🟢 Thursday, 21 March 2024
+* Number of published episodes: 45
+* Last episode published: 🟢 Wednesday, 03 April 2024
 * [Tech me if you can Website](https://techmeifyoucan.letscast.fm/)
 * [Tech me if you can @ Spotify](https://open.spotify.com/show/34sAq6pHjadCQyPoydwZfN?si=5a0cf3dda5f74983)
 * [Tech me if you can @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1674729698)
@@ -1189,8 +1189,8 @@ Ausführliche, häufig zeitlose Gespräche von Gastgeber Nico Kreiling mit wechs
 
 IT-Security, unendliche Weiten ... So oder so ähnlich lässt sich die Größenordnung von alldem, was IT-Security betrifft, beschreiben - Netzwerk, Cloud, Endpoint, E-Mail, SOC, Schwachstellen, Sicherheitsvorfall, Awareness und vieeeles mehr. Klingt unfassbar kompliziert – ist aber auch unfassbar spannend. In unserem Podcast berichten wir über aktuelle Themen und zeigen euch, warum das Thema IT-Sicherheit auch für euren Alltag extrem wichtig ist. Denn das ist unsere Leidenschaft: eure Unternehmen und eure Arbeit sicher zu machen. Habt ihr heute schon auf einen Link geklickt? 😉
 
-* Number of published episodes: 36
-* Last episode published: 🟢 Thursday, 21 March 2024
+* Number of published episodes: 37
+* Last episode published: 🟢 Thursday, 04 April 2024
 * [The World of IT-Security Website](https://www.suresecure.de/aktuelles/podcast)
 * [The World of IT-Security @ Spotify](https://open.spotify.com/show/38ro5pDX7ToVMA9w6RVyNM)
 * [The World of IT-Security @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1567043544)
@@ -1335,7 +1335,7 @@ Wöchentlicher Podcast für Webdesigner:innen und -entwickler:innen
 Wir berichten zweiwöchentlich über News und Updates aus dem WordPress Universum.
 
 * Number of published episodes: 182
-* Last episode published: 🟢 Sunday, 04 February 2024
+* Last episode published: 🟡 Sunday, 04 February 2024
 * [WP Sofa Website](https://wp-sofa.de/)
 * [WP Sofa @ Spotify](https://open.spotify.com/show/5deyJkxMw1cAMKGxnrx5wO)
 * [WP Sofa Podcast RSS](https://wp-sofa.de/feed/mp3/)
