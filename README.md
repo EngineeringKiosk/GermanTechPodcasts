@@ -122,7 +122,7 @@ Pentaradio24 ist eine Sendung, die jeden vierten Dienstag im Monat zwischen 21:3
 
 
 * Number of published episodes: 49
-* Last episode published: 🟢 Sunday, 03 March 2024
+* Last episode published: 🟢 Saturday, 06 April 2024
 * [((c3d2)) Pentaradio 24 Website](https://www.c3d2.de/radio.html)
 * [((c3d2)) Pentaradio 24 @ Apple Podcasts](https://podcasts.apple.com/de/podcast/350873124)
 * [((c3d2)) Pentaradio 24 Podcast RSS](https://www.c3d2.de/pentaradio.xml)
@@ -248,8 +248,8 @@ Ransomware Attacken, Phishing oder DDoS - jeden Tag aufs Neue werden Unternehmen
 
 Mitglieder der c&#39;t-Redaktion diskutieren über die aktuellen Themen aus dem c’t Magazin und was sonst noch so in der IT-Welt passiert.
 
-* Number of published episodes: 535
-* Last episode published: 🟢 Saturday, 30 March 2024
+* Number of published episodes: 536
+* Last episode published: 🟢 Saturday, 06 April 2024
 * [c&#39;t uplink Website](https://www.heise.de/ct/entdecken/?hauptrubrik=%40ctmagazin&amp;unterrubrik=c%27t&#43;uplink)
 * [c&#39;t uplink @ Spotify](https://open.spotify.com/show/4LdN7lGr9winLtQSqoIjVD)
 * [c&#39;t uplink @ Apple Podcasts](https://podcasts.apple.com/de/podcast/835717958)
@@ -278,8 +278,8 @@ Im monatlichen Chaosradio informiert der Chaos Computer Club Berlin seit 1995 ü
 
 Ein Podcast über den nahezu unendlich tiefen Kaninchenbau der mechanische Tastaturen. Ich erzähle euch was es neues im Hobby der mechanical Keyboards gibt, Groupbuys, Interestchecks, Neue Keyboards, Keycaps und Switches und noch viel viel mehr....
 
-* Number of published episodes: 92
-* Last episode published: 🟢 Monday, 25 March 2024
+* Number of published episodes: 94
+* Last episode published: 🟢 Monday, 08 April 2024
 * [Click! Clack! Hack! Website](https://www.nerdbude.com/podcast/)
 * [Click! Clack! Hack! @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1551770169)
 * [Click! Clack! Hack! Podcast RSS](https://www.nerdbude.com/podcast/feed/feed.xml)
@@ -293,8 +293,8 @@ Ein Podcast über den nahezu unendlich tiefen Kaninchenbau der mechanische Tasta
 
 Lucas Rott und Markus Herhoffer erzählen alle 14 Tage von Code und Nerd-Kultur. Mit News aus der Tech-Bubble, einem Thema der Woche über Software development und dem Code der Woche.
 
-* Number of published episodes: 117
-* Last episode published: 🟢 Wednesday, 20 March 2024
+* Number of published episodes: 118
+* Last episode published: 🟢 Friday, 05 April 2024
 * [Code Culture Website](https://codeculture.podigee.io/)
 * [Code Culture @ Spotify](https://open.spotify.com/show/01ZL2aPP50lLW51u2aTOkN)
 * [Code Culture @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1516904389)
@@ -324,7 +324,7 @@ Dein Podcast rund um Softwareentwicklung und aktueller Tech News. Lernt die Codi
 Jeden Samstag das Neueste aus Computertechnik und Informationstechnologie. Beiträge, Reportagen und Interviews zu IT-Sicherheit, Informatik, Datenschutz, Smartphones, Cloud-Computing und IT-Politik. Die Trends der IT werden kompakt und informativ zusammengefasst.
 
 * Number of published episodes: 20
-* Last episode published: 🟢 Saturday, 30 March 2024
+* Last episode published: 🟢 Saturday, 06 April 2024
 * [Computer und Kommunikation (Deutschlandfunk) Website](https://www.deutschlandfunk.de/computer-und-kommunikation-102.html)
 * [Computer und Kommunikation (Deutschlandfunk) @ Spotify](https://open.spotify.com/show/4uy56W83RGe8SKmzNpyfAc)
 * [Computer und Kommunikation (Deutschlandfunk) @ Apple Podcasts](https://podcasts.apple.com/de/podcast/173754605)
@@ -351,7 +351,7 @@ Cybersecurity entschüsselt ist ein deutschsprachiger Podcast, in dem sich alles
 
 <h3 id="das-duumvirat">Das Duumvirat</h3>
 
-<img align="right" width="215" height="215" src="./generated/images/das-duumvirat.png" />
+<img align="right" width="215" height="215" src="./generated/images/das-duumvirat.jpg" />
 
 Im Podcast Das Duumvirat unterhalten wir uns über verschiedene Mac-Themen aus dem Alltag von Anwendern. Wir schauen über den Tellerrand. Und manchmal haben wir auch Gäste.
 
@@ -468,8 +468,8 @@ Software und IT sind komplex. Gerade Fachfremde, die dennoch häufig mit Softwar
 
 Der Engineering Kiosk ist der deutschsprachige Software-Engineering-Podcast mit Wolfgang Gassler und Andy Grunwald rund um die Themen Engineering-Kultur, Open Source, Menschen, Technologie und allen anderen Bereichen, die damit in Verbindung stehen.
 
-* Number of published episodes: 118
-* Last episode published: 🟢 Tuesday, 26 March 2024
+* Number of published episodes: 119
+* Last episode published: 🟢 Tuesday, 02 April 2024
 * Weekly downloads (avg): 1099 (updated: 2023-01-31)
 * [Engineering Kiosk Website](https://engineeringkiosk.dev/)
 * [Engineering Kiosk @ Spotify](https://open.spotify.com/show/0tJRC0UsObPCWLmmzmOkIs)
@@ -642,8 +642,8 @@ Du bist Entwickler/Developer? Dann Lauscher auf! Thomas und Christian sprechen i
 
 In dieser Serie diskutieren wir interessante Themen aus Software-Entwicklung und -Architektur – immer mit dem Fokus auf Praxistauglichkeit.
 
-* Number of published episodes: 147
-* Last episode published: 🟢 Monday, 25 March 2024
+* Number of published episodes: 148
+* Last episode published: 🟢 Monday, 08 April 2024
 * [INNOQ Podcast Website](https://www.innoq.com/de/podcast/)
 * [INNOQ Podcast @ Spotify](https://open.spotify.com/show/20svL8wDDgtidO2Qwf3EWx)
 * [INNOQ Podcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/672695146)
@@ -930,7 +930,7 @@ Mehr Wissen über die digitale Welt. Experten des Hasso-Plattner-Instituts sprec
 Oli und Michael sprechen über alles Wichtige aus der Welt der Open Source, Technologie und dem Geek-tum.
 
 * Number of published episodes: 40
-* Last episode published: 🟢 Monday, 05 February 2024
+* Last episode published: 🟡 Monday, 05 February 2024
 * [Open Source Couch Website](https://www.opensourcecouch.de/)
 * [Open Source Couch @ Spotify](https://open.spotify.com/show/3fNThjRvMKJhhyg7eCTY8v)
 * [Open Source Couch @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1529154227)
@@ -962,8 +962,8 @@ Ein Podcast über die dunkle Seite der Digitalisierung: Spionage, Hacker, Sabota
 
 Mit geballter Dev-Power nehmen Dennis, Fabi, Sebi und Jojo neue Podcastfolgen auf und werden dabei regelmäßig von Gäst:innen aus der Branche unterstützt. Taucht in unseren Deep Dives mit uns in Frameworks und Datenbanken ein, hört euch in den CTO-Specials die Erfahrungen führender Persönlichkeiten großer Unternehmen an und bleibt mit unseren News-Folgen stets am Ball in der Welt der App- und Webentwicklung.
 
-* Number of published episodes: 308
-* Last episode published: 🟢 Wednesday, 03 April 2024
+* Number of published episodes: 309
+* Last episode published: 🟢 Friday, 05 April 2024
 * Weekly downloads (avg): 8744 (updated: 2023-04-12)
 * [programmier.bar Website](https://www.programmier.bar/podcast)
 * [programmier.bar @ Spotify](https://open.spotify.com/show/0ik0sXv9paTQCeThcOLCCJ)
@@ -992,7 +992,7 @@ Ein deutschsprachiger Podcast rund um die Programmiersprache Python
 
 <h3 id="radiotux">RadioTux</h3>
 
-<img align="right" width="215" height="215" src="./generated/generated/images/radiotux.png" />
+<img align="right" width="215" height="215" src="./generated/images/radiotux.png" />
 
 Rund um Open Source, Freie Software, Linux und gesellschaftspolitische Themen.
 
@@ -1044,8 +1044,8 @@ Die IT hat unser Leben in den letzten Jahrzehnten von Grund auf verändert. Aber
 
 Der Security-Insider Podcast ist ein Podcast für Security-Profis mit Infos, Nachrichten und Meinungen rund um die IT-Sicherheit. Hier unterhält sich Chefredakteur Peter Schmitz mit seinem Co-Host Dirk Srocke und manchmal auch mit spannenden Gästen. Zum Gespräch stehen alle Themen rund um die IT-Sicherheit, Datenschutz und Compliance.
 
-* Number of published episodes: 86
-* Last episode published: 🟢 Friday, 08 March 2024
+* Number of published episodes: 87
+* Last episode published: 🟢 Monday, 08 April 2024
 * Weekly downloads (avg): 1060 (updated: 2023-01-16)
 * [Security-Insider Website](https://www.security-insider.de/)
 * [Security-Insider @ Spotify](https://open.spotify.com/show/3n8Pbu19oN32bzq7zsQbvC)
@@ -1061,8 +1061,8 @@ Der Security-Insider Podcast ist ein Podcast für Security-Profis mit Infos, Nac
 
 Live-Diskussion zu Software-Architektur im Stream. Einmal in der Woche diskutiert Eberhard Wolff Software-Architektur im Live-Stream auf YouTube und Twitch - oft zusammen mit einem Gast. Zuschauer können über den Chat mitdiskutieren oder Fragen stellen. Der Podcast enthält die Audio-Spur des Streams.
 
-* Number of published episodes: 207
-* Last episode published: 🟢 Wednesday, 27 March 2024
+* Number of published episodes: 208
+* Last episode published: 🟢 Friday, 05 April 2024
 * [SoftwareArchitektur im Stream Website](https://software-architektur.tv/)
 * [SoftwareArchitektur im Stream @ Spotify](https://open.spotify.com/show/7ySg1eZoWYBshd6QpGaW8B)
 * [SoftwareArchitektur im Stream @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1538545458)
@@ -1141,8 +1141,8 @@ Digitalisierung ist komplex. Heute entsteht dies, morgen das. Und was übermorge
 
 In diesem Podcast diskutiert die t3n-Redaktion mit Gästen über die spannendsten digitalen Themen unserer Zeit. Ob innovative Führungskonzepte, die Digitalisierung der Gesellschaft, smarte Gadgets, neue Mobilität oder Zukunftstechnologien. Jeden Freitag um 10 Uhr!
 
-* Number of published episodes: 587
-* Last episode published: 🟢 Friday, 29 March 2024
+* Number of published episodes: 589
+* Last episode published: 🟢 Monday, 08 April 2024
 * [t3n Interview Website](https://t3n.de/podcast#interview)
 * [t3n Interview @ Spotify](https://open.spotify.com/show/7obTbZaywhQEiUUOMswQBQ)
 * [t3n Interview @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1115601393)
@@ -1221,8 +1221,8 @@ Sujeevan und Dirk reden über Themen, die Ihnen in der letzten Zeit untergekomme
 
 todo:cast ist ein deutschsprachiger Podcast für die großen und kleinen Fragen des Entwickler*innenalltags. Schon seit Langem tauschen sich Malte und Robin-Manuel in regelmäßigen Abständen über diverse Themen aus ihrem Alltag in der Softwareentwicklung aus. Dabei lernen sie jedes Mal etwas Neues! Warum also das Ganze nicht aufzeichnen und als Podcast zur Verfügung stellen?
 
-* Number of published episodes: 86
-* Last episode published: 🟢 Monday, 25 March 2024
+* Number of published episodes: 87
+* Last episode published: 🟢 Monday, 08 April 2024
 * [todo:cast Website](https://todocast.io/)
 * [todo:cast @ Spotify](https://open.spotify.com/show/2tIlVD6vBAtEhOZM4jS1mw)
 * [todo:cast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1467179396)
@@ -1303,7 +1303,7 @@ In diesem Podcast geht es um Web und User Interface Design, Freelancing, Arbeits
 Latenight-Frontend-Talkshow rund um Webdesign und Entwicklung. Es reden sich um &lt;HEAD&gt; und Kragen: HTML-Fundamentalist Moritz Gießmann und JavaScript Jongleur Constantin Groß.
 
 * Number of published episodes: 65
-* Last episode published: 🟢 Wednesday, 07 February 2024
+* Last episode published: 🟡 Wednesday, 07 February 2024
 * [Wo wir sind ist vorne Website](https://wowirsindistvorne.show/)
 * [Wo wir sind ist vorne @ Spotify](https://open.spotify.com/show/54K1DpiQYHBHSnIO6OzSKs)
 * [Wo wir sind ist vorne @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1500485579)
