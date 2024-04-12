@@ -6,7 +6,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (77 podcasts)
+* [Podcasts](#podcasts) (76 podcasts)
   * [((c3d2)) Pentaradio 24](#c3d2-pentaradio-24)
   * [0d - Zeroday](#0d-zeroday)
   * [Apfelfunk](#apfelfunk)
@@ -25,7 +25,6 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [Das Duumvirat](#das-duumvirat)
   * [DAS WAR SCHON KAPUTT](#das-war-schon-kaputt)
   * [Der GameDev Podcast](#der-gamedev-podcast)
-  * [dev.env](#dev-env)
   * [DevCouch](#devcouch)
   * [Digitale Anomalien](#digitale-anomalien)
   * [Einfach Komplex](#einfach-komplex)
@@ -84,12 +83,13 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [Wo wir sind ist vorne](#wo-wir-sind-ist-vorne)
   * [Working Draft](#working-draft)
   * [WP Sofa](#wp-sofa)
-* [Archived podcasts](#archived-podcasts) (19 podcasts)
+* [Archived podcasts](#archived-podcasts) (20 podcasts)
   * [Armchair Investigators](#armchair-investigators)
   * [Autoweird](#autoweird)
   * [Bits &amp; Böses - Der Tech Crime Podcast](#bits-and-boses-der-tech-crime-podcast)
   * [Code and Ship](#code-and-ship)
   * [Codestammtisch](#codestammtisch)
+  * [dev.env](#dev-env)
   * [Digitalisierungsfieber](#digitalisierungsfieber)
   * [GeekWeek](#geekweek)
   * [heise Developer: SoftwareArchitekTOUR](#heise-developer-softwarearchitektour)
@@ -153,8 +153,8 @@ Deutschsprachiger Podcast zu den Themen IT-Sicherheit und Privatsphäre. Stefan 
 
 Apfelfunk ist ein wöchentlicher Podcast über Apple-Themen. Jean-Claude Frick und Malte Kirchner berichten und bewerten darin die Neuigkeiten über den wichtigsten Computerkonzern der Welt.
 
-* Number of published episodes: 427
-* Last episode published: 🟢 Wednesday, 03 April 2024
+* Number of published episodes: 428
+* Last episode published: 🟢 Thursday, 11 April 2024
 * [Apfelfunk Website](http://www.apfelfunk.com/)
 * [Apfelfunk @ Spotify](https://open.spotify.com/show/7FQLyWiNhMR0KS93ReaI4h)
 * [Apfelfunk @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1081146940)
@@ -308,8 +308,8 @@ Lucas Rott und Markus Herhoffer erzählen alle 14 Tage von Code und Nerd-Kultur.
 
 Dein Podcast rund um Softwareentwicklung und aktueller Tech News. Lernt die Coding Buddies Tino und Fabi kennen. Erfahrt spannende Dinge über diverse Themen aus der Softwareentwicklung und lauscht den Erfahrungen der Beiden. Dazu gibt es witzige Anekdoten der Coding Buddies.
 
-* Number of published episodes: 54
-* Last episode published: 🟢 Thursday, 04 April 2024
+* Number of published episodes: 55
+* Last episode published: 🟢 Thursday, 11 April 2024
 * [Coding Buddies Website](https://www.codingbuddies.de/)
 * [Coding Buddies @ Spotify](https://open.spotify.com/show/5DaiBkAgQBt8DRCcwZY8xT?si=4acf817842f44c43)
 * [Coding Buddies @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1680339110)
@@ -393,21 +393,6 @@ Wir reden über Spieleentwicklung und allgemein über die Branche aber gehen auc
 * [Der GameDev Podcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1143613851)
 * [Der GameDev Podcast Podcast RSS](http://feed.gamedevpodcast.de/)
 * Tags: Game Development, Spieleentwicklung, 3D, VFX, Producing, Video games, AI, Procedural generation, Indie games
-
-----
-
-<h3 id="dev-env">dev.env</h3>
-
-<img align="right" width="215" height="215" src="./generated/images/dev-env.jpeg" />
-
-Der einzige IT Podcast in dem es nicht um IT geht. Ivan Ushmorov spricht mit Menschen aus der IT Industrie. Freelancer, Tech Leads, Headhunter, Founder, PMs, Agile Coaches und digitale Hustler hier kommen alle zu Wort.
-
-* Number of published episodes: 44
-* Last episode published: 🟡 Wednesday, 11 October 2023
-* [dev.env Website](https://shows.acast.com/dev-env)
-* [dev.env @ Spotify](https://open.spotify.com/show/6e9gpjtx54G0293RsH6agn)
-* [dev.env @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1667384138)
-* [dev.env Podcast RSS](https://python-podcast.de/show/feed/podcast/m4a/rss.xml)
 
 ----
 
@@ -501,8 +486,8 @@ Student*innen der Informatik, die einen Podcast machen, damit ihr alle checkt wi
 
 Der FOCUS ON: DevOps Podcast beschäftigt sich mit verschiedenen Methoden und Werkzeugen rund um das Thema DevOps. Dabei wechseln sich technische mit methodischen Folgen ab. Unser Ziel ist es über relevante Themen zu informieren und auch die Hersteller auf dem Markt als Gäste mit einzubinden.
 
-* Number of published episodes: 90
-* Last episode published: 🟢 Tuesday, 09 April 2024
+* Number of published episodes: 91
+* Last episode published: 🟢 Wednesday, 10 April 2024
 * [FOCUS ON: DevOps Website](https://focusondevops.podigee.io/)
 * [FOCUS ON: DevOps @ Spotify](https://open.spotify.com/show/0gXBw5mGcqXQkPW9h2JTaa)
 * [FOCUS ON: DevOps @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1542623849)
@@ -517,8 +502,8 @@ Der FOCUS ON: DevOps Podcast beschäftigt sich mit verschiedenen Methoden und We
 
 Der FOCUS ON: Linux Podcast beschäftigt sich mit verschiedenen Themen rund um Linux. Unser Ziel ist es, euch monatlich über die Entwicklungen und Neuigkeiten zu informieren und auch praktische Tool-Tipps an die Hand zu geben.
 
-* Number of published episodes: 101
-* Last episode published: 🟢 Thursday, 28 March 2024
+* Number of published episodes: 102
+* Last episode published: 🟢 Thursday, 11 April 2024
 * Weekly downloads (avg): 780 (updated: 2024-01-11)
 * [FOCUS ON: Linux Website](https://focusonlinux.podigee.io/)
 * [FOCUS ON: Linux @ Spotify](https://open.spotify.com/show/4Yj9EaidQuwEZL0NkAafzh)
@@ -583,6 +568,7 @@ Ein monatlicher Podcast der GNU/Linux.ch Community mit Themen und Interviews run
 * Last episode published: 🟡 Monday, 05 February 2024
 * [Herr Zenzes wills wissen Website](https://zenzes.me/)
 * [Herr Zenzes wills wissen @ Spotify](https://open.spotify.com/show/0RsiWLsZwLMnB70HpA5hnk)
+* [Herr Zenzes wills wissen @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1257454170)
 * [Herr Zenzes wills wissen Podcast RSS](https://zenzes.me/podcast/feed.xml)
 * Tags: Agilität, Softwareentwicklung, Software-Crafting, Interviews
 
@@ -690,8 +676,8 @@ Dieser Podcast unterstützt schnell, konkret und umfänglich beim Einstieg in di
 
 Nur etwas mehr als 60 Jahre liegen zwischen dem ersten Start eines Motorflugzeugs und dem ersten bemannten Flug zum Mond. Das Handy wurde in nur 30 Jahren zum wichtigsten Kommunikationskanal unserer Zeit. Und IT? Die entwickelt sich nicht weniger rasant und macht in einer vernetzten und digitalen Welt vor keinem Bereich mehr halt. Im Podcast sprechen wir über Trendthemen, die zwar nichts mit Raketenwissenschaft zu tun haben, dafür aber Menschen auf dem Weg in eine digitale Zukunft begleiten. Bist Du bereit?
 
-* Number of published episodes: 81
-* Last episode published: 🟢 Wednesday, 03 April 2024
+* Number of published episodes: 82
+* Last episode published: 🟢 Wednesday, 10 April 2024
 * [IT ist alles Website](https://www.pco-online.de/magazin/2020/07/podcast)
 * [IT ist alles @ Spotify](https://open.spotify.com/show/46EUTeJsHSfscbkrI38f6p)
 * [IT ist alles @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1524049773)
@@ -800,8 +786,8 @@ Logbuch:Netzpolitik ist ein in der Regel wöchentlich erscheinender Podcast, der
 
 Redakteure von heise Mac &amp; i beschäftigen sich jeden Monat mit Apple-Produkten, -Betriebssystemen und dem Drumherum, stellen Testergebnisse vor und geben Tipps.
 
-* Number of published episodes: 68
-* Last episode published: 🟢 Wednesday, 27 March 2024
+* Number of published episodes: 69
+* Last episode published: 🟢 Thursday, 11 April 2024
 * [Mac &amp; I Website](https://www.heise.de/mac-and-i/meldung/Mac-i-Der-Apple-Podcast-4681220.html)
 * [Mac &amp; I @ Spotify](https://open.spotify.com/show/5Tcgc97HvYREYM7kIRsxii)
 * [Mac &amp; I @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1499510618)
@@ -962,8 +948,8 @@ Ein Podcast über die dunkle Seite der Digitalisierung: Spionage, Hacker, Sabota
 
 Mit geballter Dev-Power nehmen Dennis, Fabi, Sebi und Jojo neue Podcastfolgen auf und werden dabei regelmäßig von Gäst:innen aus der Branche unterstützt. Taucht in unseren Deep Dives mit uns in Frameworks und Datenbanken ein, hört euch in den CTO-Specials die Erfahrungen führender Persönlichkeiten großer Unternehmen an und bleibt mit unseren News-Folgen stets am Ball in der Welt der App- und Webentwicklung.
 
-* Number of published episodes: 309
-* Last episode published: 🟢 Friday, 05 April 2024
+* Number of published episodes: 310
+* Last episode published: 🟢 Wednesday, 10 April 2024
 * Weekly downloads (avg): 8744 (updated: 2023-04-12)
 * [programmier.bar Website](https://www.programmier.bar/podcast)
 * [programmier.bar @ Spotify](https://open.spotify.com/show/0ik0sXv9paTQCeThcOLCCJ)
@@ -1141,8 +1127,8 @@ Digitalisierung ist komplex. Heute entsteht dies, morgen das. Und was übermorge
 
 In diesem Podcast diskutiert die t3n-Redaktion mit Gästen über die spannendsten digitalen Themen unserer Zeit. Ob innovative Führungskonzepte, die Digitalisierung der Gesellschaft, smarte Gadgets, neue Mobilität oder Zukunftstechnologien. Jeden Freitag um 10 Uhr!
 
-* Number of published episodes: 590
-* Last episode published: 🟢 Wednesday, 10 April 2024
+* Number of published episodes: 591
+* Last episode published: 🟢 Friday, 12 April 2024
 * [t3n Interview Website](https://t3n.de/podcast#interview)
 * [t3n Interview @ Spotify](https://open.spotify.com/show/7obTbZaywhQEiUUOMswQBQ)
 * [t3n Interview @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1115601393)
@@ -1156,8 +1142,8 @@ In diesem Podcast diskutiert die t3n-Redaktion mit Gästen über die spannendste
 
 Der Podcast rund um Technologie, Smart Home, Gadgets und mehr. Patrick und Ingo sprechen regelmäßig über Hard- und Software, die Ihnen im Alltag helfen - doch das ist noch längst nicht alles. Sie probieren Neues aus, berichten ganz offen und ehrlich über Vor- und Nachteile verschiedenster Produkte und geben Ihrer Meinung freien Lauf. Designliebe, Produktivitäts-Junkies, neugierige Technik-Besessene, Smart Home Neulinge und Liebhaber von Innovationen finden sich hier schnell zu Recht - alle andere sollten einschalten, mitreden und staunen, was alles möglich ist!
 
-* Number of published episodes: 45
-* Last episode published: 🟢 Wednesday, 03 April 2024
+* Number of published episodes: 46
+* Last episode published: 🟢 Wednesday, 10 April 2024
 * [Tech me if you can Website](https://techmeifyoucan.letscast.fm/)
 * [Tech me if you can @ Spotify](https://open.spotify.com/show/34sAq6pHjadCQyPoydwZfN?si=5a0cf3dda5f74983)
 * [Tech me if you can @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1674729698)
@@ -1422,6 +1408,21 @@ Zwei Softwareentwickler — Max und Nathan — unterhalten sich ein Getränk lan
 * [Codestammtisch Website](https://codestammtis.ch/)
 * [Codestammtisch @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1410854302)
 * [Codestammtisch Podcast RSS](https://codestammtis.ch/feed/mp3/)
+
+----
+
+<h3 id="dev-env">dev.env</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/dev-env.jpeg" />
+
+Der einzige IT Podcast in dem es nicht um IT geht. Ivan Ushmorov spricht mit Menschen aus der IT Industrie. Freelancer, Tech Leads, Headhunter, Founder, PMs, Agile Coaches und digitale Hustler hier kommen alle zu Wort.
+
+* Number of published episodes: 44
+* Last episode published: 🔴 Wednesday, 11 October 2023
+* [dev.env Website](https://shows.acast.com/dev-env)
+* [dev.env @ Spotify](https://open.spotify.com/show/6e9gpjtx54G0293RsH6agn)
+* [dev.env @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1667384138)
+* [dev.env Podcast RSS](https://python-podcast.de/show/feed/podcast/m4a/rss.xml)
 
 ----
 

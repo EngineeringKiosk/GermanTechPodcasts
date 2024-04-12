@@ -13,7 +13,7 @@
  },
  "episodeCount": 44,
  "latestEpisodePublished": 1696998614,
- "archive": false,
+ "archive": true,
  "itunesID": 1667384138,
  "image": "images/dev-env.jpeg"
 }
