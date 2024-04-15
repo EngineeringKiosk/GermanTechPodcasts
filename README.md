@@ -122,7 +122,7 @@ Pentaradio24 ist eine Sendung, die jeden vierten Dienstag im Monat zwischen 21:3
 
 
 * Number of published episodes: 49
-* Last episode published: 🟢 Saturday, 06 April 2024
+* Last episode published: 🟢 Sunday, 14 April 2024
 * [((c3d2)) Pentaradio 24 Website](https://www.c3d2.de/radio.html)
 * [((c3d2)) Pentaradio 24 @ Apple Podcasts](https://podcasts.apple.com/de/podcast/350873124)
 * [((c3d2)) Pentaradio 24 Podcast RSS](https://www.c3d2.de/pentaradio.xml)
@@ -218,7 +218,7 @@ Prozessoren, Grafikkarten, Notebooks, Desktop-PCs, Server, KI, Rechenzentren und
 Die wöchentliche Talkrunde rund um Apple, Mac, iPod &#43; iPhone, Gadgets und so. Fast live aus München.
 
 * Number of published episodes: 10
-* Last episode published: 🟢 Tuesday, 09 April 2024
+* Last episode published: 🟢 Monday, 15 April 2024
 * [Bits und so Website](http://www.bitsundso.de/)
 * [Bits und so @ Apple Podcasts](https://podcasts.apple.com/de/podcast/202753375)
 * [Bits und so Podcast RSS](http://www.bitsundso.de/feed/)
@@ -232,8 +232,8 @@ Die wöchentliche Talkrunde rund um Apple, Mac, iPod &#43; iPhone, Gadgets und s
 
 Ransomware Attacken, Phishing oder DDoS - jeden Tag aufs Neue werden Unternehmen Ziel von Angriffen. Was sind die Geschichten dahinter, wie laufen die Attacken ab und wie kann Schaden verhindert werden? Kim und Robert haben tagtäglich Einblicke in die Info Sec Welt und teilen in diesem Podcast mit Euch ihre Erfahrungen. Schaltet ein, wenn ihr regelmäßige Updates zu aktuellen Sicherheitslücken, Diskussionen zu Technologie Trends oder anderen Themen aus der Welt der Info Sec haben möchtet!
 
-* Number of published episodes: 42
-* Last episode published: 🟢 Thursday, 28 March 2024
+* Number of published episodes: 43
+* Last episode published: 🟢 Monday, 15 April 2024
 * [Breach FM Website](https://breachfm.transistor.fm/)
 * [Breach FM @ Spotify](https://open.spotify.com/show/4ooV9mM8Qiyfkj9jUkdZjj)
 * [Breach FM @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1641279793)
@@ -248,8 +248,8 @@ Ransomware Attacken, Phishing oder DDoS - jeden Tag aufs Neue werden Unternehmen
 
 Mitglieder der c&#39;t-Redaktion diskutieren über die aktuellen Themen aus dem c’t Magazin und was sonst noch so in der IT-Welt passiert.
 
-* Number of published episodes: 536
-* Last episode published: 🟢 Saturday, 06 April 2024
+* Number of published episodes: 537
+* Last episode published: 🟢 Saturday, 13 April 2024
 * [c&#39;t uplink Website](https://www.heise.de/ct/entdecken/?hauptrubrik=%40ctmagazin&amp;unterrubrik=c%27t&#43;uplink)
 * [c&#39;t uplink @ Spotify](https://open.spotify.com/show/4LdN7lGr9winLtQSqoIjVD)
 * [c&#39;t uplink @ Apple Podcasts](https://podcasts.apple.com/de/podcast/835717958)
@@ -324,7 +324,7 @@ Dein Podcast rund um Softwareentwicklung und aktueller Tech News. Lernt die Codi
 Jeden Samstag das Neueste aus Computertechnik und Informationstechnologie. Beiträge, Reportagen und Interviews zu IT-Sicherheit, Informatik, Datenschutz, Smartphones, Cloud-Computing und IT-Politik. Die Trends der IT werden kompakt und informativ zusammengefasst.
 
 * Number of published episodes: 20
-* Last episode published: 🟢 Saturday, 06 April 2024
+* Last episode published: 🟢 Saturday, 13 April 2024
 * [Computer und Kommunikation (Deutschlandfunk) Website](https://www.deutschlandfunk.de/computer-und-kommunikation-102.html)
 * [Computer und Kommunikation (Deutschlandfunk) @ Spotify](https://open.spotify.com/show/4uy56W83RGe8SKmzNpyfAc)
 * [Computer und Kommunikation (Deutschlandfunk) @ Apple Podcasts](https://podcasts.apple.com/de/podcast/173754605)
@@ -370,8 +370,8 @@ Im Podcast Das Duumvirat unterhalten wir uns über verschiedene Mac-Themen aus d
 
 Wir sind ein Laber-Technik-Lebensweisheiten-Podcast, mit News, Retrogeschichten und gelegentlich Filmbesprechungen. Bob berichtet was er wieder mal kaputt gemacht hat und Jay erklärt warum es kaputt gegangen ist. Technik ist vergänglich, einiges setzt sich nie durch anderes gerät in Vergessenheit. In unserem Podcast erklären wir dir wie man Emails per Post versendet, Podcasts auf Kassette veröffentlicht, mit einem Raumschiff aus Knetmasse zum Mars fliegt und Linux auf einem Toaster installiert. Außerdem sprechen wir über die Dinge die die Technikwelt gerade bewegen. Klingt abgedreht? Ist es auch. Hör rein dann verpasst du nichts.
 
-* Number of published episodes: 78
-* Last episode published: 🟢 Thursday, 28 March 2024
+* Number of published episodes: 79
+* Last episode published: 🟢 Friday, 12 April 2024
 * [DAS WAR SCHON KAPUTT Website](http://daswarschonkaputt.tech/)
 * [DAS WAR SCHON KAPUTT @ Spotify](https://open.spotify.com/show/5F92Db3OFLQXxdh2OIXEzI)
 * [DAS WAR SCHON KAPUTT Podcast RSS](https://daswarschonkaputt.tech/feed/dwsk.xml)
@@ -419,8 +419,8 @@ Der Unterhaltungs-Podcast für .NET Entwickler - ca. alle zwei Wochen treffen si
 
 Hier geht es um die kleinen und großen Fehlschläge in der Geschichte der Technik. Computer, die falsch rechnen, automatische Finanzsysteme, die Millionen von Dollar vernichten oder abstürzende Raketen: Hinter jedem Fehler steckt eine spannende und oftmals verblüffende Geschichte. Bei all den Fakten kommen ausschweifende Anekdoten, Witz und Bezüge zum aktuellen Zeitgeschehen nicht zu kurz.
 
-* Number of published episodes: 78
-* Last episode published: 🟢 Sunday, 31 March 2024
+* Number of published episodes: 79
+* Last episode published: 🟢 Sunday, 14 April 2024
 * Weekly downloads (avg): 1982 (updated: 2023-12-11)
 * [Digitale Anomalien Website](https://digitaleanomalien.de/)
 * [Digitale Anomalien @ Spotify](https://open.spotify.com/show/0aG1QAgC5wK5uYBfKxp6JB)
@@ -612,8 +612,8 @@ Zwei Softwareentwickler und Spiele-Enthusiasten entwickeln in ihrer Freizeit Vid
 
 Du bist Entwickler/Developer? Dann Lauscher auf! Thomas und Christian sprechen im &#34;Index out of bounds&#34; Entwickler/Developer Podcast über ihre persönlichen Erfahrungen aus der Welt der Programmierung von Software, Websites, Apps und was es sonst noch so gibt. Schon seit Jahren tauschen sich die beiden leidenschaftlich gerne über Entwicklung/Development, den Spaß am Programmieren und Technologie aus. Hin und wieder sind da auch ein paar helle Momente dabei! Ein Podcast von Programmierern für Programmierer.
 
-* Number of published episodes: 73
-* Last episode published: 🟢 Sunday, 31 March 2024
+* Number of published episodes: 74
+* Last episode published: 🟢 Monday, 15 April 2024
 * [Index out of bounds Website](https://www.ioob.de/)
 * [Index out of bounds @ Spotify](https://open.spotify.com/show/2r1FGvYRkSYq4SmXyVKmnA)
 * [Index out of bounds @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1564647339)
@@ -692,8 +692,8 @@ Nur etwas mehr als 60 Jahre liegen zwischen dem ersten Start eines Motorflugzeug
 
 Der Podcast für Auszubildende, Ausbilder und IHK-Prüfer in den IT-Berufen (Fachinformatiker für Anwendungsentwicklung/Systemintegration/Daten- und Prozessanalyse/Digitale Vernetzung, IT-Systemelektroniker, Kaufmann für IT-Systemmanagement, Kaufmann für Digitalisierungsmanagement).
 
-* Number of published episodes: 200
-* Last episode published: 🟢 Monday, 18 March 2024
+* Number of published episodes: 201
+* Last episode published: 🟢 Monday, 15 April 2024
 * Weekly downloads (avg): 5000 (updated: 2022-12-27)
 * [IT-Berufe Podcast Website](https://it-berufe-podcast.de/episoden/)
 * [IT-Berufe Podcast @ Spotify](https://open.spotify.com/show/3Z9nS0wsn9akCfo6zrmNb1)
@@ -851,8 +851,8 @@ Mind the Tech ist ein Podcast, der die dunklen Seiten der IT- und Tech-Welt bele
 
 Der MIXEDCAST ist Deutschlands Podcast über Virtual Reality, Augmented Reality, Mixed Reality, Künstliche Intelligenz und generell neue Formen der Mensch-Computer-Interaktion. Wir sprechen über Themen wie Virtual Reality für Games, Entertainment und das Business, neue Augmented-Reality-Technologien oder Transhumanisums und wie sich die Beziehung zwischen Mensch, Computer und digitaler Welt verändert.
 
-* Number of published episodes: 383
-* Last episode published: 🟢 Sunday, 24 March 2024
+* Number of published episodes: 384
+* Last episode published: 🟢 Sunday, 14 April 2024
 * [Mixedcast Website](https://mixed.de/podcast/)
 * [Mixedcast @ Spotify](https://open.spotify.com/show/7nqUnwk9j5qFfjACXzc8Yg)
 * [Mixedcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1141873988)
@@ -1047,8 +1047,8 @@ Der Security-Insider Podcast ist ein Podcast für Security-Profis mit Infos, Nac
 
 Live-Diskussion zu Software-Architektur im Stream. Einmal in der Woche diskutiert Eberhard Wolff Software-Architektur im Live-Stream auf YouTube und Twitch - oft zusammen mit einem Gast. Zuschauer können über den Chat mitdiskutieren oder Fragen stellen. Der Podcast enthält die Audio-Spur des Streams.
 
-* Number of published episodes: 208
-* Last episode published: 🟢 Friday, 05 April 2024
+* Number of published episodes: 210
+* Last episode published: 🟢 Friday, 12 April 2024
 * [SoftwareArchitektur im Stream Website](https://software-architektur.tv/)
 * [SoftwareArchitektur im Stream @ Spotify](https://open.spotify.com/show/7ySg1eZoWYBshd6QpGaW8B)
 * [SoftwareArchitektur im Stream @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1538545458)
@@ -1063,8 +1063,8 @@ Live-Diskussion zu Software-Architektur im Stream. Einmal in der Woche diskutier
 
 Der SoftwerkerCast präsentiert euch Softwerker-Wissen zum Reinhören und Nachhören. Wie auch bei den anderen Softwerker-Formaten erwartet euch im SoftwerkerCast das volle Themenspektrum aus der bunten Welt der Softwareentwicklung: von A wie APM bis Z wie Zero Downtime. Paradigmen und neue Trends, Evergreens und Eintagsfliegen.
 
-* Number of published episodes: 42
-* Last episode published: 🟢 Monday, 01 April 2024
+* Number of published episodes: 43
+* Last episode published: 🟢 Monday, 15 April 2024
 * [SoftwerkerCast Website](https://www.codecentric.de/softwerkercast)
 * [SoftwerkerCast @ Spotify](https://open.spotify.com/show/0GMFlDJabOtXYm8u8HfAvL)
 * [SoftwerkerCast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1592472699)
@@ -1127,8 +1127,8 @@ Digitalisierung ist komplex. Heute entsteht dies, morgen das. Und was übermorge
 
 In diesem Podcast diskutiert die t3n-Redaktion mit Gästen über die spannendsten digitalen Themen unserer Zeit. Ob innovative Führungskonzepte, die Digitalisierung der Gesellschaft, smarte Gadgets, neue Mobilität oder Zukunftstechnologien. Jeden Freitag um 10 Uhr!
 
-* Number of published episodes: 591
-* Last episode published: 🟢 Friday, 12 April 2024
+* Number of published episodes: 592
+* Last episode published: 🟢 Monday, 15 April 2024
 * [t3n Interview Website](https://t3n.de/podcast#interview)
 * [t3n Interview @ Spotify](https://open.spotify.com/show/7obTbZaywhQEiUUOMswQBQ)
 * [t3n Interview @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1115601393)
@@ -1223,8 +1223,8 @@ todo:cast ist ein deutschsprachiger Podcast für die großen und kleinen Fragen 
 
 Wir sind UNMUTE IT, der Podcast von und mit Frauen aus der IT. Wir erzählen von unseren Erfahrungen, begegneten Herausforderungen, Tipps &amp; Tricks und teilen die eine oder andere Anekdote. Frauen gehören in STEM Felder.Mit unserer Präsenz wollen wir dies untermauern und Frauen motivieren, sich mit dem Thema zu beschäftigen und den Schritt in die IT zu gehen.
 
-* Number of published episodes: 63
-* Last episode published: 🟢 Sunday, 24 March 2024
+* Number of published episodes: 64
+* Last episode published: 🟢 Sunday, 14 April 2024
 * Weekly downloads (avg): 177 (updated: 2023-01-21)
 * [Unmute IT Website](https://linkr.bio/unmute-it)
 * [Unmute IT @ Spotify](https://open.spotify.com/show/4v3xXuY5Km98xnmeXeGZgx)
@@ -1273,7 +1273,7 @@ Alle 14 Tage laden wir zu einer kleinen Kaminzimmerrunde über IT-Kram ein. In E
 In diesem Podcast geht es um Web und User Interface Design, Freelancing, Arbeitsprozesse, Kunden und alles, wo sich diese Bereiche überschneiden.
 
 * Number of published episodes: 205
-* Last episode published: 🟢 Thursday, 15 February 2024
+* Last episode published: 🟡 Thursday, 15 February 2024
 * [Web &amp; Design Podcast Website](https://www.jonasarleth.com/podcast)
 * [Web &amp; Design Podcast @ Spotify](https://open.spotify.com/show/6P3ovTvnUXUQZdjEMLEBer)
 * [Web &amp; Design Podcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1197452865)
