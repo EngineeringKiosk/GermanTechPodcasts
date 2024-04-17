@@ -453,8 +453,8 @@ Software und IT sind komplex. Gerade Fachfremde, die dennoch häufig mit Softwar
 
 Der Engineering Kiosk ist der deutschsprachige Software-Engineering-Podcast mit Wolfgang Gassler und Andy Grunwald rund um die Themen Engineering-Kultur, Open Source, Menschen, Technologie und allen anderen Bereichen, die damit in Verbindung stehen.
 
-* Number of published episodes: 120
-* Last episode published: 🟢 Tuesday, 09 April 2024
+* Number of published episodes: 121
+* Last episode published: 🟢 Tuesday, 16 April 2024
 * Weekly downloads (avg): 1099 (updated: 2023-01-31)
 * [Engineering Kiosk Website](https://engineeringkiosk.dev/)
 * [Engineering Kiosk @ Spotify](https://open.spotify.com/show/0tJRC0UsObPCWLmmzmOkIs)
@@ -486,8 +486,8 @@ Student*innen der Informatik, die einen Podcast machen, damit ihr alle checkt wi
 
 Der FOCUS ON: DevOps Podcast beschäftigt sich mit verschiedenen Methoden und Werkzeugen rund um das Thema DevOps. Dabei wechseln sich technische mit methodischen Folgen ab. Unser Ziel ist es über relevante Themen zu informieren und auch die Hersteller auf dem Markt als Gäste mit einzubinden.
 
-* Number of published episodes: 91
-* Last episode published: 🟢 Wednesday, 10 April 2024
+* Number of published episodes: 92
+* Last episode published: 🟢 Tuesday, 16 April 2024
 * [FOCUS ON: DevOps Website](https://focusondevops.podigee.io/)
 * [FOCUS ON: DevOps @ Spotify](https://open.spotify.com/show/0gXBw5mGcqXQkPW9h2JTaa)
 * [FOCUS ON: DevOps @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1542623849)
@@ -533,8 +533,8 @@ Freak Show ist ein Podcast, der sich mit dem Leben mit Technik im 21. Jahrhunder
 
 Wir talken GameDev und haben Unreal News.
 
-* Number of published episodes: 96
-* Last episode published: 🟢 Tuesday, 09 April 2024
+* Number of published episodes: 97
+* Last episode published: 🟢 Tuesday, 16 April 2024
 * [Gamedev für die Platte - Der Unreal Podcast Website](https://gamedevfuerdieplatte.podbean.com/)
 * [Gamedev für die Platte - Der Unreal Podcast @ Spotify](https://open.spotify.com/show/3UtoyAbMfEvkSIx5w3HohY)
 * [Gamedev für die Platte - Der Unreal Podcast Podcast RSS](https://feed.podbean.com/gamedevfuerdieplatte/feed.xml)
@@ -644,8 +644,8 @@ In dieser Serie diskutieren wir interessante Themen aus Software-Entwicklung und
 
 In diesem Podcast sprechen wir über die Grundlagen von IT-Security. Ein praktischer Einstieg für alle, die an Software arbeiten.
 
-* Number of published episodes: 100
-* Last episode published: 🟡 Thursday, 01 February 2024
+* Number of published episodes: 101
+* Last episode published: 🟢 Tuesday, 16 April 2024
 * [INNOQ Security Podcast Website](https://www.innoq.com/de/podcast/?channel=security)
 * [INNOQ Security Podcast @ Spotify](https://open.spotify.com/show/44tnFXbuDShbJ7vNecXCaF)
 * [INNOQ Security Podcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1518284030)
@@ -724,8 +724,8 @@ IT@DB ist ein Podcast für IT Fach- und Führungskräfte (w/m/d). Hier erhältst
 
 Ja sia! Der Technikpodcast von und mit Chris und Pati. Wir bringen euch regelmäßig neue Infos zu aktuellen technologischen- und dazugehörigen wissenschaftlichen Themen kombiniert mit der einen oder anderen unterhaltsamen Spaßrubrik. ;)
 
-* Number of published episodes: 88
-* Last episode published: 🟢 Tuesday, 19 March 2024
+* Number of published episodes: 89
+* Last episode published: 🟢 Tuesday, 16 April 2024
 * [Ja sia! Website](https://www.ja-sia.de/)
 * [Ja sia! @ Spotify](https://open.spotify.com/show/6hjVDLM5ldA2t3YEwLfeKI)
 * [Ja sia! @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1527996174)
@@ -835,8 +835,8 @@ Scrum kann doch inzwischen eh jeder? Von wegen! Denn - ganz unter uns: genug fal
 
 Mind the Tech ist ein Podcast, der die dunklen Seiten der IT- und Tech-Welt beleuchtet. Dazu zählen legendäre Hackerangriffe, Datendiebstähle und Cyberattacken. Ebenso kommen die unzähligen Geschichten von Menschen auf den Tisch, die es mit Recht und Gesetz im Web nicht so ernst nehmen – und irgendwann die Konsequenzen ihres Handelns zu spüren bekommen. Wir widmen uns Antitrends und Mythen, stellen Entwicklungen im und rund ums Internet in Frage, wägen ab. Denn wir sind fest davon überzeugt: Nur wenn wir uns ihren Schattenseiten widmen, können wir die (digitale) Welt zu einem besseren Ort machen.
 
-* Number of published episodes: 81
-* Last episode published: 🟢 Sunday, 31 March 2024
+* Number of published episodes: 83
+* Last episode published: 🟢 Wednesday, 17 April 2024
 * [Mind the Tech Website](https://www.mindthetech.de/)
 * [Mind the Tech @ Spotify](https://open.spotify.com/show/6FydYmBjELizU8k8DOIcaA)
 * [Mind the Tech @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1515173582)
@@ -867,8 +867,8 @@ Der MIXEDCAST ist Deutschlands Podcast über Virtual Reality, Augmented Reality,
 
 Die Welt wird immer digitaler und IT-Sicherheit auch im Alltag immer wichtiger. Im Podcast „Nachgehackt“ spricht Moderator  Henrik Hanses mit Expertinnen, Experten und anderen spannenden Gästen über unterschiedliche Aspekte der IT Security – und zwar so, dass es auch für Laien verständlich ist.
 
-* Number of published episodes: 16
-* Last episode published: 🟢 Tuesday, 12 March 2024
+* Number of published episodes: 17
+* Last episode published: 🟢 Tuesday, 16 April 2024
 * [Nachgehackt Website](https://nachgehacktpodcast.podigee.io/)
 * [Nachgehackt @ Spotify](https://open.spotify.com/show/0fn3tYRiZAR3wlkSw5vJdQ)
 * [Nachgehackt @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1641242207)
@@ -998,8 +998,8 @@ Rund um Open Source, Freie Software, Linux und gesellschaftspolitische Themen.
 
 Sandra Parsick &amp; Daniel Zenzes präsentieren mit Ready for Review einen bunten Mix aus aktuellen IT-Themen und ihrem täglichen Entwickler-Alltag.
 
-* Number of published episodes: 60
-* Last episode published: 🟢 Wednesday, 13 March 2024
+* Number of published episodes: 61
+* Last episode published: 🟢 Tuesday, 16 April 2024
 * Weekly downloads (avg): 66 (updated: 2022-07-29)
 * [Ready for Review Website](https://ready-for-review.dev/)
 * [Ready for Review @ Spotify](https://open.spotify.com/show/7dxK2wi4ZMGEYO3UHhTSc4)
@@ -1239,8 +1239,8 @@ Wir sind UNMUTE IT, der Podcast von und mit Frauen aus der IT. Wir erzählen von
 
 IT Security Podcast
 
-* Number of published episodes: 30
-* Last episode published: 🟢 Monday, 08 April 2024
+* Number of published episodes: 31
+* Last episode published: 🟢 Tuesday, 16 April 2024
 * [Unter 4 Ohren Website](https://www.all-about-security.de/unter4ohren/)
 * [Unter 4 Ohren @ Spotify](https://open.spotify.com/show/7EQFf6fL4dytVJWB4DXYsQ)
 * [Unter 4 Ohren @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1551939691)
@@ -1272,8 +1272,8 @@ Alle 14 Tage laden wir zu einer kleinen Kaminzimmerrunde über IT-Kram ein. In E
 
 In diesem Podcast geht es um Web und User Interface Design, Freelancing, Arbeitsprozesse, Kunden und alles, wo sich diese Bereiche überschneiden.
 
-* Number of published episodes: 205
-* Last episode published: 🟡 Thursday, 15 February 2024
+* Number of published episodes: 206
+* Last episode published: 🟢 Tuesday, 16 April 2024
 * [Web &amp; Design Podcast Website](https://www.jonasarleth.com/podcast)
 * [Web &amp; Design Podcast @ Spotify](https://open.spotify.com/show/6P3ovTvnUXUQZdjEMLEBer)
 * [Web &amp; Design Podcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1197452865)
@@ -1304,8 +1304,8 @@ Latenight-Frontend-Talkshow rund um Webdesign und Entwicklung. Es reden sich um 
 
 Wöchentlicher Podcast für Webdesigner:innen und -entwickler:innen
 
-* Number of published episodes: 631
-* Last episode published: 🟢 Tuesday, 09 April 2024
+* Number of published episodes: 632
+* Last episode published: 🟢 Tuesday, 16 April 2024
 * [Working Draft Website](https://workingdraft.de/)
 * [Working Draft @ Spotify](https://open.spotify.com/show/78iH7cIFzu1ejoB6aQUsIh)
 * [Working Draft @ Apple Podcasts](https://podcasts.apple.com/de/podcast/402204581)
