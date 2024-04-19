@@ -17,7 +17,7 @@
  },
  "episodeCount": 40,
  "latestEpisodePublished": 1697601600,
- "archive": false,
+ "archive": true,
  "itunesID": 1649104892,
  "image": "images/super-duper-developers-club.jpg"
 }
