@@ -6,7 +6,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (75 podcasts)
+* [Podcasts](#podcasts) (74 podcasts)
   * [((c3d2)) Pentaradio 24](#c3d2-pentaradio-24)
   * [0d - Zeroday](#0d-zeroday)
   * [Apfelfunk](#apfelfunk)
@@ -46,7 +46,6 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [IT-Berufe Podcast](#it-berufe-podcast)
   * [IT@DB](#itatdb)
   * [Ja sia!](#ja-sia)
-  * [Kurz informiert by heise online](#kurz-informiert-by-heise-online)
   * [Logbuch Digitalien](#logbuch-digitalien)
   * [Logbuch: Netzpolitik](#logbuch-netzpolitik)
   * [Mac &amp; I](#mac-and-i)
@@ -82,7 +81,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [Wo wir sind ist vorne](#wo-wir-sind-ist-vorne)
   * [Working Draft](#working-draft)
   * [WP Sofa](#wp-sofa)
-* [Archived podcasts](#archived-podcasts) (21 podcasts)
+* [Archived podcasts](#archived-podcasts) (22 podcasts)
   * [Armchair Investigators](#armchair-investigators)
   * [Autoweird](#autoweird)
   * [Bits &amp; Böses - Der Tech Crime Podcast](#bits-and-boses-der-tech-crime-podcast)
@@ -93,6 +92,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [GeekWeek](#geekweek)
   * [heise Developer: SoftwareArchitekTOUR](#heise-developer-softwarearchitektour)
   * [knowIT](#knowit)
+  * [Kurz informiert by heise online](#kurz-informiert-by-heise-online)
   * [Open Source in der Industrie](#open-source-in-der-industrie)
   * [Request for Comments](#request-for-comments)
   * [Rheingehäckt](#rheingehackt)
@@ -169,8 +169,8 @@ Apfelfunk ist ein wöchentlicher Podcast über Apple-Themen. Jean-Claude Frick u
 
 Sie möchten beim Thema Datenschutz auf dem Laufenden bleiben, aber keine seitenlange Literatur wälzen? Dann wenden Sie sich vertrauensvoll an unser Juristen-Redakteurs-Duo. Alle 14 Tage bespricht c&#39;t-Redakteur Holger Bleich mit Joerg Heidrich aktuelle Entwicklungen rund um den Datenschutz. Joerg ist beim c&#39;t-Mutterschiff Heise Medien als Justiziar für das Thema zuständig und hat täglich mit der europäischen Datenschutz-Grundverordnung (DSGVO) zu tun. Wechselnde Gäste ergänzen das Duo.
 
-* Number of published episodes: 108
-* Last episode published: 🟢 Friday, 19 April 2024
+* Number of published episodes: 109
+* Last episode published: 🟢 Friday, 03 May 2024
 * [Auslegungssache Website](https://heise.de/-4571821)
 * [Auslegungssache @ Spotify](https://open.spotify.com/show/3Jrnu7vrTurguBaCiPapkA)
 * [Auslegungssache @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1485860893)
@@ -308,8 +308,8 @@ Lucas Rott und Markus Herhoffer erzählen alle 14 Tage von Code und Nerd-Kultur.
 
 Dein Podcast rund um Softwareentwicklung und aktueller Tech News. Lernt die Coding Buddies Tino und Fabi kennen. Erfahrt spannende Dinge über diverse Themen aus der Softwareentwicklung und lauscht den Erfahrungen der Beiden. Dazu gibt es witzige Anekdoten der Coding Buddies.
 
-* Number of published episodes: 57
-* Last episode published: 🟢 Thursday, 25 April 2024
+* Number of published episodes: 58
+* Last episode published: 🟢 Thursday, 02 May 2024
 * [Coding Buddies Website](https://www.codingbuddies.de/)
 * [Coding Buddies @ Spotify](https://open.spotify.com/show/5DaiBkAgQBt8DRCcwZY8xT?si=4acf817842f44c43)
 * [Coding Buddies @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1680339110)
@@ -733,22 +733,6 @@ Ja sia! Der Technikpodcast von und mit Chris und Pati. Wir bringen euch regelmä
 
 ----
 
-<h3 id="kurz-informiert-by-heise-online">Kurz informiert by heise online</h3>
-
-<img align="right" width="215" height="215" src="./generated/images/kurz-informiert.jpg" />
-
-Die IT-News des Tages von heise online
-
-* Number of published episodes: 290
-* Last episode published: 🟡 Thursday, 02 November 2023
-* [Kurz informiert by heise online Website](http://www.heise.de/)
-* [Kurz informiert by heise online @ Spotify](https://open.spotify.com/show/2etf1jog8leNHbnhIArM9Z)
-* [Kurz informiert by heise online @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1485884061)
-* [Kurz informiert by heise online Podcast RSS](https://www.heise.de/rss/topnews-audio.rss)
-* Tags: News, Business
-
-----
-
 <h3 id="logbuch-digitalien">Logbuch Digitalien</h3>
 
 <img align="right" width="215" height="215" src="./generated/images/logbuch-digitalien.jpg" />
@@ -835,8 +819,8 @@ Scrum kann doch inzwischen eh jeder? Von wegen! Denn - ganz unter uns: genug fal
 
 Mind the Tech ist ein Podcast, der die dunklen Seiten der IT- und Tech-Welt beleuchtet. Dazu zählen legendäre Hackerangriffe, Datendiebstähle und Cyberattacken. Ebenso kommen die unzähligen Geschichten von Menschen auf den Tisch, die es mit Recht und Gesetz im Web nicht so ernst nehmen – und irgendwann die Konsequenzen ihres Handelns zu spüren bekommen. Wir widmen uns Antitrends und Mythen, stellen Entwicklungen im und rund ums Internet in Frage, wägen ab. Denn wir sind fest davon überzeugt: Nur wenn wir uns ihren Schattenseiten widmen, können wir die (digitale) Welt zu einem besseren Ort machen.
 
-* Number of published episodes: 83
-* Last episode published: 🟢 Wednesday, 17 April 2024
+* Number of published episodes: 84
+* Last episode published: 🟢 Thursday, 02 May 2024
 * [Mind the Tech Website](https://www.mindthetech.de/)
 * [Mind the Tech @ Spotify](https://open.spotify.com/show/6FydYmBjELizU8k8DOIcaA)
 * [Mind the Tech @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1515173582)
@@ -1111,8 +1095,8 @@ Digitalisierung ist komplex. Heute entsteht dies, morgen das. Und was übermorge
 
 In diesem Podcast diskutiert die t3n-Redaktion mit Gästen über die spannendsten digitalen Themen unserer Zeit. Ob innovative Führungskonzepte, die Digitalisierung der Gesellschaft, smarte Gadgets, neue Mobilität oder Zukunftstechnologien. Jeden Freitag um 10 Uhr!
 
-* Number of published episodes: 596
-* Last episode published: 🟢 Monday, 29 April 2024
+* Number of published episodes: 597
+* Last episode published: 🟢 Friday, 03 May 2024
 * [t3n Interview Website](https://t3n.de/podcast#interview)
 * [t3n Interview @ Spotify](https://open.spotify.com/show/7obTbZaywhQEiUUOMswQBQ)
 * [t3n Interview @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1115601393)
@@ -1469,6 +1453,22 @@ know Information Technology (kurz knowIT) - in diesem Sinne behandelt der Podcas
 * [knowIT @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1564646449)
 * [knowIT Podcast RSS](https://anchor.fm/s/57935150/podcast/rss)
 * Tags: Female host
+
+----
+
+<h3 id="kurz-informiert-by-heise-online">Kurz informiert by heise online</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/kurz-informiert.jpg" />
+
+Die IT-News des Tages von heise online
+
+* Number of published episodes: 290
+* Last episode published: 🔴 Thursday, 02 November 2023
+* [Kurz informiert by heise online Website](http://www.heise.de/)
+* [Kurz informiert by heise online @ Spotify](https://open.spotify.com/show/2etf1jog8leNHbnhIArM9Z)
+* [Kurz informiert by heise online @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1485884061)
+* [Kurz informiert by heise online Podcast RSS](https://www.heise.de/rss/topnews-audio.rss)
+* Tags: News, Business
 
 ----
 
