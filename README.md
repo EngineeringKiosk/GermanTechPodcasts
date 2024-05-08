@@ -201,8 +201,8 @@ Ein Podcast über Web, Entwicklung, Mobile und Technologie. Betrachtet aus der S
 
 Prozessoren, Grafikkarten, Notebooks, Desktop-PCs, Server, KI, Rechenzentren und IT-Markt: In &#34;Bit-Rauschen&#34;, dem Prozessor-Podcast des Computermagazins c’t, dreht sich alles um Chips.
 
-* Number of published episodes: 87
-* Last episode published: 🟢 Wednesday, 24 April 2024
+* Number of published episodes: 88
+* Last episode published: 🟢 Wednesday, 08 May 2024
 * [Bit-Rauschen Website](https://www.ct.de/bit-rauschen)
 * [Bit-Rauschen @ Spotify](https://open.spotify.com/show/6JD6gwqgVR27GYZACrWOT1)
 * [Bit-Rauschen @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1549821753)
@@ -381,7 +381,7 @@ Wir sind ein Laber-Technik-Lebensweisheiten-Podcast, mit News, Retrogeschichten 
 
 <h3 id="der-gamedev-podcast">Der GameDev Podcast</h3>
 
-<img align="right" width="215" height="215" src="./generated/images/game-dev-podcast.png" />
+<img align="right" width="215" height="215" src="./generated/generated/images/game-dev-podcast.png" />
 
 Wir reden über Spieleentwicklung und allgemein über die Branche aber gehen auch ins Detail wenn es um Software, Tipps und Fragen geht.
 
@@ -436,8 +436,8 @@ Hier geht es um die kleinen und großen Fehlschläge in der Geschichte der Techn
 
 Software und IT sind komplex. Gerade Fachfremde, die dennoch häufig mit Software und IT in Berührung kommen, sind sich dessen bewusst. Es kann nur von Vorteil sein, von gängigen Konzepten und Technologien gehört zu haben. So lässt es sich besser mitreden und entscheiden, wenn ein Softwareprojekt, neue Infrastruktur oder andere Fragen mit Bezug zur IT anstehen. Bei &#34;Einfach komplex&#34; erhältst du jeden Dienstag eine Perspektive auf Softwareentwicklung, IT- sowie OT-Themen, um für private als auch berufliche Diskussionen gewappnet zu sein. Doch seien wir ehrlich, es bleibt einfach komplex!
 
-* Number of published episodes: 57
-* Last episode published: 🟢 Monday, 22 April 2024
+* Number of published episodes: 58
+* Last episode published: 🟢 Tuesday, 07 May 2024
 * Weekly downloads (avg): 1050 (updated: 2024-02-05)
 * [Einfach Komplex Website](https://heisenware.com/podcast)
 * [Einfach Komplex @ Spotify](https://open.spotify.com/show/4eTpBCjUos9xUXtX294CnY?si=457f567027574f40)
@@ -453,8 +453,8 @@ Software und IT sind komplex. Gerade Fachfremde, die dennoch häufig mit Softwar
 
 Der Engineering Kiosk ist der deutschsprachige Software-Engineering-Podcast mit Wolfgang Gassler und Andy Grunwald rund um die Themen Engineering-Kultur, Open Source, Menschen, Technologie und allen anderen Bereichen, die damit in Verbindung stehen.
 
-* Number of published episodes: 123
-* Last episode published: 🟢 Tuesday, 30 April 2024
+* Number of published episodes: 124
+* Last episode published: 🟢 Tuesday, 07 May 2024
 * Weekly downloads (avg): 1099 (updated: 2023-01-31)
 * [Engineering Kiosk Website](https://engineeringkiosk.dev/)
 * [Engineering Kiosk @ Spotify](https://open.spotify.com/show/0tJRC0UsObPCWLmmzmOkIs)
@@ -548,8 +548,8 @@ Wir talken GameDev und haben Unreal News.
 
 Ein monatlicher Podcast der GNU/Linux.ch Community mit Themen und Interviews rund um die Themen GNU/Linux, Freie Software und Freie Gesellschaft.
 
-* Number of published episodes: 91
-* Last episode published: 🟢 Tuesday, 30 April 2024
+* Number of published episodes: 92
+* Last episode published: 🟢 Tuesday, 07 May 2024
 * [GNU/Linux.ch Website](https://gnulinux.ch/)
 * [GNU/Linux.ch @ Spotify](https://open.spotify.com/show/0rs1Zm91TsjHhGo2lt0uPi)
 * [GNU/Linux.ch @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1527155920)
@@ -628,8 +628,8 @@ Du bist Entwickler/Developer? Dann Lauscher auf! Thomas und Christian sprechen i
 
 In dieser Serie diskutieren wir interessante Themen aus Software-Entwicklung und -Architektur – immer mit dem Fokus auf Praxistauglichkeit.
 
-* Number of published episodes: 149
-* Last episode published: 🟢 Monday, 22 April 2024
+* Number of published episodes: 150
+* Last episode published: 🟢 Monday, 06 May 2024
 * [INNOQ Podcast Website](https://www.innoq.com/de/podcast/)
 * [INNOQ Podcast @ Spotify](https://open.spotify.com/show/20svL8wDDgtidO2Qwf3EWx)
 * [INNOQ Podcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/672695146)
@@ -724,8 +724,8 @@ IT@DB ist ein Podcast für IT Fach- und Führungskräfte (w/m/d). Hier erhältst
 
 Ja sia! Der Technikpodcast von und mit Chris und Pati. Wir bringen euch regelmäßig neue Infos zu aktuellen technologischen- und dazugehörigen wissenschaftlichen Themen kombiniert mit der einen oder anderen unterhaltsamen Spaßrubrik. ;)
 
-* Number of published episodes: 89
-* Last episode published: 🟢 Tuesday, 16 April 2024
+* Number of published episodes: 90
+* Last episode published: 🟢 Tuesday, 07 May 2024
 * [Ja sia! Website](https://www.ja-sia.de/)
 * [Ja sia! @ Spotify](https://open.spotify.com/show/6hjVDLM5ldA2t3YEwLfeKI)
 * [Ja sia! @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1527996174)
@@ -883,8 +883,8 @@ Wir thematisieren die wichtigen Fragestellungen rund um Internet, Gesellschaft u
 
 Mehr Wissen über die digitale Welt. Experten des Hasso-Plattner-Instituts sprechen verständlich über digitale Entwicklungen und Trends, über Chancen und Risiken der Digitalisierung. Jede Sendung widmet sich einem gesellschaftlich relevanten Thema: Von der Macht der Künstlichen Intelligenz über die Blockchain bis zu Hetze in den sozialen Medien.
 
-* Number of published episodes: 81
-* Last episode published: 🟢 Monday, 22 April 2024
+* Number of published episodes: 82
+* Last episode published: 🟢 Wednesday, 08 May 2024
 * [Neuland Website](https://podcast.hpi.de/)
 * [Neuland @ Spotify](https://open.spotify.com/show/0kd8vXJDv3sN7VMtcLRsH9)
 * [Neuland @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1448992875)
@@ -1223,8 +1223,8 @@ IT Security Podcast
 
 Alle 14 Tage laden wir zu einer kleinen Kaminzimmerrunde über IT-Kram ein. In Ermangelung eines Kaminzimmers sitzen wir in der Hot Aisle eines Datacenters, statt feudaler Sessel gibt es faltbare Campingstühle, und die Cognacschwenker durften wir auch nicht mit reinnehmen. :/
 
-* Number of published episodes: 58
-* Last episode published: 🟢 Tuesday, 23 April 2024
+* Number of published episodes: 59
+* Last episode published: 🟢 Tuesday, 07 May 2024
 * Weekly downloads (avg): 250 (updated: 2024-01-11)
 * [Wartungsfenster Website](https://wartungsfenster.podigee.io/)
 * [Wartungsfenster @ Spotify](https://open.spotify.com/show/063YcVklbp1N8z1ZHSA709)
@@ -1272,8 +1272,8 @@ Latenight-Frontend-Talkshow rund um Webdesign und Entwicklung. Es reden sich um 
 
 Wöchentlicher Podcast für Webdesigner:innen und -entwickler:innen
 
-* Number of published episodes: 633
-* Last episode published: 🟢 Tuesday, 23 April 2024
+* Number of published episodes: 634
+* Last episode published: 🟢 Tuesday, 07 May 2024
 * [Working Draft Website](https://workingdraft.de/)
 * [Working Draft @ Spotify](https://open.spotify.com/show/78iH7cIFzu1ejoB6aQUsIh)
 * [Working Draft @ Apple Podcasts](https://podcasts.apple.com/de/podcast/402204581)
@@ -1284,7 +1284,7 @@ Wöchentlicher Podcast für Webdesigner:innen und -entwickler:innen
 
 <h3 id="wp-sofa">WP Sofa</h3>
 
-<img align="right" width="215" height="215" src="./generated/images/wp-sofa.png" />
+<img align="right" width="215" height="215" src="./generated/generated/images/wp-sofa.png" />
 
 Wir berichten zweiwöchentlich über News und Updates aus dem WordPress Universum.
 
