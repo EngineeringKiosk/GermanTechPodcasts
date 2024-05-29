@@ -6,7 +6,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (74 podcasts)
+* [Podcasts](#podcasts) (75 podcasts)
   * [((c3d2)) Pentaradio 24](#c3d2-pentaradio-24)
   * [0d - Zeroday](#0d-zeroday)
   * [Apfelfunk](#apfelfunk)
@@ -64,6 +64,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [Ready for Review](#ready-for-review)
   * [Schlüsseltechnologie](#schlusseltechnologie)
   * [Security-Insider](#security-insider)
+  * [She Likes Tech](#she-likes-tech)
   * [SoftwareArchitektur im Stream](#softwarearchitektur-im-stream)
   * [SoftwerkerCast](#softwerkercast)
   * [Speak 1337](#speak-1337)
@@ -81,7 +82,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [Wo wir sind ist vorne](#wo-wir-sind-ist-vorne)
   * [Working Draft](#working-draft)
   * [WP Sofa](#wp-sofa)
-* [Archived podcasts](#archived-podcasts) (22 podcasts)
+* [Archived podcasts](#archived-podcasts) (21 podcasts)
   * [Armchair Investigators](#armchair-investigators)
   * [Autoweird](#autoweird)
   * [Bits &amp; Böses - Der Tech Crime Podcast](#bits-and-boses-der-tech-crime-podcast)
@@ -99,7 +100,6 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [Schwarz, Code, Gold – Deutschland, Entwicklungsland?](#schwarz-code-gold-deutschland-entwicklungsland)
   * [SELECTrageFROMit;](#selectragefromit)
   * [She for what? She for IT!](#she-for-what-she-for-it)
-  * [She Likes Tech](#she-likes-tech)
   * [Software-Architektur als Beruf](#software-architektur-als-beruf)
   * [Super Duper Developers Club](#super-duper-developers-club)
   * [t3n Daily](#t3n-daily)
@@ -278,8 +278,8 @@ Im monatlichen Chaosradio informiert der Chaos Computer Club Berlin seit 1995 ü
 
 Ein Podcast über den nahezu unendlich tiefen Kaninchenbau der mechanische Tastaturen. Ich erzähle euch was es neues im Hobby der mechanical Keyboards gibt, Groupbuys, Interestchecks, Neue Keyboards, Keycaps und Switches und noch viel viel mehr....
 
-* Number of published episodes: 96
-* Last episode published: 🟢 Tuesday, 14 May 2024
+* Number of published episodes: 97
+* Last episode published: 🟢 Tuesday, 28 May 2024
 * [Click! Clack! Hack! Website](https://www.nerdbude.com/podcast/)
 * [Click! Clack! Hack! @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1551770169)
 * [Click! Clack! Hack! Podcast RSS](https://www.nerdbude.com/podcast/feed/feed.xml)
@@ -419,8 +419,8 @@ Der Unterhaltungs-Podcast für .NET Entwickler - ca. alle zwei Wochen treffen si
 
 Hier geht es um die kleinen und großen Fehlschläge in der Geschichte der Technik. Computer, die falsch rechnen, automatische Finanzsysteme, die Millionen von Dollar vernichten oder abstürzende Raketen: Hinter jedem Fehler steckt eine spannende und oftmals verblüffende Geschichte. Bei all den Fakten kommen ausschweifende Anekdoten, Witz und Bezüge zum aktuellen Zeitgeschehen nicht zu kurz.
 
-* Number of published episodes: 81
-* Last episode published: 🟢 Sunday, 12 May 2024
+* Number of published episodes: 82
+* Last episode published: 🟢 Tuesday, 28 May 2024
 * Weekly downloads (avg): 1982 (updated: 2023-12-11)
 * [Digitale Anomalien Website](https://digitaleanomalien.de/)
 * [Digitale Anomalien @ Spotify](https://open.spotify.com/show/0aG1QAgC5wK5uYBfKxp6JB)
@@ -453,8 +453,8 @@ Software und IT sind komplex. Gerade Fachfremde, die dennoch häufig mit Softwar
 
 Der Engineering Kiosk ist der deutschsprachige Software-Engineering-Podcast mit Wolfgang Gassler und Andy Grunwald rund um die Themen Engineering-Kultur, Open Source, Menschen, Technologie und allen anderen Bereichen, die damit in Verbindung stehen.
 
-* Number of published episodes: 126
-* Last episode published: 🟢 Tuesday, 21 May 2024
+* Number of published episodes: 127
+* Last episode published: 🟢 Tuesday, 28 May 2024
 * Weekly downloads (avg): 1099 (updated: 2023-01-31)
 * [Engineering Kiosk Website](https://engineeringkiosk.dev/)
 * [Engineering Kiosk @ Spotify](https://open.spotify.com/show/0tJRC0UsObPCWLmmzmOkIs)
@@ -486,8 +486,8 @@ Student*innen der Informatik, die einen Podcast machen, damit ihr alle checkt wi
 
 Der FOCUS ON: DevOps Podcast beschäftigt sich mit verschiedenen Methoden und Werkzeugen rund um das Thema DevOps. Dabei wechseln sich technische mit methodischen Folgen ab. Unser Ziel ist es über relevante Themen zu informieren und auch die Hersteller auf dem Markt als Gäste mit einzubinden.
 
-* Number of published episodes: 98
-* Last episode published: 🟢 Tuesday, 21 May 2024
+* Number of published episodes: 99
+* Last episode published: 🟢 Tuesday, 28 May 2024
 * [FOCUS ON: DevOps Website](https://focusondevops.podigee.io/)
 * [FOCUS ON: DevOps @ Spotify](https://open.spotify.com/show/0gXBw5mGcqXQkPW9h2JTaa)
 * [FOCUS ON: DevOps @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1542623849)
@@ -709,8 +709,8 @@ Der Podcast für Auszubildende, Ausbilder und IHK-Prüfer in den IT-Berufen (Fac
 
 IT@DB ist ein Podcast für IT Fach- und Führungskräfte (w/m/d). Hier erhältst du einen exklusiven Einblick zu spannenden IT Projekten der Deutschen Bahn.
 
-* Number of published episodes: 78
-* Last episode published: 🟢 Friday, 26 April 2024
+* Number of published episodes: 79
+* Last episode published: 🟢 Tuesday, 28 May 2024
 * [IT@DB Website](https://cqlshb.podcaster.de/)
 * [IT@DB @ Spotify](https://open.spotify.com/show/3uV0oOeigGJCAAQbXZ49Dv)
 * [IT@DB @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1462447493)
@@ -1025,6 +1025,22 @@ Der Security-Insider Podcast ist ein Podcast für Security-Profis mit Infos, Nac
 
 ----
 
+<h3 id="she-likes-tech">She Likes Tech</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/she-likes-tech.jpg" />
+
+Jung, weiblich, genial: Im Tech-Podcast von NDR Info sucht die Tech-Journalistin Svea Eckert immer nach Antworten von Expertinnen aus der IT-Welt. In aufwendigen Recherchen taucht sie ein in die Welt der Querdenker, die sich über Telegram oder YouTube radikalisieren. Sie begegnet auch angeblichen Coaches, die Magersüchtige auf Instagram anschreiben. Svea nimmt euch in diesem Podcast mit auf ihre Recherchen, damit ihr die Tech-Welt besser versteht. Mit Experimenten zeigt sie euch, was gerade nicht so gut läuft und welche Ideen es gibt, die Technik für uns alle etwas besser zu machen.
+
+* Number of published episodes: 50
+* Last episode published: 🟢 Monday, 29 April 2024
+* [She Likes Tech Website](https://www.ndr.de/nachrichten/info/podcast4808.html)
+* [She Likes Tech @ Spotify](https://open.spotify.com/show/6fE6BwxM7bHI9vseET01YA)
+* [She Likes Tech @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1530596058)
+* [She Likes Tech Podcast RSS](https://www.ndr.de/nachrichten/info/podcast4808.xml)
+* Tags: Female host
+
+----
+
 <h3 id="softwarearchitektur-im-stream">SoftwareArchitektur im Stream</h3>
 
 <img align="right" width="215" height="215" src="./generated/images/softwarearchitektur-im-stream.png" />
@@ -1143,8 +1159,8 @@ Ausführliche, häufig zeitlose Gespräche von Gastgeber Nico Kreiling mit wechs
 
 IT-Security, unendliche Weiten ... So oder so ähnlich lässt sich die Größenordnung von alldem, was IT-Security betrifft, beschreiben - Netzwerk, Cloud, Endpoint, E-Mail, SOC, Schwachstellen, Sicherheitsvorfall, Awareness und vieeeles mehr. Klingt unfassbar kompliziert – ist aber auch unfassbar spannend. In unserem Podcast berichten wir über aktuelle Themen und zeigen euch, warum das Thema IT-Sicherheit auch für euren Alltag extrem wichtig ist. Denn das ist unsere Leidenschaft: eure Unternehmen und eure Arbeit sicher zu machen. Habt ihr heute schon auf einen Link geklickt? 😉
 
-* Number of published episodes: 40
-* Last episode published: 🟢 Thursday, 16 May 2024
+* Number of published episodes: 42
+* Last episode published: 🟢 Wednesday, 29 May 2024
 * [The World of IT-Security Website](https://www.suresecure.de/aktuelles/podcast)
 * [The World of IT-Security @ Spotify](https://open.spotify.com/show/38ro5pDX7ToVMA9w6RVyNM)
 * [The World of IT-Security @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1567043544)
@@ -1272,8 +1288,8 @@ Latenight-Frontend-Talkshow rund um Webdesign und Entwicklung. Es reden sich um 
 
 Wöchentlicher Podcast für Webdesigner:innen und -entwickler:innen
 
-* Number of published episodes: 636
-* Last episode published: 🟢 Tuesday, 21 May 2024
+* Number of published episodes: 637
+* Last episode published: 🟢 Tuesday, 28 May 2024
 * [Working Draft Website](https://workingdraft.de/)
 * [Working Draft @ Spotify](https://open.spotify.com/show/78iH7cIFzu1ejoB6aQUsIh)
 * [Working Draft @ Apple Podcasts](https://podcasts.apple.com/de/podcast/402204581)
@@ -1561,22 +1577,6 @@ Fünf schnelle Fragen an…. In unserem She for IT Podcast geht es um Themen run
 * [She for what? She for IT! @ Spotify](https://open.spotify.com/show/2WKgGIRsBWp7VkC5hMI66p)
 * [She for what? She for IT! @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1538127890)
 * [She for what? She for IT! Podcast RSS](https://sheforwhat-sheforit.podigee.io/feed/mp3)
-* Tags: Female host
-
-----
-
-<h3 id="she-likes-tech">She Likes Tech</h3>
-
-<img align="right" width="215" height="215" src="./generated/images/she-likes-tech.jpg" />
-
-Jung, weiblich, genial: Im Tech-Podcast von NDR Info sucht die Tech-Journalistin Svea Eckert immer nach Antworten von Expertinnen aus der IT-Welt. In aufwendigen Recherchen taucht sie ein in die Welt der Querdenker, die sich über Telegram oder YouTube radikalisieren. Sie begegnet auch angeblichen Coaches, die Magersüchtige auf Instagram anschreiben. Svea nimmt euch in diesem Podcast mit auf ihre Recherchen, damit ihr die Tech-Welt besser versteht. Mit Experimenten zeigt sie euch, was gerade nicht so gut läuft und welche Ideen es gibt, die Technik für uns alle etwas besser zu machen.
-
-* Number of published episodes: 49
-* Last episode published: 🔴 Tuesday, 27 December 2022
-* [She Likes Tech Website](https://www.ndr.de/nachrichten/info/podcast4808.html)
-* [She Likes Tech @ Spotify](https://open.spotify.com/show/6fE6BwxM7bHI9vseET01YA)
-* [She Likes Tech @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1530596058)
-* [She Likes Tech Podcast RSS](https://www.ndr.de/nachrichten/info/podcast4808.xml)
 * Tags: Female host
 
 ----
