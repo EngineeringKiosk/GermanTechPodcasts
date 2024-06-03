@@ -248,8 +248,8 @@ Ransomware Attacken, Phishing oder DDoS - jeden Tag aufs Neue werden Unternehmen
 
 Mitglieder der c&#39;t-Redaktion diskutieren über die aktuellen Themen aus dem c’t Magazin und was sonst noch so in der IT-Welt passiert.
 
-* Number of published episodes: 543
-* Last episode published: 🟢 Saturday, 25 May 2024
+* Number of published episodes: 544
+* Last episode published: 🟢 Saturday, 01 June 2024
 * [c&#39;t uplink Website](https://www.heise.de/ct/entdecken/?hauptrubrik=%40ctmagazin&amp;unterrubrik=c%27t&#43;uplink)
 * [c&#39;t uplink @ Spotify](https://open.spotify.com/show/4LdN7lGr9winLtQSqoIjVD)
 * [c&#39;t uplink @ Apple Podcasts](https://podcasts.apple.com/de/podcast/835717958)
@@ -370,8 +370,8 @@ Im Podcast Das Duumvirat unterhalten wir uns über verschiedene Mac-Themen aus d
 
 Wir sind ein Laber-Technik-Lebensweisheiten-Podcast, mit News, Retrogeschichten und gelegentlich Filmbesprechungen. Bob berichtet was er wieder mal kaputt gemacht hat und Jay erklärt warum es kaputt gegangen ist. Technik ist vergänglich, einiges setzt sich nie durch anderes gerät in Vergessenheit. In unserem Podcast erklären wir dir wie man Emails per Post versendet, Podcasts auf Kassette veröffentlicht, mit einem Raumschiff aus Knetmasse zum Mars fliegt und Linux auf einem Toaster installiert. Außerdem sprechen wir über die Dinge die die Technikwelt gerade bewegen. Klingt abgedreht? Ist es auch. Hör rein dann verpasst du nichts.
 
-* Number of published episodes: 79
-* Last episode published: 🟢 Friday, 12 April 2024
+* Number of published episodes: 80
+* Last episode published: 🟢 Friday, 31 May 2024
 * [DAS WAR SCHON KAPUTT Website](http://daswarschonkaputt.tech/)
 * [DAS WAR SCHON KAPUTT @ Spotify](https://open.spotify.com/show/5F92Db3OFLQXxdh2OIXEzI)
 * [DAS WAR SCHON KAPUTT Podcast RSS](https://daswarschonkaputt.tech/feed/dwsk.xml)
@@ -628,8 +628,8 @@ Du bist Entwickler/Developer? Dann Lauscher auf! Thomas und Christian sprechen i
 
 In dieser Serie diskutieren wir interessante Themen aus Software-Entwicklung und -Architektur – immer mit dem Fokus auf Praxistauglichkeit.
 
-* Number of published episodes: 151
-* Last episode published: 🟢 Tuesday, 21 May 2024
+* Number of published episodes: 152
+* Last episode published: 🟢 Monday, 03 June 2024
 * [INNOQ Podcast Website](https://www.innoq.com/de/podcast/)
 * [INNOQ Podcast @ Spotify](https://open.spotify.com/show/20svL8wDDgtidO2Qwf3EWx)
 * [INNOQ Podcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/672695146)
@@ -660,8 +660,8 @@ In diesem Podcast sprechen wir über die Grundlagen von IT-Security. Ein praktis
 
 Dieser Podcast unterstützt schnell, konkret und umfänglich beim Einstieg in die Themen Informationssicherheit, ISMS, ISO27001 und TISAX und richtet sich an IT-Leiter, Informationssicherheitsbeauftragte (ISB / CISO), Auditoren, Mitarbeitende, die sich tiefer den Aufgaben Informationssicherheit und Informationssicherheitsmanagement widmen wollen. Im Austausch unter unseren Expertinnen und Experten, mit interessanten Interviewpartner*innen und der Betrachtung aktuellster Entwicklungen bleibst du bei allen Änderungen und neuen Versionen der Normen auf dem Laufenden und kennst die Standards - für Eure Informationssicherheit.
 
-* Number of published episodes: 58
-* Last episode published: 🟢 Sunday, 05 May 2024
+* Number of published episodes: 59
+* Last episode published: 🟢 Sunday, 02 June 2024
 * [ISMS X-Plain Website](https://www.abat.de/wissen/podcast-isms-x-plain)
 * [ISMS X-Plain @ Spotify](https://open.spotify.com/show/5VGQNDbDqDciA4gFY3gXho)
 * [ISMS X-Plain @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1550125725)
@@ -899,8 +899,8 @@ Mehr Wissen über die digitale Welt. Experten des Hasso-Plattner-Instituts sprec
 
 Oli und Michael sprechen über alles Wichtige aus der Welt der Open Source, Technologie und dem Geek-tum.
 
-* Number of published episodes: 40
-* Last episode published: 🟡 Monday, 05 February 2024
+* Number of published episodes: 41
+* Last episode published: 🟢 Saturday, 01 June 2024
 * [Open Source Couch Website](https://www.opensourcecouch.de/)
 * [Open Source Couch @ Spotify](https://open.spotify.com/show/3fNThjRvMKJhhyg7eCTY8v)
 * [Open Source Couch @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1529154227)
@@ -932,8 +932,8 @@ Ein Podcast über die dunkle Seite der Digitalisierung: Spionage, Hacker, Sabota
 
 Mit geballter Dev-Power nehmen Dennis, Fabi, Sebi und Jojo neue Podcastfolgen auf und werden dabei regelmäßig von Gäst:innen aus der Branche unterstützt. Taucht in unseren Deep Dives mit uns in Frameworks und Datenbanken ein, hört euch in den CTO-Specials die Erfahrungen führender Persönlichkeiten großer Unternehmen an und bleibt mit unseren News-Folgen stets am Ball in der Welt der App- und Webentwicklung.
 
-* Number of published episodes: 320
-* Last episode published: 🟢 Wednesday, 29 May 2024
+* Number of published episodes: 321
+* Last episode published: 🟢 Friday, 31 May 2024
 * Weekly downloads (avg): 8744 (updated: 2023-04-12)
 * [programmier.bar Website](https://www.programmier.bar/podcast)
 * [programmier.bar @ Spotify](https://open.spotify.com/show/0ik0sXv9paTQCeThcOLCCJ)
@@ -1047,8 +1047,8 @@ Jung, weiblich, genial: Im Tech-Podcast von NDR Info sucht die Tech-Journalistin
 
 Live-Diskussion zu Software-Architektur im Stream. Einmal in der Woche diskutiert Eberhard Wolff Software-Architektur im Live-Stream auf YouTube und Twitch - oft zusammen mit einem Gast. Zuschauer können über den Chat mitdiskutieren oder Fragen stellen. Der Podcast enthält die Audio-Spur des Streams.
 
-* Number of published episodes: 215
-* Last episode published: 🟢 Friday, 24 May 2024
+* Number of published episodes: 217
+* Last episode published: 🟢 Sunday, 02 June 2024
 * [SoftwareArchitektur im Stream Website](https://software-architektur.tv/)
 * [SoftwareArchitektur im Stream @ Spotify](https://open.spotify.com/show/7ySg1eZoWYBshd6QpGaW8B)
 * [SoftwareArchitektur im Stream @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1538545458)
@@ -1063,8 +1063,8 @@ Live-Diskussion zu Software-Architektur im Stream. Einmal in der Woche diskutier
 
 Der SoftwerkerCast präsentiert euch Softwerker-Wissen zum Reinhören und Nachhören. Wie auch bei den anderen Softwerker-Formaten erwartet euch im SoftwerkerCast das volle Themenspektrum aus der bunten Welt der Softwareentwicklung: von A wie APM bis Z wie Zero Downtime. Paradigmen und neue Trends, Evergreens und Eintagsfliegen.
 
-* Number of published episodes: 45
-* Last episode published: 🟢 Wednesday, 15 May 2024
+* Number of published episodes: 46
+* Last episode published: 🟢 Saturday, 01 June 2024
 * [SoftwerkerCast Website](https://www.codecentric.de/softwerkercast)
 * [SoftwerkerCast @ Spotify](https://open.spotify.com/show/0GMFlDJabOtXYm8u8HfAvL)
 * [SoftwerkerCast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1592472699)
@@ -1111,8 +1111,8 @@ Digitalisierung ist komplex. Heute entsteht dies, morgen das. Und was übermorge
 
 In diesem Podcast diskutiert die t3n-Redaktion mit Gästen über die spannendsten digitalen Themen unserer Zeit. Ob innovative Führungskonzepte, die Digitalisierung der Gesellschaft, smarte Gadgets, neue Mobilität oder Zukunftstechnologien. Jeden Freitag um 10 Uhr!
 
-* Number of published episodes: 604
-* Last episode published: 🟢 Friday, 31 May 2024
+* Number of published episodes: 605
+* Last episode published: 🟢 Monday, 03 June 2024
 * [t3n Interview Website](https://t3n.de/podcast#interview)
 * [t3n Interview @ Spotify](https://open.spotify.com/show/7obTbZaywhQEiUUOMswQBQ)
 * [t3n Interview @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1115601393)
@@ -1142,8 +1142,8 @@ Der Podcast rund um Technologie, Smart Home, Gadgets und mehr. Patrick und Ingo 
 
 Ausführliche, häufig zeitlose Gespräche von Gastgeber Nico Kreiling mit wechselnden Gästen der IT-Welt zu deren Fach-Gebieten. Von Nerds, für Nerds!
 
-* Number of published episodes: 44
-* Last episode published: 🟢 Wednesday, 24 April 2024
+* Number of published episodes: 45
+* Last episode published: 🟢 Monday, 03 June 2024
 * Weekly downloads (avg): 900 (updated: 2022-08-01)
 * [Techtiefen Website](https://techtiefen.de/)
 * [Techtiefen @ Spotify](https://open.spotify.com/show/6hyfYJi5yvjWgcqOTtNzRo)
@@ -1175,8 +1175,8 @@ IT-Security, unendliche Weiten ... So oder so ähnlich lässt sich die Größeno
 
 Sujeevan und Dirk reden über Themen, die Ihnen in der letzten Zeit untergekommen sind. Die Abkürzung &#34;TIL&#34; steht für &#34;Today I learned&#34;, es geht also um Themen, die neu für die beiden waren oder die sie in der letzten Zeit erst so richtig verstanden haben. Dazu kommen Hinweise, wie sie versuchen, ihr Arbeitsleben zu verbessern und zusätzlich gibt es auch den einen oder anderen Karrierehinweis.
 
-* Number of published episodes: 44
-* Last episode published: 🟢 Tuesday, 30 April 2024
+* Number of published episodes: 45
+* Last episode published: 🟢 Friday, 31 May 2024
 * [TILpod Website](https://tilpod.net/)
 * [TILpod @ Spotify](https://open.spotify.com/show/53zmbsz2sGO4UoSe8Qviyu)
 * [TILpod @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1542159410)
@@ -1191,8 +1191,8 @@ Sujeevan und Dirk reden über Themen, die Ihnen in der letzten Zeit untergekomme
 
 todo:cast ist ein deutschsprachiger Podcast für die großen und kleinen Fragen des Entwickler*innenalltags. Schon seit Langem tauschen sich Malte und Robin-Manuel in regelmäßigen Abständen über diverse Themen aus ihrem Alltag in der Softwareentwicklung aus. Dabei lernen sie jedes Mal etwas Neues! Warum also das Ganze nicht aufzeichnen und als Podcast zur Verfügung stellen?
 
-* Number of published episodes: 90
-* Last episode published: 🟢 Monday, 20 May 2024
+* Number of published episodes: 91
+* Last episode published: 🟢 Monday, 03 June 2024
 * [todo:cast Website](https://todocast.io/)
 * [todo:cast @ Spotify](https://open.spotify.com/show/2tIlVD6vBAtEhOZM4jS1mw)
 * [todo:cast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1467179396)
