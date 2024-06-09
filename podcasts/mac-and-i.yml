@@ -1,9 +1,9 @@
-name: "Mac & I"
+name: "Mac & i - der Apple-Podcast"
 website: https://www.heise.de/mac-and-i/meldung/Mac-i-Der-Apple-Podcast-4681220.html
 podcastIndexID: 112364
-rssFeed: https://mac-and-i.podigee.io/feed/mp3
+rssFeed: https://heise.de/mac-and-i/mac-and-i-audio-podcast.rss
 spotify: https://open.spotify.com/show/5Tcgc97HvYREYM7kIRsxii
-description: Redakteure von heise Mac & i beschäftigen sich jeden Monat mit Apple-Produkten, -Betriebssystemen und dem Drumherum, stellen Testergebnisse vor und geben Tipps.
+description: "Hintergründe, Einschätzungen, Tipps und Neuigkeiten: Im Zweiwochenrhythmus unterhalten sich Malte Kirchner und Leo Becker im Mac & i-Podcast mit Gästen über Fachthemen zu iPhone, iPad, Mac, Watch &amp; Co sowie Apple-Betriebssysteme, Dienste und das Drumherum."
 tags:
   - Hardware
   - Apple
