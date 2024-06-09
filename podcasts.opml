@@ -2,23 +2,24 @@
  <opml version="2.0">
    <head>
      <title>Deutschsprachige Tech Podcasts</title>
-     <dateCreated>Fri, 07 Jun 2024 11:20:27 UTC</dateCreated>
+     <dateCreated>Sun, 09 Jun 2024 15:22:42 UTC</dateCreated>
      <ownerName>Engineering Kiosk</ownerName>
      <ownerEmail>stehtisch@engineeringkiosk.dev</ownerEmail>
    </head>
    <body>
+     <outline title="#heiseshow" text="#heiseshow" type="rss" xmlUrl="https://heiseshow.podigee.io/feed/mp3" htmlUrl="https://www.heise.de/thema/heiseshow"></outline>
      <outline title="((c3d2)) Pentaradio 24" text="((c3d2)) Pentaradio 24" type="rss" xmlUrl="https://www.c3d2.de/pentaradio.xml" htmlUrl="https://www.c3d2.de/radio.html"></outline>
      <outline title="0d - Zeroday" text="0d - Zeroday" type="rss" xmlUrl="https://0x0d.de/feed/mp3/" htmlUrl="https://0x0d.de/"></outline>
      <outline title="Apfelfunk" text="Apfelfunk" type="rss" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:201768667/sounds.rss" htmlUrl="http://www.apfelfunk.com/"></outline>
      <outline title="Armchair Investigators" text="Armchair Investigators" type="rss" xmlUrl="https://armchairinvestigators.de/feed/podcast/" htmlUrl="https://armchairinvestigators.de/"></outline>
-     <outline title="Auslegungssache" text="Auslegungssache" type="rss" xmlUrl="https://ct-auslegungssache.podigee.io/feed/mp3" htmlUrl="https://heise.de/-4571821"></outline>
+     <outline title="Auslegungssache - der c&#39;t-Datenschutz-Podcast" text="Auslegungssache - der c&#39;t-Datenschutz-Podcast" type="rss" xmlUrl="https://ct-auslegungssache.podigee.io/feed/mp3" htmlUrl="https://www.heise.de/thema/auslegungssache"></outline>
      <outline title="Autoweird" text="Autoweird" type="rss" xmlUrl="http://autoweird.fm/feed/podcast/" htmlUrl="https://autoweird.fm/"></outline>
      <outline title="Binärgewitter" text="Binärgewitter" type="rss" xmlUrl="http://feed.binaergewitter.de/binaergewitter_mp3.xml" htmlUrl="http://blog.binaergewitter.de/"></outline>
-     <outline title="Bit-Rauschen" text="Bit-Rauschen" type="rss" xmlUrl="https://bit-rauschen.podigee.io/feed/mp3" htmlUrl="https://www.ct.de/bit-rauschen"></outline>
+     <outline title="Bit-Rauschen - der Prozessor-Podcast von c&#39;t" text="Bit-Rauschen - der Prozessor-Podcast von c&#39;t" type="rss" xmlUrl="https://bit-rauschen.podigee.io/feed/mp3" htmlUrl="https://www.heise.de/thema/bit-rauschen"></outline>
      <outline title="Bits &amp; Böses - Der Tech Crime Podcast" text="Bits &amp; Böses - Der Tech Crime Podcast" type="rss" xmlUrl="https://bitsundboeses.podigee.io/feed/mp3" htmlUrl="https://bitsundboeses.podigee.io/"></outline>
      <outline title="Bits und so" text="Bits und so" type="rss" xmlUrl="http://www.bitsundso.de/feed/" htmlUrl="http://www.bitsundso.de/"></outline>
      <outline title="Breach FM" text="Breach FM" type="rss" xmlUrl="https://feeds.transistor.fm/breach-fm-der-infosec-podcast" htmlUrl="https://breachfm.transistor.fm/"></outline>
-     <outline title="c&#39;t uplink" text="c&#39;t uplink" type="rss" xmlUrl="https://ct-uplink.podigee.io/feed/mp3" htmlUrl="https://www.heise.de/ct/entdecken/?hauptrubrik=%40ctmagazin&amp;unterrubrik=c%27t+uplink"></outline>
+     <outline title="c&#39;t uplink" text="c&#39;t uplink" type="rss" xmlUrl="https://ct-uplink.podigee.io/feed/mp3" htmlUrl="https://www.heise.de/thema/ct-uplink"></outline>
      <outline title="Chaosradio" text="Chaosradio" type="rss" xmlUrl="https://chaosradio.de/feed/m4a" htmlUrl="https://chaosradio.de/"></outline>
      <outline title="Click! Clack! Hack!" text="Click! Clack! Hack!" type="rss" xmlUrl="https://www.nerdbude.com/podcast/feed/feed.xml" htmlUrl="https://www.nerdbude.com/podcast/"></outline>
      <outline title="Code and Ship" text="Code and Ship" type="rss" xmlUrl="https://codeandship.rocks/podcast/index.xml" htmlUrl="https://codeandship.rocks/"></outline>
@@ -55,11 +56,12 @@
      <outline title="IT-Berufe Podcast" text="IT-Berufe Podcast" type="rss" xmlUrl="https://it-berufe-podcast.de/feed/podcast/" htmlUrl="https://it-berufe-podcast.de/episoden/"></outline>
      <outline title="IT@DB" text="IT@DB" type="rss" xmlUrl="https://cqlshb.podcaster.de/it-at-db.rss" htmlUrl="https://cqlshb.podcaster.de/"></outline>
      <outline title="Ja sia!" text="Ja sia!" type="rss" xmlUrl="https://www.ja-sia.de/jasia.rss" htmlUrl="https://www.ja-sia.de/"></outline>
+     <outline title="KI-Update" text="KI-Update" type="rss" xmlUrl="https://kiupdate.podigee.io/feed/mp3" htmlUrl="https://www.heise.de/thema/KI-Update"></outline>
      <outline title="knowIT" text="knowIT" type="rss" xmlUrl="https://anchor.fm/s/57935150/podcast/rss" htmlUrl="https://inside.iu-fernstudium.de/knowit/"></outline>
-     <outline title="Kurz informiert by heise online" text="Kurz informiert by heise online" type="rss" xmlUrl="https://www.heise.de/rss/topnews-audio.rss" htmlUrl="http://www.heise.de/"></outline>
+     <outline title="Kurz informiert by heise online" text="Kurz informiert by heise online" type="rss" xmlUrl="https://kurzinformiert.podigee.io/feed/mp3" htmlUrl="https://www.heise.de/Hoeren-Sie-von-uns-unsere-Podcasts-4206659.html"></outline>
      <outline title="Logbuch Digitalien" text="Logbuch Digitalien" type="rss" xmlUrl="https://www.logbuch-digitalien.de/feed/podcast/" htmlUrl="https://www.logbuch-digitalien.de/"></outline>
      <outline title="Logbuch: Netzpolitik" text="Logbuch: Netzpolitik" type="rss" xmlUrl="https://feeds.metaebene.me/lnp/m4a" htmlUrl="https://logbuch-netzpolitik.de/"></outline>
-     <outline title="Mac &amp; I" text="Mac &amp; I" type="rss" xmlUrl="https://mac-and-i.podigee.io/feed/mp3" htmlUrl="https://www.heise.de/mac-and-i/meldung/Mac-i-Der-Apple-Podcast-4681220.html"></outline>
+     <outline title="Mac &amp; i - der Apple-Podcast" text="Mac &amp; i - der Apple-Podcast" type="rss" xmlUrl="https://heise.de/mac-and-i/mac-and-i-audio-podcast.rss" htmlUrl="https://www.heise.de/mac-and-i/meldung/Mac-i-Der-Apple-Podcast-4681220.html"></outline>
      <outline title="Macht der Craft" text="Macht der Craft" type="rss" xmlUrl="https://macht-der-craft.soler-sanandres.net/feed/podcast" htmlUrl="https://macht-der-craft.soler-sanandres.net/"></outline>
      <outline title="Mein Scrum ist kaputt!" text="Mein Scrum ist kaputt!" type="rss" xmlUrl="https://meinscrumistkaputt.de/feed/podcast/" htmlUrl="https://meinscrumistkaputt.de/"></outline>
      <outline title="Mind the Tech" text="Mind the Tech" type="rss" xmlUrl="https://mind-the-tech.podigee.io/feed/mp3" htmlUrl="https://www.mindthetech.de/"></outline>
@@ -83,6 +85,7 @@
      <outline title="She for what? She for IT!" text="She for what? She for IT!" type="rss" xmlUrl="https://sheforwhat-sheforit.podigee.io/feed/mp3" htmlUrl="https://www.adesso.de/de/unternehmen/she-for-it/podcasts.jsp"></outline>
      <outline title="She Likes Tech" text="She Likes Tech" type="rss" xmlUrl="https://www.ndr.de/nachrichten/info/podcast4808.xml" htmlUrl="https://www.ndr.de/nachrichten/info/podcast4808.html"></outline>
      <outline title="Software-Architektur als Beruf" text="Software-Architektur als Beruf" type="rss" xmlUrl="https://1evriw.podcaster.de/software-architektur-als-beruf.rss" htmlUrl="https://software-architektur.tv/beruf.html"></outline>
+     <outline title="SoftwareArchitekTOUR - von Entwicklern für Entwickler" text="SoftwareArchitekTOUR - von Entwicklern für Entwickler" type="rss" xmlUrl="https://www.heise.de/developer/rss/podcast-softwarearchitektour.rss" htmlUrl="https://www.heise.de/thema/softwarearchitektour"></outline>
      <outline title="SoftwareArchitektur im Stream" text="SoftwareArchitektur im Stream" type="rss" xmlUrl="https://1evriw.podcaster.de/software-architektur-im-stream.rss" htmlUrl="https://software-architektur.tv/"></outline>
      <outline title="SoftwerkerCast" text="SoftwerkerCast" type="rss" xmlUrl="https://softwerkercast.podigee.io/feed/mp3" htmlUrl="https://www.codecentric.de/softwerkercast"></outline>
      <outline title="Speak 1337" text="Speak 1337" type="rss" xmlUrl="https://anchor.fm/s/c821b10/podcast/rss" htmlUrl="https://the-morpheus.de/"></outline>

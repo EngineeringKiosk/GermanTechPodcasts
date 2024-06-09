@@ -1,7 +1,7 @@
 {
  "name": "c't uplink",
  "slug": "ct-uplink",
- "website": "https://www.heise.de/ct/entdecken/?hauptrubrik=%40ctmagazin\u0026unterrubrik=c%27t+uplink",
+ "website": "https://www.heise.de/thema/ct-uplink",
  "podcastIndexID": 1089321,
  "rssFeed": "https://ct-uplink.podigee.io/feed/mp3",
  "spotify": "https://open.spotify.com/show/4LdN7lGr9winLtQSqoIjVD",
@@ -11,8 +11,8 @@
   "value": 0,
   "updated": ""
  },
- "episodeCount": 544,
- "latestEpisodePublished": 1717216200,
+ "episodeCount": 545,
+ "latestEpisodePublished": 1717821000,
  "archive": false,
  "itunesID": 835717958,
  "image": "images/ct-uplink.jpg"

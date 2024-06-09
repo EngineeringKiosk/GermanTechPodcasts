@@ -1,0 +1,22 @@
+{
+ "name": "#heiseshow",
+ "slug": "heiseshow",
+ "website": "https://www.heise.de/thema/heiseshow",
+ "podcastIndexID": 546323,
+ "rssFeed": "https://heiseshow.podigee.io/feed/mp3",
+ "spotify": "https://open.spotify.com/show/7iMjJRAHcOAumvPbdGDavJ",
+ "description": "Immer donnerstags live um 17 Uhr sprechen Anna Kalinowsky, Malte Kirchner und Volker Zota von heise online bei YouTube über die Tech-Themen der Woche. Zum Nachhören gibt es die #heiseshow auch als Podcast.",
+ "tags": [
+  "News",
+  "Business"
+ ],
+ "weekly_downloads_avg": {
+  "value": 0,
+  "updated": ""
+ },
+ "episodeCount": 421,
+ "latestEpisodePublished": 1717692148,
+ "archive": false,
+ "itunesID": 1082296572,
+ "image": "images/heiseshow.jpg"
+}

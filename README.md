@@ -6,13 +6,14 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (75 podcasts)
+* [Podcasts](#podcasts) (80 podcasts)
+  * [#heiseshow](#heiseshow)
   * [((c3d2)) Pentaradio 24](#c3d2-pentaradio-24)
   * [0d - Zeroday](#0d-zeroday)
   * [Apfelfunk](#apfelfunk)
-  * [Auslegungssache](#auslegungssache)
+  * [Auslegungssache - der c&#39;t-Datenschutz-Podcast](#auslegungssache-der-ct-datenschutz-podcast)
   * [Binärgewitter](#binargewitter)
-  * [Bit-Rauschen](#bit-rauschen)
+  * [Bit-Rauschen - der Prozessor-Podcast von c&#39;t](#bit-rauschen-der-prozessor-podcast-von-ct)
   * [Bits und so](#bits-und-so)
   * [Breach FM](#breach-fm)
   * [c&#39;t uplink](#ct-uplink)
@@ -35,6 +36,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [Freakshow](#freakshow)
   * [Gamedev für die Platte - Der Unreal Podcast](#gamedev-fur-die-platte-der-unreal-podcast)
   * [GNU/Linux.ch](#gnu-linux-ch)
+  * [heise Developer: SoftwareArchitekTOUR](#heise-developer-softwarearchitektour)
   * [Herr Zenzes wills wissen](#herr-zenzes-wills-wissen)
   * [Herzbergs Hörsaal](#herzbergs-horsaal)
   * [Hobby Spieleentwickler Podcast](#hobby-spieleentwickler-podcast)
@@ -46,9 +48,11 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [IT-Berufe Podcast](#it-berufe-podcast)
   * [IT@DB](#itatdb)
   * [Ja sia!](#ja-sia)
+  * [KI-Update](#ki-update)
+  * [Kurz informiert by heise online](#kurz-informiert-by-heise-online)
   * [Logbuch Digitalien](#logbuch-digitalien)
   * [Logbuch: Netzpolitik](#logbuch-netzpolitik)
-  * [Mac &amp; I](#mac-and-i)
+  * [Mac &amp; i - der Apple-Podcast](#mac-and-i-der-apple-podcast)
   * [Macht der Craft](#macht-der-craft)
   * [Mein Scrum ist kaputt!](#mein-scrum-ist-kaputt)
   * [Mind the Tech](#mind-the-tech)
@@ -65,6 +69,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [Schlüsseltechnologie](#schlusseltechnologie)
   * [Security-Insider](#security-insider)
   * [She Likes Tech](#she-likes-tech)
+  * [SoftwareArchitekTOUR - von Entwicklern für Entwickler](#softwarearchitektour-von-entwicklern-fur-entwickler)
   * [SoftwareArchitektur im Stream](#softwarearchitektur-im-stream)
   * [SoftwerkerCast](#softwerkercast)
   * [Speak 1337](#speak-1337)
@@ -82,7 +87,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [Wo wir sind ist vorne](#wo-wir-sind-ist-vorne)
   * [Working Draft](#working-draft)
   * [WP Sofa](#wp-sofa)
-* [Archived podcasts](#archived-podcasts) (21 podcasts)
+* [Archived podcasts](#archived-podcasts) (19 podcasts)
   * [Armchair Investigators](#armchair-investigators)
   * [Autoweird](#autoweird)
   * [Bits &amp; Böses - Der Tech Crime Podcast](#bits-and-boses-der-tech-crime-podcast)
@@ -91,9 +96,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [dev.env](#dev-env)
   * [Digitalisierungsfieber](#digitalisierungsfieber)
   * [GeekWeek](#geekweek)
-  * [heise Developer: SoftwareArchitekTOUR](#heise-developer-softwarearchitektour)
   * [knowIT](#knowit)
-  * [Kurz informiert by heise online](#kurz-informiert-by-heise-online)
   * [Open Source in der Industrie](#open-source-in-der-industrie)
   * [Request for Comments](#request-for-comments)
   * [Rheingehäckt](#rheingehackt)
@@ -114,6 +117,22 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
 ## Podcasts
 
 
+<h3 id="heiseshow">#heiseshow</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/heiseshow.jpg" />
+
+Immer donnerstags live um 17 Uhr sprechen Anna Kalinowsky, Malte Kirchner und Volker Zota von heise online bei YouTube über die Tech-Themen der Woche. Zum Nachhören gibt es die #heiseshow auch als Podcast.
+
+* Number of published episodes: 421
+* Last episode published: 🟢 Thursday, 06 June 2024
+* [#heiseshow Website](https://www.heise.de/thema/heiseshow)
+* [#heiseshow @ Spotify](https://open.spotify.com/show/7iMjJRAHcOAumvPbdGDavJ)
+* [#heiseshow @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1082296572)
+* [#heiseshow Podcast RSS](https://heiseshow.podigee.io/feed/mp3)
+* Tags: News, Business
+
+----
+
 <h3 id="c3d2-pentaradio-24">((c3d2)) Pentaradio 24</h3>
 
 <img align="right" width="215" height="215" src="./generated/images/pentaradio24.png" />
@@ -122,7 +141,7 @@ Pentaradio24 ist eine Sendung, die jeden vierten Dienstag im Monat zwischen 21:3
 
 
 * Number of published episodes: 49
-* Last episode published: 🟢 Sunday, 14 April 2024
+* Last episode published: 🟢 Saturday, 08 June 2024
 * [((c3d2)) Pentaradio 24 Website](https://www.c3d2.de/radio.html)
 * [((c3d2)) Pentaradio 24 @ Apple Podcasts](https://podcasts.apple.com/de/podcast/350873124)
 * [((c3d2)) Pentaradio 24 Podcast RSS](https://www.c3d2.de/pentaradio.xml)
@@ -136,8 +155,8 @@ Pentaradio24 ist eine Sendung, die jeden vierten Dienstag im Monat zwischen 21:3
 
 Deutschsprachiger Podcast zu den Themen IT-Sicherheit und Privatsphäre. Stefan und Sven unterhalten sich über aktuelle News und allgemeine Themen rund um Security und Privacy.
 
-* Number of published episodes: 114
-* Last episode published: 🟢 Friday, 26 April 2024
+* Number of published episodes: 115
+* Last episode published: 🟢 Friday, 07 June 2024
 * Weekly downloads (avg): 2000 (updated: 2023-01-16)
 * [0d - Zeroday Website](https://0x0d.de/)
 * [0d - Zeroday @ Spotify](https://open.spotify.com/show/5XTyNo5r6H0rRptIgaE1w4)
@@ -163,18 +182,18 @@ Apfelfunk ist ein wöchentlicher Podcast über Apple-Themen. Jean-Claude Frick u
 
 ----
 
-<h3 id="auslegungssache">Auslegungssache</h3>
+<h3 id="auslegungssache-der-ct-datenschutz-podcast">Auslegungssache - der c&#39;t-Datenschutz-Podcast</h3>
 
 <img align="right" width="215" height="215" src="./generated/images/auslegungssache.jpg" />
 
-Sie möchten beim Thema Datenschutz auf dem Laufenden bleiben, aber keine seitenlange Literatur wälzen? Dann wenden Sie sich vertrauensvoll an unser Juristen-Redakteurs-Duo. Alle 14 Tage bespricht c&#39;t-Redakteur Holger Bleich mit Joerg Heidrich aktuelle Entwicklungen rund um den Datenschutz. Joerg ist beim c&#39;t-Mutterschiff Heise Medien als Justiziar für das Thema zuständig und hat täglich mit der europäischen Datenschutz-Grundverordnung (DSGVO) zu tun. Wechselnde Gäste ergänzen das Duo.
+Sie möchten beim Thema Datenschutz auf dem Laufenden bleiben, aber keine seitenlange Literatur wälzen? Dann wenden Sie sich vertrauensvoll an unser Juristen-Redakteurs-Duo. Alle 14 Tage bespricht c&#39;t-Redakteur Holger Bleich mit Joerg Heidrich aktuelle Entwicklungen rund um den Datenschutz. Joerg ist beim c&#39;t-Mutterschiff Heise Medien als Justiziar für das Thema zuständig und hat täglich mit der europäischen Datenschutz-Grundverordnung (DSGVO) zu tun. Wechselnde Gäste ergänzen das Duo.&#34;
 
 * Number of published episodes: 111
 * Last episode published: 🟢 Friday, 31 May 2024
-* [Auslegungssache Website](https://heise.de/-4571821)
-* [Auslegungssache @ Spotify](https://open.spotify.com/show/3Jrnu7vrTurguBaCiPapkA)
-* [Auslegungssache @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1485860893)
-* [Auslegungssache Podcast RSS](https://ct-auslegungssache.podigee.io/feed/mp3)
+* [Auslegungssache - der c&#39;t-Datenschutz-Podcast Website](https://www.heise.de/thema/auslegungssache)
+* [Auslegungssache - der c&#39;t-Datenschutz-Podcast @ Spotify](https://open.spotify.com/show/3Jrnu7vrTurguBaCiPapkA)
+* [Auslegungssache - der c&#39;t-Datenschutz-Podcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1485860893)
+* [Auslegungssache - der c&#39;t-Datenschutz-Podcast Podcast RSS](https://ct-auslegungssache.podigee.io/feed/mp3)
 * Tags: Datenschutz
 
 ----
@@ -195,7 +214,7 @@ Ein Podcast über Web, Entwicklung, Mobile und Technologie. Betrachtet aus der S
 
 ----
 
-<h3 id="bit-rauschen">Bit-Rauschen</h3>
+<h3 id="bit-rauschen-der-prozessor-podcast-von-ct">Bit-Rauschen - der Prozessor-Podcast von c&#39;t</h3>
 
 <img align="right" width="215" height="215" src="./generated/images/bit-rauschen.jpg" />
 
@@ -203,10 +222,10 @@ Prozessoren, Grafikkarten, Notebooks, Desktop-PCs, Server, KI, Rechenzentren und
 
 * Number of published episodes: 90
 * Last episode published: 🟢 Wednesday, 05 June 2024
-* [Bit-Rauschen Website](https://www.ct.de/bit-rauschen)
-* [Bit-Rauschen @ Spotify](https://open.spotify.com/show/6JD6gwqgVR27GYZACrWOT1)
-* [Bit-Rauschen @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1549821753)
-* [Bit-Rauschen Podcast RSS](https://bit-rauschen.podigee.io/feed/mp3)
+* [Bit-Rauschen - der Prozessor-Podcast von c&#39;t Website](https://www.heise.de/thema/bit-rauschen)
+* [Bit-Rauschen - der Prozessor-Podcast von c&#39;t @ Spotify](https://open.spotify.com/show/6JD6gwqgVR27GYZACrWOT1)
+* [Bit-Rauschen - der Prozessor-Podcast von c&#39;t @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1549821753)
+* [Bit-Rauschen - der Prozessor-Podcast von c&#39;t Podcast RSS](https://bit-rauschen.podigee.io/feed/mp3)
 * Tags: Hardware, CPU
 
 ----
@@ -248,9 +267,9 @@ Ransomware Attacken, Phishing oder DDoS - jeden Tag aufs Neue werden Unternehmen
 
 Mitglieder der c&#39;t-Redaktion diskutieren über die aktuellen Themen aus dem c’t Magazin und was sonst noch so in der IT-Welt passiert.
 
-* Number of published episodes: 544
-* Last episode published: 🟢 Saturday, 01 June 2024
-* [c&#39;t uplink Website](https://www.heise.de/ct/entdecken/?hauptrubrik=%40ctmagazin&amp;unterrubrik=c%27t&#43;uplink)
+* Number of published episodes: 545
+* Last episode published: 🟢 Saturday, 08 June 2024
+* [c&#39;t uplink Website](https://www.heise.de/thema/ct-uplink)
 * [c&#39;t uplink @ Spotify](https://open.spotify.com/show/4LdN7lGr9winLtQSqoIjVD)
 * [c&#39;t uplink @ Apple Podcasts](https://podcasts.apple.com/de/podcast/835717958)
 * [c&#39;t uplink Podcast RSS](https://ct-uplink.podigee.io/feed/mp3)
@@ -558,6 +577,21 @@ Ein monatlicher Podcast der GNU/Linux.ch Community mit Themen und Interviews run
 
 ----
 
+<h3 id="heise-developer-softwarearchitektour">heise Developer: SoftwareArchitekTOUR</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/heise-developer-softwarearchitektour.jpg" />
+
+Der Podcast für den praktizierenden Softwarearchitekten
+
+* Number of published episodes: 99
+* Last episode published: 🟢 Wednesday, 15 May 2024
+* [heise Developer: SoftwareArchitekTOUR Website](https://www.heise.de/developer/SoftwareArchitekTOUR-4076349.html)
+* [heise Developer: SoftwareArchitekTOUR @ Spotify](https://open.spotify.com/show/2Uc7vL8U6kUZYSCOvDIJ67)
+* [heise Developer: SoftwareArchitekTOUR @ Apple Podcasts](https://podcasts.apple.com/de/podcast/313825047)
+* [heise Developer: SoftwareArchitekTOUR Podcast RSS](https://softwarearchitektour.podigee.io/feed/mp3)
+
+----
+
 <h3 id="herr-zenzes-wills-wissen">Herr Zenzes wills wissen</h3>
 
 <img align="right" width="215" height="215" src="./generated/images/herr-zenzes.png" />
@@ -733,6 +767,37 @@ Ja sia! Der Technikpodcast von und mit Chris und Pati. Wir bringen euch regelmä
 
 ----
 
+<h3 id="ki-update">KI-Update</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/ki-update.png" />
+
+Wie intelligent ist Künstliche Intelligenz eigentlich? Welche Folgen hat generative KI für unsere Arbeit, unsere Freizeit und die Gesellschaft? Im &#34;KI-Update&#34; von heise bringen wir Euch gemeinsam mit The Decoder werktäglich Updates zu den wichtigsten KI-Entwicklungen. Freitags beleuchten wir mit Experten die unterschiedlichen Aspekte der KI-Revolution.
+
+* Number of published episodes: 246
+* Last episode published: 🟢 Friday, 07 June 2024
+* [KI-Update Website](https://www.heise.de/thema/KI-Update)
+* [KI-Update @ Spotify](https://open.spotify.com/show/1rm6gMybQWnHePvY2eCpzp)
+* [KI-Update @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1691536182)
+* [KI-Update Podcast RSS](https://kiupdate.podigee.io/feed/mp3)
+* Tags: News, Business
+
+----
+
+<h3 id="kurz-informiert-by-heise-online">Kurz informiert by heise online</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/kurz-informiert.jpg" />
+
+Die IT-News des Tages von heise online
+
+* Number of published episodes: 1810
+* Last episode published: 🟢 Friday, 07 June 2024
+* [Kurz informiert by heise online Website](https://www.heise.de/Hoeren-Sie-von-uns-unsere-Podcasts-4206659.html)
+* [Kurz informiert by heise online @ Spotify](https://open.spotify.com/show/2etf1jog8leNHbnhIArM9Z)
+* [Kurz informiert by heise online Podcast RSS](https://kurzinformiert.podigee.io/feed/mp3)
+* Tags: News, Business
+
+----
+
 <h3 id="logbuch-digitalien">Logbuch Digitalien</h3>
 
 <img align="right" width="215" height="215" src="./generated/images/logbuch-digitalien.jpg" />
@@ -764,18 +829,18 @@ Logbuch:Netzpolitik ist ein in der Regel wöchentlich erscheinender Podcast, der
 
 ----
 
-<h3 id="mac-and-i">Mac &amp; I</h3>
+<h3 id="mac-and-i-der-apple-podcast">Mac &amp; i - der Apple-Podcast</h3>
 
 <img align="right" width="215" height="215" src="./generated/images/mac-and-i.png" />
 
-Redakteure von heise Mac &amp; i beschäftigen sich jeden Monat mit Apple-Produkten, -Betriebssystemen und dem Drumherum, stellen Testergebnisse vor und geben Tipps.
+Hintergründe, Einschätzungen, Tipps und Neuigkeiten: Im Zweiwochenrhythmus unterhalten sich Malte Kirchner und Leo Becker im Mac &amp; i-Podcast mit Gästen über Fachthemen zu iPhone, iPad, Mac, Watch &amp;amp; Co sowie Apple-Betriebssysteme, Dienste und das Drumherum.
 
 * Number of published episodes: 73
 * Last episode published: 🟢 Tuesday, 04 June 2024
-* [Mac &amp; I Website](https://www.heise.de/mac-and-i/meldung/Mac-i-Der-Apple-Podcast-4681220.html)
-* [Mac &amp; I @ Spotify](https://open.spotify.com/show/5Tcgc97HvYREYM7kIRsxii)
-* [Mac &amp; I @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1499510618)
-* [Mac &amp; I Podcast RSS](https://mac-and-i.podigee.io/feed/mp3)
+* [Mac &amp; i - der Apple-Podcast Website](https://www.heise.de/mac-and-i/meldung/Mac-i-Der-Apple-Podcast-4681220.html)
+* [Mac &amp; i - der Apple-Podcast @ Spotify](https://open.spotify.com/show/5Tcgc97HvYREYM7kIRsxii)
+* [Mac &amp; i - der Apple-Podcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1499510618)
+* [Mac &amp; i - der Apple-Podcast Podcast RSS](https://heise.de/mac-and-i/mac-and-i-audio-podcast.rss)
 * Tags: Hardware, Apple
 
 ----
@@ -1038,6 +1103,22 @@ Jung, weiblich, genial: Im Tech-Podcast von NDR Info sucht die Tech-Journalistin
 * [She Likes Tech @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1530596058)
 * [She Likes Tech Podcast RSS](https://www.ndr.de/nachrichten/info/podcast4808.xml)
 * Tags: Female host
+
+----
+
+<h3 id="softwarearchitektour-von-entwicklern-fur-entwickler">SoftwareArchitekTOUR - von Entwicklern für Entwickler</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/softwarearchitektour.jpg" />
+
+Der Podcast für praktische Softwarearchitektur. Mit: Carola Lilienthal, Patrick Roos, Johannes Seitz, Michael Stal, Gernot Starke, Eberhard Wolff.
+
+* Number of published episodes: 99
+* Last episode published: 🟢 Wednesday, 15 May 2024
+* [SoftwareArchitekTOUR - von Entwicklern für Entwickler Website](https://www.heise.de/thema/softwarearchitektour)
+* [SoftwareArchitekTOUR - von Entwicklern für Entwickler @ Spotify](https://open.spotify.com/show/2Uc7vL8U6kUZYSCOvDIJ67)
+* [SoftwareArchitekTOUR - von Entwicklern für Entwickler @ Apple Podcasts](https://podcasts.apple.com/de/podcast/313825047)
+* [SoftwareArchitekTOUR - von Entwicklern für Entwickler Podcast RSS](https://www.heise.de/developer/rss/podcast-softwarearchitektour.rss)
+* Tags: Softwarearchitektur
 
 ----
 
@@ -1441,21 +1522,6 @@ Nothing But Tech - Aus Deutschland, der Schweiz und den USA. geek-week.de berich
 
 ----
 
-<h3 id="heise-developer-softwarearchitektour">heise Developer: SoftwareArchitekTOUR</h3>
-
-<img align="right" width="215" height="215" src="./generated/images/heise-developer-softwarearchitektour.jpg" />
-
-Der Podcast für den praktizierenden Softwarearchitekten
-
-* Number of published episodes: 96
-* Last episode published: 🔴 Friday, 21 July 2023
-* [heise Developer: SoftwareArchitekTOUR Website](https://www.heise.de/developer/SoftwareArchitekTOUR-4076349.html)
-* [heise Developer: SoftwareArchitekTOUR @ Spotify](https://open.spotify.com/show/2Uc7vL8U6kUZYSCOvDIJ67)
-* [heise Developer: SoftwareArchitekTOUR @ Apple Podcasts](https://podcasts.apple.com/de/podcast/313825047)
-* [heise Developer: SoftwareArchitekTOUR Podcast RSS](https://softwarearchitektour.podigee.io/feed/mp3)
-
-----
-
 <h3 id="knowit">knowIT</h3>
 
 <img align="right" width="215" height="215" src="./generated/images/know-it.jpg" />
@@ -1469,22 +1535,6 @@ know Information Technology (kurz knowIT) - in diesem Sinne behandelt der Podcas
 * [knowIT @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1564646449)
 * [knowIT Podcast RSS](https://anchor.fm/s/57935150/podcast/rss)
 * Tags: Female host
-
-----
-
-<h3 id="kurz-informiert-by-heise-online">Kurz informiert by heise online</h3>
-
-<img align="right" width="215" height="215" src="./generated/images/kurz-informiert.jpg" />
-
-Die IT-News des Tages von heise online
-
-* Number of published episodes: 290
-* Last episode published: 🔴 Thursday, 02 November 2023
-* [Kurz informiert by heise online Website](http://www.heise.de/)
-* [Kurz informiert by heise online @ Spotify](https://open.spotify.com/show/2etf1jog8leNHbnhIArM9Z)
-* [Kurz informiert by heise online @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1485884061)
-* [Kurz informiert by heise online Podcast RSS](https://www.heise.de/rss/topnews-audio.rss)
-* Tags: News, Business
 
 ----
 
