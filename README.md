@@ -6,7 +6,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (81 podcasts)
+* [Podcasts](#podcasts) (82 podcasts)
   * [#heiseshow](#heiseshow)
   * [((c3d2)) Pentaradio 24](#c3d2-pentaradio-24)
   * [0d - Zeroday](#0d-zeroday)
@@ -79,6 +79,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [TechnikTechnik](#techniktechnik)
   * [Techtiefen](#techtiefen)
   * [The World of IT-Security](#the-world-of-it-security)
+  * [ThinkPad-Museum Podcast](#thinkpad-museum-podcast)
   * [TILpod](#tilpod)
   * [todo:cast](#todo-cast)
   * [Unmute IT](#unmute-it)
@@ -1263,6 +1264,22 @@ IT-Security, unendliche Weiten ... So oder so ähnlich lässt sich die Größeno
 * [The World of IT-Security @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1567043544)
 * [The World of IT-Security Podcast RSS](https://feeds.buzzsprout.com/1779426.rss)
 * Tags: Security
+
+----
+
+<h3 id="thinkpad-museum-podcast">ThinkPad-Museum Podcast</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/thinkpad-museum.png" />
+
+Besonders in Business- und Hacker:innen-Kreisen trifft man sie häufig an - ThinkPads. Dieser Podcast beschäftigt sich mit der Geschichte und Gegenwart der Geräte. So sprechen wir über denkwürdige Modelle, revolutionäre Techniken und spannende Persönlichkeiten aus dem ThinkPad-Kosmos.
+
+* Number of published episodes: 7
+* Last episode published: 🟢 Tuesday, 04 June 2024
+* [ThinkPad-Museum Podcast Website](https://thinkpad-museum.de/)
+* [ThinkPad-Museum Podcast @ Spotify](https://open.spotify.com/show/1Tyf65RpY3bKZr0xYVFhjc)
+* [ThinkPad-Museum Podcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1722845536)
+* [ThinkPad-Museum Podcast Podcast RSS](https://podcasts.darmstadt.social/@thinkpadmuseum/feed.xml)
+* Tags: Hardware, ThinkPad
 
 ----
 
