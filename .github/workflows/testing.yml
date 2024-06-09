@@ -10,7 +10,7 @@ on:
 jobs:
   testing:
     name: Test- and linting
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-24.04
     defaults:
       run:
         working-directory: app
@@ -50,7 +50,7 @@ jobs:
 
   compile:
     name: Compile application
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-24.04
     needs: [testing]
     defaults:
       run:
