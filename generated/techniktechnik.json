@@ -1,0 +1,19 @@
+{
+ "name": "TechnikTechnik",
+ "slug": "techniktechnik",
+ "website": "https://techniktechnik.de/",
+ "podcastIndexID": 225932,
+ "rssFeed": "https://techniktechnik.de/?feed=mp3",
+ "spotify": "https://open.spotify.com/show/31hRI4ll65FoIzDJThWHJM",
+ "description": "Irgendwas mit Technik",
+ "tags": null,
+ "weekly_downloads_avg": {
+  "value": 0,
+  "updated": ""
+ },
+ "episodeCount": 186,
+ "latestEpisodePublished": 1716242999,
+ "archive": false,
+ "itunesID": 1285407879,
+ "image": "images/techniktechnik.png"
+}

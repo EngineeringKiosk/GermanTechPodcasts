@@ -6,7 +6,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (80 podcasts)
+* [Podcasts](#podcasts) (81 podcasts)
   * [#heiseshow](#heiseshow)
   * [((c3d2)) Pentaradio 24](#c3d2-pentaradio-24)
   * [0d - Zeroday](#0d-zeroday)
@@ -76,6 +76,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [t3n Catch up](#t3n-catch-up)
   * [t3n Interview](#t3n-interview)
   * [Tech me if you can](#tech-me-if-you-can)
+  * [TechnikTechnik](#techniktechnik)
   * [Techtiefen](#techtiefen)
   * [The World of IT-Security](#the-world-of-it-security)
   * [TILpod](#tilpod)
@@ -1214,6 +1215,21 @@ Der Podcast rund um Technologie, Smart Home, Gadgets und mehr. Patrick und Ingo 
 * [Tech me if you can @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1674729698)
 * [Tech me if you can Podcast RSS](https://letscast.fm/podcasts/tech-me-if-you-can-24f146bd/feed)
 * Tags: Hardware, Apple
+
+----
+
+<h3 id="techniktechnik">TechnikTechnik</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/techniktechnik.png" />
+
+Irgendwas mit Technik
+
+* Number of published episodes: 186
+* Last episode published: 🟢 Monday, 20 May 2024
+* [TechnikTechnik Website](https://techniktechnik.de/)
+* [TechnikTechnik @ Spotify](https://open.spotify.com/show/31hRI4ll65FoIzDJThWHJM)
+* [TechnikTechnik @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1285407879)
+* [TechnikTechnik Podcast RSS](https://techniktechnik.de/?feed=mp3)
 
 ----
 
