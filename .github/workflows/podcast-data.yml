@@ -21,6 +21,7 @@ jobs:
       - uses: actions/setup-go@v5.0.1
         with:
           go-version: 1.22
+          cache-dependency-path: app/go.sum
 
       # Caching go modules to speed up the run
       - uses: actions/cache@v4.0.2
