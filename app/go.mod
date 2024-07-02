@@ -4,7 +4,7 @@ go 1.19
 
 require (
 	github.com/gosimple/slug v1.14.0
-	github.com/spf13/cobra v1.8.0
+	github.com/spf13/cobra v1.8.1
 	gopkg.in/yaml.v2 v2.4.0
 )
 
