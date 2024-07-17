@@ -6,7 +6,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (83 podcasts)
+* [Podcasts](#podcasts) (82 podcasts)
   * [#heiseshow](#heiseshow)
   * [((c3d2)) Pentaradio 24](#c3d2-pentaradio-24)
   * [0d - Zeroday](#0d-zeroday)
@@ -22,7 +22,6 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [Code Culture](#code-culture)
   * [Coding Buddies](#coding-buddies)
   * [Computer und Kommunikation (Deutschlandfunk)](#computer-und-kommunikation-deutschlandfunk)
-  * [Cybersecurity entschlüsselt](#cybersecurity-entschlusselt)
   * [Das Duumvirat](#das-duumvirat)
   * [DAS WAR SCHON KAPUTT](#das-war-schon-kaputt)
   * [Der GameDev Podcast](#der-gamedev-podcast)
@@ -90,12 +89,13 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [Wo wir sind ist vorne](#wo-wir-sind-ist-vorne)
   * [Working Draft](#working-draft)
   * [WP Sofa](#wp-sofa)
-* [Archived podcasts](#archived-podcasts) (18 podcasts)
+* [Archived podcasts](#archived-podcasts) (19 podcasts)
   * [Armchair Investigators](#armchair-investigators)
   * [Autoweird](#autoweird)
   * [Bits &amp; Böses - Der Tech Crime Podcast](#bits-and-boses-der-tech-crime-podcast)
   * [Code and Ship](#code-and-ship)
   * [Codestammtisch](#codestammtisch)
+  * [Cybersecurity entschlüsselt](#cybersecurity-entschlusselt)
   * [dev.env](#dev-env)
   * [Digitalisierungsfieber](#digitalisierungsfieber)
   * [GeekWeek](#geekweek)
@@ -222,8 +222,8 @@ Ein Podcast über Web, Entwicklung, Mobile und Technologie. Betrachtet aus der S
 
 Prozessoren, Grafikkarten, Notebooks, Desktop-PCs, Server, KI, Rechenzentren und IT-Markt: In &#34;Bit-Rauschen&#34;, dem Prozessor-Podcast des Computermagazins c’t, dreht sich alles um Chips.
 
-* Number of published episodes: 92
-* Last episode published: 🟢 Wednesday, 03 July 2024
+* Number of published episodes: 93
+* Last episode published: 🟢 Wednesday, 17 July 2024
 * [Bit-Rauschen - der Prozessor-Podcast von c&#39;t Website](https://www.heise.de/thema/bit-rauschen)
 * [Bit-Rauschen - der Prozessor-Podcast von c&#39;t @ Spotify](https://open.spotify.com/show/6JD6gwqgVR27GYZACrWOT1)
 * [Bit-Rauschen - der Prozessor-Podcast von c&#39;t @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1549821753)
@@ -239,7 +239,7 @@ Prozessoren, Grafikkarten, Notebooks, Desktop-PCs, Server, KI, Rechenzentren und
 Die wöchentliche Talkrunde rund um Apple, Mac, iPod &#43; iPhone, Gadgets und so. Fast live aus München.
 
 * Number of published episodes: 10
-* Last episode published: 🟢 Sunday, 07 July 2024
+* Last episode published: 🟢 Wednesday, 17 July 2024
 * [Bits und so Website](http://www.bitsundso.de/)
 * [Bits und so @ Apple Podcasts](https://podcasts.apple.com/de/podcast/202753375)
 * [Bits und so Podcast RSS](http://www.bitsundso.de/feed/)
@@ -354,22 +354,6 @@ Jeden Samstag das Neueste aus Computertechnik und Informationstechnologie. Beitr
 
 ----
 
-<h3 id="cybersecurity-entschlusselt">Cybersecurity entschlüsselt</h3>
-
-<img align="right" width="215" height="215" src="./generated/images/cybersecurity-entschluesselt.jpg" />
-
-Cybersecurity entschüsselt ist ein deutschsprachiger Podcast, in dem sich alles um Sicherheit dreht.
-
-* Number of published episodes: 38
-* Last episode published: 🟡 Tuesday, 16 January 2024
-* [Cybersecurity entschlüsselt Website](https://www.cybersecurity-entschluesselt.de)
-* [Cybersecurity entschlüsselt @ Spotify](https://open.spotify.com/show/0sAcefh8cixTxjJn9s1dvM)
-* [Cybersecurity entschlüsselt @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1637327527)
-* [Cybersecurity entschlüsselt Podcast RSS](https://cybersecurity-entschluesselt.de/rss.xml)
-* Tags: Security, IT Security, Technology
-
-----
-
 <h3 id="das-duumvirat">Das Duumvirat</h3>
 
 <img align="right" width="215" height="215" src="./generated/images/das-duumvirat.jpg" />
@@ -457,8 +441,8 @@ Hier geht es um die kleinen und großen Fehlschläge in der Geschichte der Techn
 
 Software und IT sind komplex. Gerade Fachfremde, die dennoch häufig mit Software und IT in Berührung kommen, sind sich dessen bewusst. Es kann nur von Vorteil sein, von gängigen Konzepten und Technologien gehört zu haben. So lässt es sich besser mitreden und entscheiden, wenn ein Softwareprojekt, neue Infrastruktur oder andere Fragen mit Bezug zur IT anstehen. Bei &#34;Einfach komplex&#34; erhältst du jeden Dienstag eine Perspektive auf Softwareentwicklung, IT- sowie OT-Themen, um für private als auch berufliche Diskussionen gewappnet zu sein. Doch seien wir ehrlich, es bleibt einfach komplex!
 
-* Number of published episodes: 62
-* Last episode published: 🟢 Tuesday, 02 July 2024
+* Number of published episodes: 63
+* Last episode published: 🟢 Tuesday, 16 July 2024
 * Weekly downloads (avg): 1050 (updated: 2024-02-05)
 * [Einfach Komplex Website](https://heisenware.com/podcast)
 * [Einfach Komplex @ Spotify](https://open.spotify.com/show/4eTpBCjUos9xUXtX294CnY?si=457f567027574f40)
@@ -550,12 +534,12 @@ Freak Show ist ein Podcast, der sich mit dem Leben mit Technik im 21. Jahrhunder
 
 <h3 id="gamedev-fur-die-platte-der-unreal-podcast">Gamedev für die Platte - Der Unreal Podcast</h3>
 
-<img align="right" width="215" height="215" src="./generated/images/gamedev-fuer-die-platte.jpg" />
+<img align="right" width="215" height="215" src="./generated/images/gamedev-fuer-die-platte.png" />
 
 Wir talken GameDev und haben Unreal News.
 
 * Number of published episodes: 100
-* Last episode published: 🟢 Tuesday, 09 July 2024
+* Last episode published: 🟢 Tuesday, 16 July 2024
 * [Gamedev für die Platte - Der Unreal Podcast Website](https://gamedevfuerdieplatte.podbean.com/)
 * [Gamedev für die Platte - Der Unreal Podcast @ Spotify](https://open.spotify.com/show/3UtoyAbMfEvkSIx5w3HohY)
 * [Gamedev für die Platte - Der Unreal Podcast Podcast RSS](https://feed.podbean.com/gamedevfuerdieplatte/feed.xml)
@@ -664,8 +648,8 @@ Du bist Entwickler/Developer? Dann Lauscher auf! Thomas und Christian sprechen i
 
 In dieser Serie diskutieren wir interessante Themen aus Software-Entwicklung und -Architektur – immer mit dem Fokus auf Praxistauglichkeit.
 
-* Number of published episodes: 155
-* Last episode published: 🟢 Monday, 01 July 2024
+* Number of published episodes: 156
+* Last episode published: 🟢 Tuesday, 16 July 2024
 * [INNOQ Podcast Website](https://www.innoq.com/de/podcast/)
 * [INNOQ Podcast @ Spotify](https://open.spotify.com/show/20svL8wDDgtidO2Qwf3EWx)
 * [INNOQ Podcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/672695146)
@@ -775,8 +759,8 @@ Ja sia! Der Technikpodcast von und mit Chris und Pati. Wir bringen euch regelmä
 
 Wie intelligent ist Künstliche Intelligenz eigentlich? Welche Folgen hat generative KI für unsere Arbeit, unsere Freizeit und die Gesellschaft? Im &#34;KI-Update&#34; von heise bringen wir Euch gemeinsam mit The Decoder werktäglich Updates zu den wichtigsten KI-Entwicklungen. Freitags beleuchten wir mit Experten die unterschiedlichen Aspekte der KI-Revolution.
 
-* Number of published episodes: 269
-* Last episode published: 🟢 Thursday, 11 July 2024
+* Number of published episodes: 271
+* Last episode published: 🟢 Tuesday, 16 July 2024
 * [KI-Update Website](https://www.heise.de/thema/KI-Update)
 * [KI-Update @ Spotify](https://open.spotify.com/show/1rm6gMybQWnHePvY2eCpzp)
 * [KI-Update @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1691536182)
@@ -791,8 +775,8 @@ Wie intelligent ist Künstliche Intelligenz eigentlich? Welche Folgen hat genera
 
 Die IT-News des Tages von heise online
 
-* Number of published episodes: 1861
-* Last episode published: 🟢 Monday, 15 July 2024
+* Number of published episodes: 1864
+* Last episode published: 🟢 Tuesday, 16 July 2024
 * [Kurz informiert by heise online Website](https://www.heise.de/Hoeren-Sie-von-uns-unsere-Podcasts-4206659.html)
 * [Kurz informiert by heise online @ Spotify](https://open.spotify.com/show/2etf1jog8leNHbnhIArM9Z)
 * [Kurz informiert by heise online Podcast RSS](https://kurzinformiert.podigee.io/feed/mp3)
@@ -870,7 +854,7 @@ Von Menschen für Menschen, die Software entwickeln, ist dieser Podcast gedacht.
 Scrum kann doch inzwischen eh jeder? Von wegen! Denn - ganz unter uns: genug falsch machen kann man ohne Probleme. Daher möchten wir über Stolpersteine sprechen, über Smells und unsere Erfahrungen mitteilen, die wir mit Scrum, Kanban und Agil im Allgemeinen gemacht haben.
 
 * Number of published episodes: 129
-* Last episode published: 🟢 Thursday, 16 May 2024
+* Last episode published: 🟡 Thursday, 16 May 2024
 * Weekly downloads (avg): 14449 (updated: 2022-12-28)
 * [Mein Scrum ist kaputt! Website](https://meinscrumistkaputt.de/)
 * [Mein Scrum ist kaputt! @ Spotify](https://open.spotify.com/show/7lECdowQCq0OWlf0EZnSpL)
@@ -950,8 +934,8 @@ Wir thematisieren die wichtigen Fragestellungen rund um Internet, Gesellschaft u
 
 Mehr Wissen über die digitale Welt. Experten des Hasso-Plattner-Instituts sprechen verständlich über digitale Entwicklungen und Trends, über Chancen und Risiken der Digitalisierung. Jede Sendung widmet sich einem gesellschaftlich relevanten Thema: Von der Macht der Künstlichen Intelligenz über die Blockchain bis zu Hetze in den sozialen Medien.
 
-* Number of published episodes: 87
-* Last episode published: 🟢 Wednesday, 10 July 2024
+* Number of published episodes: 88
+* Last episode published: 🟢 Wednesday, 17 July 2024
 * [Neuland Website](https://podcast.hpi.de/)
 * [Neuland @ Spotify](https://open.spotify.com/show/0kd8vXJDv3sN7VMtcLRsH9)
 * [Neuland @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1448992875)
@@ -1368,8 +1352,8 @@ IT Security Podcast
 
 Alle 14 Tage laden wir zu einer kleinen Kaminzimmerrunde über IT-Kram ein. In Ermangelung eines Kaminzimmers sitzen wir in der Hot Aisle eines Datacenters, statt feudaler Sessel gibt es faltbare Campingstühle, und die Cognacschwenker durften wir auch nicht mit reinnehmen. :/
 
-* Number of published episodes: 63
-* Last episode published: 🟢 Tuesday, 02 July 2024
+* Number of published episodes: 64
+* Last episode published: 🟢 Tuesday, 16 July 2024
 * Weekly downloads (avg): 250 (updated: 2024-01-11)
 * [Wartungsfenster Website](https://wartungsfenster.podigee.io/)
 * [Wartungsfenster @ Spotify](https://open.spotify.com/show/063YcVklbp1N8z1ZHSA709)
@@ -1385,8 +1369,8 @@ Alle 14 Tage laden wir zu einer kleinen Kaminzimmerrunde über IT-Kram ein. In E
 
 In diesem Podcast geht es um Web und User Interface Design, Freelancing, Arbeitsprozesse, Kunden und alles, wo sich diese Bereiche überschneiden.
 
-* Number of published episodes: 213
-* Last episode published: 🟢 Thursday, 11 July 2024
+* Number of published episodes: 214
+* Last episode published: 🟢 Tuesday, 16 July 2024
 * [Web &amp; Design Podcast Website](https://www.jonasarleth.com/podcast)
 * [Web &amp; Design Podcast @ Spotify](https://open.spotify.com/show/6P3ovTvnUXUQZdjEMLEBer)
 * [Web &amp; Design Podcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1197452865)
@@ -1417,8 +1401,8 @@ Latenight-Frontend-Talkshow rund um Webdesign und Entwicklung. Es reden sich um 
 
 Wöchentlicher Podcast für Webdesigner:innen und -entwickler:innen
 
-* Number of published episodes: 642
-* Last episode published: 🟢 Thursday, 11 July 2024
+* Number of published episodes: 643
+* Last episode published: 🟢 Tuesday, 16 July 2024
 * [Working Draft Website](https://workingdraft.de/)
 * [Working Draft @ Spotify](https://open.spotify.com/show/78iH7cIFzu1ejoB6aQUsIh)
 * [Working Draft @ Apple Podcasts](https://podcasts.apple.com/de/podcast/402204581)
@@ -1521,6 +1505,22 @@ Zwei Softwareentwickler — Max und Nathan — unterhalten sich ein Getränk lan
 * [Codestammtisch Website](https://codestammtis.ch/)
 * [Codestammtisch @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1410854302)
 * [Codestammtisch Podcast RSS](https://codestammtis.ch/feed/mp3/)
+
+----
+
+<h3 id="cybersecurity-entschlusselt">Cybersecurity entschlüsselt</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/cybersecurity-entschluesselt.jpg" />
+
+Cybersecurity entschüsselt ist ein deutschsprachiger Podcast, in dem sich alles um Sicherheit dreht.
+
+* Number of published episodes: 38
+* Last episode published: 🔴 Tuesday, 16 January 2024
+* [Cybersecurity entschlüsselt Website](https://www.cybersecurity-entschluesselt.de)
+* [Cybersecurity entschlüsselt @ Spotify](https://open.spotify.com/show/0sAcefh8cixTxjJn9s1dvM)
+* [Cybersecurity entschlüsselt @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1637327527)
+* [Cybersecurity entschlüsselt Podcast RSS](https://cybersecurity-entschluesselt.de/rss.xml)
+* Tags: Security, IT Security, Technology
 
 ----
 
