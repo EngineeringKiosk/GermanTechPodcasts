@@ -125,8 +125,8 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
 
 Immer donnerstags live um 17 Uhr sprechen Anna Kalinowsky, Malte Kirchner und Volker Zota von heise online bei YouTube über die Tech-Themen der Woche. Zum Nachhören gibt es die #heiseshow auch als Podcast.
 
-* Number of published episodes: 427
-* Last episode published: 🟢 Thursday, 18 July 2024
+* Number of published episodes: 428
+* Last episode published: 🟢 Thursday, 25 July 2024
 * [#heiseshow Website](https://www.heise.de/thema/heiseshow)
 * [#heiseshow @ Spotify](https://open.spotify.com/show/7iMjJRAHcOAumvPbdGDavJ)
 * [#heiseshow @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1082296572)
@@ -174,8 +174,8 @@ Deutschsprachiger Podcast zu den Themen IT-Sicherheit und Privatsphäre. Stefan 
 
 Apfelfunk ist ein wöchentlicher Podcast über Apple-Themen. Jean-Claude Frick und Malte Kirchner berichten und bewerten darin die Neuigkeiten über den wichtigsten Computerkonzern der Welt.
 
-* Number of published episodes: 442
-* Last episode published: 🟢 Wednesday, 17 July 2024
+* Number of published episodes: 443
+* Last episode published: 🟢 Wednesday, 24 July 2024
 * [Apfelfunk Website](http://www.apfelfunk.com/)
 * [Apfelfunk @ Spotify](https://open.spotify.com/show/7FQLyWiNhMR0KS93ReaI4h)
 * [Apfelfunk @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1081146940)
@@ -190,8 +190,8 @@ Apfelfunk ist ein wöchentlicher Podcast über Apple-Themen. Jean-Claude Frick u
 
 Sie möchten beim Thema Datenschutz auf dem Laufenden bleiben, aber keine seitenlange Literatur wälzen? Dann wenden Sie sich vertrauensvoll an unser Juristen-Redakteurs-Duo. Alle 14 Tage bespricht c&#39;t-Redakteur Holger Bleich mit Joerg Heidrich aktuelle Entwicklungen rund um den Datenschutz. Joerg ist beim c&#39;t-Mutterschiff Heise Medien als Justiziar für das Thema zuständig und hat täglich mit der europäischen Datenschutz-Grundverordnung (DSGVO) zu tun. Wechselnde Gäste ergänzen das Duo.&#34;
 
-* Number of published episodes: 114
-* Last episode published: 🟢 Friday, 12 July 2024
+* Number of published episodes: 115
+* Last episode published: 🟢 Friday, 26 July 2024
 * [Auslegungssache - der c&#39;t-Datenschutz-Podcast Website](https://www.heise.de/thema/auslegungssache)
 * [Auslegungssache - der c&#39;t-Datenschutz-Podcast @ Spotify](https://open.spotify.com/show/3Jrnu7vrTurguBaCiPapkA)
 * [Auslegungssache - der c&#39;t-Datenschutz-Podcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1485860893)
@@ -329,8 +329,8 @@ Lucas Rott und Markus Herhoffer erzählen alle 14 Tage von Code und Nerd-Kultur.
 
 Dein Podcast rund um Softwareentwicklung und aktueller Tech News. Lernt die Coding Buddies Tino und Fabi kennen. Erfahrt spannende Dinge über diverse Themen aus der Softwareentwicklung und lauscht den Erfahrungen der Beiden. Dazu gibt es witzige Anekdoten der Coding Buddies.
 
-* Number of published episodes: 69
-* Last episode published: 🟢 Thursday, 18 July 2024
+* Number of published episodes: 70
+* Last episode published: 🟢 Thursday, 25 July 2024
 * [Coding Buddies Website](https://www.codingbuddies.de/)
 * [Coding Buddies @ Spotify](https://open.spotify.com/show/5DaiBkAgQBt8DRCcwZY8xT?si=4acf817842f44c43)
 * [Coding Buddies @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1680339110)
@@ -507,8 +507,8 @@ Der FOCUS ON: DevOps Podcast beschäftigt sich mit verschiedenen Methoden und We
 
 Der FOCUS ON: Linux Podcast beschäftigt sich mit verschiedenen Themen rund um Linux. Unser Ziel ist es, euch monatlich über die Entwicklungen und Neuigkeiten zu informieren und auch praktische Tool-Tipps an die Hand zu geben.
 
-* Number of published episodes: 111
-* Last episode published: 🟢 Thursday, 11 July 2024
+* Number of published episodes: 112
+* Last episode published: 🟢 Thursday, 25 July 2024
 * Weekly downloads (avg): 780 (updated: 2024-01-11)
 * [FOCUS ON: Linux Website](https://focusonlinux.podigee.io/)
 * [FOCUS ON: Linux @ Spotify](https://open.spotify.com/show/4Yj9EaidQuwEZL0NkAafzh)
@@ -554,7 +554,7 @@ Wir talken GameDev und haben Unreal News.
 Ein monatlicher Podcast der GNU/Linux.ch Community mit Themen und Interviews rund um die Themen GNU/Linux, Freie Software und Freie Gesellschaft.
 
 * Number of published episodes: 103
-* Last episode published: 🟢 Wednesday, 17 July 2024
+* Last episode published: 🟢 Wednesday, 24 July 2024
 * [GNU/Linux.ch Website](https://gnulinux.ch/)
 * [GNU/Linux.ch @ Spotify](https://open.spotify.com/show/0rs1Zm91TsjHhGo2lt0uPi)
 * [GNU/Linux.ch @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1527155920)
@@ -696,8 +696,8 @@ Dieser Podcast unterstützt schnell, konkret und umfänglich beim Einstieg in di
 
 Nur etwas mehr als 60 Jahre liegen zwischen dem ersten Start eines Motorflugzeugs und dem ersten bemannten Flug zum Mond. Das Handy wurde in nur 30 Jahren zum wichtigsten Kommunikationskanal unserer Zeit. Und IT? Die entwickelt sich nicht weniger rasant und macht in einer vernetzten und digitalen Welt vor keinem Bereich mehr halt. Im Podcast sprechen wir über Trendthemen, die zwar nichts mit Raketenwissenschaft zu tun haben, dafür aber Menschen auf dem Weg in eine digitale Zukunft begleiten. Bist Du bereit?
 
-* Number of published episodes: 96
-* Last episode published: 🟢 Wednesday, 17 July 2024
+* Number of published episodes: 97
+* Last episode published: 🟢 Wednesday, 24 July 2024
 * [IT ist alles Website](https://www.pco-online.de/magazin/2020/07/podcast)
 * [IT ist alles @ Spotify](https://open.spotify.com/show/46EUTeJsHSfscbkrI38f6p)
 * [IT ist alles @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1524049773)
@@ -759,8 +759,8 @@ Ja sia! Der Technikpodcast von und mit Chris und Pati. Wir bringen euch regelmä
 
 Wie intelligent ist Künstliche Intelligenz eigentlich? Welche Folgen hat generative KI für unsere Arbeit, unsere Freizeit und die Gesellschaft? Im &#34;KI-Update&#34; von heise bringen wir Euch gemeinsam mit The Decoder werktäglich Updates zu den wichtigsten KI-Entwicklungen. Freitags beleuchten wir mit Experten die unterschiedlichen Aspekte der KI-Revolution.
 
-* Number of published episodes: 275
-* Last episode published: 🟢 Tuesday, 23 July 2024
+* Number of published episodes: 277
+* Last episode published: 🟢 Thursday, 25 July 2024
 * [KI-Update Website](https://www.heise.de/thema/KI-Update)
 * [KI-Update @ Spotify](https://open.spotify.com/show/1rm6gMybQWnHePvY2eCpzp)
 * [KI-Update @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1691536182)
@@ -775,8 +775,8 @@ Wie intelligent ist Künstliche Intelligenz eigentlich? Welche Folgen hat genera
 
 Die IT-News des Tages von heise online
 
-* Number of published episodes: 1871
-* Last episode published: 🟢 Tuesday, 23 July 2024
+* Number of published episodes: 1873
+* Last episode published: 🟢 Thursday, 25 July 2024
 * [Kurz informiert by heise online Website](https://www.heise.de/Hoeren-Sie-von-uns-unsere-Podcasts-4206659.html)
 * [Kurz informiert by heise online @ Spotify](https://open.spotify.com/show/2etf1jog8leNHbnhIArM9Z)
 * [Kurz informiert by heise online Podcast RSS](https://kurzinformiert.podigee.io/feed/mp3)
@@ -821,8 +821,8 @@ Logbuch:Netzpolitik ist ein in der Regel wöchentlich erscheinender Podcast, der
 
 Hintergründe, Einschätzungen, Tipps und Neuigkeiten: Im Zweiwochenrhythmus unterhalten sich Malte Kirchner und Leo Becker im Mac &amp; i-Podcast mit Gästen über Fachthemen zu iPhone, iPad, Mac, Watch &amp;amp; Co sowie Apple-Betriebssysteme, Dienste und das Drumherum.
 
-* Number of published episodes: 76
-* Last episode published: 🟢 Thursday, 11 July 2024
+* Number of published episodes: 77
+* Last episode published: 🟢 Thursday, 25 July 2024
 * [Mac &amp; i - der Apple-Podcast Website](https://www.heise.de/mac-and-i/meldung/Mac-i-Der-Apple-Podcast-4681220.html)
 * [Mac &amp; i - der Apple-Podcast @ Spotify](https://open.spotify.com/show/5Tcgc97HvYREYM7kIRsxii)
 * [Mac &amp; i - der Apple-Podcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1499510618)
@@ -983,8 +983,8 @@ Ein Podcast über die dunkle Seite der Digitalisierung: Spionage, Hacker, Sabota
 
 Mit geballter Dev-Power nehmen Dennis, Fabi, Sebi und Jojo neue Podcastfolgen auf und werden dabei regelmäßig von Gäst:innen aus der Branche unterstützt. Taucht in unseren Deep Dives mit uns in Frameworks und Datenbanken ein, hört euch in den CTO-Specials die Erfahrungen führender Persönlichkeiten großer Unternehmen an und bleibt mit unseren News-Folgen stets am Ball in der Welt der App- und Webentwicklung.
 
-* Number of published episodes: 334
-* Last episode published: 🟢 Friday, 19 July 2024
+* Number of published episodes: 335
+* Last episode published: 🟢 Wednesday, 24 July 2024
 * Weekly downloads (avg): 8744 (updated: 2023-04-12)
 * [programmier.bar Website](https://www.programmier.bar/podcast)
 * [programmier.bar @ Spotify](https://open.spotify.com/show/0ik0sXv9paTQCeThcOLCCJ)
@@ -1178,8 +1178,8 @@ Digitalisierung ist komplex. Heute entsteht dies, morgen das. Und was übermorge
 
 In diesem Podcast diskutiert die t3n-Redaktion mit Gästen über die spannendsten digitalen Themen unserer Zeit. Ob innovative Führungskonzepte, die Digitalisierung der Gesellschaft, smarte Gadgets, neue Mobilität oder Zukunftstechnologien. Jeden Freitag um 10 Uhr!
 
-* Number of published episodes: 619
-* Last episode published: 🟢 Monday, 22 July 2024
+* Number of published episodes: 620
+* Last episode published: 🟢 Friday, 26 July 2024
 * [t3n Interview Website](https://t3n.de/podcast#interview)
 * [t3n Interview @ Spotify](https://open.spotify.com/show/7obTbZaywhQEiUUOMswQBQ)
 * [t3n Interview @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1115601393)
