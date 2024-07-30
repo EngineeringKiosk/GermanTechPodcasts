@@ -2,7 +2,7 @@
  <opml version="2.0">
    <head>
      <title>Deutschsprachige Tech Podcasts</title>
-     <dateCreated>Mon, 29 Jul 2024 11:18:56 UTC</dateCreated>
+     <dateCreated>Tue, 30 Jul 2024 20:03:55 UTC</dateCreated>
      <ownerName>Engineering Kiosk</ownerName>
      <ownerEmail>stehtisch@engineeringkiosk.dev</ownerEmail>
    </head>
@@ -105,6 +105,7 @@
      <outline title="Unter 4 Ohren" text="Unter 4 Ohren" type="rss" xmlUrl="https://www.all-about-security.de/feed/mp3/" htmlUrl="https://www.all-about-security.de/unter4ohren/"></outline>
      <outline title="Wartungsfenster" text="Wartungsfenster" type="rss" xmlUrl="https://wartungsfenster.podigee.io/feed/mp3" htmlUrl="https://wartungsfenster.podigee.io/"></outline>
      <outline title="Web &amp; Design Podcast" text="Web &amp; Design Podcast" type="rss" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:283362505/sounds.rss" htmlUrl="https://www.jonasarleth.com/podcast"></outline>
+     <outline title="Webcafé - Webentwicklung und Unternehmenskultur" text="Webcafé - Webentwicklung und Unternehmenskultur" type="rss" xmlUrl="https://webcafe.podigee.io/feed/mp3" htmlUrl="https://geenen-it-systeme.de/#podcast"></outline>
      <outline title="Wo wir sind ist vorne" text="Wo wir sind ist vorne" type="rss" xmlUrl="https://wowirsindistvorne.show/feed/mp3/" htmlUrl="https://wowirsindistvorne.show/"></outline>
      <outline title="Working Draft" text="Working Draft" type="rss" xmlUrl="https://workingdraft.de/feed/" htmlUrl="https://workingdraft.de/"></outline>
      <outline title="WP Sofa" text="WP Sofa" type="rss" xmlUrl="https://wp-sofa.de/feed/mp3/" htmlUrl="https://wp-sofa.de/"></outline>
