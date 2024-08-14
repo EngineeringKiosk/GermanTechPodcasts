@@ -6,7 +6,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (81 podcasts)
+* [Podcasts](#podcasts) (82 podcasts)
   * [#heiseshow](#heiseshow)
   * [((c3d2)) Pentaradio 24](#c3d2-pentaradio-24)
   * [0d - Zeroday](#0d-zeroday)
@@ -22,6 +22,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [Code Culture](#code-culture)
   * [Coding Buddies](#coding-buddies)
   * [Computer und Kommunikation (Deutschlandfunk)](#computer-und-kommunikation-deutschlandfunk)
+  * [Cybersecurity entschlüsselt](#cybersecurity-entschlusselt)
   * [Das Duumvirat](#das-duumvirat)
   * [DAS WAR SCHON KAPUTT](#das-war-schon-kaputt)
   * [Der GameDev Podcast](#der-gamedev-podcast)
@@ -88,13 +89,12 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [Webcafé - Webentwicklung und Unternehmenskultur](#webcafe-webentwicklung-und-unternehmenskultur)
   * [Wo wir sind ist vorne](#wo-wir-sind-ist-vorne)
   * [Working Draft](#working-draft)
-* [Archived podcasts](#archived-podcasts) (21 podcasts)
+* [Archived podcasts](#archived-podcasts) (20 podcasts)
   * [Armchair Investigators](#armchair-investigators)
   * [Autoweird](#autoweird)
   * [Bits &amp; Böses - Der Tech Crime Podcast](#bits-and-boses-der-tech-crime-podcast)
   * [Code and Ship](#code-and-ship)
   * [Codestammtisch](#codestammtisch)
-  * [Cybersecurity entschlüsselt](#cybersecurity-entschlusselt)
   * [dev.env](#dev-env)
   * [Digitalisierungsfieber](#digitalisierungsfieber)
   * [GeekWeek](#geekweek)
@@ -223,8 +223,8 @@ Ein Podcast über Web, Entwicklung, Mobile und Technologie. Betrachtet aus der S
 
 Prozessoren, Grafikkarten, Notebooks, Desktop-PCs, Server, KI, Rechenzentren und IT-Markt: In &#34;Bit-Rauschen&#34;, dem Prozessor-Podcast des Computermagazins c’t, dreht sich alles um Chips.
 
-* Number of published episodes: 94
-* Last episode published: 🟢 Wednesday, 31 July 2024
+* Number of published episodes: 95
+* Last episode published: 🟢 Wednesday, 14 August 2024
 * [Bit-Rauschen - der Prozessor-Podcast von c&#39;t Website](https://www.heise.de/thema/bit-rauschen)
 * [Bit-Rauschen - der Prozessor-Podcast von c&#39;t @ Spotify](https://open.spotify.com/show/6JD6gwqgVR27GYZACrWOT1)
 * [Bit-Rauschen - der Prozessor-Podcast von c&#39;t @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1549821753)
@@ -355,6 +355,22 @@ Jeden Samstag das Neueste aus Computertechnik und Informationstechnologie. Beitr
 
 ----
 
+<h3 id="cybersecurity-entschlusselt">Cybersecurity entschlüsselt</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/cybersecurity-entschluesselt.jpg" />
+
+Cybersecurity entschüsselt ist ein deutschsprachiger Podcast, in dem sich alles um Sicherheit dreht.
+
+* Number of published episodes: 39
+* Last episode published: 🟢 Tuesday, 13 August 2024
+* [Cybersecurity entschlüsselt Website](https://www.cybersecurity-entschluesselt.de)
+* [Cybersecurity entschlüsselt @ Spotify](https://open.spotify.com/show/0sAcefh8cixTxjJn9s1dvM)
+* [Cybersecurity entschlüsselt @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1637327527)
+* [Cybersecurity entschlüsselt Podcast RSS](https://cybersecurity-entschluesselt.de/rss.xml)
+* Tags: Security, IT Security, Technology
+
+----
+
 <h3 id="das-duumvirat">Das Duumvirat</h3>
 
 <img align="right" width="215" height="215" src="./generated/images/das-duumvirat.jpg" />
@@ -442,8 +458,8 @@ Hier geht es um die kleinen und großen Fehlschläge in der Geschichte der Techn
 
 Software und IT sind komplex. Gerade Fachfremde, die dennoch häufig mit Software und IT in Berührung kommen, sind sich dessen bewusst. Es kann nur von Vorteil sein, von gängigen Konzepten und Technologien gehört zu haben. So lässt es sich besser mitreden und entscheiden, wenn ein Softwareprojekt, neue Infrastruktur oder andere Fragen mit Bezug zur IT anstehen. Bei &#34;Einfach komplex&#34; erhältst du jeden Dienstag eine Perspektive auf Softwareentwicklung, IT- sowie OT-Themen, um für private als auch berufliche Diskussionen gewappnet zu sein. Doch seien wir ehrlich, es bleibt einfach komplex!
 
-* Number of published episodes: 64
-* Last episode published: 🟢 Tuesday, 30 July 2024
+* Number of published episodes: 65
+* Last episode published: 🟢 Tuesday, 13 August 2024
 * Weekly downloads (avg): 1050 (updated: 2024-02-05)
 * [Einfach Komplex Website](https://heisenware.com/podcast)
 * [Einfach Komplex @ Spotify](https://open.spotify.com/show/4eTpBCjUos9xUXtX294CnY?si=457f567027574f40)
@@ -540,7 +556,7 @@ Freak Show ist ein Podcast, der sich mit dem Leben mit Technik im 21. Jahrhunder
 Wir talken GameDev und haben Unreal News.
 
 * Number of published episodes: 100
-* Last episode published: 🟢 Tuesday, 06 August 2024
+* Last episode published: 🟢 Tuesday, 13 August 2024
 * [Gamedev für die Platte - Der Unreal Podcast Website](https://gamedevfuerdieplatte.podbean.com/)
 * [Gamedev für die Platte - Der Unreal Podcast @ Spotify](https://open.spotify.com/show/3UtoyAbMfEvkSIx5w3HohY)
 * [Gamedev für die Platte - Der Unreal Podcast Podcast RSS](https://feed.podbean.com/gamedevfuerdieplatte/feed.xml)
@@ -571,7 +587,7 @@ Ein monatlicher Podcast der GNU/Linux.ch Community mit Themen und Interviews run
 Der Podcast für den praktizierenden Softwarearchitekten
 
 * Number of published episodes: 100
-* Last episode published: 🟢 Thursday, 13 June 2024
+* Last episode published: 🟡 Thursday, 13 June 2024
 * [heise Developer: SoftwareArchitekTOUR Website](https://www.heise.de/developer/SoftwareArchitekTOUR-4076349.html)
 * [heise Developer: SoftwareArchitekTOUR @ Spotify](https://open.spotify.com/show/2Uc7vL8U6kUZYSCOvDIJ67)
 * [heise Developer: SoftwareArchitekTOUR @ Apple Podcasts](https://podcasts.apple.com/de/podcast/313825047)
@@ -714,8 +730,8 @@ Der Podcast für Auszubildende, Ausbilder und IHK-Prüfer in den IT-Berufen (Fac
 
 IT@DB ist ein Podcast für IT Fach- und Führungskräfte (w/m/d). Hier erhältst du einen exklusiven Einblick zu spannenden IT Projekten der Deutschen Bahn.
 
-* Number of published episodes: 81
-* Last episode published: 🟢 Friday, 19 July 2024
+* Number of published episodes: 82
+* Last episode published: 🟢 Tuesday, 13 August 2024
 * [IT@DB Website](https://cqlshb.podcaster.de/)
 * [IT@DB @ Spotify](https://open.spotify.com/show/3uV0oOeigGJCAAQbXZ49Dv)
 * [IT@DB @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1462447493)
@@ -744,8 +760,8 @@ Ja sia! Der Technikpodcast von und mit Chris und Pati. Wir bringen euch regelmä
 
 Wie intelligent ist Künstliche Intelligenz eigentlich? Welche Folgen hat generative KI für unsere Arbeit, unsere Freizeit und die Gesellschaft? Im &#34;KI-Update&#34; von heise bringen wir Euch gemeinsam mit The Decoder werktäglich Updates zu den wichtigsten KI-Entwicklungen. Freitags beleuchten wir mit Experten die unterschiedlichen Aspekte der KI-Revolution.
 
-* Number of published episodes: 287
-* Last episode published: 🟢 Friday, 09 August 2024
+* Number of published episodes: 289
+* Last episode published: 🟢 Tuesday, 13 August 2024
 * [KI-Update Website](https://www.heise.de/thema/KI-Update)
 * [KI-Update @ Spotify](https://open.spotify.com/show/1rm6gMybQWnHePvY2eCpzp)
 * [KI-Update @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1691536182)
@@ -760,8 +776,8 @@ Wie intelligent ist Künstliche Intelligenz eigentlich? Welche Folgen hat genera
 
 Die IT-News des Tages von heise online
 
-* Number of published episodes: 1895
-* Last episode published: 🟢 Monday, 12 August 2024
+* Number of published episodes: 1899
+* Last episode published: 🟢 Wednesday, 14 August 2024
 * [Kurz informiert by heise online Website](https://www.heise.de/Hoeren-Sie-von-uns-unsere-Podcasts-4206659.html)
 * [Kurz informiert by heise online @ Spotify](https://open.spotify.com/show/2etf1jog8leNHbnhIArM9Z)
 * [Kurz informiert by heise online Podcast RSS](https://kurzinformiert.podigee.io/feed/mp3)
@@ -1084,7 +1100,7 @@ Jung, weiblich, genial: Im Tech-Podcast von NDR Info sucht die Tech-Journalistin
 Der Podcast für praktische Softwarearchitektur. Mit: Carola Lilienthal, Patrick Roos, Johannes Seitz, Michael Stal, Gernot Starke, Eberhard Wolff.
 
 * Number of published episodes: 100
-* Last episode published: 🟢 Thursday, 13 June 2024
+* Last episode published: 🟡 Thursday, 13 June 2024
 * [SoftwareArchitekTOUR - von Entwicklern für Entwickler Website](https://www.heise.de/thema/softwarearchitektour)
 * [SoftwareArchitekTOUR - von Entwicklern für Entwickler @ Spotify](https://open.spotify.com/show/2Uc7vL8U6kUZYSCOvDIJ67)
 * [SoftwareArchitekTOUR - von Entwicklern für Entwickler @ Apple Podcasts](https://podcasts.apple.com/de/podcast/313825047)
@@ -1337,8 +1353,8 @@ IT Security Podcast
 
 Alle 14 Tage laden wir zu einer kleinen Kaminzimmerrunde über IT-Kram ein. In Ermangelung eines Kaminzimmers sitzen wir in der Hot Aisle eines Datacenters, statt feudaler Sessel gibt es faltbare Campingstühle, und die Cognacschwenker durften wir auch nicht mit reinnehmen. :/
 
-* Number of published episodes: 65
-* Last episode published: 🟢 Tuesday, 23 July 2024
+* Number of published episodes: 66
+* Last episode published: 🟢 Tuesday, 13 August 2024
 * Weekly downloads (avg): 250 (updated: 2024-01-11)
 * [Wartungsfenster Website](https://wartungsfenster.podigee.io/)
 * [Wartungsfenster @ Spotify](https://open.spotify.com/show/063YcVklbp1N8z1ZHSA709)
@@ -1370,8 +1386,8 @@ In diesem Podcast geht es um Web und User Interface Design, Freelancing, Arbeits
 
 Im Webcafé erzählen Felix und Kay aus ihrem Arbeitsalltag bei der Geenen IT-Systeme GmbH und nehmen euch mit auf eine spannende Reise durch ihre Technologielandschaft, Programmierthemen und die Herausforderungen der Unternehmens- und Personalführung. Damit richtet sich der Podcast an EntwicklerInnen, FreelancerInnen und Führungskräfte.
 
-* Number of published episodes: 12
-* Last episode published: 🟢 Tuesday, 30 July 2024
+* Number of published episodes: 13
+* Last episode published: 🟢 Monday, 12 August 2024
 * [Webcafé - Webentwicklung und Unternehmenskultur Website](https://geenen-it-systeme.de/#podcast)
 * [Webcafé - Webentwicklung und Unternehmenskultur @ Spotify](https://open.spotify.com/show/6KnpB0BENh4XcHiqr4isHt)
 * [Webcafé - Webentwicklung und Unternehmenskultur @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1727941100)
@@ -1402,8 +1418,8 @@ Latenight-Frontend-Talkshow rund um Webdesign und Entwicklung. Es reden sich um 
 
 Wöchentlicher Podcast für Webdesigner:innen und -entwickler:innen
 
-* Number of published episodes: 644
-* Last episode published: 🟢 Tuesday, 06 August 2024
+* Number of published episodes: 645
+* Last episode published: 🟢 Tuesday, 13 August 2024
 * [Working Draft Website](https://workingdraft.de/)
 * [Working Draft @ Spotify](https://open.spotify.com/show/78iH7cIFzu1ejoB6aQUsIh)
 * [Working Draft @ Apple Podcasts](https://podcasts.apple.com/de/podcast/402204581)
@@ -1491,22 +1507,6 @@ Zwei Softwareentwickler — Max und Nathan — unterhalten sich ein Getränk lan
 * [Codestammtisch Website](https://codestammtis.ch/)
 * [Codestammtisch @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1410854302)
 * [Codestammtisch Podcast RSS](https://codestammtis.ch/feed/mp3/)
-
-----
-
-<h3 id="cybersecurity-entschlusselt">Cybersecurity entschlüsselt</h3>
-
-<img align="right" width="215" height="215" src="./generated/images/cybersecurity-entschluesselt.jpg" />
-
-Cybersecurity entschüsselt ist ein deutschsprachiger Podcast, in dem sich alles um Sicherheit dreht.
-
-* Number of published episodes: 38
-* Last episode published: 🔴 Tuesday, 16 January 2024
-* [Cybersecurity entschlüsselt Website](https://www.cybersecurity-entschluesselt.de)
-* [Cybersecurity entschlüsselt @ Spotify](https://open.spotify.com/show/0sAcefh8cixTxjJn9s1dvM)
-* [Cybersecurity entschlüsselt @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1637327527)
-* [Cybersecurity entschlüsselt Podcast RSS](https://cybersecurity-entschluesselt.de/rss.xml)
-* Tags: Security, IT Security, Technology
 
 ----
 
