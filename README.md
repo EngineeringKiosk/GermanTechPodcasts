@@ -126,8 +126,8 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
 
 Immer donnerstags live um 17 Uhr sprechen Anna Kalinowsky, Malte Kirchner und Volker Zota von heise online bei YouTube über die Tech-Themen der Woche. Zum Nachhören gibt es die #heiseshow auch als Podcast.
 
-* Number of published episodes: 429
-* Last episode published: 🟢 Thursday, 08 August 2024
+* Number of published episodes: 430
+* Last episode published: 🟢 Thursday, 15 August 2024
 * [#heiseshow Website](https://www.heise.de/thema/heiseshow)
 * [#heiseshow @ Spotify](https://open.spotify.com/show/7iMjJRAHcOAumvPbdGDavJ)
 * [#heiseshow @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1082296572)
@@ -175,8 +175,8 @@ Deutschsprachiger Podcast zu den Themen IT-Sicherheit und Privatsphäre. Stefan 
 
 Apfelfunk ist ein wöchentlicher Podcast über Apple-Themen. Jean-Claude Frick und Malte Kirchner berichten und bewerten darin die Neuigkeiten über den wichtigsten Computerkonzern der Welt.
 
-* Number of published episodes: 446
-* Last episode published: 🟢 Wednesday, 07 August 2024
+* Number of published episodes: 447
+* Last episode published: 🟢 Wednesday, 14 August 2024
 * [Apfelfunk Website](http://www.apfelfunk.com/)
 * [Apfelfunk @ Spotify](https://open.spotify.com/show/7FQLyWiNhMR0KS93ReaI4h)
 * [Apfelfunk @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1081146940)
@@ -330,8 +330,8 @@ Lucas Rott und Markus Herhoffer erzählen alle 14 Tage von Code und Nerd-Kultur.
 
 Dein Podcast rund um Softwareentwicklung und aktueller Tech News. Lernt die Coding Buddies Tino und Fabi kennen. Erfahrt spannende Dinge über diverse Themen aus der Softwareentwicklung und lauscht den Erfahrungen der Beiden. Dazu gibt es witzige Anekdoten der Coding Buddies.
 
-* Number of published episodes: 72
-* Last episode published: 🟢 Thursday, 08 August 2024
+* Number of published episodes: 73
+* Last episode published: 🟢 Thursday, 15 August 2024
 * [Coding Buddies Website](https://www.codingbuddies.de/)
 * [Coding Buddies @ Spotify](https://open.spotify.com/show/5DaiBkAgQBt8DRCcwZY8xT?si=4acf817842f44c43)
 * [Coding Buddies @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1680339110)
@@ -524,8 +524,8 @@ Der FOCUS ON: DevOps Podcast beschäftigt sich mit verschiedenen Methoden und We
 
 Der FOCUS ON: Linux Podcast beschäftigt sich mit verschiedenen Themen rund um Linux. Unser Ziel ist es, euch monatlich über die Entwicklungen und Neuigkeiten zu informieren und auch praktische Tool-Tipps an die Hand zu geben.
 
-* Number of published episodes: 112
-* Last episode published: 🟢 Thursday, 25 July 2024
+* Number of published episodes: 113
+* Last episode published: 🟢 Thursday, 15 August 2024
 * Weekly downloads (avg): 780 (updated: 2024-01-11)
 * [FOCUS ON: Linux Website](https://focusonlinux.podigee.io/)
 * [FOCUS ON: Linux @ Spotify](https://open.spotify.com/show/4Yj9EaidQuwEZL0NkAafzh)
@@ -570,8 +570,8 @@ Wir talken GameDev und haben Unreal News.
 
 Ein monatlicher Podcast der GNU/Linux.ch Community mit Themen und Interviews rund um die Themen GNU/Linux, Freie Software und Freie Gesellschaft.
 
-* Number of published episodes: 105
-* Last episode published: 🟢 Wednesday, 07 August 2024
+* Number of published episodes: 106
+* Last episode published: 🟢 Wednesday, 14 August 2024
 * [GNU/Linux.ch Website](https://gnulinux.ch/)
 * [GNU/Linux.ch @ Spotify](https://open.spotify.com/show/0rs1Zm91TsjHhGo2lt0uPi)
 * [GNU/Linux.ch @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1527155920)
@@ -697,8 +697,8 @@ Dieser Podcast unterstützt schnell, konkret und umfänglich beim Einstieg in di
 
 Nur etwas mehr als 60 Jahre liegen zwischen dem ersten Start eines Motorflugzeugs und dem ersten bemannten Flug zum Mond. Das Handy wurde in nur 30 Jahren zum wichtigsten Kommunikationskanal unserer Zeit. Und IT? Die entwickelt sich nicht weniger rasant und macht in einer vernetzten und digitalen Welt vor keinem Bereich mehr halt. Im Podcast sprechen wir über Trendthemen, die zwar nichts mit Raketenwissenschaft zu tun haben, dafür aber Menschen auf dem Weg in eine digitale Zukunft begleiten. Bist Du bereit?
 
-* Number of published episodes: 99
-* Last episode published: 🟢 Wednesday, 07 August 2024
+* Number of published episodes: 100
+* Last episode published: 🟢 Wednesday, 14 August 2024
 * [IT ist alles Website](https://www.pco-online.de/magazin/2020/07/podcast)
 * [IT ist alles @ Spotify](https://open.spotify.com/show/46EUTeJsHSfscbkrI38f6p)
 * [IT ist alles @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1524049773)
@@ -760,8 +760,8 @@ Ja sia! Der Technikpodcast von und mit Chris und Pati. Wir bringen euch regelmä
 
 Wie intelligent ist Künstliche Intelligenz eigentlich? Welche Folgen hat generative KI für unsere Arbeit, unsere Freizeit und die Gesellschaft? Im &#34;KI-Update&#34; von heise bringen wir Euch gemeinsam mit The Decoder werktäglich Updates zu den wichtigsten KI-Entwicklungen. Freitags beleuchten wir mit Experten die unterschiedlichen Aspekte der KI-Revolution.
 
-* Number of published episodes: 289
-* Last episode published: 🟢 Tuesday, 13 August 2024
+* Number of published episodes: 291
+* Last episode published: 🟢 Thursday, 15 August 2024
 * [KI-Update Website](https://www.heise.de/thema/KI-Update)
 * [KI-Update @ Spotify](https://open.spotify.com/show/1rm6gMybQWnHePvY2eCpzp)
 * [KI-Update @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1691536182)
@@ -776,8 +776,8 @@ Wie intelligent ist Künstliche Intelligenz eigentlich? Welche Folgen hat genera
 
 Die IT-News des Tages von heise online
 
-* Number of published episodes: 1899
-* Last episode published: 🟢 Wednesday, 14 August 2024
+* Number of published episodes: 1903
+* Last episode published: 🟢 Friday, 16 August 2024
 * [Kurz informiert by heise online Website](https://www.heise.de/Hoeren-Sie-von-uns-unsere-Podcasts-4206659.html)
 * [Kurz informiert by heise online @ Spotify](https://open.spotify.com/show/2etf1jog8leNHbnhIArM9Z)
 * [Kurz informiert by heise online Podcast RSS](https://kurzinformiert.podigee.io/feed/mp3)
@@ -807,8 +807,8 @@ Der Podcast über unsere digitale Lebens- und Arbeitswelt mit Markus Hörster un
 
 Logbuch:Netzpolitik ist ein in der Regel wöchentlich erscheinender Podcast, der im Dialog zwischen Linus Neumann und Tim Pritlove die wichtigsten Themen und Ereignisse mit netzpolitischem Bezug aufgreift und diskutiert.
 
-* Number of published episodes: 500
-* Last episode published: 🟢 Sunday, 28 July 2024
+* Number of published episodes: 501
+* Last episode published: 🟢 Thursday, 15 August 2024
 * [Logbuch: Netzpolitik Website](https://logbuch-netzpolitik.de/)
 * [Logbuch: Netzpolitik @ Apple Podcasts](https://podcasts.apple.com/de/podcast/476856034)
 * [Logbuch: Netzpolitik Podcast RSS](https://feeds.metaebene.me/lnp/m4a)
@@ -984,8 +984,8 @@ Ein Podcast über die dunkle Seite der Digitalisierung: Spionage, Hacker, Sabota
 
 Mit geballter Dev-Power nehmen Dennis, Fabi, Sebi und Jojo neue Podcastfolgen auf und werden dabei regelmäßig von Gäst:innen aus der Branche unterstützt. Taucht in unseren Deep Dives mit uns in Frameworks und Datenbanken ein, hört euch in den CTO-Specials die Erfahrungen führender Persönlichkeiten großer Unternehmen an und bleibt mit unseren News-Folgen stets am Ball in der Welt der App- und Webentwicklung.
 
-* Number of published episodes: 341
-* Last episode published: 🟢 Friday, 09 August 2024
+* Number of published episodes: 342
+* Last episode published: 🟢 Wednesday, 14 August 2024
 * Weekly downloads (avg): 8744 (updated: 2023-04-12)
 * [programmier.bar Website](https://www.programmier.bar/podcast)
 * [programmier.bar @ Spotify](https://open.spotify.com/show/0ik0sXv9paTQCeThcOLCCJ)
@@ -1131,8 +1131,8 @@ Live-Diskussion zu Software-Architektur im Stream. Einmal in der Woche diskutier
 
 Der SoftwerkerCast präsentiert euch Softwerker-Wissen zum Reinhören und Nachhören. Wie auch bei den anderen Softwerker-Formaten erwartet euch im SoftwerkerCast das volle Themenspektrum aus der bunten Welt der Softwareentwicklung: von A wie APM bis Z wie Zero Downtime. Paradigmen und neue Trends, Evergreens und Eintagsfliegen.
 
-* Number of published episodes: 50
-* Last episode published: 🟢 Thursday, 01 August 2024
+* Number of published episodes: 51
+* Last episode published: 🟢 Thursday, 15 August 2024
 * [SoftwerkerCast Website](https://www.codecentric.de/softwerkercast)
 * [SoftwerkerCast @ Spotify](https://open.spotify.com/show/0GMFlDJabOtXYm8u8HfAvL)
 * [SoftwerkerCast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1592472699)
