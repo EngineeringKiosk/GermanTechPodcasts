@@ -6,7 +6,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (82 podcasts)
+* [Podcasts](#podcasts) (83 podcasts)
   * [#heiseshow](#heiseshow)
   * [((c3d2)) Pentaradio 24](#c3d2-pentaradio-24)
   * [0d - Zeroday](#0d-zeroday)
@@ -60,6 +60,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [Netzpolitik](#netzpolitik)
   * [Neuland](#neuland)
   * [Open Source Couch](#open-source-couch)
+  * [Open Source in der Industrie](#open-source-in-der-industrie)
   * [Percepticon](#percepticon)
   * [programmier.bar](#programmier-bar)
   * [Python Podcast](#python-podcast)
@@ -89,7 +90,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [Webcafé - Webentwicklung und Unternehmenskultur](#webcafe-webentwicklung-und-unternehmenskultur)
   * [Wo wir sind ist vorne](#wo-wir-sind-ist-vorne)
   * [Working Draft](#working-draft)
-* [Archived podcasts](#archived-podcasts) (20 podcasts)
+* [Archived podcasts](#archived-podcasts) (19 podcasts)
   * [Armchair Investigators](#armchair-investigators)
   * [Autoweird](#autoweird)
   * [Bits &amp; Böses - Der Tech Crime Podcast](#bits-and-boses-der-tech-crime-podcast)
@@ -100,7 +101,6 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [GeekWeek](#geekweek)
   * [Herr Zenzes wills wissen](#herr-zenzes-wills-wissen)
   * [knowIT](#knowit)
-  * [Open Source in der Industrie](#open-source-in-der-industrie)
   * [Request for Comments](#request-for-comments)
   * [Rheingehäckt](#rheingehackt)
   * [Schwarz, Code, Gold – Deutschland, Entwicklungsland?](#schwarz-code-gold-deutschland-entwicklungsland)
@@ -270,8 +270,8 @@ Ransomware Attacken, Phishing oder DDoS - jeden Tag aufs Neue werden Unternehmen
 
 Mitglieder der c&#39;t-Redaktion diskutieren über die aktuellen Themen aus dem c’t Magazin und was sonst noch so in der IT-Welt passiert.
 
-* Number of published episodes: 555
-* Last episode published: 🟢 Saturday, 17 August 2024
+* Number of published episodes: 556
+* Last episode published: 🟢 Saturday, 24 August 2024
 * [c&#39;t uplink Website](https://www.heise.de/thema/ct-uplink)
 * [c&#39;t uplink @ Spotify](https://open.spotify.com/show/4LdN7lGr9winLtQSqoIjVD)
 * [c&#39;t uplink @ Apple Podcasts](https://podcasts.apple.com/de/podcast/835717958)
@@ -346,7 +346,7 @@ Dein Podcast rund um Softwareentwicklung und aktueller Tech News. Lernt die Codi
 Jeden Samstag das Neueste aus Computertechnik und Informationstechnologie. Beiträge, Reportagen und Interviews zu IT-Sicherheit, Informatik, Datenschutz, Smartphones, Cloud-Computing und IT-Politik. Die Trends der IT werden kompakt und informativ zusammengefasst.
 
 * Number of published episodes: 20
-* Last episode published: 🟢 Saturday, 17 August 2024
+* Last episode published: 🟢 Saturday, 24 August 2024
 * [Computer und Kommunikation (Deutschlandfunk) Website](https://www.deutschlandfunk.de/computer-und-kommunikation-102.html)
 * [Computer und Kommunikation (Deutschlandfunk) @ Spotify](https://open.spotify.com/show/4uy56W83RGe8SKmzNpyfAc)
 * [Computer und Kommunikation (Deutschlandfunk) @ Apple Podcasts](https://podcasts.apple.com/de/podcast/173754605)
@@ -760,8 +760,8 @@ Ja sia! Der Technikpodcast von und mit Chris und Pati. Wir bringen euch regelmä
 
 Wie intelligent ist Künstliche Intelligenz eigentlich? Welche Folgen hat generative KI für unsere Arbeit, unsere Freizeit und die Gesellschaft? Im &#34;KI-Update&#34; von heise bringen wir Euch gemeinsam mit The Decoder werktäglich Updates zu den wichtigsten KI-Entwicklungen. Freitags beleuchten wir mit Experten die unterschiedlichen Aspekte der KI-Revolution.
 
-* Number of published episodes: 296
-* Last episode published: 🟢 Thursday, 22 August 2024
+* Number of published episodes: 297
+* Last episode published: 🟢 Friday, 23 August 2024
 * [KI-Update Website](https://www.heise.de/thema/KI-Update)
 * [KI-Update @ Spotify](https://open.spotify.com/show/1rm6gMybQWnHePvY2eCpzp)
 * [KI-Update @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1691536182)
@@ -776,8 +776,8 @@ Wie intelligent ist Künstliche Intelligenz eigentlich? Welche Folgen hat genera
 
 Die IT-News des Tages von heise online
 
-* Number of published episodes: 1913
-* Last episode published: 🟢 Friday, 23 August 2024
+* Number of published episodes: 1915
+* Last episode published: 🟢 Monday, 26 August 2024
 * [Kurz informiert by heise online Website](https://www.heise.de/Hoeren-Sie-von-uns-unsere-Podcasts-4206659.html)
 * [Kurz informiert by heise online @ Spotify](https://open.spotify.com/show/2etf1jog8leNHbnhIArM9Z)
 * [Kurz informiert by heise online Podcast RSS](https://kurzinformiert.podigee.io/feed/mp3)
@@ -961,6 +961,21 @@ Oli und Michael sprechen über alles Wichtige aus der Welt der Open Source, Tech
 
 ----
 
+<h3 id="open-source-in-der-industrie">Open Source in der Industrie</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/open-source-in-der-industrie.jpg" />
+
+Wir berichten alle zwei Wochen über Open Source Anwendungen, Ideen und Konzepte aus der Industrie.
+
+* Number of published episodes: 35
+* Last episode published: 🟢 Monday, 26 August 2024
+* [Open Source in der Industrie Website](https://opensourcepodcast.podigee.io/)
+* [Open Source in der Industrie @ Spotify](https://open.spotify.com/show/7e0khh6f5m1NArO3ggwCSH)
+* [Open Source in der Industrie Podcast RSS](https://opensourcepodcast.podigee.io/feed/mp3)
+* Tags: Industrie, Open Source
+
+----
+
 <h3 id="percepticon">Percepticon</h3>
 
 <img align="right" width="215" height="215" src="./generated/images/percepticon.jpg" />
@@ -984,8 +999,8 @@ Ein Podcast über die dunkle Seite der Digitalisierung: Spionage, Hacker, Sabota
 
 Mit geballter Dev-Power nehmen Dennis, Fabi, Sebi und Jojo neue Podcastfolgen auf und werden dabei regelmäßig von Gäst:innen aus der Branche unterstützt. Taucht in unseren Deep Dives mit uns in Frameworks und Datenbanken ein, hört euch in den CTO-Specials die Erfahrungen führender Persönlichkeiten großer Unternehmen an und bleibt mit unseren News-Folgen stets am Ball in der Welt der App- und Webentwicklung.
 
-* Number of published episodes: 344
-* Last episode published: 🟢 Wednesday, 21 August 2024
+* Number of published episodes: 345
+* Last episode published: 🟢 Friday, 23 August 2024
 * Weekly downloads (avg): 8744 (updated: 2023-04-12)
 * [programmier.bar Website](https://www.programmier.bar/podcast)
 * [programmier.bar @ Spotify](https://open.spotify.com/show/0ik0sXv9paTQCeThcOLCCJ)
@@ -1179,8 +1194,8 @@ Digitalisierung ist komplex. Heute entsteht dies, morgen das. Und was übermorge
 
 In diesem Podcast diskutiert die t3n-Redaktion mit Gästen über die spannendsten digitalen Themen unserer Zeit. Ob innovative Führungskonzepte, die Digitalisierung der Gesellschaft, smarte Gadgets, neue Mobilität oder Zukunftstechnologien. Jeden Freitag um 10 Uhr!
 
-* Number of published episodes: 628
-* Last episode published: 🟢 Friday, 23 August 2024
+* Number of published episodes: 629
+* Last episode published: 🟢 Monday, 26 August 2024
 * [t3n Interview Website](https://t3n.de/podcast#interview)
 * [t3n Interview @ Spotify](https://open.spotify.com/show/7obTbZaywhQEiUUOMswQBQ)
 * [t3n Interview @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1115601393)
@@ -1290,8 +1305,8 @@ Sujeevan und Dirk reden über Themen, die Ihnen in der letzten Zeit untergekomme
 
 todo:cast ist ein deutschsprachiger Podcast für die großen und kleinen Fragen des Entwickler*innenalltags. Schon seit Langem tauschen sich Malte und Robin-Manuel in regelmäßigen Abständen über diverse Themen aus ihrem Alltag in der Softwareentwicklung aus. Dabei lernen sie jedes Mal etwas Neues! Warum also das Ganze nicht aufzeichnen und als Podcast zur Verfügung stellen?
 
-* Number of published episodes: 96
-* Last episode published: 🟢 Monday, 12 August 2024
+* Number of published episodes: 97
+* Last episode published: 🟢 Monday, 26 August 2024
 * [todo:cast Website](https://todocast.io/)
 * [todo:cast @ Spotify](https://open.spotify.com/show/2tIlVD6vBAtEhOZM4jS1mw)
 * [todo:cast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1467179396)
@@ -1321,8 +1336,8 @@ Der Podcast des Tux-Tage Teams. Wir wollen euch über die wichtigsten Themen in 
 
 Wir sind UNMUTE IT, der Podcast von und mit Frauen aus der IT. Wir erzählen von unseren Erfahrungen, begegneten Herausforderungen, Tipps &amp; Tricks und teilen die eine oder andere Anekdote. Frauen gehören in STEM Felder.Mit unserer Präsenz wollen wir dies untermauern und Frauen motivieren, sich mit dem Thema zu beschäftigen und den Schritt in die IT zu gehen.
 
-* Number of published episodes: 68
-* Last episode published: 🟢 Sunday, 14 July 2024
+* Number of published episodes: 69
+* Last episode published: 🟢 Sunday, 25 August 2024
 * Weekly downloads (avg): 177 (updated: 2023-01-21)
 * [Unmute IT Website](https://linkr.bio/unmute-it)
 * [Unmute IT @ Spotify](https://open.spotify.com/show/4v3xXuY5Km98xnmeXeGZgx)
@@ -1585,21 +1600,6 @@ know Information Technology (kurz knowIT) - in diesem Sinne behandelt der Podcas
 * [knowIT @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1564646449)
 * [knowIT Podcast RSS](https://anchor.fm/s/57935150/podcast/rss)
 * Tags: Female host
-
-----
-
-<h3 id="open-source-in-der-industrie">Open Source in der Industrie</h3>
-
-<img align="right" width="215" height="215" src="./generated/images/open-source-in-der-industrie.jpg" />
-
-Wir berichten alle zwei Wochen über Open Source Anwendungen, Ideen und Konzepte aus der Industrie.
-
-* Number of published episodes: 34
-* Last episode published: 🔴 Tuesday, 30 May 2023
-* [Open Source in der Industrie Website](https://opensourcepodcast.podigee.io/)
-* [Open Source in der Industrie @ Spotify](https://open.spotify.com/show/7e0khh6f5m1NArO3ggwCSH)
-* [Open Source in der Industrie Podcast RSS](https://opensourcepodcast.podigee.io/feed/mp3)
-* Tags: Industrie, Open Source
 
 ----
 
