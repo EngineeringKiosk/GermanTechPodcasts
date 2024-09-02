@@ -1,0 +1,22 @@
+{
+ "name": "Data Science Deep Dive",
+ "slug": "data-science-deep-dive",
+ "website": "https://inwt.podbean.com/",
+ "podcastIndexID": 6239041,
+ "rssFeed": "https://feed.podbean.com/inwt/feed.xml",
+ "spotify": "https://open.spotify.com/show/089UlaVMdcppseWxxYr28O",
+ "description": "Wir machen Data Science. Und in unserem Podcast Data Science Deep Dive reden wir darüber. Du bist ebenfalls Data Scientist oder interessierst dich für Daten, ML und AI? Dann ist dieser Podcast für dich. Wir teilen unsere Learnings aus über 180 Projekten, du bekommst Infos und Anregungen zu spannenden Themen rund um Daten. Wir klären auf, geben Hinweise und teilen unsere Erfahrungen, die wir in über 10 Jahren als Data Scientists im B2B Bereich gesammelt haben. Wir decken auf, was wirklich hinter den Hypes und Trends der Data Science Branche steckt. Wir hinterfragen, was ein Data Science Projekt erfolgreich macht und welche Faktoren es zum Scheitern verurteilen.",
+ "tags": [
+  "Data",
+  "Data Science"
+ ],
+ "weekly_downloads_avg": {
+  "value": 0,
+  "updated": ""
+ },
+ "episodeCount": 55,
+ "latestEpisodePublished": 1724931319,
+ "archive": false,
+ "itunesID": 0,
+ "image": "images/data-science-deep-dive.png"
+}

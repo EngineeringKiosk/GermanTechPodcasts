@@ -6,7 +6,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (83 podcasts)
+* [Podcasts](#podcasts) (84 podcasts)
   * [#heiseshow](#heiseshow)
   * [((c3d2)) Pentaradio 24](#c3d2-pentaradio-24)
   * [0d - Zeroday](#0d-zeroday)
@@ -25,6 +25,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [Cybersecurity entschlüsselt](#cybersecurity-entschlusselt)
   * [Das Duumvirat](#das-duumvirat)
   * [DAS WAR SCHON KAPUTT](#das-war-schon-kaputt)
+  * [Data Science Deep Dive](#data-science-deep-dive)
   * [Der GameDev Podcast](#der-gamedev-podcast)
   * [DevCouch](#devcouch)
   * [Digitale Anomalien](#digitale-anomalien)
@@ -398,6 +399,21 @@ Wir sind ein Laber-Technik-Lebensweisheiten-Podcast, mit News, Retrogeschichten 
 * [DAS WAR SCHON KAPUTT @ Spotify](https://open.spotify.com/show/5F92Db3OFLQXxdh2OIXEzI)
 * [DAS WAR SCHON KAPUTT Podcast RSS](https://daswarschonkaputt.tech/feed/dwsk.xml)
 * Tags: Technews, Linux, Darknet, Retro-Tech
+
+----
+
+<h3 id="data-science-deep-dive">Data Science Deep Dive</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/data-science-deep-dive.png" />
+
+Wir machen Data Science. Und in unserem Podcast Data Science Deep Dive reden wir darüber. Du bist ebenfalls Data Scientist oder interessierst dich für Daten, ML und AI? Dann ist dieser Podcast für dich. Wir teilen unsere Learnings aus über 180 Projekten, du bekommst Infos und Anregungen zu spannenden Themen rund um Daten. Wir klären auf, geben Hinweise und teilen unsere Erfahrungen, die wir in über 10 Jahren als Data Scientists im B2B Bereich gesammelt haben. Wir decken auf, was wirklich hinter den Hypes und Trends der Data Science Branche steckt. Wir hinterfragen, was ein Data Science Projekt erfolgreich macht und welche Faktoren es zum Scheitern verurteilen.
+
+* Number of published episodes: 55
+* Last episode published: 🟢 Thursday, 29 August 2024
+* [Data Science Deep Dive Website](https://inwt.podbean.com/)
+* [Data Science Deep Dive @ Spotify](https://open.spotify.com/show/089UlaVMdcppseWxxYr28O)
+* [Data Science Deep Dive Podcast RSS](https://feed.podbean.com/inwt/feed.xml)
+* Tags: Data, Data Science
 
 ----
 
