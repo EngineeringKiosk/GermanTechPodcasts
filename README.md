@@ -6,7 +6,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (84 podcasts)
+* [Podcasts](#podcasts) (83 podcasts)
   * [#heiseshow](#heiseshow)
   * [((c3d2)) Pentaradio 24](#c3d2-pentaradio-24)
   * [0d - Zeroday](#0d-zeroday)
@@ -38,7 +38,6 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [Gamedev für die Platte - Der Unreal Podcast](#gamedev-fur-die-platte-der-unreal-podcast)
   * [GNU/Linux.ch](#gnu-linux-ch)
   * [heise Developer: SoftwareArchitekTOUR](#heise-developer-softwarearchitektour)
-  * [Herzbergs Hörsaal](#herzbergs-horsaal)
   * [Hobby Spieleentwickler Podcast](#hobby-spieleentwickler-podcast)
   * [Index out of bounds](#index-out-of-bounds)
   * [INNOQ Podcast](#innoq-podcast)
@@ -91,7 +90,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [Webcafé - Webentwicklung und Unternehmenskultur](#webcafe-webentwicklung-und-unternehmenskultur)
   * [Wo wir sind ist vorne](#wo-wir-sind-ist-vorne)
   * [Working Draft](#working-draft)
-* [Archived podcasts](#archived-podcasts) (19 podcasts)
+* [Archived podcasts](#archived-podcasts) (20 podcasts)
   * [Armchair Investigators](#armchair-investigators)
   * [Autoweird](#autoweird)
   * [Bits &amp; Böses - Der Tech Crime Podcast](#bits-and-boses-der-tech-crime-podcast)
@@ -101,6 +100,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [Digitalisierungsfieber](#digitalisierungsfieber)
   * [GeekWeek](#geekweek)
   * [Herr Zenzes wills wissen](#herr-zenzes-wills-wissen)
+  * [Herzbergs Hörsaal](#herzbergs-horsaal)
   * [knowIT](#knowit)
   * [Request for Comments](#request-for-comments)
   * [Rheingehäckt](#rheingehackt)
@@ -127,8 +127,8 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
 
 Immer donnerstags live um 17 Uhr sprechen Anna Kalinowsky, Malte Kirchner und Volker Zota von heise online bei YouTube über die Tech-Themen der Woche. Zum Nachhören gibt es die #heiseshow auch als Podcast.
 
-* Number of published episodes: 433
-* Last episode published: 🟢 Thursday, 05 September 2024
+* Number of published episodes: 434
+* Last episode published: 🟢 Thursday, 12 September 2024
 * [#heiseshow Website](https://www.heise.de/thema/heiseshow)
 * [#heiseshow @ Spotify](https://open.spotify.com/show/7iMjJRAHcOAumvPbdGDavJ)
 * [#heiseshow @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1082296572)
@@ -176,8 +176,8 @@ Deutschsprachiger Podcast zu den Themen IT-Sicherheit und Privatsphäre. Stefan 
 
 Apfelfunk ist ein wöchentlicher Podcast über Apple-Themen. Jean-Claude Frick und Malte Kirchner berichten und bewerten darin die Neuigkeiten über den wichtigsten Computerkonzern der Welt.
 
-* Number of published episodes: 450
-* Last episode published: 🟢 Wednesday, 04 September 2024
+* Number of published episodes: 451
+* Last episode published: 🟢 Wednesday, 11 September 2024
 * [Apfelfunk Website](http://www.apfelfunk.com/)
 * [Apfelfunk @ Spotify](https://open.spotify.com/show/7FQLyWiNhMR0KS93ReaI4h)
 * [Apfelfunk @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1081146940)
@@ -209,7 +209,7 @@ Sie möchten beim Thema Datenschutz auf dem Laufenden bleiben, aber keine seiten
 Ein Podcast über Web, Entwicklung, Mobile und Technologie. Betrachtet aus der Sicht von Entwicklern bzw. Open Source Begeisterten. Das heißt aber nicht, dass wir alles mit einer Rosa-Roten Brille sehen. Wir suchen bei Apple und Microsoft genauso das Gute und Schlechte wie auch bei Linux und anderen Open Source Projekten. Wir wollen realistisch sein. Auch wenn wir damit anecken sollten.
 
 * Number of published episodes: 50
-* Last episode published: 🟢 Wednesday, 21 August 2024
+* Last episode published: 🟢 Thursday, 12 September 2024
 * [Binärgewitter Website](http://blog.binaergewitter.de/)
 * [Binärgewitter @ Spotify](https://open.spotify.com/show/19LedqK0fGWfzfKzySDoVW)
 * [Binärgewitter @ Apple Podcasts](https://podcasts.apple.com/de/podcast/216877594)
@@ -302,7 +302,7 @@ Im monatlichen Chaosradio informiert der Chaos Computer Club Berlin seit 1995 ü
 Ein Podcast über den nahezu unendlich tiefen Kaninchenbau der mechanische Tastaturen. Ich erzähle euch was es neues im Hobby der mechanical Keyboards gibt, Groupbuys, Interestchecks, Neue Keyboards, Keycaps und Switches und noch viel viel mehr....
 
 * Number of published episodes: 101
-* Last episode published: 🟢 Saturday, 13 July 2024
+* Last episode published: 🟡 Saturday, 13 July 2024
 * [Click! Clack! Hack! Website](https://www.nerdbude.com/podcast/)
 * [Click! Clack! Hack! @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1551770169)
 * [Click! Clack! Hack! Podcast RSS](https://www.nerdbude.com/podcast/feed/feed.xml)
@@ -331,8 +331,8 @@ Lucas Rott und Markus Herhoffer erzählen alle 14 Tage von Code und Nerd-Kultur.
 
 Dein Podcast rund um Softwareentwicklung und aktueller Tech News. Lernt die Coding Buddies Tino und Fabi kennen. Erfahrt spannende Dinge über diverse Themen aus der Softwareentwicklung und lauscht den Erfahrungen der Beiden. Dazu gibt es witzige Anekdoten der Coding Buddies.
 
-* Number of published episodes: 76
-* Last episode published: 🟢 Thursday, 05 September 2024
+* Number of published episodes: 77
+* Last episode published: 🟢 Thursday, 12 September 2024
 * [Coding Buddies Website](https://www.codingbuddies.de/)
 * [Coding Buddies @ Spotify](https://open.spotify.com/show/5DaiBkAgQBt8DRCcwZY8xT?si=4acf817842f44c43)
 * [Coding Buddies @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1680339110)
@@ -419,7 +419,7 @@ Wir machen Data Science. Und in unserem Podcast Data Science Deep Dive reden wir
 
 <h3 id="der-gamedev-podcast">Der GameDev Podcast</h3>
 
-<img align="right" width="215" height="215" src="./generated/images/game-dev-podcast.png" />
+<img align="right" width="215" height="215" src="./generated/generated/images/game-dev-podcast.png" />
 
 Wir reden über Spieleentwicklung und allgemein über die Branche aber gehen auch ins Detail wenn es um Software, Tipps und Fragen geht.
 
@@ -475,7 +475,7 @@ Hier geht es um die kleinen und großen Fehlschläge in der Geschichte der Techn
 Software und IT sind komplex. Gerade Fachfremde, die dennoch häufig mit Software und IT in Berührung kommen, sind sich dessen bewusst. Es kann nur von Vorteil sein, von gängigen Konzepten und Technologien gehört zu haben. So lässt es sich besser mitreden und entscheiden, wenn ein Softwareprojekt, neue Infrastruktur oder andere Fragen mit Bezug zur IT anstehen. Bei &#34;Einfach komplex&#34; erhältst du jeden Dienstag eine Perspektive auf Softwareentwicklung, IT- sowie OT-Themen, um für private als auch berufliche Diskussionen gewappnet zu sein. Doch seien wir ehrlich, es bleibt einfach komplex!
 
 * Number of published episodes: 67
-* Last episode published: 🟢 Monday, 09 September 2024
+* Last episode published: 🟢 Tuesday, 10 September 2024
 * Weekly downloads (avg): 1050 (updated: 2024-02-05)
 * [Einfach Komplex Website](https://heisenware.com/podcast)
 * [Einfach Komplex @ Spotify](https://open.spotify.com/show/4eTpBCjUos9xUXtX294CnY?si=457f567027574f40)
@@ -611,22 +611,6 @@ Der Podcast für den praktizierenden Softwarearchitekten
 
 ----
 
-<h3 id="herzbergs-horsaal">Herzbergs Hörsaal</h3>
-
-<img align="right" width="215" height="215" src="./generated/images/herzbergs-hoersaal.jpg" />
-
-Dieser Podcast ist ein Hörsaal für die Ohren meiner Studierenden an der THM und alle Interessierten. Die Themen sind u.a.: Grundlagen der Informatik (GDI), Objekt-Orientierte Programmierung (OOP/Java), Programmierung interaktiver Systeme (PiS), Quantencomputing (QC), Wissenschaftliches Arbeiten (in der Informatik) (WA bzw. WAI), Bits und Bäume: Digitalisierung nachhaltig gestalten (BuB).
-
-* Number of published episodes: 107
-* Last episode published: 🟡 Monday, 11 March 2024
-* [Herzbergs Hörsaal Website](https://www.thm.de/site/hochschule/service/schulportal/lehrerinnen-und-lehrer/studieren-probieren/podcast-herzbergs-hoersaal.html)
-* [Herzbergs Hörsaal @ Spotify](https://open.spotify.com/show/5FDlXkn4fnAgp2ucaT7hL6)
-* [Herzbergs Hörsaal @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1510742953)
-* [Herzbergs Hörsaal Podcast RSS](https://anchor.fm/s/ba9c0bc/podcast/rss)
-* Tags: Bildung
-
-----
-
 <h3 id="hobby-spieleentwickler-podcast">Hobby Spieleentwickler Podcast</h3>
 
 <img align="right" width="215" height="215" src="./generated/images/hobby-spieleentwickler-podcast.jpg" />
@@ -713,8 +697,8 @@ Dieser Podcast unterstützt schnell, konkret und umfänglich beim Einstieg in di
 
 Nur etwas mehr als 60 Jahre liegen zwischen dem ersten Start eines Motorflugzeugs und dem ersten bemannten Flug zum Mond. Das Handy wurde in nur 30 Jahren zum wichtigsten Kommunikationskanal unserer Zeit. Und IT? Die entwickelt sich nicht weniger rasant und macht in einer vernetzten und digitalen Welt vor keinem Bereich mehr halt. Im Podcast sprechen wir über Trendthemen, die zwar nichts mit Raketenwissenschaft zu tun haben, dafür aber Menschen auf dem Weg in eine digitale Zukunft begleiten. Bist Du bereit?
 
-* Number of published episodes: 103
-* Last episode published: 🟢 Wednesday, 04 September 2024
+* Number of published episodes: 104
+* Last episode published: 🟢 Wednesday, 11 September 2024
 * [IT ist alles Website](https://www.pco-online.de/magazin/2020/07/podcast)
 * [IT ist alles @ Spotify](https://open.spotify.com/show/46EUTeJsHSfscbkrI38f6p)
 * [IT ist alles @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1524049773)
@@ -776,8 +760,8 @@ Ja sia! Der Technikpodcast von und mit Chris und Pati. Wir bringen euch regelmä
 
 Wie intelligent ist Künstliche Intelligenz eigentlich? Welche Folgen hat generative KI für unsere Arbeit, unsere Freizeit und die Gesellschaft? Im &#34;KI-Update&#34; von heise bringen wir Euch gemeinsam mit The Decoder werktäglich Updates zu den wichtigsten KI-Entwicklungen. Freitags beleuchten wir mit Experten die unterschiedlichen Aspekte der KI-Revolution.
 
-* Number of published episodes: 309
-* Last episode published: 🟢 Tuesday, 10 September 2024
+* Number of published episodes: 311
+* Last episode published: 🟢 Thursday, 12 September 2024
 * [KI-Update Website](https://www.heise.de/thema/KI-Update)
 * [KI-Update @ Spotify](https://open.spotify.com/show/1rm6gMybQWnHePvY2eCpzp)
 * [KI-Update @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1691536182)
@@ -792,8 +776,8 @@ Wie intelligent ist Künstliche Intelligenz eigentlich? Welche Folgen hat genera
 
 Die IT-News des Tages von heise online
 
-* Number of published episodes: 1939
-* Last episode published: 🟢 Wednesday, 11 September 2024
+* Number of published episodes: 1942
+* Last episode published: 🟢 Thursday, 12 September 2024
 * [Kurz informiert by heise online Website](https://www.heise.de/Hoeren-Sie-von-uns-unsere-Podcasts-4206659.html)
 * [Kurz informiert by heise online @ Spotify](https://open.spotify.com/show/2etf1jog8leNHbnhIArM9Z)
 * [Kurz informiert by heise online Podcast RSS](https://kurzinformiert.podigee.io/feed/mp3)
@@ -870,8 +854,8 @@ Von Menschen für Menschen, die Software entwickeln, ist dieser Podcast gedacht.
 
 Scrum kann doch inzwischen eh jeder? Von wegen! Denn - ganz unter uns: genug falsch machen kann man ohne Probleme. Daher möchten wir über Stolpersteine sprechen, über Smells und unsere Erfahrungen mitteilen, die wir mit Scrum, Kanban und Agil im Allgemeinen gemacht haben.
 
-* Number of published episodes: 130
-* Last episode published: 🟢 Friday, 09 August 2024
+* Number of published episodes: 131
+* Last episode published: 🟢 Thursday, 12 September 2024
 * Weekly downloads (avg): 14449 (updated: 2022-12-28)
 * [Mein Scrum ist kaputt! Website](https://meinscrumistkaputt.de/)
 * [Mein Scrum ist kaputt! @ Spotify](https://open.spotify.com/show/7lECdowQCq0OWlf0EZnSpL)
@@ -1015,8 +999,8 @@ Ein Podcast über die dunkle Seite der Digitalisierung: Spionage, Hacker, Sabota
 
 Mit geballter Dev-Power nehmen Dennis, Fabi, Sebi und Jojo neue Podcastfolgen auf und werden dabei regelmäßig von Gäst:innen aus der Branche unterstützt. Taucht in unseren Deep Dives mit uns in Frameworks und Datenbanken ein, hört euch in den CTO-Specials die Erfahrungen führender Persönlichkeiten großer Unternehmen an und bleibt mit unseren News-Folgen stets am Ball in der Welt der App- und Webentwicklung.
 
-* Number of published episodes: 350
-* Last episode published: 🟢 Monday, 09 September 2024
+* Number of published episodes: 351
+* Last episode published: 🟢 Wednesday, 11 September 2024
 * Weekly downloads (avg): 8744 (updated: 2023-04-12)
 * [programmier.bar Website](https://www.programmier.bar/podcast)
 * [programmier.bar @ Spotify](https://open.spotify.com/show/0ik0sXv9paTQCeThcOLCCJ)
@@ -1097,8 +1081,8 @@ Die IT hat unser Leben in den letzten Jahrzehnten von Grund auf verändert. Aber
 
 Der Security-Insider Podcast ist ein Podcast für Security-Profis mit Infos, Nachrichten und Meinungen rund um die IT-Sicherheit. Hier unterhält sich Chefredakteur Peter Schmitz mit seinem Co-Host Dirk Srocke und manchmal auch mit spannenden Gästen. Zum Gespräch stehen alle Themen rund um die IT-Sicherheit, Datenschutz und Compliance.
 
-* Number of published episodes: 91
-* Last episode published: 🟢 Friday, 09 August 2024
+* Number of published episodes: 92
+* Last episode published: 🟢 Friday, 13 September 2024
 * Weekly downloads (avg): 1060 (updated: 2023-01-16)
 * [Security-Insider Website](https://www.security-insider.de/)
 * [Security-Insider @ Spotify](https://open.spotify.com/show/3n8Pbu19oN32bzq7zsQbvC)
@@ -1210,8 +1194,8 @@ Digitalisierung ist komplex. Heute entsteht dies, morgen das. Und was übermorge
 
 In diesem Podcast diskutiert die t3n-Redaktion mit Gästen über die spannendsten digitalen Themen unserer Zeit. Ob innovative Führungskonzepte, die Digitalisierung der Gesellschaft, smarte Gadgets, neue Mobilität oder Zukunftstechnologien. Jeden Freitag um 10 Uhr!
 
-* Number of published episodes: 633
-* Last episode published: 🟢 Monday, 09 September 2024
+* Number of published episodes: 634
+* Last episode published: 🟢 Friday, 13 September 2024
 * [t3n Interview Website](https://t3n.de/podcast#interview)
 * [t3n Interview @ Spotify](https://open.spotify.com/show/7obTbZaywhQEiUUOMswQBQ)
 * [t3n Interview @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1115601393)
@@ -1603,6 +1587,22 @@ Nothing But Tech - Aus Deutschland, der Schweiz und den USA. geek-week.de berich
 
 ----
 
+<h3 id="herzbergs-horsaal">Herzbergs Hörsaal</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/herzbergs-hoersaal.jpg" />
+
+Dieser Podcast ist ein Hörsaal für die Ohren meiner Studierenden an der THM und alle Interessierten. Die Themen sind u.a.: Grundlagen der Informatik (GDI), Objekt-Orientierte Programmierung (OOP/Java), Programmierung interaktiver Systeme (PiS), Quantencomputing (QC), Wissenschaftliches Arbeiten (in der Informatik) (WA bzw. WAI), Bits und Bäume: Digitalisierung nachhaltig gestalten (BuB).
+
+* Number of published episodes: 107
+* Last episode published: 🔴 Monday, 11 March 2024
+* [Herzbergs Hörsaal Website](https://www.thm.de/site/hochschule/service/schulportal/lehrerinnen-und-lehrer/studieren-probieren/podcast-herzbergs-hoersaal.html)
+* [Herzbergs Hörsaal @ Spotify](https://open.spotify.com/show/5FDlXkn4fnAgp2ucaT7hL6)
+* [Herzbergs Hörsaal @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1510742953)
+* [Herzbergs Hörsaal Podcast RSS](https://anchor.fm/s/ba9c0bc/podcast/rss)
+* Tags: Bildung
+
+----
+
 <h3 id="knowit">knowIT</h3>
 
 <img align="right" width="215" height="215" src="./generated/images/know-it.jpg" />
@@ -1747,7 +1747,7 @@ Dein täglicher Podcast mit dem, was wichtig war und was wichtig wird im digital
 
 <h3 id="wp-sofa">WP Sofa</h3>
 
-<img align="right" width="215" height="215" src="./generated/images/wp-sofa.png" />
+<img align="right" width="215" height="215" src="./generated/generated/images/wp-sofa.png" />
 
 Wir berichten zweiwöchentlich über News und Updates aus dem WordPress Universum.
 
