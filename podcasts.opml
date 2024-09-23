@@ -2,7 +2,7 @@
  <opml version="2.0">
    <head>
      <title>Deutschsprachige Tech Podcasts</title>
-     <dateCreated>Mon, 23 Sep 2024 11:21:06 UTC</dateCreated>
+     <dateCreated>Mon, 23 Sep 2024 11:40:35 UTC</dateCreated>
      <ownerName>Engineering Kiosk</ownerName>
      <ownerEmail>stehtisch@engineeringkiosk.dev</ownerEmail>
    </head>
@@ -100,7 +100,7 @@
      <outline title="The World of IT-Security" text="The World of IT-Security" type="rss" xmlUrl="https://feeds.buzzsprout.com/1779426.rss" htmlUrl="https://www.suresecure.de/aktuelles/podcast"></outline>
      <outline title="ThinkPad-Museum Podcast" text="ThinkPad-Museum Podcast" type="rss" xmlUrl="https://podcasts.darmstadt.social/@thinkpadmuseum/feed.xml" htmlUrl="https://thinkpad-museum.de/"></outline>
      <outline title="TILpod" text="TILpod" type="rss" xmlUrl="https://tilpod.net/feed/mp3" htmlUrl="https://tilpod.net/"></outline>
-     <outline title="todo:cast" text="todo:cast" type="rss" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:637814493/sounds.rss" htmlUrl="https://todocast.io/"></outline>
+     <outline title="todo:cast" text="todo:cast" type="rss" xmlUrl="https://anchor.fm/s/f0b4224c/podcast/rss" htmlUrl="https://www.todocast.io/"></outline>
      <outline title="Tux-Flash" text="Tux-Flash" type="rss" xmlUrl="https://anchor.fm/s/97e43ecc/podcast/rss" htmlUrl="https://www.youtube.com/playlist?list=PLPK5iNo_kpNe0dtNukSwl02w64dKSYBlJ"></outline>
      <outline title="Unmute IT" text="Unmute IT" type="rss" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:965624446/sounds.rss" htmlUrl="https://linkr.bio/unmute-it"></outline>
      <outline title="Unter 4 Ohren" text="Unter 4 Ohren" type="rss" xmlUrl="https://www.all-about-security.de/feed/mp3/" htmlUrl="https://www.all-about-security.de/unter4ohren/"></outline>

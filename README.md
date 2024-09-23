@@ -1286,14 +1286,14 @@ Sujeevan und Dirk reden über Themen, die Ihnen in der letzten Zeit untergekomme
 
 <img align="right" width="215" height="215" src="./generated/images/todo-cast.jpeg" />
 
-todo:cast ist ein deutschsprachiger Podcast für die großen und kleinen Fragen des Entwickler*innenalltags. Schon seit Langem tauschen sich Malte und Robin-Manuel in regelmäßigen Abständen über diverse Themen aus ihrem Alltag in der Softwareentwicklung aus. Dabei lernen sie jedes Mal etwas Neues! Warum also das Ganze nicht aufzeichnen und als Podcast zur Verfügung stellen?
+Deutschsprachiger Podcast für die großen und kleinen Fragen des Developeralltags. Schon seit Langem tauschen sich Malte und Robin-Manuel in regelmäßigen Abständen über diverse Themen aus ihrem Alltag in der Softwareentwicklung aus. Dabei lernen sie jedes Mal etwas Neues! Warum also das Ganze nicht aufzeichnen und als Podcast zur Verfügung stellen?
 
 * Number of published episodes: 99
 * Last episode published: 🟢 Monday, 23 September 2024
-* [todo:cast Website](https://todocast.io/)
+* [todo:cast Website](https://www.todocast.io/)
 * [todo:cast @ Spotify](https://open.spotify.com/show/2tIlVD6vBAtEhOZM4jS1mw)
 * [todo:cast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1467179396)
-* [todo:cast Podcast RSS](https://feeds.soundcloud.com/users/soundcloud:users:637814493/sounds.rss)
+* [todo:cast Podcast RSS](https://anchor.fm/s/f0b4224c/podcast/rss)
 * Tags: Softwareentwicklung
 
 ----
