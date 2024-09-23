@@ -18,7 +18,7 @@
  },
  "episodeCount": 42,
  "latestEpisodePublished": 1711123211,
- "archive": false,
+ "archive": true,
  "itunesID": 1577956101,
  "image": "images/speak-1337.jpg"
 }
