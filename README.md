@@ -145,7 +145,7 @@ Pentaradio24 ist eine Sendung, die jeden vierten Dienstag im Monat zwischen 21:3
 
 
 * Number of published episodes: 51
-* Last episode published: 🟢 Sunday, 29 September 2024
+* Last episode published: 🟢 Monday, 28 October 2024
 * [((c3d2)) Pentaradio 24 Website](https://www.c3d2.de/radio.html)
 * [((c3d2)) Pentaradio 24 @ Apple Podcasts](https://podcasts.apple.com/de/podcast/350873124)
 * [((c3d2)) Pentaradio 24 Podcast RSS](https://www.c3d2.de/pentaradio.xml)
@@ -362,8 +362,8 @@ Jeden Samstag das Neueste aus Computertechnik und Informationstechnologie. Beitr
 
 Cybersecurity entschüsselt ist ein deutschsprachiger Podcast, in dem sich alles um Sicherheit dreht.
 
-* Number of published episodes: 49
-* Last episode published: 🟢 Tuesday, 22 October 2024
+* Number of published episodes: 50
+* Last episode published: 🟢 Tuesday, 29 October 2024
 * [Cybersecurity entschlüsselt Website](https://www.cybersecurity-entschluesselt.de)
 * [Cybersecurity entschlüsselt @ Spotify](https://open.spotify.com/show/0sAcefh8cixTxjJn9s1dvM)
 * [Cybersecurity entschlüsselt @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1637327527)
@@ -491,8 +491,8 @@ Software und IT sind komplex. Gerade Fachfremde, die dennoch häufig mit Softwar
 
 Der Engineering Kiosk ist der deutschsprachige Software-Engineering-Podcast mit Wolfgang Gassler und Andy Grunwald rund um die Themen Engineering-Kultur, Open Source, Menschen, Technologie und allen anderen Bereichen, die damit in Verbindung stehen.
 
-* Number of published episodes: 148
-* Last episode published: 🟢 Tuesday, 22 October 2024
+* Number of published episodes: 149
+* Last episode published: 🟢 Tuesday, 29 October 2024
 * Weekly downloads (avg): 1099 (updated: 2023-01-31)
 * [Engineering Kiosk Website](https://engineeringkiosk.dev/)
 * [Engineering Kiosk @ Spotify](https://open.spotify.com/show/0tJRC0UsObPCWLmmzmOkIs)
@@ -572,7 +572,7 @@ Freak Show ist ein Podcast, der sich mit dem Leben mit Technik im 21. Jahrhunder
 Wir talken GameDev und haben Unreal News.
 
 * Number of published episodes: 100
-* Last episode published: 🟢 Tuesday, 22 October 2024
+* Last episode published: 🟢 Tuesday, 29 October 2024
 * [Gamedev für die Platte - Der Unreal Podcast Website](https://gamedevfuerdieplatte.podbean.com/)
 * [Gamedev für die Platte - Der Unreal Podcast @ Spotify](https://open.spotify.com/show/3UtoyAbMfEvkSIx5w3HohY)
 * [Gamedev für die Platte - Der Unreal Podcast Podcast RSS](https://feed.podbean.com/gamedevfuerdieplatte/feed.xml)
@@ -760,8 +760,8 @@ Ja sia! Der Technikpodcast von und mit Chris und Pati. Wir bringen euch regelmä
 
 Wie intelligent ist Künstliche Intelligenz eigentlich? Welche Folgen hat generative KI für unsere Arbeit, unsere Freizeit und die Gesellschaft? Im &#34;KI-Update&#34; von heise bringen wir Euch gemeinsam mit The Decoder werktäglich Updates zu den wichtigsten KI-Entwicklungen. Freitags beleuchten wir mit Experten die unterschiedlichen Aspekte der KI-Revolution.
 
-* Number of published episodes: 340
-* Last episode published: 🟢 Friday, 25 October 2024
+* Number of published episodes: 342
+* Last episode published: 🟢 Tuesday, 29 October 2024
 * [KI-Update Website](https://www.heise.de/thema/KI-Update)
 * [KI-Update @ Spotify](https://open.spotify.com/show/1rm6gMybQWnHePvY2eCpzp)
 * [KI-Update @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1691536182)
@@ -776,8 +776,8 @@ Wie intelligent ist Künstliche Intelligenz eigentlich? Welche Folgen hat genera
 
 Die IT-News des Tages von heise online
 
-* Number of published episodes: 2003
-* Last episode published: 🟢 Monday, 28 October 2024
+* Number of published episodes: 2007
+* Last episode published: 🟢 Wednesday, 30 October 2024
 * [Kurz informiert by heise online Website](https://www.heise.de/Hoeren-Sie-von-uns-unsere-Podcasts-4206659.html)
 * [Kurz informiert by heise online @ Spotify](https://open.spotify.com/show/2etf1jog8leNHbnhIArM9Z)
 * [Kurz informiert by heise online Podcast RSS](https://kurzinformiert.podigee.io/feed/mp3)
@@ -1099,7 +1099,7 @@ Der Security-Insider Podcast ist ein Podcast für Security-Profis mit Infos, Nac
 Jung, weiblich, genial: Im Tech-Podcast von NDR Info sucht die Tech-Journalistin Svea Eckert immer nach Antworten von Expertinnen aus der IT-Welt. In aufwendigen Recherchen taucht sie ein in die Welt der Querdenker, die sich über Telegram oder YouTube radikalisieren. Sie begegnet auch angeblichen Coaches, die Magersüchtige auf Instagram anschreiben. Svea nimmt euch in diesem Podcast mit auf ihre Recherchen, damit ihr die Tech-Welt besser versteht. Mit Experimenten zeigt sie euch, was gerade nicht so gut läuft und welche Ideen es gibt, die Technik für uns alle etwas besser zu machen.
 
 * Number of published episodes: 50
-* Last episode published: 🟡 Monday, 29 April 2024
+* Last episode published: 🔴 Monday, 29 April 2024
 * [She Likes Tech Website](https://www.ndr.de/nachrichten/info/podcast4808.html)
 * [She Likes Tech @ Spotify](https://open.spotify.com/show/6fE6BwxM7bHI9vseET01YA)
 * [She Likes Tech @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1530596058)
@@ -1353,8 +1353,8 @@ Alle 14 Tage laden wir zu einer kleinen Kaminzimmerrunde über IT-Kram ein. In E
 
 In diesem Podcast geht es um Web und User Interface Design, Freelancing, Arbeitsprozesse, Kunden und alles, wo sich diese Bereiche überschneiden.
 
-* Number of published episodes: 220
-* Last episode published: 🟢 Wednesday, 16 October 2024
+* Number of published episodes: 221
+* Last episode published: 🟢 Tuesday, 29 October 2024
 * [Web &amp; Design Podcast Website](https://www.jonasarleth.com/podcast)
 * [Web &amp; Design Podcast @ Spotify](https://open.spotify.com/show/6P3ovTvnUXUQZdjEMLEBer)
 * [Web &amp; Design Podcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1197452865)
@@ -1401,8 +1401,8 @@ Latenight-Frontend-Talkshow rund um Webdesign und Entwicklung. Es reden sich um 
 
 Wöchentlicher Podcast für Webdesigner:innen und -entwickler:innen
 
-* Number of published episodes: 653
-* Last episode published: 🟢 Tuesday, 22 October 2024
+* Number of published episodes: 654
+* Last episode published: 🟢 Tuesday, 29 October 2024
 * [Working Draft Website](https://workingdraft.de/)
 * [Working Draft @ Spotify](https://open.spotify.com/show/78iH7cIFzu1ejoB6aQUsIh)
 * [Working Draft @ Apple Podcasts](https://podcasts.apple.com/de/podcast/402204581)
