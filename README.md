@@ -6,7 +6,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (81 podcasts)
+* [Podcasts](#podcasts) (80 podcasts)
   * [#heiseshow](#heiseshow)
   * [((c3d2)) Pentaradio 24](#c3d2-pentaradio-24)
   * [0d - Zeroday](#0d-zeroday)
@@ -64,7 +64,6 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [Percepticon](#percepticon)
   * [programmier.bar](#programmier-bar)
   * [Python Podcast](#python-podcast)
-  * [RadioTux](#radiotux)
   * [Ready for Review](#ready-for-review)
   * [Schlüsseltechnologie](#schlusseltechnologie)
   * [Security-Insider](#security-insider)
@@ -88,7 +87,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [Webcafé - Webentwicklung und Unternehmenskultur](#webcafe-webentwicklung-und-unternehmenskultur)
   * [Wo wir sind ist vorne](#wo-wir-sind-ist-vorne)
   * [Working Draft](#working-draft)
-* [Archived podcasts](#archived-podcasts) (22 podcasts)
+* [Archived podcasts](#archived-podcasts) (23 podcasts)
   * [Armchair Investigators](#armchair-investigators)
   * [Autoweird](#autoweird)
   * [Bits &amp; Böses - Der Tech Crime Podcast](#bits-and-boses-der-tech-crime-podcast)
@@ -100,6 +99,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [Herr Zenzes wills wissen](#herr-zenzes-wills-wissen)
   * [Herzbergs Hörsaal](#herzbergs-horsaal)
   * [knowIT](#knowit)
+  * [RadioTux](#radiotux)
   * [Request for Comments](#request-for-comments)
   * [Rheingehäckt](#rheingehackt)
   * [Schwarz, Code, Gold – Deutschland, Entwicklungsland?](#schwarz-code-gold-deutschland-entwicklungsland)
@@ -176,8 +176,8 @@ Deutschsprachiger Podcast zu den Themen IT-Sicherheit und Privatsphäre. Stefan 
 
 Apfelfunk ist ein wöchentlicher Podcast über Apple-Themen. Jean-Claude Frick und Malte Kirchner berichten und bewerten darin die Neuigkeiten über den wichtigsten Computerkonzern der Welt.
 
-* Number of published episodes: 457
-* Last episode published: 🟢 Wednesday, 23 October 2024
+* Number of published episodes: 458
+* Last episode published: 🟢 Wednesday, 30 October 2024
 * [Apfelfunk Website](http://www.apfelfunk.com/)
 * [Apfelfunk @ Spotify](https://open.spotify.com/show/7FQLyWiNhMR0KS93ReaI4h)
 * [Apfelfunk @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1081146940)
@@ -192,8 +192,8 @@ Apfelfunk ist ein wöchentlicher Podcast über Apple-Themen. Jean-Claude Frick u
 
 Sie möchten beim Thema Datenschutz auf dem Laufenden bleiben, aber keine seitenlange Literatur wälzen? Dann wenden Sie sich vertrauensvoll an unser Juristen-Redakteurs-Duo. Alle 14 Tage bespricht c&#39;t-Redakteur Holger Bleich mit Joerg Heidrich aktuelle Entwicklungen rund um den Datenschutz. Joerg ist beim c&#39;t-Mutterschiff Heise Medien als Justiziar für das Thema zuständig und hat täglich mit der europäischen Datenschutz-Grundverordnung (DSGVO) zu tun. Wechselnde Gäste ergänzen das Duo.&#34;
 
-* Number of published episodes: 121
-* Last episode published: 🟢 Friday, 18 October 2024
+* Number of published episodes: 122
+* Last episode published: 🟢 Friday, 01 November 2024
 * [Auslegungssache - der c&#39;t-Datenschutz-Podcast Website](https://www.heise.de/thema/auslegungssache)
 * [Auslegungssache - der c&#39;t-Datenschutz-Podcast @ Spotify](https://open.spotify.com/show/3Jrnu7vrTurguBaCiPapkA)
 * [Auslegungssache - der c&#39;t-Datenschutz-Podcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1485860893)
@@ -255,8 +255,8 @@ Die wöchentliche Talkrunde rund um Apple, Mac, iPod &#43; iPhone, Gadgets und s
 
 Ransomware Attacken, Phishing oder DDoS - jeden Tag aufs Neue werden Unternehmen Ziel von Angriffen. Was sind die Geschichten dahinter, wie laufen die Attacken ab und wie kann Schaden verhindert werden? Kim und Robert haben tagtäglich Einblicke in die Info Sec Welt und teilen in diesem Podcast mit Euch ihre Erfahrungen. Schaltet ein, wenn ihr regelmäßige Updates zu aktuellen Sicherheitslücken, Diskussionen zu Technologie Trends oder anderen Themen aus der Welt der Info Sec haben möchtet!
 
-* Number of published episodes: 55
-* Last episode published: 🟢 Wednesday, 23 October 2024
+* Number of published episodes: 61
+* Last episode published: 🟢 Tuesday, 29 October 2024
 * [Breach FM Website](https://breachfm.transistor.fm/)
 * [Breach FM @ Spotify](https://open.spotify.com/show/4ooV9mM8Qiyfkj9jUkdZjj)
 * [Breach FM @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1641279793)
@@ -331,8 +331,8 @@ Lucas Rott und Markus Herhoffer erzählen alle 14 Tage von Code und Nerd-Kultur.
 
 Dein Podcast rund um Softwareentwicklung und aktueller Tech News. Lernt die Coding Buddies Tino und Fabi kennen. Erfahrt spannende Dinge über diverse Themen aus der Softwareentwicklung und lauscht den Erfahrungen der Beiden. Dazu gibt es witzige Anekdoten der Coding Buddies.
 
-* Number of published episodes: 83
-* Last episode published: 🟢 Thursday, 24 October 2024
+* Number of published episodes: 84
+* Last episode published: 🟢 Thursday, 31 October 2024
 * [Coding Buddies Website](https://www.codingbuddies.de/)
 * [Coding Buddies @ Spotify](https://open.spotify.com/show/5DaiBkAgQBt8DRCcwZY8xT?si=4acf817842f44c43)
 * [Coding Buddies @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1680339110)
@@ -524,8 +524,8 @@ Student*innen der Informatik, die einen Podcast machen, damit ihr alle checkt wi
 
 Der FOCUS ON: DevOps Podcast beschäftigt sich mit verschiedenen Methoden und Werkzeugen rund um das Thema DevOps. Dabei wechseln sich technische mit methodischen Folgen ab. Unser Ziel ist es über relevante Themen zu informieren und auch die Hersteller auf dem Markt als Gäste mit einzubinden.
 
-* Number of published episodes: 109
-* Last episode published: 🟢 Friday, 18 October 2024
+* Number of published episodes: 110
+* Last episode published: 🟢 Friday, 01 November 2024
 * [FOCUS ON: DevOps Website](https://focusondevops.podigee.io/)
 * [FOCUS ON: DevOps @ Spotify](https://open.spotify.com/show/0gXBw5mGcqXQkPW9h2JTaa)
 * [FOCUS ON: DevOps @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1542623849)
@@ -586,8 +586,8 @@ Wir talken GameDev und haben Unreal News.
 
 Ein monatlicher Podcast der GNU/Linux.ch Community mit Themen und Interviews rund um die Themen GNU/Linux, Freie Software und Freie Gesellschaft.
 
-* Number of published episodes: 116
-* Last episode published: 🟢 Wednesday, 23 October 2024
+* Number of published episodes: 117
+* Last episode published: 🟢 Wednesday, 30 October 2024
 * [GNU/Linux.ch Website](https://gnulinux.ch/)
 * [GNU/Linux.ch @ Spotify](https://open.spotify.com/show/0rs1Zm91TsjHhGo2lt0uPi)
 * [GNU/Linux.ch @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1527155920)
@@ -697,8 +697,8 @@ Dieser Podcast unterstützt schnell, konkret und umfänglich beim Einstieg in di
 
 Nur etwas mehr als 60 Jahre liegen zwischen dem ersten Start eines Motorflugzeugs und dem ersten bemannten Flug zum Mond. Das Handy wurde in nur 30 Jahren zum wichtigsten Kommunikationskanal unserer Zeit. Und IT? Die entwickelt sich nicht weniger rasant und macht in einer vernetzten und digitalen Welt vor keinem Bereich mehr halt. Im Podcast sprechen wir über Trendthemen, die zwar nichts mit Raketenwissenschaft zu tun haben, dafür aber Menschen auf dem Weg in eine digitale Zukunft begleiten. Bist Du bereit?
 
-* Number of published episodes: 110
-* Last episode published: 🟢 Wednesday, 23 October 2024
+* Number of published episodes: 111
+* Last episode published: 🟢 Wednesday, 30 October 2024
 * [IT ist alles Website](https://www.pco-online.de/magazin/2020/07/podcast)
 * [IT ist alles @ Spotify](https://open.spotify.com/show/46EUTeJsHSfscbkrI38f6p)
 * [IT ist alles @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1524049773)
@@ -760,8 +760,8 @@ Ja sia! Der Technikpodcast von und mit Chris und Pati. Wir bringen euch regelmä
 
 Wie intelligent ist Künstliche Intelligenz eigentlich? Welche Folgen hat generative KI für unsere Arbeit, unsere Freizeit und die Gesellschaft? Im &#34;KI-Update&#34; von heise bringen wir Euch gemeinsam mit The Decoder werktäglich Updates zu den wichtigsten KI-Entwicklungen. Freitags beleuchten wir mit Experten die unterschiedlichen Aspekte der KI-Revolution.
 
-* Number of published episodes: 342
-* Last episode published: 🟢 Tuesday, 29 October 2024
+* Number of published episodes: 343
+* Last episode published: 🟢 Wednesday, 30 October 2024
 * [KI-Update Website](https://www.heise.de/thema/KI-Update)
 * [KI-Update @ Spotify](https://open.spotify.com/show/1rm6gMybQWnHePvY2eCpzp)
 * [KI-Update @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1691536182)
@@ -776,8 +776,8 @@ Wie intelligent ist Künstliche Intelligenz eigentlich? Welche Folgen hat genera
 
 Die IT-News des Tages von heise online
 
-* Number of published episodes: 2007
-* Last episode published: 🟢 Wednesday, 30 October 2024
+* Number of published episodes: 2010
+* Last episode published: 🟢 Thursday, 31 October 2024
 * [Kurz informiert by heise online Website](https://www.heise.de/Hoeren-Sie-von-uns-unsere-Podcasts-4206659.html)
 * [Kurz informiert by heise online @ Spotify](https://open.spotify.com/show/2etf1jog8leNHbnhIArM9Z)
 * [Kurz informiert by heise online Podcast RSS](https://kurzinformiert.podigee.io/feed/mp3)
@@ -999,8 +999,8 @@ Ein Podcast über die dunkle Seite der Digitalisierung: Spionage, Hacker, Sabota
 
 Mit geballter Dev-Power nehmen Dennis, Fabi, Sebi und Jojo neue Podcastfolgen auf und werden dabei regelmäßig von Gäst:innen aus der Branche unterstützt. Taucht in unseren Deep Dives mit uns in Frameworks und Datenbanken ein, hört euch in den CTO-Specials die Erfahrungen führender Persönlichkeiten großer Unternehmen an und bleibt mit unseren News-Folgen stets am Ball in der Welt der App- und Webentwicklung.
 
-* Number of published episodes: 361
-* Last episode published: 🟢 Wednesday, 23 October 2024
+* Number of published episodes: 363
+* Last episode published: 🟢 Thursday, 31 October 2024
 * Weekly downloads (avg): 8744 (updated: 2023-04-12)
 * [programmier.bar Website](https://www.programmier.bar/podcast)
 * [programmier.bar @ Spotify](https://open.spotify.com/show/0ik0sXv9paTQCeThcOLCCJ)
@@ -1027,30 +1027,14 @@ Ein deutschsprachiger Podcast rund um die Programmiersprache Python
 
 ----
 
-<h3 id="radiotux">RadioTux</h3>
-
-<img align="right" width="215" height="215" src="./generated/images/radiotux.png" />
-
-Rund um Open Source, Freie Software, Linux und gesellschaftspolitische Themen.
-
-* Number of published episodes: 1
-* Last episode published: 🟡 Tuesday, 30 April 2024
-* [RadioTux Website](https://www.radiotux.de/)
-* [RadioTux @ Spotify](https://open.spotify.com/show/3ycOmt9723grwgr0wCbTye)
-* [RadioTux @ Apple Podcasts](https://podcasts.apple.com/de/podcast/122070498)
-* [RadioTux Podcast RSS](http://prometheus.radiotux.de/index.php?/feeds/categories/12-Sendung.rss)
-* Tags: Linux
-
-----
-
 <h3 id="ready-for-review">Ready for Review</h3>
 
 <img align="right" width="215" height="215" src="./generated/images/ready-for-review.png" />
 
 Sandra Parsick &amp; Daniel Zenzes präsentieren mit Ready for Review einen bunten Mix aus aktuellen IT-Themen und ihrem täglichen Entwickler-Alltag.
 
-* Number of published episodes: 66
-* Last episode published: 🟢 Tuesday, 01 October 2024
+* Number of published episodes: 67
+* Last episode published: 🟢 Thursday, 31 October 2024
 * Weekly downloads (avg): 66 (updated: 2022-07-29)
 * [Ready for Review Website](https://ready-for-review.dev/)
 * [Ready for Review @ Spotify](https://open.spotify.com/show/7dxK2wi4ZMGEYO3UHhTSc4)
@@ -1066,8 +1050,8 @@ Sandra Parsick &amp; Daniel Zenzes präsentieren mit Ready for Review einen bunt
 
 Die IT hat unser Leben in den letzten Jahrzehnten von Grund auf verändert. Aber wie funktioniert sie wirklich? Das möchte ttimeless mal erklärt bekommen. Zum Glück hat Xyrill Antworten.
 
-* Number of published episodes: 63
-* Last episode published: 🟢 Thursday, 10 October 2024
+* Number of published episodes: 64
+* Last episode published: 🟢 Thursday, 31 October 2024
 * [Schlüsseltechnologie Website](https://xyrillian.de/noises/stp/)
 * [Schlüsseltechnologie @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1559995829)
 * [Schlüsseltechnologie Podcast RSS](https://xyrillian.de/noises/stp/rss.xml)
@@ -1130,8 +1114,8 @@ Der Podcast für praktische Softwarearchitektur. Mit: Carola Lilienthal, Patrick
 
 Live-Diskussion zu Software-Architektur im Stream. Einmal in der Woche diskutiert Eberhard Wolff Software-Architektur im Live-Stream auf YouTube und Twitch - oft zusammen mit einem Gast. Zuschauer können über den Chat mitdiskutieren oder Fragen stellen. Der Podcast enthält die Audio-Spur des Streams.
 
-* Number of published episodes: 234
-* Last episode published: 🟢 Friday, 25 October 2024
+* Number of published episodes: 235
+* Last episode published: 🟢 Wednesday, 30 October 2024
 * [SoftwareArchitektur im Stream Website](https://software-architektur.tv/)
 * [SoftwareArchitektur im Stream @ Spotify](https://open.spotify.com/show/7ySg1eZoWYBshd6QpGaW8B)
 * [SoftwareArchitektur im Stream @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1538545458)
@@ -1146,8 +1130,8 @@ Live-Diskussion zu Software-Architektur im Stream. Einmal in der Woche diskutier
 
 Der SoftwerkerCast präsentiert euch Softwerker-Wissen zum Reinhören und Nachhören. Wie auch bei den anderen Softwerker-Formaten erwartet euch im SoftwerkerCast das volle Themenspektrum aus der bunten Welt der Softwareentwicklung: von A wie APM bis Z wie Zero Downtime. Paradigmen und neue Trends, Evergreens und Eintagsfliegen.
 
-* Number of published episodes: 55
-* Last episode published: 🟢 Tuesday, 15 October 2024
+* Number of published episodes: 56
+* Last episode published: 🟢 Friday, 01 November 2024
 * [SoftwerkerCast Website](https://www.codecentric.de/softwerkercast)
 * [SoftwerkerCast @ Spotify](https://open.spotify.com/show/0GMFlDJabOtXYm8u8HfAvL)
 * [SoftwerkerCast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1592472699)
@@ -1162,8 +1146,8 @@ Der SoftwerkerCast präsentiert euch Softwerker-Wissen zum Reinhören und Nachh�
 
 In diesem Podcast diskutiert die t3n-Redaktion mit Gästen über die spannendsten digitalen Themen unserer Zeit. Ob innovative Führungskonzepte, die Digitalisierung der Gesellschaft, smarte Gadgets, neue Mobilität oder Zukunftstechnologien. Jeden Freitag um 10 Uhr!
 
-* Number of published episodes: 647
-* Last episode published: 🟢 Monday, 28 October 2024
+* Number of published episodes: 648
+* Last episode published: 🟢 Friday, 01 November 2024
 * [t3n Interview Website](https://t3n.de/podcast#interview)
 * [t3n Interview @ Spotify](https://open.spotify.com/show/7obTbZaywhQEiUUOMswQBQ)
 * [t3n Interview @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1115601393)
@@ -1225,8 +1209,8 @@ Ausführliche, häufig zeitlose Gespräche von Gastgeber Nico Kreiling mit wechs
 
 IT-Security, unendliche Weiten ... So oder so ähnlich lässt sich die Größenordnung von alldem, was IT-Security betrifft, beschreiben - Netzwerk, Cloud, Endpoint, E-Mail, SOC, Schwachstellen, Sicherheitsvorfall, Awareness und vieeeles mehr. Klingt unfassbar kompliziert – ist aber auch unfassbar spannend. In unserem Podcast berichten wir über aktuelle Themen und zeigen euch, warum das Thema IT-Sicherheit auch für euren Alltag extrem wichtig ist. Denn das ist unsere Leidenschaft: eure Unternehmen und eure Arbeit sicher zu machen. Habt ihr heute schon auf einen Link geklickt? 😉
 
-* Number of published episodes: 53
-* Last episode published: 🟢 Thursday, 17 October 2024
+* Number of published episodes: 54
+* Last episode published: 🟢 Thursday, 31 October 2024
 * [The World of IT-Security Website](https://www.suresecure.de/aktuelles/podcast)
 * [The World of IT-Security @ Spotify](https://open.spotify.com/show/38ro5pDX7ToVMA9w6RVyNM)
 * [The World of IT-Security @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1567043544)
@@ -1257,8 +1241,8 @@ Besonders in Business- und Hacker:innen-Kreisen trifft man sie häufig an - Thin
 
 Sujeevan und Dirk reden über Themen, die Ihnen in der letzten Zeit untergekommen sind. Die Abkürzung &#34;TIL&#34; steht für &#34;Today I learned&#34;, es geht also um Themen, die neu für die beiden waren oder die sie in der letzten Zeit erst so richtig verstanden haben. Dazu kommen Hinweise, wie sie versuchen, ihr Arbeitsleben zu verbessern und zusätzlich gibt es auch den einen oder anderen Karrierehinweis.
 
-* Number of published episodes: 49
-* Last episode published: 🟢 Monday, 30 September 2024
+* Number of published episodes: 50
+* Last episode published: 🟢 Thursday, 31 October 2024
 * [TILpod Website](https://tilpod.net/)
 * [TILpod @ Spotify](https://open.spotify.com/show/53zmbsz2sGO4UoSe8Qviyu)
 * [TILpod @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1542159410)
@@ -1369,8 +1353,8 @@ In diesem Podcast geht es um Web und User Interface Design, Freelancing, Arbeits
 
 Im Webcafé erzählen Felix und Kay aus ihrem Arbeitsalltag bei der Geenen IT-Systeme GmbH und nehmen euch mit auf eine spannende Reise durch ihre Technologielandschaft, Programmierthemen und die Herausforderungen der Unternehmens- und Personalführung. Damit richtet sich der Podcast an EntwicklerInnen, FreelancerInnen und Führungskräfte.
 
-* Number of published episodes: 19
-* Last episode published: 🟢 Friday, 25 October 2024
+* Number of published episodes: 20
+* Last episode published: 🟢 Thursday, 31 October 2024
 * [Webcafé - Webentwicklung und Unternehmenskultur Website](https://geenen-it-systeme.de/#podcast)
 * [Webcafé - Webentwicklung und Unternehmenskultur @ Spotify](https://open.spotify.com/show/6KnpB0BENh4XcHiqr4isHt)
 * [Webcafé - Webentwicklung und Unternehmenskultur @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1727941100)
@@ -1584,6 +1568,22 @@ know Information Technology (kurz knowIT) - in diesem Sinne behandelt der Podcas
 * [knowIT @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1564646449)
 * [knowIT Podcast RSS](https://anchor.fm/s/57935150/podcast/rss)
 * Tags: Female host
+
+----
+
+<h3 id="radiotux">RadioTux</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/radiotux.png" />
+
+Rund um Open Source, Freie Software, Linux und gesellschaftspolitische Themen.
+
+* Number of published episodes: 1
+* Last episode published: 🔴 Tuesday, 30 April 2024
+* [RadioTux Website](https://www.radiotux.de/)
+* [RadioTux @ Spotify](https://open.spotify.com/show/3ycOmt9723grwgr0wCbTye)
+* [RadioTux @ Apple Podcasts](https://podcasts.apple.com/de/podcast/122070498)
+* [RadioTux Podcast RSS](http://prometheus.radiotux.de/index.php?/feeds/categories/12-Sendung.rss)
+* Tags: Linux
 
 ----
 

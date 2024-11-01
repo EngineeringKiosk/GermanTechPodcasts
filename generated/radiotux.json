@@ -15,7 +15,7 @@
  },
  "episodeCount": 1,
  "latestEpisodePublished": 1714509480,
- "archive": false,
+ "archive": true,
  "itunesID": 122070498,
  "image": "images/radiotux.png"
 }
