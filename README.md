@@ -410,10 +410,11 @@ Wir machen Data Science. Und in unserem Podcast Data Science Deep Dive reden wir
 
 * Number of published episodes: 59
 * Last episode published: 🟢 Thursday, 24 October 2024
+* Weekly downloads (avg): 618 (updated: 2024-10-25)
 * [Data Science Deep Dive Website](https://inwt.podbean.com/)
 * [Data Science Deep Dive @ Spotify](https://open.spotify.com/show/089UlaVMdcppseWxxYr28O)
 * [Data Science Deep Dive Podcast RSS](https://feed.podbean.com/inwt/feed.xml)
-* Tags: Data, Data Science
+* Tags: Data Science, Machine Learning, Predictive Analytics, Artificial Intelligence, DevOps, MLOps, Softwareentwicklung
 
 ----
 
