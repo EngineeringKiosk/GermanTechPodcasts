@@ -241,7 +241,7 @@ Prozessoren, Grafikkarten, Notebooks, Desktop-PCs, Server, KI, Rechenzentren und
 Die wöchentliche Talkrunde rund um Apple, Mac, iPod &#43; iPhone, Gadgets und so. Fast live aus München.
 
 * Number of published episodes: 10
-* Last episode published: 🟢 Monday, 11 November 2024
+* Last episode published: 🟢 Monday, 18 November 2024
 * [Bits und so Website](http://www.bitsundso.de/)
 * [Bits und so @ Apple Podcasts](https://podcasts.apple.com/de/podcast/202753375)
 * [Bits und so Podcast RSS](http://www.bitsundso.de/feed/)
@@ -271,8 +271,8 @@ Ransomware Attacken, Phishing oder DDoS - jeden Tag aufs Neue werden Unternehmen
 
 Mitglieder der c&#39;t-Redaktion diskutieren über die aktuellen Themen aus dem c’t Magazin und was sonst noch so in der IT-Welt passiert.
 
-* Number of published episodes: 567
-* Last episode published: 🟢 Saturday, 09 November 2024
+* Number of published episodes: 568
+* Last episode published: 🟢 Saturday, 16 November 2024
 * [c&#39;t uplink Website](https://www.heise.de/thema/ct-uplink)
 * [c&#39;t uplink @ Spotify](https://open.spotify.com/show/4LdN7lGr9winLtQSqoIjVD)
 * [c&#39;t uplink @ Apple Podcasts](https://podcasts.apple.com/de/podcast/835717958)
@@ -347,7 +347,7 @@ Dein Podcast rund um Softwareentwicklung und aktueller Tech News. Lernt die Codi
 Jeden Samstag das Neueste aus Computertechnik und Informationstechnologie. Beiträge, Reportagen und Interviews zu IT-Sicherheit, Informatik, Datenschutz, Smartphones, Cloud-Computing und IT-Politik. Die Trends der IT werden kompakt und informativ zusammengefasst.
 
 * Number of published episodes: 20
-* Last episode published: 🟢 Saturday, 09 November 2024
+* Last episode published: 🟢 Saturday, 16 November 2024
 * [Computer und Kommunikation (Deutschlandfunk) Website](https://www.deutschlandfunk.de/computer-und-kommunikation-102.html)
 * [Computer und Kommunikation (Deutschlandfunk) @ Spotify](https://open.spotify.com/show/4uy56W83RGe8SKmzNpyfAc)
 * [Computer und Kommunikation (Deutschlandfunk) @ Apple Podcasts](https://podcasts.apple.com/de/podcast/173754605)
@@ -731,8 +731,8 @@ Der Podcast für Auszubildende, Ausbilder und IHK-Prüfer in den IT-Berufen (Fac
 
 IT@DB ist ein Podcast für IT Fach- und Führungskräfte (w/m/d). Hier erhältst du einen exklusiven Einblick zu spannenden IT Projekten der Deutschen Bahn.
 
-* Number of published episodes: 83
-* Last episode published: 🟢 Monday, 07 October 2024
+* Number of published episodes: 84
+* Last episode published: 🟢 Monday, 18 November 2024
 * [IT@DB Website](https://cqlshb.podcaster.de/)
 * [IT@DB @ Spotify](https://open.spotify.com/show/3uV0oOeigGJCAAQbXZ49Dv)
 * [IT@DB @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1462447493)
@@ -761,8 +761,8 @@ Ja sia! Der Technikpodcast von und mit Chris und Pati. Wir bringen euch regelmä
 
 Wie intelligent ist Künstliche Intelligenz eigentlich? Welche Folgen hat generative KI für unsere Arbeit, unsere Freizeit und die Gesellschaft? Im &#34;KI-Update&#34; von heise bringen wir Euch gemeinsam mit The Decoder werktäglich Updates zu den wichtigsten KI-Entwicklungen. Freitags beleuchten wir mit Experten die unterschiedlichen Aspekte der KI-Revolution.
 
-* Number of published episodes: 352
-* Last episode published: 🟢 Thursday, 14 November 2024
+* Number of published episodes: 353
+* Last episode published: 🟢 Friday, 15 November 2024
 * [KI-Update Website](https://www.heise.de/thema/KI-Update)
 * [KI-Update @ Spotify](https://open.spotify.com/show/1rm6gMybQWnHePvY2eCpzp)
 * [KI-Update @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1691536182)
@@ -777,8 +777,8 @@ Wie intelligent ist Künstliche Intelligenz eigentlich? Welche Folgen hat genera
 
 Die IT-News des Tages von heise online
 
-* Number of published episodes: 2029
-* Last episode published: 🟢 Friday, 15 November 2024
+* Number of published episodes: 2031
+* Last episode published: 🟢 Monday, 18 November 2024
 * [Kurz informiert by heise online Website](https://www.heise.de/Hoeren-Sie-von-uns-unsere-Podcasts-4206659.html)
 * [Kurz informiert by heise online @ Spotify](https://open.spotify.com/show/2etf1jog8leNHbnhIArM9Z)
 * [Kurz informiert by heise online Podcast RSS](https://kurzinformiert.podigee.io/feed/mp3)
@@ -1000,8 +1000,8 @@ Ein Podcast über die dunkle Seite der Digitalisierung: Spionage, Hacker, Sabota
 
 Mit geballter Dev-Power nehmen Dennis, Fabi, Sebi und Jojo neue Podcastfolgen auf und werden dabei regelmäßig von Gäst:innen aus der Branche unterstützt. Taucht in unseren Deep Dives mit uns in Frameworks und Datenbanken ein, hört euch in den CTO-Specials die Erfahrungen führender Persönlichkeiten großer Unternehmen an und bleibt mit unseren News-Folgen stets am Ball in der Welt der App- und Webentwicklung.
 
-* Number of published episodes: 366
-* Last episode published: 🟢 Wednesday, 13 November 2024
+* Number of published episodes: 367
+* Last episode published: 🟢 Friday, 15 November 2024
 * Weekly downloads (avg): 8744 (updated: 2023-04-12)
 * [programmier.bar Website](https://www.programmier.bar/podcast)
 * [programmier.bar @ Spotify](https://open.spotify.com/show/0ik0sXv9paTQCeThcOLCCJ)
@@ -1147,8 +1147,8 @@ Der SoftwerkerCast präsentiert euch Softwerker-Wissen zum Reinhören und Nachh�
 
 In diesem Podcast diskutiert die t3n-Redaktion mit Gästen über die spannendsten digitalen Themen unserer Zeit. Ob innovative Führungskonzepte, die Digitalisierung der Gesellschaft, smarte Gadgets, neue Mobilität oder Zukunftstechnologien. Jeden Freitag um 10 Uhr!
 
-* Number of published episodes: 652
-* Last episode published: 🟢 Friday, 15 November 2024
+* Number of published episodes: 653
+* Last episode published: 🟢 Monday, 18 November 2024
 * [t3n Interview Website](https://t3n.de/podcast#interview)
 * [t3n Interview @ Spotify](https://open.spotify.com/show/7obTbZaywhQEiUUOMswQBQ)
 * [t3n Interview @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1115601393)
@@ -1258,8 +1258,8 @@ Sujeevan und Dirk reden über Themen, die Ihnen in der letzten Zeit untergekomme
 
 Deutschsprachiger Podcast für die großen und kleinen Fragen des Developeralltags. Schon seit Langem tauschen sich Malte und Robin-Manuel in regelmäßigen Abständen über diverse Themen aus ihrem Alltag in der Softwareentwicklung aus. Dabei lernen sie jedes Mal etwas Neues! Warum also das Ganze nicht aufzeichnen und als Podcast zur Verfügung stellen?
 
-* Number of published episodes: 102
-* Last episode published: 🟢 Monday, 04 November 2024
+* Number of published episodes: 103
+* Last episode published: 🟢 Monday, 18 November 2024
 * [todo:cast Website](https://www.todocast.io/)
 * [todo:cast @ Spotify](https://open.spotify.com/show/2tIlVD6vBAtEhOZM4jS1mw)
 * [todo:cast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1467179396)
@@ -1354,8 +1354,8 @@ In diesem Podcast geht es um Web und User Interface Design, Freelancing, Arbeits
 
 Im Webcafé erzählen Felix und Kay aus ihrem Arbeitsalltag bei der Geenen IT-Systeme GmbH und nehmen euch mit auf eine spannende Reise durch ihre Technologielandschaft, Programmierthemen und die Herausforderungen der Unternehmens- und Personalführung. Damit richtet sich der Podcast an EntwicklerInnen, FreelancerInnen und Führungskräfte.
 
-* Number of published episodes: 20
-* Last episode published: 🟢 Thursday, 31 October 2024
+* Number of published episodes: 21
+* Last episode published: 🟢 Friday, 15 November 2024
 * [Webcafé - Webentwicklung und Unternehmenskultur Website](https://geenen-it-systeme.de/#podcast)
 * [Webcafé - Webentwicklung und Unternehmenskultur @ Spotify](https://open.spotify.com/show/6KnpB0BENh4XcHiqr4isHt)
 * [Webcafé - Webentwicklung und Unternehmenskultur @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1727941100)
