@@ -6,7 +6,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (80 podcasts)
+* [Podcasts](#podcasts) (78 podcasts)
   * [#heiseshow](#heiseshow)
   * [((c3d2)) Pentaradio 24](#c3d2-pentaradio-24)
   * [0d - Zeroday](#0d-zeroday)
@@ -55,7 +55,6 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [Macht der Craft](#macht-der-craft)
   * [Mein Scrum ist kaputt!](#mein-scrum-ist-kaputt)
   * [Mind the Tech](#mind-the-tech)
-  * [Mixedcast](#mixedcast)
   * [Nachgehackt](#nachgehackt)
   * [Netzpolitik](#netzpolitik)
   * [Neuland](#neuland)
@@ -81,13 +80,12 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [todo:cast](#todo-cast)
   * [Tux-Flash](#tux-flash)
   * [Unmute IT](#unmute-it)
-  * [Unter 4 Ohren](#unter-4-ohren)
   * [Wartungsfenster](#wartungsfenster)
   * [Web &amp; Design Podcast](#web-and-design-podcast)
   * [Webcafé - Webentwicklung und Unternehmenskultur](#webcafe-webentwicklung-und-unternehmenskultur)
   * [Wo wir sind ist vorne](#wo-wir-sind-ist-vorne)
   * [Working Draft](#working-draft)
-* [Archived podcasts](#archived-podcasts) (23 podcasts)
+* [Archived podcasts](#archived-podcasts) (25 podcasts)
   * [Armchair Investigators](#armchair-investigators)
   * [Autoweird](#autoweird)
   * [Bits &amp; Böses - Der Tech Crime Podcast](#bits-and-boses-der-tech-crime-podcast)
@@ -99,6 +97,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [Herr Zenzes wills wissen](#herr-zenzes-wills-wissen)
   * [Herzbergs Hörsaal](#herzbergs-horsaal)
   * [knowIT](#knowit)
+  * [Mixedcast](#mixedcast)
   * [RadioTux](#radiotux)
   * [Request for Comments](#request-for-comments)
   * [Rheingehäckt](#rheingehackt)
@@ -110,6 +109,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [Super Duper Developers Club](#super-duper-developers-club)
   * [t3n Catch up](#t3n-catch-up)
   * [t3n Daily](#t3n-daily)
+  * [Unter 4 Ohren](#unter-4-ohren)
   * [WP Sofa](#wp-sofa)
 * [Legend](#legend)
 * [How to contribute](#how-to-contribute)
@@ -144,7 +144,7 @@ Immer donnerstags live um 17 Uhr sprechen Anna Kalinowsky, Malte Kirchner und Vo
 Pentaradio24 ist eine Sendung, die jeden vierten Dienstag im Monat zwischen 21:30 und 23:00 Uhr auf coloRadio live ausgestrahlt wird, bestehend aus einem informativen Rahmenprogramm und Beiträgen zu einem sendungsspezifischen Thema.
 
 
-* Number of published episodes: 49
+* Number of published episodes: 48
 * Last episode published: 🟢 Monday, 28 October 2024
 * [((c3d2)) Pentaradio 24 Website](https://www.c3d2.de/radio.html)
 * [((c3d2)) Pentaradio 24 @ Apple Podcasts](https://podcasts.apple.com/de/podcast/350873124)
@@ -362,8 +362,8 @@ Jeden Samstag das Neueste aus Computertechnik und Informationstechnologie. Beitr
 
 Cybersecurity entschüsselt ist ein deutschsprachiger Podcast, in dem sich alles um Sicherheit dreht.
 
-* Number of published episodes: 53
-* Last episode published: 🟢 Tuesday, 19 November 2024
+* Number of published episodes: 54
+* Last episode published: 🟢 Tuesday, 26 November 2024
 * [Cybersecurity entschlüsselt Website](https://www.cybersecurity-entschluesselt.de)
 * [Cybersecurity entschlüsselt @ Spotify](https://open.spotify.com/show/0sAcefh8cixTxjJn9s1dvM)
 * [Cybersecurity entschlüsselt @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1637327527)
@@ -573,7 +573,7 @@ Freak Show ist ein Podcast, der sich mit dem Leben mit Technik im 21. Jahrhunder
 Wir talken GameDev und haben Unreal News.
 
 * Number of published episodes: 100
-* Last episode published: 🟢 Tuesday, 05 November 2024
+* Last episode published: 🟢 Tuesday, 26 November 2024
 * [Gamedev für die Platte - Der Unreal Podcast Website](https://gamedevfuerdieplatte.podbean.com/)
 * [Gamedev für die Platte - Der Unreal Podcast @ Spotify](https://open.spotify.com/show/3UtoyAbMfEvkSIx5w3HohY)
 * [Gamedev für die Platte - Der Unreal Podcast Podcast RSS](https://feed.podbean.com/gamedevfuerdieplatte/feed.xml)
@@ -746,8 +746,8 @@ IT@DB ist ein Podcast für IT Fach- und Führungskräfte (w/m/d). Hier erhältst
 
 Ja sia! Der Technikpodcast von und mit Chris und Pati. Wir bringen euch regelmäßig neue Infos zu aktuellen technologischen- und dazugehörigen wissenschaftlichen Themen kombiniert mit der einen oder anderen unterhaltsamen Spaßrubrik. ;)
 
-* Number of published episodes: 100
-* Last episode published: 🟢 Tuesday, 05 November 2024
+* Number of published episodes: 102
+* Last episode published: 🟢 Tuesday, 26 November 2024
 * [Ja sia! Website](https://www.ja-sia.de/)
 * [Ja sia! @ Spotify](https://open.spotify.com/show/6hjVDLM5ldA2t3YEwLfeKI)
 * [Ja sia! @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1527996174)
@@ -761,8 +761,8 @@ Ja sia! Der Technikpodcast von und mit Chris und Pati. Wir bringen euch regelmä
 
 Wie intelligent ist Künstliche Intelligenz eigentlich? Welche Folgen hat generative KI für unsere Arbeit, unsere Freizeit und die Gesellschaft? Im &#34;KI-Update&#34; von heise bringen wir Euch gemeinsam mit The Decoder werktäglich Updates zu den wichtigsten KI-Entwicklungen. Freitags beleuchten wir mit Experten die unterschiedlichen Aspekte der KI-Revolution.
 
-* Number of published episodes: 358
-* Last episode published: 🟢 Friday, 22 November 2024
+* Number of published episodes: 360
+* Last episode published: 🟢 Tuesday, 26 November 2024
 * [KI-Update Website](https://www.heise.de/thema/KI-Update)
 * [KI-Update @ Spotify](https://open.spotify.com/show/1rm6gMybQWnHePvY2eCpzp)
 * [KI-Update @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1691536182)
@@ -777,8 +777,8 @@ Wie intelligent ist Künstliche Intelligenz eigentlich? Welche Folgen hat genera
 
 Die IT-News des Tages von heise online
 
-* Number of published episodes: 2041
-* Last episode published: 🟢 Monday, 25 November 2024
+* Number of published episodes: 2045
+* Last episode published: 🟢 Wednesday, 27 November 2024
 * [Kurz informiert by heise online Website](https://www.heise.de/Hoeren-Sie-von-uns-unsere-Podcasts-4206659.html)
 * [Kurz informiert by heise online @ Spotify](https://open.spotify.com/show/2etf1jog8leNHbnhIArM9Z)
 * [Kurz informiert by heise online Podcast RSS](https://kurzinformiert.podigee.io/feed/mp3)
@@ -808,8 +808,8 @@ Der Podcast über unsere digitale Lebens- und Arbeitswelt mit Markus Hörster un
 
 Logbuch:Netzpolitik ist ein in der Regel wöchentlich erscheinender Podcast, der im Dialog zwischen Linus Neumann und Tim Pritlove die wichtigsten Themen und Ereignisse mit netzpolitischem Bezug aufgreift und diskutiert.
 
-* Number of published episodes: 508
-* Last episode published: 🟢 Friday, 01 November 2024
+* Number of published episodes: 509
+* Last episode published: 🟢 Tuesday, 26 November 2024
 * [Logbuch: Netzpolitik Website](https://logbuch-netzpolitik.de/)
 * [Logbuch: Netzpolitik @ Apple Podcasts](https://podcasts.apple.com/de/podcast/476856034)
 * [Logbuch: Netzpolitik Podcast RSS](https://feeds.metaebene.me/lnp/m4a)
@@ -879,22 +879,6 @@ Mind the Tech ist ein Podcast, der die dunklen Seiten der IT- und Tech-Welt bele
 * [Mind the Tech @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1515173582)
 * [Mind the Tech Podcast RSS](https://mind-the-tech.podigee.io/feed/mp3)
 * Tags: Cyber, Crime, Gesellschaft, Female host, Security
-
-----
-
-<h3 id="mixedcast">Mixedcast</h3>
-
-<img align="right" width="215" height="215" src="./generated/images/mixedcast.jpg" />
-
-Der MIXEDCAST ist Deutschlands Podcast über Virtual Reality, Augmented Reality, Mixed Reality, Künstliche Intelligenz und generell neue Formen der Mensch-Computer-Interaktion. Wir sprechen über Themen wie Virtual Reality für Games, Entertainment und das Business, neue Augmented-Reality-Technologien oder Transhumanisums und wie sich die Beziehung zwischen Mensch, Computer und digitaler Welt verändert.
-
-* Number of published episodes: 386
-* Last episode published: 🟡 Monday, 27 May 2024
-* [Mixedcast Website](https://mixed.de/podcast/)
-* [Mixedcast @ Spotify](https://open.spotify.com/show/7nqUnwk9j5qFfjACXzc8Yg)
-* [Mixedcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1141873988)
-* [Mixedcast Podcast RSS](https://feeds.soundcloud.com/users/soundcloud:users:246129251/sounds.rss)
-* Tags: Virtual Reality, Augmented Reality, Mixed Reality, Künstliche Intelligenz
 
 ----
 
@@ -1299,30 +1283,14 @@ Wir sind UNMUTE IT, der Podcast von und mit Frauen aus der IT. Wir erzählen von
 
 ----
 
-<h3 id="unter-4-ohren">Unter 4 Ohren</h3>
-
-<img align="right" width="215" height="215" src="./generated/images/unter-4-ohren.jpg" />
-
-IT Security Podcast
-
-* Number of published episodes: 20
-* Last episode published: 🟡 Monday, 27 May 2024
-* [Unter 4 Ohren Website](https://www.all-about-security.de/unter4ohren/)
-* [Unter 4 Ohren @ Spotify](https://open.spotify.com/show/7EQFf6fL4dytVJWB4DXYsQ)
-* [Unter 4 Ohren @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1551939691)
-* [Unter 4 Ohren Podcast RSS](https://www.all-about-security.de/feed/mp3/)
-* Tags: Security
-
-----
-
 <h3 id="wartungsfenster">Wartungsfenster</h3>
 
 <img align="right" width="215" height="215" src="./generated/images/wartungsfenster.jpg" />
 
 Alle 14 Tage laden wir zu einer kleinen Kaminzimmerrunde über IT-Kram ein. In Ermangelung eines Kaminzimmers sitzen wir in der Hot Aisle eines Datacenters, statt feudaler Sessel gibt es faltbare Campingstühle, und die Cognacschwenker durften wir auch nicht mit reinnehmen. :/
 
-* Number of published episodes: 72
-* Last episode published: 🟢 Tuesday, 12 November 2024
+* Number of published episodes: 73
+* Last episode published: 🟢 Tuesday, 26 November 2024
 * Weekly downloads (avg): 250 (updated: 2024-01-11)
 * [Wartungsfenster Website](https://wartungsfenster.podigee.io/)
 * [Wartungsfenster @ Spotify](https://open.spotify.com/show/063YcVklbp1N8z1ZHSA709)
@@ -1572,6 +1540,22 @@ know Information Technology (kurz knowIT) - in diesem Sinne behandelt der Podcas
 
 ----
 
+<h3 id="mixedcast">Mixedcast</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/mixedcast.jpg" />
+
+Der MIXEDCAST ist Deutschlands Podcast über Virtual Reality, Augmented Reality, Mixed Reality, Künstliche Intelligenz und generell neue Formen der Mensch-Computer-Interaktion. Wir sprechen über Themen wie Virtual Reality für Games, Entertainment und das Business, neue Augmented-Reality-Technologien oder Transhumanisums und wie sich die Beziehung zwischen Mensch, Computer und digitaler Welt verändert.
+
+* Number of published episodes: 386
+* Last episode published: 🔴 Monday, 27 May 2024
+* [Mixedcast Website](https://mixed.de/podcast/)
+* [Mixedcast @ Spotify](https://open.spotify.com/show/7nqUnwk9j5qFfjACXzc8Yg)
+* [Mixedcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1141873988)
+* [Mixedcast Podcast RSS](https://feeds.soundcloud.com/users/soundcloud:users:246129251/sounds.rss)
+* Tags: Virtual Reality, Augmented Reality, Mixed Reality, Künstliche Intelligenz
+
+----
+
 <h3 id="radiotux">RadioTux</h3>
 
 <img align="right" width="215" height="215" src="./generated/images/radiotux.png" />
@@ -1743,6 +1727,22 @@ Dein täglicher Podcast mit dem, was wichtig war und was wichtig wird im digital
 * [t3n Daily @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1643152920)
 * [t3n Daily Podcast RSS](https://t3n-daily.podigee.io/feed/mp3)
 * Tags: News
+
+----
+
+<h3 id="unter-4-ohren">Unter 4 Ohren</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/unter-4-ohren.jpg" />
+
+IT Security Podcast
+
+* Number of published episodes: 20
+* Last episode published: 🔴 Monday, 27 May 2024
+* [Unter 4 Ohren Website](https://www.all-about-security.de/unter4ohren/)
+* [Unter 4 Ohren @ Spotify](https://open.spotify.com/show/7EQFf6fL4dytVJWB4DXYsQ)
+* [Unter 4 Ohren @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1551939691)
+* [Unter 4 Ohren Podcast RSS](https://www.all-about-security.de/feed/mp3/)
+* Tags: Security
 
 ----
 

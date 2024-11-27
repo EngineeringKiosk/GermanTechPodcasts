@@ -18,7 +18,7 @@
  },
  "episodeCount": 386,
  "latestEpisodePublished": 1716768000,
- "archive": false,
+ "archive": true,
  "itunesID": 1141873988,
  "image": "images/mixedcast.jpg"
 }
