@@ -17,7 +17,7 @@
  },
  "episodeCount": 45,
  "latestEpisodePublished": 1717398000,
- "archive": false,
+ "archive": true,
  "itunesID": 1349481289,
  "image": "images/techtiefen.jpg"
 }

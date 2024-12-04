@@ -6,7 +6,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (79 podcasts)
+* [Podcasts](#podcasts) (78 podcasts)
   * [#heiseshow](#heiseshow)
   * [((c3d2)) Pentaradio 24](#c3d2-pentaradio-24)
   * [0d - Zeroday](#0d-zeroday)
@@ -74,7 +74,6 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [t3n Interview](#t3n-interview)
   * [Tech me if you can](#tech-me-if-you-can)
   * [TechnikTechnik](#techniktechnik)
-  * [Techtiefen](#techtiefen)
   * [The World of IT-Security](#the-world-of-it-security)
   * [ThinkPad-Museum Podcast](#thinkpad-museum-podcast)
   * [TILpod](#tilpod)
@@ -86,7 +85,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [Webcafé - Webentwicklung und Unternehmenskultur](#webcafe-webentwicklung-und-unternehmenskultur)
   * [Wo wir sind ist vorne](#wo-wir-sind-ist-vorne)
   * [Working Draft](#working-draft)
-* [Archived podcasts](#archived-podcasts) (24 podcasts)
+* [Archived podcasts](#archived-podcasts) (25 podcasts)
   * [Armchair Investigators](#armchair-investigators)
   * [Autoweird](#autoweird)
   * [Bits &amp; Böses - Der Tech Crime Podcast](#bits-and-boses-der-tech-crime-podcast)
@@ -109,6 +108,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [Super Duper Developers Club](#super-duper-developers-club)
   * [t3n Catch up](#t3n-catch-up)
   * [t3n Daily](#t3n-daily)
+  * [Techtiefen](#techtiefen)
   * [Unter 4 Ohren](#unter-4-ohren)
   * [WP Sofa](#wp-sofa)
 * [Legend](#legend)
@@ -224,8 +224,8 @@ Ein Podcast über Web, Entwicklung, Mobile und Technologie. Betrachtet aus der S
 
 Prozessoren, Grafikkarten, Notebooks, Desktop-PCs, Server, KI, Rechenzentren und IT-Markt: In &#34;Bit-Rauschen&#34;, dem Prozessor-Podcast des Computermagazins c’t, dreht sich alles um Chips.
 
-* Number of published episodes: 102
-* Last episode published: 🟢 Wednesday, 20 November 2024
+* Number of published episodes: 103
+* Last episode published: 🟢 Wednesday, 04 December 2024
 * [Bit-Rauschen - der Prozessor-Podcast von c&#39;t Website](https://www.heise.de/thema/bit-rauschen)
 * [Bit-Rauschen - der Prozessor-Podcast von c&#39;t @ Spotify](https://open.spotify.com/show/6JD6gwqgVR27GYZACrWOT1)
 * [Bit-Rauschen - der Prozessor-Podcast von c&#39;t @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1549821753)
@@ -362,8 +362,8 @@ Jeden Samstag das Neueste aus Computertechnik und Informationstechnologie. Beitr
 
 Cybersecurity entschüsselt ist ein deutschsprachiger Podcast, in dem sich alles um Sicherheit dreht.
 
-* Number of published episodes: 54
-* Last episode published: 🟢 Tuesday, 26 November 2024
+* Number of published episodes: 55
+* Last episode published: 🟢 Tuesday, 03 December 2024
 * [Cybersecurity entschlüsselt Website](https://www.cybersecurity-entschluesselt.de)
 * [Cybersecurity entschlüsselt @ Spotify](https://open.spotify.com/show/0sAcefh8cixTxjJn9s1dvM)
 * [Cybersecurity entschlüsselt @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1637327527)
@@ -424,8 +424,8 @@ Wir machen Data Science. Und in unserem Podcast Data Science Deep Dive reden wir
 
 Wir reden über Spieleentwicklung und allgemein über die Branche aber gehen auch ins Detail wenn es um Software, Tipps und Fragen geht.
 
-* Number of published episodes: 85
-* Last episode published: 🟢 Tuesday, 05 November 2024
+* Number of published episodes: 86
+* Last episode published: 🟢 Monday, 02 December 2024
 * Weekly downloads (avg): 570 (updated: 2023-01-01)
 * [Der GameDev Podcast Website](https://gamedevpodcast.de/)
 * [Der GameDev Podcast @ Spotify](https://open.spotify.com/show/1AyPHtyeaeROvPtLsw1prl)
@@ -475,8 +475,8 @@ Hier geht es um die kleinen und großen Fehlschläge in der Geschichte der Techn
 
 Software und IT sind komplex. Gerade Fachfremde, die dennoch häufig mit Software und IT in Berührung kommen, sind sich dessen bewusst. Es kann nur von Vorteil sein, von gängigen Konzepten und Technologien gehört zu haben. So lässt es sich besser mitreden und entscheiden, wenn ein Softwareprojekt, neue Infrastruktur oder andere Fragen mit Bezug zur IT anstehen. Bei &#34;Einfach komplex&#34; erhältst du jeden Dienstag eine Perspektive auf Softwareentwicklung, IT- sowie OT-Themen, um für private als auch berufliche Diskussionen gewappnet zu sein. Doch seien wir ehrlich, es bleibt einfach komplex!
 
-* Number of published episodes: 72
-* Last episode published: 🟢 Tuesday, 19 November 2024
+* Number of published episodes: 73
+* Last episode published: 🟢 Tuesday, 03 December 2024
 * Weekly downloads (avg): 1050 (updated: 2024-02-05)
 * [Einfach Komplex Website](https://heisenware.com/podcast)
 * [Einfach Komplex @ Spotify](https://open.spotify.com/show/4eTpBCjUos9xUXtX294CnY?si=457f567027574f40)
@@ -492,8 +492,8 @@ Software und IT sind komplex. Gerade Fachfremde, die dennoch häufig mit Softwar
 
 Der Engineering Kiosk ist der deutschsprachige Software-Engineering-Podcast mit Wolfgang Gassler und Andy Grunwald rund um die Themen Engineering-Kultur, Open Source, Menschen, Technologie und allen anderen Bereichen, die damit in Verbindung stehen.
 
-* Number of published episodes: 155
-* Last episode published: 🟢 Monday, 02 December 2024
+* Number of published episodes: 156
+* Last episode published: 🟢 Tuesday, 03 December 2024
 * Weekly downloads (avg): 1099 (updated: 2023-01-31)
 * [Engineering Kiosk Website](https://engineeringkiosk.dev/)
 * [Engineering Kiosk @ Spotify](https://open.spotify.com/show/0tJRC0UsObPCWLmmzmOkIs)
@@ -541,8 +541,8 @@ Der FOCUS ON: DevOps Podcast beschäftigt sich mit verschiedenen Methoden und We
 
 Der FOCUS ON: Linux Podcast beschäftigt sich mit verschiedenen Themen rund um Linux. Unser Ziel ist es, euch monatlich über die Entwicklungen und Neuigkeiten zu informieren und auch praktische Tool-Tipps an die Hand zu geben.
 
-* Number of published episodes: 120
-* Last episode published: 🟢 Sunday, 01 December 2024
+* Number of published episodes: 122
+* Last episode published: 🟢 Tuesday, 03 December 2024
 * Weekly downloads (avg): 780 (updated: 2024-01-11)
 * [FOCUS ON: Linux Website](https://focusonlinux.podigee.io/)
 * [FOCUS ON: Linux @ Spotify](https://open.spotify.com/show/4Yj9EaidQuwEZL0NkAafzh)
@@ -573,7 +573,7 @@ Freak Show ist ein Podcast, der sich mit dem Leben mit Technik im 21. Jahrhunder
 Wir talken GameDev und haben Unreal News.
 
 * Number of published episodes: 100
-* Last episode published: 🟢 Tuesday, 26 November 2024
+* Last episode published: 🟢 Tuesday, 03 December 2024
 * [Gamedev für die Platte - Der Unreal Podcast Website](https://gamedevfuerdieplatte.podbean.com/)
 * [Gamedev für die Platte - Der Unreal Podcast @ Spotify](https://open.spotify.com/show/3UtoyAbMfEvkSIx5w3HohY)
 * [Gamedev für die Platte - Der Unreal Podcast Podcast RSS](https://feed.podbean.com/gamedevfuerdieplatte/feed.xml)
@@ -650,8 +650,8 @@ Du bist Entwickler/Developer? Dann Lauscher auf! Thomas und Christian sprechen i
 
 In dieser Serie diskutieren wir interessante Themen aus Software-Entwicklung und -Architektur – immer mit dem Fokus auf Praxistauglichkeit.
 
-* Number of published episodes: 162
-* Last episode published: 🟢 Monday, 11 November 2024
+* Number of published episodes: 163
+* Last episode published: 🟢 Monday, 02 December 2024
 * [INNOQ Podcast Website](https://www.innoq.com/de/podcast/)
 * [INNOQ Podcast @ Spotify](https://open.spotify.com/show/20svL8wDDgtidO2Qwf3EWx)
 * [INNOQ Podcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/672695146)
@@ -761,8 +761,8 @@ Ja sia! Der Technikpodcast von und mit Chris und Pati. Wir bringen euch regelmä
 
 Wie intelligent ist Künstliche Intelligenz eigentlich? Welche Folgen hat generative KI für unsere Arbeit, unsere Freizeit und die Gesellschaft? Im &#34;KI-Update&#34; von heise bringen wir Euch gemeinsam mit The Decoder werktäglich Updates zu den wichtigsten KI-Entwicklungen. Freitags beleuchten wir mit Experten die unterschiedlichen Aspekte der KI-Revolution.
 
-* Number of published episodes: 363
-* Last episode published: 🟢 Friday, 29 November 2024
+* Number of published episodes: 365
+* Last episode published: 🟢 Tuesday, 03 December 2024
 * [KI-Update Website](https://www.heise.de/thema/KI-Update)
 * [KI-Update @ Spotify](https://open.spotify.com/show/1rm6gMybQWnHePvY2eCpzp)
 * [KI-Update @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1691536182)
@@ -777,8 +777,8 @@ Wie intelligent ist Künstliche Intelligenz eigentlich? Welche Folgen hat genera
 
 Die IT-News des Tages von heise online
 
-* Number of published episodes: 2051
-* Last episode published: 🟢 Monday, 02 December 2024
+* Number of published episodes: 2055
+* Last episode published: 🟢 Wednesday, 04 December 2024
 * [Kurz informiert by heise online Website](https://www.heise.de/Hoeren-Sie-von-uns-unsere-Podcasts-4206659.html)
 * [Kurz informiert by heise online @ Spotify](https://open.spotify.com/show/2etf1jog8leNHbnhIArM9Z)
 * [Kurz informiert by heise online Podcast RSS](https://kurzinformiert.podigee.io/feed/mp3)
@@ -1187,23 +1187,6 @@ Irgendwas mit Technik
 
 ----
 
-<h3 id="techtiefen">Techtiefen</h3>
-
-<img align="right" width="215" height="215" src="./generated/images/techtiefen.jpg" />
-
-Ausführliche, häufig zeitlose Gespräche von Gastgeber Nico Kreiling mit wechselnden Gästen der IT-Welt zu deren Fach-Gebieten. Von Nerds, für Nerds!
-
-* Number of published episodes: 45
-* Last episode published: 🟡 Monday, 03 June 2024
-* Weekly downloads (avg): 900 (updated: 2022-08-01)
-* [Techtiefen Website](https://techtiefen.de/)
-* [Techtiefen @ Spotify](https://open.spotify.com/show/6hyfYJi5yvjWgcqOTtNzRo)
-* [Techtiefen @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1349481289)
-* [Techtiefen Podcast RSS](https://techtiefen.de//index.php/feed/mp3/)
-* Tags: Softwareentwicklung, Data Science, Machine Learning
-
-----
-
 <h3 id="the-world-of-it-security">The World of IT-Security</h3>
 
 <img align="right" width="215" height="215" src="./generated/images/the-world-of-it-security.jpg" />
@@ -1258,7 +1241,7 @@ Sujeevan und Dirk reden über Themen, die Ihnen in der letzten Zeit untergekomme
 
 Deutschsprachiger Podcast für die großen und kleinen Fragen des Developeralltags. Schon seit Langem tauschen sich Malte und Robin-Manuel in regelmäßigen Abständen über diverse Themen aus ihrem Alltag in der Softwareentwicklung aus. Dabei lernen sie jedes Mal etwas Neues! Warum also das Ganze nicht aufzeichnen und als Podcast zur Verfügung stellen?
 
-* Number of published episodes: 103
+* Number of published episodes: 104
 * Last episode published: 🟢 Monday, 02 December 2024
 * [todo:cast Website](https://www.todocast.io/)
 * [todo:cast @ Spotify](https://open.spotify.com/show/2tIlVD6vBAtEhOZM4jS1mw)
@@ -1370,8 +1353,8 @@ Latenight-Frontend-Talkshow rund um Webdesign und Entwicklung. Es reden sich um 
 
 Wöchentlicher Podcast für Webdesigner:innen und -entwickler:innen
 
-* Number of published episodes: 657
-* Last episode published: 🟢 Tuesday, 19 November 2024
+* Number of published episodes: 658
+* Last episode published: 🟢 Tuesday, 03 December 2024
 * [Working Draft Website](https://workingdraft.de/)
 * [Working Draft @ Spotify](https://open.spotify.com/show/78iH7cIFzu1ejoB6aQUsIh)
 * [Working Draft @ Apple Podcasts](https://podcasts.apple.com/de/podcast/402204581)
@@ -1727,6 +1710,23 @@ Dein täglicher Podcast mit dem, was wichtig war und was wichtig wird im digital
 * [t3n Daily @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1643152920)
 * [t3n Daily Podcast RSS](https://t3n-daily.podigee.io/feed/mp3)
 * Tags: News
+
+----
+
+<h3 id="techtiefen">Techtiefen</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/techtiefen.jpg" />
+
+Ausführliche, häufig zeitlose Gespräche von Gastgeber Nico Kreiling mit wechselnden Gästen der IT-Welt zu deren Fach-Gebieten. Von Nerds, für Nerds!
+
+* Number of published episodes: 45
+* Last episode published: 🔴 Monday, 03 June 2024
+* Weekly downloads (avg): 900 (updated: 2022-08-01)
+* [Techtiefen Website](https://techtiefen.de/)
+* [Techtiefen @ Spotify](https://open.spotify.com/show/6hyfYJi5yvjWgcqOTtNzRo)
+* [Techtiefen @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1349481289)
+* [Techtiefen Podcast RSS](https://techtiefen.de//index.php/feed/mp3/)
+* Tags: Softwareentwicklung, Data Science, Machine Learning
 
 ----
 
