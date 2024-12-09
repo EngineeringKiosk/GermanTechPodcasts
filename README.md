@@ -6,7 +6,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (78 podcasts)
+* [Podcasts](#podcasts) (77 podcasts)
   * [#heiseshow](#heiseshow)
   * [((c3d2)) Pentaradio 24](#c3d2-pentaradio-24)
   * [0d - Zeroday](#0d-zeroday)
@@ -52,7 +52,6 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [Logbuch Digitalien](#logbuch-digitalien)
   * [Logbuch: Netzpolitik](#logbuch-netzpolitik)
   * [Mac &amp; i - der Apple-Podcast](#mac-and-i-der-apple-podcast)
-  * [Macht der Craft](#macht-der-craft)
   * [Mein Scrum ist kaputt!](#mein-scrum-ist-kaputt)
   * [Mind the Tech](#mind-the-tech)
   * [Nachgehackt](#nachgehackt)
@@ -85,7 +84,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [Webcafé - Webentwicklung und Unternehmenskultur](#webcafe-webentwicklung-und-unternehmenskultur)
   * [Wo wir sind ist vorne](#wo-wir-sind-ist-vorne)
   * [Working Draft](#working-draft)
-* [Archived podcasts](#archived-podcasts) (25 podcasts)
+* [Archived podcasts](#archived-podcasts) (26 podcasts)
   * [Armchair Investigators](#armchair-investigators)
   * [Autoweird](#autoweird)
   * [Bits &amp; Böses - Der Tech Crime Podcast](#bits-and-boses-der-tech-crime-podcast)
@@ -97,6 +96,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [Herr Zenzes wills wissen](#herr-zenzes-wills-wissen)
   * [Herzbergs Hörsaal](#herzbergs-horsaal)
   * [knowIT](#knowit)
+  * [Macht der Craft](#macht-der-craft)
   * [Mixedcast](#mixedcast)
   * [Request for Comments](#request-for-comments)
   * [Rheingehäckt](#rheingehackt)
@@ -241,7 +241,7 @@ Prozessoren, Grafikkarten, Notebooks, Desktop-PCs, Server, KI, Rechenzentren und
 Die wöchentliche Talkrunde rund um Apple, Mac, iPod &#43; iPhone, Gadgets und so. Fast live aus München.
 
 * Number of published episodes: 10
-* Last episode published: 🟢 Sunday, 01 December 2024
+* Last episode published: 🟢 Monday, 09 December 2024
 * [Bits und so Website](http://www.bitsundso.de/)
 * [Bits und so @ Apple Podcasts](https://podcasts.apple.com/de/podcast/202753375)
 * [Bits und so Podcast RSS](http://www.bitsundso.de/feed/)
@@ -271,8 +271,8 @@ Ransomware Attacken, Phishing oder DDoS - jeden Tag aufs Neue werden Unternehmen
 
 Mitglieder der c&#39;t-Redaktion diskutieren über die aktuellen Themen aus dem c’t Magazin und was sonst noch so in der IT-Welt passiert.
 
-* Number of published episodes: 570
-* Last episode published: 🟢 Saturday, 30 November 2024
+* Number of published episodes: 571
+* Last episode published: 🟢 Saturday, 07 December 2024
 * [c&#39;t uplink Website](https://www.heise.de/thema/ct-uplink)
 * [c&#39;t uplink @ Spotify](https://open.spotify.com/show/4LdN7lGr9winLtQSqoIjVD)
 * [c&#39;t uplink @ Apple Podcasts](https://podcasts.apple.com/de/podcast/835717958)
@@ -347,7 +347,7 @@ Dein Podcast rund um Softwareentwicklung und aktueller Tech News. Lernt die Codi
 Jeden Samstag das Neueste aus Computertechnik und Informationstechnologie. Beiträge, Reportagen und Interviews zu IT-Sicherheit, Informatik, Datenschutz, Smartphones, Cloud-Computing und IT-Politik. Die Trends der IT werden kompakt und informativ zusammengefasst.
 
 * Number of published episodes: 20
-* Last episode published: 🟢 Saturday, 30 November 2024
+* Last episode published: 🟢 Saturday, 07 December 2024
 * [Computer und Kommunikation (Deutschlandfunk) Website](https://www.deutschlandfunk.de/computer-und-kommunikation-102.html)
 * [Computer und Kommunikation (Deutschlandfunk) @ Spotify](https://open.spotify.com/show/4uy56W83RGe8SKmzNpyfAc)
 * [Computer und Kommunikation (Deutschlandfunk) @ Apple Podcasts](https://podcasts.apple.com/de/podcast/173754605)
@@ -378,8 +378,8 @@ Cybersecurity entschüsselt ist ein deutschsprachiger Podcast, in dem sich alles
 
 Im Podcast Das Duumvirat unterhalten wir uns über verschiedene Mac-Themen aus dem Alltag von Anwendern. Wir schauen über den Tellerrand. Und manchmal haben wir auch Gäste.
 
-* Number of published episodes: 63
-* Last episode published: 🟢 Wednesday, 20 November 2024
+* Number of published episodes: 64
+* Last episode published: 🟢 Friday, 06 December 2024
 * [Das Duumvirat Website](https://www.trommelspeicher.de/podcast/)
 * [Das Duumvirat @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1212750085)
 * [Das Duumvirat Podcast RSS](https://www.trommelspeicher.de/resource/podcast/feed.xml)
@@ -492,8 +492,8 @@ Software und IT sind komplex. Gerade Fachfremde, die dennoch häufig mit Softwar
 
 Der Engineering Kiosk ist der deutschsprachige Software-Engineering-Podcast mit Wolfgang Gassler und Andy Grunwald rund um die Themen Engineering-Kultur, Open Source, Menschen, Technologie und allen anderen Bereichen, die damit in Verbindung stehen.
 
-* Number of published episodes: 158
-* Last episode published: 🟢 Thursday, 05 December 2024
+* Number of published episodes: 162
+* Last episode published: 🟢 Monday, 09 December 2024
 * Weekly downloads (avg): 1099 (updated: 2023-01-31)
 * [Engineering Kiosk Website](https://engineeringkiosk.dev/)
 * [Engineering Kiosk @ Spotify](https://open.spotify.com/show/0tJRC0UsObPCWLmmzmOkIs)
@@ -541,8 +541,8 @@ Der FOCUS ON: DevOps Podcast beschäftigt sich mit verschiedenen Methoden und We
 
 Der FOCUS ON: Linux Podcast beschäftigt sich mit verschiedenen Themen rund um Linux. Unser Ziel ist es, euch monatlich über die Entwicklungen und Neuigkeiten zu informieren und auch praktische Tool-Tipps an die Hand zu geben.
 
-* Number of published episodes: 124
-* Last episode published: 🟢 Thursday, 05 December 2024
+* Number of published episodes: 127
+* Last episode published: 🟢 Sunday, 08 December 2024
 * Weekly downloads (avg): 780 (updated: 2024-01-11)
 * [FOCUS ON: Linux Website](https://focusonlinux.podigee.io/)
 * [FOCUS ON: Linux @ Spotify](https://open.spotify.com/show/4Yj9EaidQuwEZL0NkAafzh)
@@ -634,8 +634,8 @@ Zwei Softwareentwickler und Spiele-Enthusiasten entwickeln in ihrer Freizeit Vid
 
 Du bist Entwickler/Developer? Dann Lauscher auf! Thomas und Christian sprechen im &#34;Index out of bounds&#34; Entwickler/Developer Podcast über ihre persönlichen Erfahrungen aus der Welt der Programmierung von Software, Websites, Apps und was es sonst noch so gibt. Schon seit Jahren tauschen sich die beiden leidenschaftlich gerne über Entwicklung/Development, den Spaß am Programmieren und Technologie aus. Hin und wieder sind da auch ein paar helle Momente dabei! Ein Podcast von Programmierern für Programmierer.
 
-* Number of published episodes: 90
-* Last episode published: 🟢 Sunday, 24 November 2024
+* Number of published episodes: 91
+* Last episode published: 🟢 Sunday, 08 December 2024
 * [Index out of bounds Website](https://www.ioob.de/)
 * [Index out of bounds @ Spotify](https://open.spotify.com/show/2r1FGvYRkSYq4SmXyVKmnA)
 * [Index out of bounds @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1564647339)
@@ -761,8 +761,8 @@ Ja sia! Der Technikpodcast von und mit Chris und Pati. Wir bringen euch regelmä
 
 Wie intelligent ist Künstliche Intelligenz eigentlich? Welche Folgen hat generative KI für unsere Arbeit, unsere Freizeit und die Gesellschaft? Im &#34;KI-Update&#34; von heise bringen wir Euch gemeinsam mit The Decoder werktäglich Updates zu den wichtigsten KI-Entwicklungen. Freitags beleuchten wir mit Experten die unterschiedlichen Aspekte der KI-Revolution.
 
-* Number of published episodes: 367
-* Last episode published: 🟢 Thursday, 05 December 2024
+* Number of published episodes: 368
+* Last episode published: 🟢 Friday, 06 December 2024
 * [KI-Update Website](https://www.heise.de/thema/KI-Update)
 * [KI-Update @ Spotify](https://open.spotify.com/show/1rm6gMybQWnHePvY2eCpzp)
 * [KI-Update @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1691536182)
@@ -777,8 +777,8 @@ Wie intelligent ist Künstliche Intelligenz eigentlich? Welche Folgen hat genera
 
 Die IT-News des Tages von heise online
 
-* Number of published episodes: 2059
-* Last episode published: 🟢 Friday, 06 December 2024
+* Number of published episodes: 2061
+* Last episode published: 🟢 Monday, 09 December 2024
 * [Kurz informiert by heise online Website](https://www.heise.de/Hoeren-Sie-von-uns-unsere-Podcasts-4206659.html)
 * [Kurz informiert by heise online @ Spotify](https://open.spotify.com/show/2etf1jog8leNHbnhIArM9Z)
 * [Kurz informiert by heise online Podcast RSS](https://kurzinformiert.podigee.io/feed/mp3)
@@ -830,22 +830,6 @@ Hintergründe, Einschätzungen, Tipps und Neuigkeiten: Im Zweiwochenrhythmus unt
 * [Mac &amp; i - der Apple-Podcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1499510618)
 * [Mac &amp; i - der Apple-Podcast Podcast RSS](https://heise.de/mac-and-i/mac-and-i-audio-podcast.rss)
 * Tags: Hardware, Apple
-
-----
-
-<h3 id="macht-der-craft">Macht der Craft</h3>
-
-<img align="right" width="215" height="215" src="./generated/images/macht-der-craft.jpg" />
-
-Von Menschen für Menschen, die Software entwickeln, ist dieser Podcast gedacht. Damit Du in diesem Leben durch stetiges Lernen, den bestmöglichen Code kreieren kannst. Wir erzählen dir von agiler Softwareentwicklung, Software Craft, Methoden, Techniken und allem, was dazu gehört, um deine Fähigkeiten zu verbessern. Das Bestmögliche zu erschaffen, bedeutet mit dem Puls der Zeit zu gehen und ständig zu lernen.
-
-* Number of published episodes: 33
-* Last episode published: 🟡 Thursday, 06 June 2024
-* [Macht der Craft Website](https://macht-der-craft.soler-sanandres.net/)
-* [Macht der Craft @ Spotify](https://open.spotify.com/show/5232Av5Ibaf4shvJzpSKEa)
-* [Macht der Craft @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1557997738)
-* [Macht der Craft Podcast RSS](https://macht-der-craft.soler-sanandres.net/feed/podcast)
-* Tags: Softwareentwicklung
 
 ----
 
@@ -905,7 +889,7 @@ Die Welt wird immer digitaler und IT-Sicherheit auch im Alltag immer wichtiger. 
 Wir thematisieren die wichtigen Fragestellungen rund um Internet, Gesellschaft und Politik und zeigen Wege auf, wie man sich auch selbst mit Hilfe des Netzes für digitale Freiheiten und Offenheit engagieren kann. Mit netzpolitik.org beschreiben wir, wie die Politik das Internet durch Regulierung verändert und wie das Netz Politik, Öffentlichkeiten und alles andere verändert.
 
 * Number of published episodes: 25
-* Last episode published: 🟢 Saturday, 09 November 2024
+* Last episode published: 🟢 Saturday, 07 December 2024
 * [Netzpolitik Website](https://netzpolitik.org/podcast/)
 * [Netzpolitik @ Spotify](https://open.spotify.com/show/2GLuMhSNEFzUIXfx9BDxBt)
 * [Netzpolitik @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1281525246)
@@ -1115,8 +1099,8 @@ Der Podcast für praktische Softwarearchitektur. Mit: Carola Lilienthal, Patrick
 
 Live-Diskussion zu Software-Architektur im Stream. Einmal in der Woche diskutiert Eberhard Wolff Software-Architektur im Live-Stream auf YouTube und Twitch - oft zusammen mit einem Gast. Zuschauer können über den Chat mitdiskutieren oder Fragen stellen. Der Podcast enthält die Audio-Spur des Streams.
 
-* Number of published episodes: 240
-* Last episode published: 🟢 Friday, 29 November 2024
+* Number of published episodes: 241
+* Last episode published: 🟢 Friday, 06 December 2024
 * [SoftwareArchitektur im Stream Website](https://software-architektur.tv/)
 * [SoftwareArchitektur im Stream @ Spotify](https://open.spotify.com/show/7ySg1eZoWYBshd6QpGaW8B)
 * [SoftwareArchitektur im Stream @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1538545458)
@@ -1147,8 +1131,8 @@ Der SoftwerkerCast präsentiert euch Softwerker-Wissen zum Reinhören und Nachh�
 
 In diesem Podcast diskutiert die t3n-Redaktion mit Gästen über die spannendsten digitalen Themen unserer Zeit. Ob innovative Führungskonzepte, die Digitalisierung der Gesellschaft, smarte Gadgets, neue Mobilität oder Zukunftstechnologien. Jeden Freitag um 10 Uhr!
 
-* Number of published episodes: 658
-* Last episode published: 🟢 Friday, 06 December 2024
+* Number of published episodes: 659
+* Last episode published: 🟢 Monday, 09 December 2024
 * [t3n Interview Website](https://t3n.de/podcast#interview)
 * [t3n Interview @ Spotify](https://open.spotify.com/show/7obTbZaywhQEiUUOMswQBQ)
 * [t3n Interview @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1115601393)
@@ -1178,8 +1162,8 @@ Der Podcast rund um Technologie, Smart Home, Gadgets und mehr. Patrick und Ingo 
 
 Irgendwas mit Technik
 
-* Number of published episodes: 191
-* Last episode published: 🟢 Tuesday, 19 November 2024
+* Number of published episodes: 192
+* Last episode published: 🟢 Saturday, 07 December 2024
 * [TechnikTechnik Website](https://techniktechnik.de/)
 * [TechnikTechnik @ Spotify](https://open.spotify.com/show/31hRI4ll65FoIzDJThWHJM)
 * [TechnikTechnik @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1285407879)
@@ -1272,8 +1256,8 @@ Der Podcast des Tux-Tage Teams. Wir wollen euch über die wichtigsten Themen in 
 
 Wir sind UNMUTE IT, der Podcast von und mit Frauen aus der IT. Wir erzählen von unseren Erfahrungen, begegneten Herausforderungen, Tipps &amp; Tricks und teilen die eine oder andere Anekdote. Frauen gehören in STEM Felder.Mit unserer Präsenz wollen wir dies untermauern und Frauen motivieren, sich mit dem Thema zu beschäftigen und den Schritt in die IT zu gehen.
 
-* Number of published episodes: 72
-* Last episode published: 🟢 Sunday, 24 November 2024
+* Number of published episodes: 73
+* Last episode published: 🟢 Sunday, 08 December 2024
 * Weekly downloads (avg): 177 (updated: 2023-01-21)
 * [Unmute IT Website](https://linkr.bio/unmute-it)
 * [Unmute IT @ Spotify](https://open.spotify.com/show/4v3xXuY5Km98xnmeXeGZgx)
@@ -1536,6 +1520,22 @@ know Information Technology (kurz knowIT) - in diesem Sinne behandelt der Podcas
 * [knowIT @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1564646449)
 * [knowIT Podcast RSS](https://anchor.fm/s/57935150/podcast/rss)
 * Tags: Female host
+
+----
+
+<h3 id="macht-der-craft">Macht der Craft</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/macht-der-craft.jpg" />
+
+Von Menschen für Menschen, die Software entwickeln, ist dieser Podcast gedacht. Damit Du in diesem Leben durch stetiges Lernen, den bestmöglichen Code kreieren kannst. Wir erzählen dir von agiler Softwareentwicklung, Software Craft, Methoden, Techniken und allem, was dazu gehört, um deine Fähigkeiten zu verbessern. Das Bestmögliche zu erschaffen, bedeutet mit dem Puls der Zeit zu gehen und ständig zu lernen.
+
+* Number of published episodes: 33
+* Last episode published: 🔴 Thursday, 06 June 2024
+* [Macht der Craft Website](https://macht-der-craft.soler-sanandres.net/)
+* [Macht der Craft @ Spotify](https://open.spotify.com/show/5232Av5Ibaf4shvJzpSKEa)
+* [Macht der Craft @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1557997738)
+* [Macht der Craft Podcast RSS](https://macht-der-craft.soler-sanandres.net/feed/podcast)
+* Tags: Softwareentwicklung
 
 ----
 
