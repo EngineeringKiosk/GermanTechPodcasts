@@ -159,8 +159,8 @@ Pentaradio24 ist eine Sendung, die jeden vierten Dienstag im Monat zwischen 21:3
 
 Deutschsprachiger Podcast zu den Themen IT-Sicherheit und Privatsphäre. Stefan und Sven unterhalten sich über aktuelle News und allgemeine Themen rund um Security und Privacy.
 
-* Number of published episodes: 118
-* Last episode published: 🟢 Friday, 22 November 2024
+* Number of published episodes: 119
+* Last episode published: 🟢 Friday, 20 December 2024
 * Weekly downloads (avg): 2000 (updated: 2023-01-16)
 * [0d - Zeroday Website](https://0x0d.de/)
 * [0d - Zeroday @ Spotify](https://open.spotify.com/show/5XTyNo5r6H0rRptIgaE1w4)
@@ -241,7 +241,7 @@ Prozessoren, Grafikkarten, Notebooks, Desktop-PCs, Server, KI, Rechenzentren und
 Die wöchentliche Talkrunde rund um Apple, Mac, iPod &#43; iPhone, Gadgets und so. Fast live aus München.
 
 * Number of published episodes: 10
-* Last episode published: 🟢 Monday, 16 December 2024
+* Last episode published: 🟢 Sunday, 22 December 2024
 * [Bits und so Website](http://www.bitsundso.de/)
 * [Bits und so @ Apple Podcasts](https://podcasts.apple.com/de/podcast/202753375)
 * [Bits und so Podcast RSS](http://www.bitsundso.de/feed/)
@@ -271,8 +271,8 @@ Ransomware Attacken, Phishing oder DDoS - jeden Tag aufs Neue werden Unternehmen
 
 Mitglieder der c&#39;t-Redaktion diskutieren über die aktuellen Themen aus dem c’t Magazin und was sonst noch so in der IT-Welt passiert.
 
-* Number of published episodes: 572
-* Last episode published: 🟢 Saturday, 14 December 2024
+* Number of published episodes: 573
+* Last episode published: 🟢 Saturday, 21 December 2024
 * [c&#39;t uplink Website](https://www.heise.de/thema/ct-uplink)
 * [c&#39;t uplink @ Spotify](https://open.spotify.com/show/4LdN7lGr9winLtQSqoIjVD)
 * [c&#39;t uplink @ Apple Podcasts](https://podcasts.apple.com/de/podcast/835717958)
@@ -286,8 +286,8 @@ Mitglieder der c&#39;t-Redaktion diskutieren über die aktuellen Themen aus dem 
 
 Im monatlichen Chaosradio informiert der Chaos Computer Club Berlin seit 1995 über die Auswirkungen von Technik auf die Gesellschaft.
 
-* Number of published episodes: 284
-* Last episode published: 🟢 Wednesday, 13 November 2024
+* Number of published episodes: 285
+* Last episode published: 🟢 Tuesday, 17 December 2024
 * [Chaosradio Website](https://chaosradio.de/)
 * [Chaosradio @ Apple Podcasts](https://podcasts.apple.com/de/podcast/135057225)
 * [Chaosradio Podcast RSS](https://chaosradio.de/feed/m4a)
@@ -331,8 +331,8 @@ Lucas Rott und Markus Herhoffer erzählen alle 14 Tage von Code und Nerd-Kultur.
 
 Dein Podcast rund um Softwareentwicklung und aktueller Tech News. Lernt die Coding Buddies Tino und Fabi kennen. Erfahrt spannende Dinge über diverse Themen aus der Softwareentwicklung und lauscht den Erfahrungen der Beiden. Dazu gibt es witzige Anekdoten der Coding Buddies.
 
-* Number of published episodes: 91
-* Last episode published: 🟢 Friday, 13 December 2024
+* Number of published episodes: 92
+* Last episode published: 🟢 Thursday, 19 December 2024
 * [Coding Buddies Website](https://www.codingbuddies.de/)
 * [Coding Buddies @ Spotify](https://open.spotify.com/show/5DaiBkAgQBt8DRCcwZY8xT?si=4acf817842f44c43)
 * [Coding Buddies @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1680339110)
@@ -347,7 +347,7 @@ Dein Podcast rund um Softwareentwicklung und aktueller Tech News. Lernt die Codi
 Jeden Samstag das Neueste aus Computertechnik und Informationstechnologie. Beiträge, Reportagen und Interviews zu IT-Sicherheit, Informatik, Datenschutz, Smartphones, Cloud-Computing und IT-Politik. Die Trends der IT werden kompakt und informativ zusammengefasst.
 
 * Number of published episodes: 20
-* Last episode published: 🟢 Saturday, 14 December 2024
+* Last episode published: 🟢 Saturday, 21 December 2024
 * [Computer und Kommunikation (Deutschlandfunk) Website](https://www.deutschlandfunk.de/computer-und-kommunikation-102.html)
 * [Computer und Kommunikation (Deutschlandfunk) @ Spotify](https://open.spotify.com/show/4uy56W83RGe8SKmzNpyfAc)
 * [Computer und Kommunikation (Deutschlandfunk) @ Apple Podcasts](https://podcasts.apple.com/de/podcast/173754605)
@@ -492,8 +492,8 @@ Software und IT sind komplex. Gerade Fachfremde, die dennoch häufig mit Softwar
 
 Der Engineering Kiosk ist der deutschsprachige Software-Engineering-Podcast mit Wolfgang Gassler und Andy Grunwald rund um die Themen Engineering-Kultur, Open Source, Menschen, Technologie und allen anderen Bereichen, die damit in Verbindung stehen.
 
-* Number of published episodes: 171
-* Last episode published: 🟢 Wednesday, 18 December 2024
+* Number of published episodes: 174
+* Last episode published: 🟢 Sunday, 22 December 2024
 * Weekly downloads (avg): 1099 (updated: 2023-01-31)
 * [Engineering Kiosk Website](https://engineeringkiosk.dev/)
 * [Engineering Kiosk @ Spotify](https://open.spotify.com/show/0tJRC0UsObPCWLmmzmOkIs)
@@ -541,8 +541,8 @@ Der FOCUS ON: DevOps Podcast beschäftigt sich mit verschiedenen Methoden und We
 
 Der FOCUS ON: Linux Podcast beschäftigt sich mit verschiedenen Themen rund um Linux. Unser Ziel ist es, euch monatlich über die Entwicklungen und Neuigkeiten zu informieren und auch praktische Tool-Tipps an die Hand zu geben.
 
-* Number of published episodes: 140
-* Last episode published: 🟢 Thursday, 19 December 2024
+* Number of published episodes: 142
+* Last episode published: 🟢 Saturday, 21 December 2024
 * Weekly downloads (avg): 780 (updated: 2024-01-11)
 * [FOCUS ON: Linux Website](https://focusonlinux.podigee.io/)
 * [FOCUS ON: Linux @ Spotify](https://open.spotify.com/show/4Yj9EaidQuwEZL0NkAafzh)
@@ -603,8 +603,8 @@ Ein monatlicher Podcast der GNU/Linux.ch Community mit Themen und Interviews run
 
 Zwei Softwareentwickler und Spiele-Enthusiasten entwickeln in ihrer Freizeit Videospiele und sprechen in einem Podcast über das, was sie tun, geben Tipps und diskutieren Technik sowie Methoden zur Spieleentwicklung.
 
-* Number of published episodes: 22
-* Last episode published: 🟡 Sunday, 08 September 2024
+* Number of published episodes: 23
+* Last episode published: 🟢 Friday, 20 December 2024
 * [Hobby Spieleentwickler Podcast Website](https://www.hobbyspieleentwicklerpodcast.de/)
 * [Hobby Spieleentwickler Podcast @ Spotify](https://open.spotify.com/show/0T08Oz5l2ztunuVZCBPyvG?si=bad7bdc63e9c4bba)
 * [Hobby Spieleentwickler Podcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1554911727)
@@ -619,8 +619,8 @@ Zwei Softwareentwickler und Spiele-Enthusiasten entwickeln in ihrer Freizeit Vid
 
 Du bist Entwickler/Developer? Dann Lauscher auf! Thomas und Christian sprechen im &#34;Index out of bounds&#34; Entwickler/Developer Podcast über ihre persönlichen Erfahrungen aus der Welt der Programmierung von Software, Websites, Apps und was es sonst noch so gibt. Schon seit Jahren tauschen sich die beiden leidenschaftlich gerne über Entwicklung/Development, den Spaß am Programmieren und Technologie aus. Hin und wieder sind da auch ein paar helle Momente dabei! Ein Podcast von Programmierern für Programmierer.
 
-* Number of published episodes: 91
-* Last episode published: 🟢 Sunday, 08 December 2024
+* Number of published episodes: 92
+* Last episode published: 🟢 Sunday, 22 December 2024
 * [Index out of bounds Website](https://www.ioob.de/)
 * [Index out of bounds @ Spotify](https://open.spotify.com/show/2r1FGvYRkSYq4SmXyVKmnA)
 * [Index out of bounds @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1564647339)
@@ -746,8 +746,8 @@ Ja sia! Der Technikpodcast von und mit Chris und Pati. Wir bringen euch regelmä
 
 Wie intelligent ist Künstliche Intelligenz eigentlich? Welche Folgen hat generative KI für unsere Arbeit, unsere Freizeit und die Gesellschaft? Im &#34;KI-Update&#34; von heise bringen wir Euch gemeinsam mit The Decoder werktäglich Updates zu den wichtigsten KI-Entwicklungen. Freitags beleuchten wir mit Experten die unterschiedlichen Aspekte der KI-Revolution.
 
-* Number of published episodes: 377
-* Last episode published: 🟢 Thursday, 19 December 2024
+* Number of published episodes: 378
+* Last episode published: 🟢 Friday, 20 December 2024
 * [KI-Update Website](https://www.heise.de/thema/KI-Update)
 * [KI-Update @ Spotify](https://open.spotify.com/show/1rm6gMybQWnHePvY2eCpzp)
 * [KI-Update @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1691536182)
@@ -762,8 +762,8 @@ Wie intelligent ist Künstliche Intelligenz eigentlich? Welche Folgen hat genera
 
 Die IT-News des Tages von heise online
 
-* Number of published episodes: 2079
-* Last episode published: 🟢 Friday, 20 December 2024
+* Number of published episodes: 2081
+* Last episode published: 🟢 Monday, 23 December 2024
 * [Kurz informiert by heise online Website](https://www.heise.de/Hoeren-Sie-von-uns-unsere-Podcasts-4206659.html)
 * [Kurz informiert by heise online @ Spotify](https://open.spotify.com/show/2etf1jog8leNHbnhIArM9Z)
 * [Kurz informiert by heise online Podcast RSS](https://kurzinformiert.podigee.io/feed/mp3)
@@ -793,8 +793,8 @@ Der Podcast über unsere digitale Lebens- und Arbeitswelt mit Markus Hörster un
 
 Logbuch:Netzpolitik ist ein in der Regel wöchentlich erscheinender Podcast, der im Dialog zwischen Linus Neumann und Tim Pritlove die wichtigsten Themen und Ereignisse mit netzpolitischem Bezug aufgreift und diskutiert.
 
-* Number of published episodes: 512
-* Last episode published: 🟢 Thursday, 12 December 2024
+* Number of published episodes: 513
+* Last episode published: 🟢 Saturday, 21 December 2024
 * [Logbuch: Netzpolitik Website](https://logbuch-netzpolitik.de/)
 * [Logbuch: Netzpolitik @ Apple Podcasts](https://podcasts.apple.com/de/podcast/476856034)
 * [Logbuch: Netzpolitik Podcast RSS](https://feeds.metaebene.me/lnp/m4a)
@@ -874,7 +874,7 @@ Die Welt wird immer digitaler und IT-Sicherheit auch im Alltag immer wichtiger. 
 Wir thematisieren die wichtigen Fragestellungen rund um Internet, Gesellschaft und Politik und zeigen Wege auf, wie man sich auch selbst mit Hilfe des Netzes für digitale Freiheiten und Offenheit engagieren kann. Mit netzpolitik.org beschreiben wir, wie die Politik das Internet durch Regulierung verändert und wie das Netz Politik, Öffentlichkeiten und alles andere verändert.
 
 * Number of published episodes: 25
-* Last episode published: 🟢 Saturday, 07 December 2024
+* Last episode published: 🟢 Saturday, 21 December 2024
 * [Netzpolitik Website](https://netzpolitik.org/podcast/)
 * [Netzpolitik @ Spotify](https://open.spotify.com/show/2GLuMhSNEFzUIXfx9BDxBt)
 * [Netzpolitik @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1281525246)
@@ -953,8 +953,8 @@ Ein Podcast über die dunkle Seite der Digitalisierung: Spionage, Hacker, Sabota
 
 Mit geballter Dev-Power nehmen Dennis, Fabi, Sebi und Jojo neue Podcastfolgen auf und werden dabei regelmäßig von Gäst:innen aus der Branche unterstützt. Taucht in unseren Deep Dives mit uns in Frameworks und Datenbanken ein, hört euch in den CTO-Specials die Erfahrungen führender Persönlichkeiten großer Unternehmen an und bleibt mit unseren News-Folgen stets am Ball in der Welt der App- und Webentwicklung.
 
-* Number of published episodes: 373
-* Last episode published: 🟢 Wednesday, 18 December 2024
+* Number of published episodes: 374
+* Last episode published: 🟢 Friday, 20 December 2024
 * Weekly downloads (avg): 8744 (updated: 2023-04-12)
 * [programmier.bar Website](https://www.programmier.bar/podcast)
 * [programmier.bar @ Spotify](https://open.spotify.com/show/0ik0sXv9paTQCeThcOLCCJ)
@@ -1068,8 +1068,8 @@ Jung, weiblich, genial: Im Tech-Podcast von NDR Info sucht die Tech-Journalistin
 
 Live-Diskussion zu Software-Architektur im Stream. Einmal in der Woche diskutiert Eberhard Wolff Software-Architektur im Live-Stream auf YouTube und Twitch - oft zusammen mit einem Gast. Zuschauer können über den Chat mitdiskutieren oder Fragen stellen. Der Podcast enthält die Audio-Spur des Streams.
 
-* Number of published episodes: 242
-* Last episode published: 🟢 Thursday, 12 December 2024
+* Number of published episodes: 243
+* Last episode published: 🟢 Friday, 20 December 2024
 * [SoftwareArchitektur im Stream Website](https://software-architektur.tv/)
 * [SoftwareArchitektur im Stream @ Spotify](https://open.spotify.com/show/7ySg1eZoWYBshd6QpGaW8B)
 * [SoftwareArchitektur im Stream @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1538545458)
@@ -1211,7 +1211,7 @@ Deutschsprachiger Podcast für die großen und kleinen Fragen des Developerallta
 Der Podcast des Tux-Tage Teams. Wir wollen euch über die wichtigsten Themen in der Open Source und Linux Welt am monatlich am Laufenden halten, und diese diskutieren.
 
 * Number of published episodes: 53
-* Last episode published: 🟢 Monday, 21 October 2024
+* Last episode published: 🟡 Monday, 21 October 2024
 * [Tux-Flash Website](https://www.youtube.com/playlist?list=PLPK5iNo_kpNe0dtNukSwl02w64dKSYBlJ)
 * [Tux-Flash @ Spotify](https://open.spotify.com/show/5j5C5a3nTq2L2Z2RBOvLuE)
 * [Tux-Flash Podcast RSS](https://anchor.fm/s/97e43ecc/podcast/rss)
@@ -1225,8 +1225,8 @@ Der Podcast des Tux-Tage Teams. Wir wollen euch über die wichtigsten Themen in 
 
 Wir sind UNMUTE IT, der Podcast von und mit Frauen aus der IT. Wir erzählen von unseren Erfahrungen, begegneten Herausforderungen, Tipps &amp; Tricks und teilen die eine oder andere Anekdote. Frauen gehören in STEM Felder.Mit unserer Präsenz wollen wir dies untermauern und Frauen motivieren, sich mit dem Thema zu beschäftigen und den Schritt in die IT zu gehen.
 
-* Number of published episodes: 74
-* Last episode published: 🟢 Monday, 09 December 2024
+* Number of published episodes: 75
+* Last episode published: 🟢 Sunday, 22 December 2024
 * Weekly downloads (avg): 177 (updated: 2023-01-21)
 * [Unmute IT Website](https://linkr.bio/unmute-it)
 * [Unmute IT @ Spotify](https://open.spotify.com/show/4v3xXuY5Km98xnmeXeGZgx)
