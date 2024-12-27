@@ -6,11 +6,12 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (75 podcasts)
+* [Podcasts](#podcasts) (77 podcasts)
   * [#heiseshow](#heiseshow)
   * [((c3d2)) Pentaradio 24](#c3d2-pentaradio-24)
   * [0d - Zeroday](#0d-zeroday)
   * [Apfelfunk](#apfelfunk)
+  * [Armchair Investigators](#armchair-investigators)
   * [Auslegungssache - der c&#39;t-Datenschutz-Podcast](#auslegungssache-der-ct-datenschutz-podcast)
   * [Binärgewitter](#binargewitter)
   * [Bit-Rauschen - der Prozessor-Podcast von c&#39;t](#bit-rauschen-der-prozessor-podcast-von-ct)
@@ -63,6 +64,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [Python Podcast](#python-podcast)
   * [RadioTux](#radiotux)
   * [Ready for Review](#ready-for-review)
+  * [Rheingehäckt](#rheingehackt)
   * [Schlüsseltechnologie](#schlusseltechnologie)
   * [Security-Insider](#security-insider)
   * [She Likes Tech](#she-likes-tech)
@@ -82,8 +84,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [Webcafé - Webentwicklung und Unternehmenskultur](#webcafe-webentwicklung-und-unternehmenskultur)
   * [Wo wir sind ist vorne](#wo-wir-sind-ist-vorne)
   * [Working Draft](#working-draft)
-* [Archived podcasts](#archived-podcasts) (28 podcasts)
-  * [Armchair Investigators](#armchair-investigators)
+* [Archived podcasts](#archived-podcasts) (26 podcasts)
   * [Autoweird](#autoweird)
   * [Bits &amp; Böses - Der Tech Crime Podcast](#bits-and-boses-der-tech-crime-podcast)
   * [Code and Ship](#code-and-ship)
@@ -98,7 +99,6 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [Macht der Craft](#macht-der-craft)
   * [Mixedcast](#mixedcast)
   * [Request for Comments](#request-for-comments)
-  * [Rheingehäckt](#rheingehackt)
   * [Schwarz, Code, Gold – Deutschland, Entwicklungsland?](#schwarz-code-gold-deutschland-entwicklungsland)
   * [SELECTrageFROMit;](#selectragefromit)
   * [She for what? She for IT!](#she-for-what-she-for-it)
@@ -176,13 +176,29 @@ Deutschsprachiger Podcast zu den Themen IT-Sicherheit und Privatsphäre. Stefan 
 
 Apfelfunk ist ein wöchentlicher Podcast über Apple-Themen. Jean-Claude Frick und Malte Kirchner berichten und bewerten darin die Neuigkeiten über den wichtigsten Computerkonzern der Welt.
 
-* Number of published episodes: 465
-* Last episode published: 🟢 Wednesday, 18 December 2024
+* Number of published episodes: 466
+* Last episode published: 🟢 Wednesday, 25 December 2024
 * [Apfelfunk Website](http://www.apfelfunk.com/)
 * [Apfelfunk @ Spotify](https://open.spotify.com/show/7FQLyWiNhMR0KS93ReaI4h)
 * [Apfelfunk @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1081146940)
 * [Apfelfunk Podcast RSS](https://feeds.soundcloud.com/users/soundcloud:users:201768667/sounds.rss)
 * Tags: Apple, Hardware
+
+----
+
+<h3 id="armchair-investigators">Armchair Investigators</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/armchair-investigators.png" />
+
+Ein Dialog über Malware, Cybercrime und Cyberspionage
+
+* Number of published episodes: 10
+* Last episode published: 🟡 Wednesday, 04 September 2024
+* [Armchair Investigators Website](https://armchairinvestigators.de/)
+* [Armchair Investigators @ Spotify](https://open.spotify.com/show/1xaPIhkQWfAtmHPg8llCEJ)
+* [Armchair Investigators @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1555931250)
+* [Armchair Investigators Podcast RSS](https://armchairinvestigators.de/feed/podcast/)
+* Tags: Malware, Cybercrime, Cyberspionage, Security
 
 ----
 
@@ -192,8 +208,8 @@ Apfelfunk ist ein wöchentlicher Podcast über Apple-Themen. Jean-Claude Frick u
 
 Sie möchten beim Thema Datenschutz auf dem Laufenden bleiben, aber keine seitenlange Literatur wälzen? Dann wenden Sie sich vertrauensvoll an unser Juristen-Redakteurs-Duo. Alle 14 Tage bespricht c&#39;t-Redakteur Holger Bleich mit Joerg Heidrich aktuelle Entwicklungen rund um den Datenschutz. Joerg ist beim c&#39;t-Mutterschiff Heise Medien als Justiziar für das Thema zuständig und hat täglich mit der europäischen Datenschutz-Grundverordnung (DSGVO) zu tun. Wechselnde Gäste ergänzen das Duo.&#34;
 
-* Number of published episodes: 125
-* Last episode published: 🟢 Friday, 13 December 2024
+* Number of published episodes: 126
+* Last episode published: 🟢 Friday, 27 December 2024
 * [Auslegungssache - der c&#39;t-Datenschutz-Podcast Website](https://www.heise.de/thema/auslegungssache)
 * [Auslegungssache - der c&#39;t-Datenschutz-Podcast @ Spotify](https://open.spotify.com/show/3Jrnu7vrTurguBaCiPapkA)
 * [Auslegungssache - der c&#39;t-Datenschutz-Podcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1485860893)
@@ -255,8 +271,8 @@ Die wöchentliche Talkrunde rund um Apple, Mac, iPod &#43; iPhone, Gadgets und s
 
 Ransomware Attacken, Phishing oder DDoS - jeden Tag aufs Neue werden Unternehmen Ziel von Angriffen. Was sind die Geschichten dahinter, wie laufen die Attacken ab und wie kann Schaden verhindert werden? Kim und Robert haben tagtäglich Einblicke in die Info Sec Welt und teilen in diesem Podcast mit Euch ihre Erfahrungen. Schaltet ein, wenn ihr regelmäßige Updates zu aktuellen Sicherheitslücken, Diskussionen zu Technologie Trends oder anderen Themen aus der Welt der Info Sec haben möchtet!
 
-* Number of published episodes: 61
-* Last episode published: 🟢 Tuesday, 29 October 2024
+* Number of published episodes: 66
+* Last episode published: 🟢 Tuesday, 10 December 2024
 * [Breach FM Website](https://breachfm.transistor.fm/)
 * [Breach FM @ Spotify](https://open.spotify.com/show/4ooV9mM8Qiyfkj9jUkdZjj)
 * [Breach FM @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1641279793)
@@ -331,8 +347,8 @@ Lucas Rott und Markus Herhoffer erzählen alle 14 Tage von Code und Nerd-Kultur.
 
 Dein Podcast rund um Softwareentwicklung und aktueller Tech News. Lernt die Coding Buddies Tino und Fabi kennen. Erfahrt spannende Dinge über diverse Themen aus der Softwareentwicklung und lauscht den Erfahrungen der Beiden. Dazu gibt es witzige Anekdoten der Coding Buddies.
 
-* Number of published episodes: 92
-* Last episode published: 🟢 Thursday, 19 December 2024
+* Number of published episodes: 93
+* Last episode published: 🟢 Thursday, 26 December 2024
 * [Coding Buddies Website](https://www.codingbuddies.de/)
 * [Coding Buddies @ Spotify](https://open.spotify.com/show/5DaiBkAgQBt8DRCcwZY8xT?si=4acf817842f44c43)
 * [Coding Buddies @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1680339110)
@@ -492,8 +508,8 @@ Software und IT sind komplex. Gerade Fachfremde, die dennoch häufig mit Softwar
 
 Der Engineering Kiosk ist der deutschsprachige Software-Engineering-Podcast mit Wolfgang Gassler und Andy Grunwald rund um die Themen Engineering-Kultur, Open Source, Menschen, Technologie und allen anderen Bereichen, die damit in Verbindung stehen.
 
-* Number of published episodes: 174
-* Last episode published: 🟢 Sunday, 22 December 2024
+* Number of published episodes: 177
+* Last episode published: 🟢 Tuesday, 24 December 2024
 * Weekly downloads (avg): 1099 (updated: 2023-01-31)
 * [Engineering Kiosk Website](https://engineeringkiosk.dev/)
 * [Engineering Kiosk @ Spotify](https://open.spotify.com/show/0tJRC0UsObPCWLmmzmOkIs)
@@ -525,8 +541,8 @@ Student*innen der Informatik, die einen Podcast machen, damit ihr alle checkt wi
 
 Der FOCUS ON: DevOps Podcast beschäftigt sich mit verschiedenen Methoden und Werkzeugen rund um das Thema DevOps. Dabei wechseln sich technische mit methodischen Folgen ab. Unser Ziel ist es über relevante Themen zu informieren und auch die Hersteller auf dem Markt als Gäste mit einzubinden.
 
-* Number of published episodes: 115
-* Last episode published: 🟢 Friday, 20 December 2024
+* Number of published episodes: 116
+* Last episode published: 🟢 Friday, 27 December 2024
 * [FOCUS ON: DevOps Website](https://focusondevops.podigee.io/)
 * [FOCUS ON: DevOps @ Spotify](https://open.spotify.com/show/0gXBw5mGcqXQkPW9h2JTaa)
 * [FOCUS ON: DevOps @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1542623849)
@@ -683,8 +699,8 @@ Dieser Podcast unterstützt schnell, konkret und umfänglich beim Einstieg in di
 
 Nur etwas mehr als 60 Jahre liegen zwischen dem ersten Start eines Motorflugzeugs und dem ersten bemannten Flug zum Mond. Das Handy wurde in nur 30 Jahren zum wichtigsten Kommunikationskanal unserer Zeit. Und IT? Die entwickelt sich nicht weniger rasant und macht in einer vernetzten und digitalen Welt vor keinem Bereich mehr halt. Im Podcast sprechen wir über Trendthemen, die zwar nichts mit Raketenwissenschaft zu tun haben, dafür aber Menschen auf dem Weg in eine digitale Zukunft begleiten. Bist Du bereit?
 
-* Number of published episodes: 118
-* Last episode published: 🟢 Wednesday, 18 December 2024
+* Number of published episodes: 119
+* Last episode published: 🟢 Wednesday, 25 December 2024
 * [IT ist alles Website](https://www.pco-online.de/magazin/2020/07/podcast)
 * [IT ist alles @ Spotify](https://open.spotify.com/show/46EUTeJsHSfscbkrI38f6p)
 * [IT ist alles @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1524049773)
@@ -712,7 +728,7 @@ Der Podcast für Auszubildende, Ausbilder und IHK-Prüfer in den IT-Berufen (Fac
 
 <h3 id="itatdb">IT@DB</h3>
 
-<img align="right" width="215" height="215" src="./generated/generated/images/it-at-db.png" />
+<img align="right" width="215" height="215" src="./generated/images/it-at-db.png" />
 
 IT@DB ist ein Podcast für IT Fach- und Führungskräfte (w/m/d). Hier erhältst du einen exklusiven Einblick zu spannenden IT Projekten der Deutschen Bahn.
 
@@ -1014,6 +1030,22 @@ Sandra Parsick &amp; Daniel Zenzes präsentieren mit Ready for Review einen bunt
 
 ----
 
+<h3 id="rheingehackt">Rheingehäckt</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/rheingehaeckt.png" />
+
+Wie können wir Cybersicherheit als gesamtgesellschaftliches Problem verstehen? Wolfgang Straßer, langjähriger Experte im Bereich Cybersicherheit und Marian Blok, Politikberater mit Schwerpunkt Cybersecurity, sprechen mit Cyber-Experten aus Unternehmen, Behörden und Verbänden.
+
+* Number of published episodes: 20
+* Last episode published: 🟢 Tuesday, 17 December 2024
+* [Rheingehäckt Website](https://www.at-yet.de/aktuelles)
+* [Rheingehäckt @ Spotify](https://open.spotify.com/show/1CFAcjQuET8Yv35k6v38fs)
+* [Rheingehäckt @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1585954195)
+* [Rheingehäckt Podcast RSS](https://2axxur.podcaster.de/rheingehaeckt.rss)
+* Tags: Security
+
+----
+
 <h3 id="schlusseltechnologie">Schlüsseltechnologie</h3>
 
 <img align="right" width="215" height="215" src="./generated/images/schluesseltechnologie.png" />
@@ -1064,7 +1096,7 @@ Jung, weiblich, genial: Im Tech-Podcast von NDR Info sucht die Tech-Journalistin
 
 <h3 id="softwarearchitektur-im-stream">SoftwareArchitektur im Stream</h3>
 
-<img align="right" width="215" height="215" src="./generated/generated/images/softwarearchitektur-im-stream.png" />
+<img align="right" width="215" height="215" src="./generated/images/softwarearchitektur-im-stream.png" />
 
 Live-Diskussion zu Software-Architektur im Stream. Einmal in der Woche diskutiert Eberhard Wolff Software-Architektur im Live-Stream auf YouTube und Twitch - oft zusammen mit einem Gast. Zuschauer können über den Chat mitdiskutieren oder Fragen stellen. Der Podcast enthält die Audio-Spur des Streams.
 
@@ -1320,22 +1352,6 @@ Wöchentlicher Podcast für Webdesigner:innen und -entwickler:innen
 ## Archived podcasts
 
 
-<h3 id="armchair-investigators">Armchair Investigators</h3>
-
-<img align="right" width="215" height="215" src="./generated/images/armchair-investigators.png" />
-
-Ein Dialog über Malware, Cybercrime und Cyberspionage
-
-* Number of published episodes: 9
-* Last episode published: 🔴 Monday, 01 May 2023
-* [Armchair Investigators Website](https://armchairinvestigators.de/)
-* [Armchair Investigators @ Spotify](https://open.spotify.com/show/1xaPIhkQWfAtmHPg8llCEJ)
-* [Armchair Investigators @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1555931250)
-* [Armchair Investigators Podcast RSS](https://armchairinvestigators.de/feed/podcast/)
-* Tags: Malware, Cybercrime, Cyberspionage, Security
-
-----
-
 <h3 id="autoweird">Autoweird</h3>
 
 <img align="right" width="215" height="215" src="./generated/images/autoweird.png" />
@@ -1550,22 +1566,6 @@ RFC definieren das Internet. Nahezu jeder Informationsaustausch zwischen zwei Re
 * [Request for Comments Website](https://requestforcomments.de/)
 * [Request for Comments @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1082223939)
 * [Request for Comments Podcast RSS](https://requestforcomments.de/feed/m4a)
-
-----
-
-<h3 id="rheingehackt">Rheingehäckt</h3>
-
-<img align="right" width="215" height="215" src="./generated/images/rheingehaeckt.png" />
-
-Wie können wir Cybersicherheit als gesamtgesellschaftliches Problem verstehen? Wolfgang Straßer, langjähriger Experte im Bereich Cybersicherheit und Marian Blok, Politikberater mit Schwerpunkt Cybersecurity, sprechen mit Cyber-Experten aus Unternehmen, Behörden und Verbänden.
-
-* Number of published episodes: 8
-* Last episode published: 🔴 Tuesday, 25 October 2022
-* [Rheingehäckt Website](https://www.at-yet.de/aktuelles)
-* [Rheingehäckt @ Spotify](https://open.spotify.com/show/1CFAcjQuET8Yv35k6v38fs)
-* [Rheingehäckt @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1585954195)
-* [Rheingehäckt Podcast RSS](https://2axxur.podcaster.de/rheingehaeckt.rss)
-* Tags: Security
 
 ----
 
