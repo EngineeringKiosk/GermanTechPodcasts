@@ -16,7 +16,7 @@
  },
  "episodeCount": 50,
  "latestEpisodePublished": 1719493200,
- "archive": false,
+ "archive": true,
  "itunesID": 1674729698,
  "image": "images/tech-me-if-you-can.jpg"
 }
