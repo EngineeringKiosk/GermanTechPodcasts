@@ -15,7 +15,7 @@
  },
  "episodeCount": 42,
  "latestEpisodePublished": 1720551600,
- "archive": false,
+ "archive": true,
  "itunesID": 1529154227,
  "image": "images/open-source-couch.png"
 }

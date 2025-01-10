@@ -6,7 +6,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (76 podcasts)
+* [Podcasts](#podcasts) (75 podcasts)
   * [#heiseshow](#heiseshow)
   * [((c3d2)) Pentaradio 24](#c3d2-pentaradio-24)
   * [0d - Zeroday](#0d-zeroday)
@@ -57,7 +57,6 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [Nachgehackt](#nachgehackt)
   * [Netzpolitik](#netzpolitik)
   * [Neuland](#neuland)
-  * [Open Source Couch](#open-source-couch)
   * [Open Source in der Industrie](#open-source-in-der-industrie)
   * [Percepticon](#percepticon)
   * [programmier.bar](#programmier-bar)
@@ -83,7 +82,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [Webcafé - Webentwicklung und Unternehmenskultur](#webcafe-webentwicklung-und-unternehmenskultur)
   * [Wo wir sind ist vorne](#wo-wir-sind-ist-vorne)
   * [Working Draft](#working-draft)
-* [Archived podcasts](#archived-podcasts) (27 podcasts)
+* [Archived podcasts](#archived-podcasts) (28 podcasts)
   * [Autoweird](#autoweird)
   * [Bits &amp; Böses - Der Tech Crime Podcast](#bits-and-boses-der-tech-crime-podcast)
   * [Code and Ship](#code-and-ship)
@@ -97,6 +96,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [knowIT](#knowit)
   * [Macht der Craft](#macht-der-craft)
   * [Mixedcast](#mixedcast)
+  * [Open Source Couch](#open-source-couch)
   * [Request for Comments](#request-for-comments)
   * [Schwarz, Code, Gold – Deutschland, Entwicklungsland?](#schwarz-code-gold-deutschland-entwicklungsland)
   * [SELECTrageFROMit;](#selectragefromit)
@@ -127,8 +127,8 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
 
 Immer donnerstags live um 17 Uhr sprechen Anna Kalinowsky, Malte Kirchner und Volker Zota von heise online bei YouTube über die Tech-Themen der Woche. Zum Nachhören gibt es die #heiseshow auch als Podcast.
 
-* Number of published episodes: 446
-* Last episode published: 🟢 Thursday, 19 December 2024
+* Number of published episodes: 447
+* Last episode published: 🟢 Thursday, 09 January 2025
 * [#heiseshow Website](https://www.heise.de/thema/heiseshow)
 * [#heiseshow @ Spotify](https://open.spotify.com/show/7iMjJRAHcOAumvPbdGDavJ)
 * [#heiseshow @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1082296572)
@@ -318,7 +318,7 @@ Im monatlichen Chaosradio informiert der Chaos Computer Club Berlin seit 1995 ü
 Ein Podcast über den nahezu unendlich tiefen Kaninchenbau der mechanische Tastaturen. Ich erzähle euch was es neues im Hobby der mechanical Keyboards gibt, Groupbuys, Interestchecks, Neue Keyboards, Keycaps und Switches und noch viel viel mehr....
 
 * Number of published episodes: 106
-* Last episode published: 🟢 Friday, 29 November 2024
+* Last episode published: 🟢 Thursday, 09 January 2025
 * [Click! Clack! Hack! Website](https://www.nerdbude.com/podcast/)
 * [Click! Clack! Hack! @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1551770169)
 * [Click! Clack! Hack! Podcast RSS](https://www.nerdbude.com/podcast/feed/feed.xml)
@@ -347,8 +347,8 @@ Lucas Rott und Markus Herhoffer erzählen alle 14 Tage von Code und Nerd-Kultur.
 
 Dein Podcast rund um Softwareentwicklung und aktueller Tech News. Lernt die Coding Buddies Tino und Fabi kennen. Erfahrt spannende Dinge über diverse Themen aus der Softwareentwicklung und lauscht den Erfahrungen der Beiden. Dazu gibt es witzige Anekdoten der Coding Buddies.
 
-* Number of published episodes: 94
-* Last episode published: 🟢 Thursday, 02 January 2025
+* Number of published episodes: 95
+* Last episode published: 🟢 Thursday, 09 January 2025
 * [Coding Buddies Website](https://www.codingbuddies.de/)
 * [Coding Buddies @ Spotify](https://open.spotify.com/show/5DaiBkAgQBt8DRCcwZY8xT?si=4acf817842f44c43)
 * [Coding Buddies @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1680339110)
@@ -424,8 +424,8 @@ Wir sind ein Laber-Technik-Lebensweisheiten-Podcast, mit News, Retrogeschichten 
 
 Wir machen Data Science. Und in unserem Podcast Data Science Deep Dive reden wir darüber. Du bist ebenfalls Data Scientist oder interessierst dich für Daten, ML und AI? Dann ist dieser Podcast für dich. Wir teilen unsere Learnings aus über 180 Projekten, du bekommst Infos und Anregungen zu spannenden Themen rund um Daten. Wir klären auf, geben Hinweise und teilen unsere Erfahrungen, die wir in über 10 Jahren als Data Scientists im B2B Bereich gesammelt haben. Wir decken auf, was wirklich hinter den Hypes und Trends der Data Science Branche steckt. Wir hinterfragen, was ein Data Science Projekt erfolgreich macht und welche Faktoren es zum Scheitern verurteilen.
 
-* Number of published episodes: 63
-* Last episode published: 🟢 Thursday, 19 December 2024
+* Number of published episodes: 64
+* Last episode published: 🟢 Thursday, 09 January 2025
 * Weekly downloads (avg): 618 (updated: 2024-10-25)
 * [Data Science Deep Dive Website](https://inwt.podbean.com/)
 * [Data Science Deep Dive @ Spotify](https://open.spotify.com/show/089UlaVMdcppseWxxYr28O)
@@ -508,8 +508,8 @@ Software und IT sind komplex. Gerade Fachfremde, die dennoch häufig mit Softwar
 
 Der Engineering Kiosk ist der deutschsprachige Software-Engineering-Podcast mit Wolfgang Gassler und Andy Grunwald rund um die Themen Engineering-Kultur, Open Source, Menschen, Technologie und allen anderen Bereichen, die damit in Verbindung stehen.
 
-* Number of published episodes: 178
-* Last episode published: 🟢 Tuesday, 31 December 2024
+* Number of published episodes: 179
+* Last episode published: 🟢 Tuesday, 07 January 2025
 * Weekly downloads (avg): 1099 (updated: 2023-01-31)
 * [Engineering Kiosk Website](https://engineeringkiosk.dev/)
 * [Engineering Kiosk @ Spotify](https://open.spotify.com/show/0tJRC0UsObPCWLmmzmOkIs)
@@ -762,8 +762,8 @@ Ja sia! Der Technikpodcast von und mit Chris und Pati. Wir bringen euch regelmä
 
 Wie intelligent ist Künstliche Intelligenz eigentlich? Welche Folgen hat generative KI für unsere Arbeit, unsere Freizeit und die Gesellschaft? Im &#34;KI-Update&#34; von heise bringen wir Euch gemeinsam mit The Decoder werktäglich Updates zu den wichtigsten KI-Entwicklungen. Freitags beleuchten wir mit Experten die unterschiedlichen Aspekte der KI-Revolution.
 
-* Number of published episodes: 380
-* Last episode published: 🟢 Wednesday, 08 January 2025
+* Number of published episodes: 381
+* Last episode published: 🟢 Thursday, 09 January 2025
 * [KI-Update Website](https://www.heise.de/thema/KI-Update)
 * [KI-Update @ Spotify](https://open.spotify.com/show/1rm6gMybQWnHePvY2eCpzp)
 * [KI-Update @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1691536182)
@@ -778,7 +778,7 @@ Wie intelligent ist Künstliche Intelligenz eigentlich? Welche Folgen hat genera
 
 Die IT-News des Tages von heise online
 
-* Number of published episodes: 2095
+* Number of published episodes: 2096
 * Last episode published: 🟢 Thursday, 09 January 2025
 * [Kurz informiert by heise online Website](https://www.heise.de/Hoeren-Sie-von-uns-unsere-Podcasts-4206659.html)
 * [Kurz informiert by heise online @ Spotify](https://open.spotify.com/show/2etf1jog8leNHbnhIArM9Z)
@@ -912,22 +912,6 @@ Mehr Wissen über die digitale Welt. Experten des Hasso-Plattner-Instituts sprec
 * [Neuland @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1448992875)
 * [Neuland Podcast RSS](https://podcast.hpi.de/feed.xml)
 * Tags: Digitalisierung, IT, Forschung, Wissenspodcast, Bildung
-
-----
-
-<h3 id="open-source-couch">Open Source Couch</h3>
-
-<img align="right" width="215" height="215" src="./generated/images/open-source-couch.png" />
-
-Oli und Michael sprechen über alles Wichtige aus der Welt der Open Source, Technologie und dem Geek-tum.
-
-* Number of published episodes: 42
-* Last episode published: 🟡 Tuesday, 09 July 2024
-* [Open Source Couch Website](https://www.opensourcecouch.de/)
-* [Open Source Couch @ Spotify](https://open.spotify.com/show/3fNThjRvMKJhhyg7eCTY8v)
-* [Open Source Couch @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1529154227)
-* [Open Source Couch Podcast RSS](https://letscast.fm/podcasts/die-open-source-couch-0743e028/feed)
-* Tags: Open Source
 
 ----
 
@@ -1132,8 +1116,8 @@ Der SoftwerkerCast präsentiert euch Softwerker-Wissen zum Reinhören und Nachh�
 
 In diesem Podcast diskutiert die t3n-Redaktion mit Gästen über die spannendsten digitalen Themen unserer Zeit. Ob innovative Führungskonzepte, die Digitalisierung der Gesellschaft, smarte Gadgets, neue Mobilität oder Zukunftstechnologien. Jeden Freitag um 10 Uhr!
 
-* Number of published episodes: 662
-* Last episode published: 🟢 Friday, 20 December 2024
+* Number of published episodes: 663
+* Last episode published: 🟢 Friday, 10 January 2025
 * [t3n Interview Website](https://t3n.de/podcast#interview)
 * [t3n Interview @ Spotify](https://open.spotify.com/show/7obTbZaywhQEiUUOMswQBQ)
 * [t3n Interview @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1115601393)
@@ -1536,6 +1520,22 @@ Der MIXEDCAST ist Deutschlands Podcast über Virtual Reality, Augmented Reality,
 * [Mixedcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1141873988)
 * [Mixedcast Podcast RSS](https://feeds.soundcloud.com/users/soundcloud:users:246129251/sounds.rss)
 * Tags: Virtual Reality, Augmented Reality, Mixed Reality, Künstliche Intelligenz
+
+----
+
+<h3 id="open-source-couch">Open Source Couch</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/open-source-couch.png" />
+
+Oli und Michael sprechen über alles Wichtige aus der Welt der Open Source, Technologie und dem Geek-tum.
+
+* Number of published episodes: 42
+* Last episode published: 🔴 Tuesday, 09 July 2024
+* [Open Source Couch Website](https://www.opensourcecouch.de/)
+* [Open Source Couch @ Spotify](https://open.spotify.com/show/3fNThjRvMKJhhyg7eCTY8v)
+* [Open Source Couch @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1529154227)
+* [Open Source Couch Podcast RSS](https://letscast.fm/podcasts/die-open-source-couch-0743e028/feed)
+* Tags: Open Source
 
 ----
 
