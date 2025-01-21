@@ -5,17 +5,17 @@
  "podcastIndexID": 5947495,
  "rssFeed": "https://anchor.fm/s/d4258904/podcast/rss",
  "spotify": "https://open.spotify.com/show/4eTpBCjUos9xUXtX294CnY?si=457f567027574f40",
- "description": "Software und IT sind komplex. Gerade Fachfremde, die dennoch häufig mit Software und IT in Berührung kommen, sind sich dessen bewusst. Es kann nur von Vorteil sein, von gängigen Konzepten und Technologien gehört zu haben. So lässt es sich besser mitreden und entscheiden, wenn ein Softwareprojekt, neue Infrastruktur oder andere Fragen mit Bezug zur IT anstehen. Bei \"Einfach komplex\" erhältst du jeden Dienstag eine Perspektive auf Softwareentwicklung, IT- sowie OT-Themen, um für private als auch berufliche Diskussionen gewappnet zu sein. Doch seien wir ehrlich, es bleibt einfach komplex!",
+ "description": "Einfach Komplex macht Software und IT verständlich – für Laien und Experten gleichermaßen. Jeden zweiten Dienstag bieten wir Einblicke in die Welt der Softwareentwicklung und IT. Unser Ziel: dich für Diskussionen rund um Softwareprojekte, IT/OT-Infrastruktur oder digitale Zukunftsfragen fit zu machen. Einfach erklärt, aber in all seiner Komplexität – damit du besser mitreden kannst und fundierte Entscheidungen triffst. Einfach Komplex wird präsentiert von Heisenware.",
  "tags": [
   "Softwareentwicklung",
   "IoT",
-  "IT",
-  "Einsteiger",
-  "Software"
+  "Technologie",
+  "Software",
+  "Manufacturing"
  ],
  "weekly_downloads_avg": {
-  "value": 1050,
-  "updated": "2024-02-05"
+  "value": 1900,
+  "updated": "2025-01-21"
  },
  "episodeCount": 76,
  "latestEpisodePublished": 1736817300,
