@@ -457,8 +457,8 @@ Wir reden über Spieleentwicklung und allgemein über die Branche aber gehen auc
 
 Der Unterhaltungs-Podcast für .NET Entwickler - ca. alle zwei Wochen treffen sich die freiberuflichen Entwickler Oliver Vogel, Thomas Krause und Manuel Wenk um über allerlei News und Infos aus der .NET und Microsoft Azure Welt zu berichten. Ist das Essen schon da?
 
-* Number of published episodes: 113
-* Last episode published: 🟡 Thursday, 07 November 2024
+* Number of published episodes: 114
+* Last episode published: 🟢 Tuesday, 21 January 2025
 * Weekly downloads (avg): 471 (updated: 2023-01-03)
 * [DevCouch Website](https://devcouch.de/)
 * [DevCouch @ Spotify](https://open.spotify.com/show/0MfjnJ0I7SxJ89JIBWIcJJ)
@@ -1189,7 +1189,7 @@ IT-Security, unendliche Weiten ... So oder so ähnlich lässt sich die Größeno
 
 <h3 id="thinkpad-museum-podcast">ThinkPad-Museum Podcast</h3>
 
-<img align="right" width="215" height="215" src="./generated/generated/images/thinkpad-museum.png" />
+<img align="right" width="215" height="215" src="./generated/images/thinkpad-museum.png" />
 
 Besonders in Business- und Hacker:innen-Kreisen trifft man sie häufig an - ThinkPads. Dieser Podcast beschäftigt sich mit der Geschichte und Gegenwart der Geräte. So sprechen wir über denkwürdige Modelle, revolutionäre Techniken und spannende Persönlichkeiten aus dem ThinkPad-Kosmos.
 
