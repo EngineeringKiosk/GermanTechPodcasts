@@ -17,6 +17,10 @@ staticcheck: ## Runs static code analyzer staticcheck
 vet: ## Runs go vet
 	go vet ./...
 
+.PHONY: tagstats
+tagstats: ## get tag stats
+	./GermanTechPodcasts tagStats --yml-directory ../podcasts/ 
+
 .PHONY: run
 run: build ## Compiles and starts the application
 	./GermanTechPodcasts
