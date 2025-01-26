@@ -760,7 +760,7 @@ Der Podcast für Auszubildende, Ausbilder und IHK-Prüfer in den IT-Berufen (Fac
 
 <h3 id="itatdb">IT@DB</h3>
 
-<img align="right" width="215" height="215" src="./generated/images/it-at-db.png" />
+<img align="right" width="215" height="215" src="./generated/generated/images/it-at-db.png" />
 
 IT@DB ist ein Podcast für IT Fach- und Führungskräfte (w/m/d). Hier erhältst du einen exklusiven Einblick zu spannenden IT Projekten der Deutschen Bahn.
 
@@ -775,7 +775,7 @@ IT@DB ist ein Podcast für IT Fach- und Führungskräfte (w/m/d). Hier erhältst
 
 <h3 id="ja-sia">Ja sia!</h3>
 
-<img align="right" width="215" height="215" src="./generated/images/ja-sia.jpg" />
+<img align="right" width="215" height="215" src="./generated/generated/images/ja-sia.jpg" />
 
 Ja sia! Der Technikpodcast von und mit Chris und Pati. Wir bringen euch regelmäßig neue Infos zu aktuellen technologischen- und dazugehörigen wissenschaftlichen Themen kombiniert mit der einen oder anderen unterhaltsamen Spaßrubrik. ;)
 
