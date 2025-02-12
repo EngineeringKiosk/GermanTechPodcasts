@@ -241,8 +241,8 @@ Ein Podcast über Web, Entwicklung, Mobile und Technologie. Betrachtet aus der S
 
 Prozessoren, Grafikkarten, Notebooks, Desktop-PCs, Server, KI, Rechenzentren und IT-Markt: In &#34;Bit-Rauschen&#34;, dem Prozessor-Podcast des Computermagazins c’t, dreht sich alles um Chips.
 
-* Number of published episodes: 107
-* Last episode published: 🟢 Wednesday, 29 January 2025
+* Number of published episodes: 108
+* Last episode published: 🟢 Wednesday, 12 February 2025
 * [Bit-Rauschen - der Prozessor-Podcast von c&#39;t Website](https://www.heise.de/thema/bit-rauschen)
 * [Bit-Rauschen - der Prozessor-Podcast von c&#39;t @ Spotify](https://open.spotify.com/show/6JD6gwqgVR27GYZACrWOT1)
 * [Bit-Rauschen - der Prozessor-Podcast von c&#39;t @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1549821753)
@@ -258,7 +258,7 @@ Prozessoren, Grafikkarten, Notebooks, Desktop-PCs, Server, KI, Rechenzentren und
 Die wöchentliche Talkrunde rund um Apple, Mac, iPod &#43; iPhone, Gadgets und so. Fast live aus München.
 
 * Number of published episodes: 10
-* Last episode published: 🟢 Sunday, 02 February 2025
+* Last episode published: 🟢 Tuesday, 11 February 2025
 * [Bits und so Website](http://www.bitsundso.de/)
 * [Bits und so @ Apple Podcasts](https://podcasts.apple.com/de/podcast/202753375)
 * [Bits und so Podcast RSS](http://www.bitsundso.de/feed/)
@@ -492,8 +492,8 @@ Hier geht es um die kleinen und großen Fehlschläge in der Geschichte der Techn
 
 Einfach Komplex macht Software und IT verständlich – für Laien und Experten gleichermaßen. Jeden zweiten Dienstag bieten wir Einblicke in die Welt der Softwareentwicklung und IT. Unser Ziel: dich für Diskussionen rund um Softwareprojekte, IT/OT-Infrastruktur oder digitale Zukunftsfragen fit zu machen. Einfach erklärt, aber in all seiner Komplexität – damit du besser mitreden kannst und fundierte Entscheidungen triffst. Einfach Komplex wird präsentiert von Heisenware.
 
-* Number of published episodes: 77
-* Last episode published: 🟢 Tuesday, 28 January 2025
+* Number of published episodes: 78
+* Last episode published: 🟢 Tuesday, 11 February 2025
 * Weekly downloads (avg): 1900 (updated: 2025-01-21)
 * [Einfach Komplex Website](https://heisenware.com/podcast)
 * [Einfach Komplex @ Spotify](https://open.spotify.com/show/4eTpBCjUos9xUXtX294CnY?si=457f567027574f40)
@@ -509,8 +509,8 @@ Einfach Komplex macht Software und IT verständlich – für Laien und Experten 
 
 Der Engineering Kiosk ist der deutschsprachige Software-Engineering-Podcast mit Wolfgang Gassler und Andy Grunwald rund um die Themen Engineering-Kultur, Open Source, Menschen, Technologie und allen anderen Bereichen, die damit in Verbindung stehen.
 
-* Number of published episodes: 183
-* Last episode published: 🟢 Tuesday, 04 February 2025
+* Number of published episodes: 184
+* Last episode published: 🟢 Tuesday, 11 February 2025
 * Weekly downloads (avg): 1099 (updated: 2023-01-31)
 * [Engineering Kiosk Website](https://engineeringkiosk.dev/)
 * [Engineering Kiosk @ Spotify](https://open.spotify.com/show/0tJRC0UsObPCWLmmzmOkIs)
@@ -575,8 +575,8 @@ Der FOCUS ON: Linux Podcast beschäftigt sich mit verschiedenen Themen rund um L
 
 Habt ihr diesen Spruch auch schon mal gehört – mit hochgezogenen Augenbrauen, dezentem Kopfschütteln und einem leicht genervten Ausatmen: “Frauen und Technik…”, dann seid ihr hier genau richtig. Der neue Technologie-Podcast der c&#39;t “Frauen und Technik mit Svea Eckert und Eva Wolfangel” spielt genau mit diesem Klischee, bricht es charmant auf und vermittelt dabei Wissen. Die beiden erfahrenen, freien Technologie-Journalistinnen widmen sich alle 14-Tage einem spannenden Tech-Thema und laden sich dazu inspirierende weibliche Gäste ein. Aber auch die Podcast-Hosts bringen etwas mit: investigative und spannende Recherchen, zu denen es in jeder Folge gleich zu Beginn einen kurzen Deepdive gibt.
 
-* Number of published episodes: 16
-* Last episode published: 🟢 Wednesday, 05 February 2025
+* Number of published episodes: 17
+* Last episode published: 🟢 Wednesday, 12 February 2025
 * [Frauen und Technik – mit Eckert und Wolfangel Website](https://frauen-technik.podigee.io/)
 * [Frauen und Technik – mit Eckert und Wolfangel @ Spotify](https://open.spotify.com/show/3HwNHImCFF1NvNMQnN2rFR)
 * [Frauen und Technik – mit Eckert und Wolfangel @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1762825923)
@@ -605,8 +605,8 @@ Freak Show ist ein Podcast, der sich mit dem Leben mit Technik im 21. Jahrhunder
 
 Wir talken GameDev und haben Unreal News.
 
-* Number of published episodes: 130
-* Last episode published: 🟢 Tuesday, 04 February 2025
+* Number of published episodes: 131
+* Last episode published: 🟢 Tuesday, 11 February 2025
 * [Gamedev für die Platte - Der Unreal Podcast Website](https://gamedevfuerdieplatte.podbean.com/)
 * [Gamedev für die Platte - Der Unreal Podcast @ Spotify](https://open.spotify.com/show/3UtoyAbMfEvkSIx5w3HohY)
 * [Gamedev für die Platte - Der Unreal Podcast Podcast RSS](https://feed.podbean.com/gamedevfuerdieplatte/feed.xml)
@@ -620,8 +620,8 @@ Wir talken GameDev und haben Unreal News.
 
 Ein monatlicher Podcast der GNU/Linux.ch Community mit Themen und Interviews rund um die Themen GNU/Linux, Freie Software und Freie Gesellschaft.
 
-* Number of published episodes: 129
-* Last episode published: 🟢 Wednesday, 05 February 2025
+* Number of published episodes: 130
+* Last episode published: 🟢 Tuesday, 11 February 2025
 * [GNU/Linux.ch Website](https://gnulinux.ch/)
 * [GNU/Linux.ch @ Spotify](https://open.spotify.com/show/0rs1Zm91TsjHhGo2lt0uPi)
 * [GNU/Linux.ch @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1527155920)
@@ -778,8 +778,8 @@ Ja sia! Der Technikpodcast von und mit Chris und Pati. Wir bringen euch regelmä
 
 Wie intelligent ist Künstliche Intelligenz eigentlich? Welche Folgen hat generative KI für unsere Arbeit, unsere Freizeit und die Gesellschaft? Im &#34;KI-Update&#34; von heise bringen wir Euch gemeinsam mit The Decoder werktäglich Updates zu den wichtigsten KI-Entwicklungen. Freitags beleuchten wir mit Experten die unterschiedlichen Aspekte der KI-Revolution.
 
-* Number of published episodes: 402
-* Last episode published: 🟢 Friday, 07 February 2025
+* Number of published episodes: 404
+* Last episode published: 🟢 Tuesday, 11 February 2025
 * [KI-Update Website](https://www.heise.de/thema/KI-Update)
 * [KI-Update @ Spotify](https://open.spotify.com/show/1rm6gMybQWnHePvY2eCpzp)
 * [KI-Update @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1691536182)
@@ -794,8 +794,8 @@ Wie intelligent ist Künstliche Intelligenz eigentlich? Welche Folgen hat genera
 
 Die IT-News des Tages von heise online
 
-* Number of published episodes: 2139
-* Last episode published: 🟢 Monday, 10 February 2025
+* Number of published episodes: 2143
+* Last episode published: 🟢 Wednesday, 12 February 2025
 * [Kurz informiert by heise online Website](https://www.heise.de/Hoeren-Sie-von-uns-unsere-Podcasts-4206659.html)
 * [Kurz informiert by heise online @ Spotify](https://open.spotify.com/show/2etf1jog8leNHbnhIArM9Z)
 * [Kurz informiert by heise online Podcast RSS](https://kurzinformiert.podigee.io/feed/mp3)
@@ -1338,8 +1338,8 @@ Latenight-Frontend-Talkshow rund um Webdesign und Entwicklung. Es reden sich um 
 
 Wöchentlicher Podcast für Webdesigner:innen und -entwickler:innen
 
-* Number of published episodes: 667
-* Last episode published: 🟢 Tuesday, 04 February 2025
+* Number of published episodes: 668
+* Last episode published: 🟢 Monday, 10 February 2025
 * [Working Draft Website](https://workingdraft.de/)
 * [Working Draft @ Spotify](https://open.spotify.com/show/78iH7cIFzu1ejoB6aQUsIh)
 * [Working Draft @ Apple Podcasts](https://podcasts.apple.com/de/podcast/402204581)
