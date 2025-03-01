@@ -24,7 +24,7 @@ jobs:
           cache-dependency-path: app/go.sum
 
       # Caching go modules to speed up the run
-      - uses: actions/cache@v4.2.0
+      - uses: actions/cache@v4.2.2
         with:
           path: ~/go/pkg/mod
           key: ${{ runner.os }}-go-${{ hashFiles('**/go.sum') }}
