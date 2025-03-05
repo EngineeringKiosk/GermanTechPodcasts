@@ -18,7 +18,7 @@
  },
  "episodeCount": 10,
  "latestEpisodePublished": 1725479345,
- "archive": false,
+ "archive": true,
  "itunesID": 1555931250,
  "image": "images/armchair-investigators.png"
 }
