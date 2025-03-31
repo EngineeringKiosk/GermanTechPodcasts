@@ -146,7 +146,7 @@ Pentaradio24 ist eine Sendung, die jeden vierten Dienstag im Monat zwischen 21:3
 
 
 * Number of published episodes: 43
-* Last episode published: 🟢 Wednesday, 26 March 2025
+* Last episode published: 🟢 Saturday, 29 March 2025
 * [((c3d2)) Pentaradio 24 Website](https://www.c3d2.de/radio.html)
 * [((c3d2)) Pentaradio 24 @ Apple Podcasts](https://podcasts.apple.com/de/podcast/350873124)
 * [((c3d2)) Pentaradio 24 Podcast RSS](https://www.c3d2.de/pentaradio.xml)
@@ -272,8 +272,8 @@ Ransomware Attacken, Phishing oder DDoS - jeden Tag aufs Neue werden Unternehmen
 
 Mitglieder der c&#39;t-Redaktion diskutieren über die aktuellen Themen aus dem c’t Magazin und was sonst noch so in der IT-Welt passiert.
 
-* Number of published episodes: 586
-* Last episode published: 🟢 Saturday, 22 March 2025
+* Number of published episodes: 587
+* Last episode published: 🟢 Saturday, 29 March 2025
 * [c&#39;t uplink Website](https://www.heise.de/thema/ct-uplink)
 * [c&#39;t uplink @ Spotify](https://open.spotify.com/show/4LdN7lGr9winLtQSqoIjVD)
 * [c&#39;t uplink @ Apple Podcasts](https://podcasts.apple.com/de/podcast/835717958)
@@ -348,7 +348,7 @@ Dein Podcast rund um Softwareentwicklung und aktueller Tech News. Lernt die Codi
 Jeden Samstag das Neueste aus Computertechnik und Informationstechnologie. Beiträge, Reportagen und Interviews zu IT-Sicherheit, Informatik, Datenschutz, Smartphones, Cloud-Computing und IT-Politik. Die Trends der IT werden kompakt und informativ zusammengefasst.
 
 * Number of published episodes: 20
-* Last episode published: 🟢 Saturday, 22 March 2025
+* Last episode published: 🟢 Saturday, 29 March 2025
 * [Computer und Kommunikation (Deutschlandfunk) Website](https://www.deutschlandfunk.de/computer-und-kommunikation-102.html)
 * [Computer und Kommunikation (Deutschlandfunk) @ Spotify](https://open.spotify.com/show/4uy56W83RGe8SKmzNpyfAc)
 * [Computer und Kommunikation (Deutschlandfunk) @ Apple Podcasts](https://podcasts.apple.com/de/podcast/173754605)
@@ -459,8 +459,8 @@ Der Unterhaltungs-Podcast für .NET Entwickler - ca. alle zwei Wochen treffen si
 
 Hier geht es um die kleinen und großen Fehlschläge in der Geschichte der Technik. Computer, die falsch rechnen, automatische Finanzsysteme, die Millionen von Dollar vernichten oder abstürzende Raketen: Hinter jedem Fehler steckt eine spannende und oftmals verblüffende Geschichte. Bei all den Fakten kommen ausschweifende Anekdoten, Witz und Bezüge zum aktuellen Zeitgeschehen nicht zu kurz.
 
-* Number of published episodes: 101
-* Last episode published: 🟢 Sunday, 16 March 2025
+* Number of published episodes: 102
+* Last episode published: 🟢 Sunday, 30 March 2025
 * Weekly downloads (avg): 1982 (updated: 2023-12-11)
 * [Digitale Anomalien Website](https://digitaleanomalien.de/)
 * [Digitale Anomalien @ Spotify](https://open.spotify.com/show/0aG1QAgC5wK5uYBfKxp6JB)
@@ -575,8 +575,8 @@ Habt ihr diesen Spruch auch schon mal gehört – mit hochgezogenen Augenbrauen,
 
 Freak Show ist ein Podcast, der sich mit dem Leben mit Technik im 21. Jahrhundert auseinandersetzt und dabei eine Vielzahl von Themen anschneidet. Es ist kein Geheimnis, dass das Team sich viel und gerne mit Apple und seinen Produkten, Programmierung, Bitcoin, Gitarren, Podcasting und anderen Lastern herumschlägt. Aber wir reden auch über was anderes.
 
-* Number of published episodes: 290
-* Last episode published: 🟢 Saturday, 08 February 2025
+* Number of published episodes: 291
+* Last episode published: 🟢 Sunday, 30 March 2025
 * [Freakshow Website](https://freakshow.fm/)
 * [Freakshow @ Apple Podcasts](https://podcasts.apple.com/de/podcast/277518737)
 * [Freakshow Podcast RSS](https://feeds.metaebene.me/freakshow/m4a)
@@ -651,8 +651,8 @@ Zwei Softwareentwickler und Spiele-Enthusiasten entwickeln in ihrer Freizeit Vid
 
 Du bist Entwickler/Developer? Dann Lauscher auf! Thomas und Christian sprechen im &#34;Index out of bounds&#34; Entwickler/Developer Podcast über ihre persönlichen Erfahrungen aus der Welt der Programmierung von Software, Websites, Apps und was es sonst noch so gibt. Schon seit Jahren tauschen sich die beiden leidenschaftlich gerne über Entwicklung/Development, den Spaß am Programmieren und Technologie aus. Hin und wieder sind da auch ein paar helle Momente dabei! Ein Podcast von Programmierern für Programmierer.
 
-* Number of published episodes: 98
-* Last episode published: 🟢 Monday, 17 March 2025
+* Number of published episodes: 99
+* Last episode published: 🟢 Sunday, 30 March 2025
 * [Index out of bounds Website](https://www.ioob.de/)
 * [Index out of bounds @ Spotify](https://open.spotify.com/show/2r1FGvYRkSYq4SmXyVKmnA)
 * [Index out of bounds @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1564647339)
@@ -762,8 +762,8 @@ Ja sia! Der Technikpodcast von und mit Chris und Pati. Wir bringen euch regelmä
 
 Wie intelligent ist Künstliche Intelligenz eigentlich? Welche Folgen hat generative KI für unsere Arbeit, unsere Freizeit und die Gesellschaft? Im &#34;KI-Update&#34; von heise bringen wir Euch gemeinsam mit The Decoder werktäglich Updates zu den wichtigsten KI-Entwicklungen. Freitags beleuchten wir mit Experten die unterschiedlichen Aspekte der KI-Revolution.
 
-* Number of published episodes: 436
-* Last episode published: 🟢 Thursday, 27 March 2025
+* Number of published episodes: 437
+* Last episode published: 🟢 Friday, 28 March 2025
 * [KI-Update Website](https://www.heise.de/thema/KI-Update)
 * [KI-Update @ Spotify](https://open.spotify.com/show/1rm6gMybQWnHePvY2eCpzp)
 * [KI-Update @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1691536182)
@@ -778,7 +778,7 @@ Wie intelligent ist Künstliche Intelligenz eigentlich? Welche Folgen hat genera
 
 Die IT-News des Tages von heise online
 
-* Number of published episodes: 2207
+* Number of published episodes: 2208
 * Last episode published: 🟢 Friday, 28 March 2025
 * [Kurz informiert by heise online Website](https://www.heise.de/Hoeren-Sie-von-uns-unsere-Podcasts-4206659.html)
 * [Kurz informiert by heise online @ Spotify](https://open.spotify.com/show/2etf1jog8leNHbnhIArM9Z)
@@ -793,8 +793,8 @@ Die IT-News des Tages von heise online
 
 Der Podcast über unsere digitale Lebens- und Arbeitswelt mit Markus Hörster und Christian Cordes. Alle vier Wochen dienstags um 19.00 Uhr im Radio auf Radio Okerwelle (UKW 104,6 in der Region Braunschweig) und nach der Ausstrahlung als Podcast. Wir beschäftigen uns mit allen Themen, die etwas mit Digitalien zu tun haben.
 
-* Number of published episodes: 90
-* Last episode published: 🟡 Sunday, 19 January 2025
+* Number of published episodes: 92
+* Last episode published: 🟢 Sunday, 30 March 2025
 * [Logbuch Digitalien Website](https://www.logbuch-digitalien.de/)
 * [Logbuch Digitalien @ Spotify](https://open.spotify.com/show/5HxbvAOx6qOMOXbtulHji1)
 * [Logbuch Digitalien @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1240755398)
@@ -938,8 +938,8 @@ Ein Podcast über die dunkle Seite der Digitalisierung: Spionage, Hacker, Sabota
 
 Mit geballter Dev-Power nehmen Dennis, Fabi, Sebi und Jojo neue Podcastfolgen auf und werden dabei regelmäßig von Gäst:innen aus der Branche unterstützt. Taucht in unseren Deep Dives mit uns in Frameworks und Datenbanken ein, hört euch in den CTO-Specials die Erfahrungen führender Persönlichkeiten großer Unternehmen an und bleibt mit unseren News-Folgen stets am Ball in der Welt der App- und Webentwicklung.
 
-* Number of published episodes: 397
-* Last episode published: 🟢 Wednesday, 26 March 2025
+* Number of published episodes: 399
+* Last episode published: 🟢 Friday, 28 March 2025
 * Weekly downloads (avg): 8744 (updated: 2023-04-12)
 * [programmier.bar Website](https://www.programmier.bar/podcast)
 * [programmier.bar @ Spotify](https://open.spotify.com/show/0ik0sXv9paTQCeThcOLCCJ)
@@ -1005,8 +1005,8 @@ Sandra Parsick &amp; Daniel Zenzes präsentieren mit Ready for Review einen bunt
 
 Wie können wir Cybersicherheit als gesamtgesellschaftliches Problem verstehen? Wolfgang Straßer, langjähriger Experte im Bereich Cybersicherheit und Marian Blok, Politikberater mit Schwerpunkt Cybersecurity, sprechen mit Cyber-Experten aus Unternehmen, Behörden und Verbänden.
 
-* Number of published episodes: 20
-* Last episode published: 🟡 Tuesday, 17 December 2024
+* Number of published episodes: 21
+* Last episode published: 🟢 Tuesday, 25 March 2025
 * [Rheingehäckt Website](https://www.at-yet.de/aktuelles)
 * [Rheingehäckt @ Spotify](https://open.spotify.com/show/1CFAcjQuET8Yv35k6v38fs)
 * [Rheingehäckt @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1585954195)
@@ -1085,8 +1085,8 @@ Der Podcast für praktische Softwarearchitektur. Mit: Carola Lilienthal, Patrick
 
 Live-Diskussion zu Software-Architektur im Stream. Einmal in der Woche diskutiert Eberhard Wolff Software-Architektur im Live-Stream auf YouTube und Twitch - oft zusammen mit einem Gast. Zuschauer können über den Chat mitdiskutieren oder Fragen stellen. Der Podcast enthält die Audio-Spur des Streams.
 
-* Number of published episodes: 254
-* Last episode published: 🟢 Friday, 21 March 2025
+* Number of published episodes: 255
+* Last episode published: 🟢 Friday, 28 March 2025
 * [SoftwareArchitektur im Stream Website](https://software-architektur.tv/)
 * [SoftwareArchitektur im Stream @ Spotify](https://open.spotify.com/show/7ySg1eZoWYBshd6QpGaW8B)
 * [SoftwareArchitektur im Stream @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1538545458)
@@ -1308,8 +1308,8 @@ Latenight-Frontend-Talkshow rund um Webdesign und Entwicklung. Es reden sich um 
 
 Wöchentlicher Podcast für Webdesigner:innen und -entwickler:innen
 
-* Number of published episodes: 673
-* Last episode published: 🟢 Tuesday, 18 March 2025
+* Number of published episodes: 674
+* Last episode published: 🟢 Saturday, 29 March 2025
 * [Working Draft Website](https://workingdraft.de/)
 * [Working Draft @ Spotify](https://open.spotify.com/show/78iH7cIFzu1ejoB6aQUsIh)
 * [Working Draft @ Apple Podcasts](https://podcasts.apple.com/de/podcast/402204581)
@@ -1373,7 +1373,7 @@ Komm mit in die dunklen Ecken des Internets. Wir blicken in der ersten Staffel a
 
 <h3 id="code-and-ship">Code and Ship</h3>
 
-<img align="right" width="215" height="215" src="./generated/generated/images/code-and-ship.jpg" />
+<img align="right" width="215" height="215" src="./generated/images/code-and-ship.jpg" />
 
 Jonathan und Ingmar sprechen übers Programmieren und Ausliefern von Software Projekten. Außerdem tauschen die beiden Bremer sich über Tools, Frameworks und das Leben als Softwareentwickler aus.
 
@@ -1512,7 +1512,7 @@ know Information Technology (kurz knowIT) - in diesem Sinne behandelt der Podcas
 
 <h3 id="macht-der-craft">Macht der Craft</h3>
 
-<img align="right" width="215" height="215" src="./generated/images/macht-der-craft.jpg" />
+<img align="right" width="215" height="215" src="./generated/generated/images/macht-der-craft.jpg" />
 
 Von Menschen für Menschen, die Software entwickeln, ist dieser Podcast gedacht. Damit Du in diesem Leben durch stetiges Lernen, den bestmöglichen Code kreieren kannst. Wir erzählen dir von agiler Softwareentwicklung, Software Craft, Methoden, Techniken und allem, was dazu gehört, um deine Fähigkeiten zu verbessern. Das Bestmögliche zu erschaffen, bedeutet mit dem Puls der Zeit zu gehen und ständig zu lernen.
 
