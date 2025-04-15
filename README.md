@@ -82,11 +82,10 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [Webcafé - Webentwicklung und Unternehmenskultur](#webcafe-webentwicklung-und-unternehmenskultur)
   * [Wo wir sind ist vorne](#wo-wir-sind-ist-vorne)
   * [Working Draft](#working-draft)
-* [Archived podcasts](#archived-podcasts) (29 podcasts)
+* [Archived podcasts](#archived-podcasts) (28 podcasts)
   * [Armchair Investigators](#armchair-investigators)
   * [Autoweird](#autoweird)
   * [Bits &amp; Böses - Der Tech Crime Podcast](#bits-and-boses-der-tech-crime-podcast)
-  * [Code and Ship](#code-and-ship)
   * [Codestammtisch](#codestammtisch)
   * [dev.env](#dev-env)
   * [Digitalisierungsfieber](#digitalisierungsfieber)
@@ -1368,21 +1367,6 @@ Komm mit in die dunklen Ecken des Internets. Wir blicken in der ersten Staffel a
 * [Bits &amp; Böses - Der Tech Crime Podcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1652515781)
 * [Bits &amp; Böses - Der Tech Crime Podcast Podcast RSS](https://bitsundboeses.podigee.io/feed/mp3)
 * Tags: Tech Crime
-
-----
-
-<h3 id="code-and-ship">Code and Ship</h3>
-
-<img align="right" width="215" height="215" src="./generated/images/code-and-ship.jpg" />
-
-Jonathan und Ingmar sprechen übers Programmieren und Ausliefern von Software Projekten. Außerdem tauschen die beiden Bremer sich über Tools, Frameworks und das Leben als Softwareentwickler aus.
-
-* Number of published episodes: 50
-* Last episode published: 🔴 Monday, 05 June 2023
-* [Code and Ship Website](https://codeandship.rocks/)
-* [Code and Ship @ Spotify](https://open.spotify.com/show/68VGe4DFCUxvcJp44VDVL3)
-* [Code and Ship @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1458278980)
-* [Code and Ship Podcast RSS](https://codeandship.rocks/podcast/index.xml)
 
 ----
 
