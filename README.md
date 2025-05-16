@@ -127,8 +127,8 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
 
 Immer donnerstags live um 17 Uhr sprechen Anna Kalinowsky, Malte Kirchner und Volker Zota von heise online bei YouTube über die Tech-Themen der Woche. Zum Nachhören gibt es die #heiseshow auch als Podcast.
 
-* Number of published episodes: 462
-* Last episode published: 🟢 Thursday, 08 May 2025
+* Number of published episodes: 463
+* Last episode published: 🟢 Thursday, 15 May 2025
 * [#heiseshow Website](https://www.heise.de/thema/heiseshow)
 * [#heiseshow @ Spotify](https://open.spotify.com/show/7iMjJRAHcOAumvPbdGDavJ)
 * [#heiseshow @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1082296572)
@@ -176,8 +176,8 @@ Deutschsprachiger Podcast zu den Themen IT-Sicherheit und Privatsphäre. Stefan 
 
 Apfelfunk ist ein wöchentlicher Podcast über Apple-Themen. Jean-Claude Frick und Malte Kirchner berichten und bewerten darin die Neuigkeiten über den wichtigsten Computerkonzern der Welt.
 
-* Number of published episodes: 485
-* Last episode published: 🟢 Wednesday, 07 May 2025
+* Number of published episodes: 486
+* Last episode published: 🟢 Wednesday, 14 May 2025
 * [Apfelfunk Website](http://www.apfelfunk.com/)
 * [Apfelfunk @ Spotify](https://open.spotify.com/show/7FQLyWiNhMR0KS93ReaI4h)
 * [Apfelfunk @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1081146940)
@@ -192,8 +192,8 @@ Apfelfunk ist ein wöchentlicher Podcast über Apple-Themen. Jean-Claude Frick u
 
 Sie möchten beim Thema Datenschutz auf dem Laufenden bleiben, aber keine seitenlange Literatur wälzen? Dann wenden Sie sich vertrauensvoll an unser Juristen-Redakteurs-Duo. Alle 14 Tage bespricht c&#39;t-Redakteur Holger Bleich mit Joerg Heidrich aktuelle Entwicklungen rund um den Datenschutz. Joerg ist beim c&#39;t-Mutterschiff Heise Medien als Justiziar für das Thema zuständig und hat täglich mit der europäischen Datenschutz-Grundverordnung (DSGVO) zu tun. Wechselnde Gäste ergänzen das Duo.&#34;
 
-* Number of published episodes: 134
-* Last episode published: 🟢 Friday, 02 May 2025
+* Number of published episodes: 135
+* Last episode published: 🟢 Friday, 16 May 2025
 * [Auslegungssache - der c&#39;t-Datenschutz-Podcast Website](https://www.heise.de/thema/auslegungssache)
 * [Auslegungssache - der c&#39;t-Datenschutz-Podcast @ Spotify](https://open.spotify.com/show/3Jrnu7vrTurguBaCiPapkA)
 * [Auslegungssache - der c&#39;t-Datenschutz-Podcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1485860893)
@@ -331,8 +331,8 @@ Lucas Rott und Markus Herhoffer erzählen alle 14 Tage von Code und Nerd-Kultur.
 
 Dein Podcast rund um Softwareentwicklung und aktueller Tech News. Lernt die Coding Buddies Tino und Fabi kennen. Erfahrt spannende Dinge über diverse Themen aus der Softwareentwicklung und lauscht den Erfahrungen der Beiden. Dazu gibt es witzige Anekdoten der Coding Buddies.
 
-* Number of published episodes: 112
-* Last episode published: 🟢 Thursday, 08 May 2025
+* Number of published episodes: 113
+* Last episode published: 🟢 Thursday, 15 May 2025
 * [Coding Buddies Website](https://www.codingbuddies.de/)
 * [Coding Buddies @ Spotify](https://open.spotify.com/show/5DaiBkAgQBt8DRCcwZY8xT?si=4acf817842f44c43)
 * [Coding Buddies @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1680339110)
@@ -394,7 +394,7 @@ Im Podcast Das Duumvirat unterhalten wir uns über verschiedene Mac-Themen aus d
 Wir sind ein Laber-Technik-Lebensweisheiten-Podcast, mit News, Retrogeschichten und gelegentlich Filmbesprechungen. Bob berichtet was er wieder mal kaputt gemacht hat und Jay erklärt warum es kaputt gegangen ist. Technik ist vergänglich, einiges setzt sich nie durch anderes gerät in Vergessenheit. In unserem Podcast erklären wir dir wie man Emails per Post versendet, Podcasts auf Kassette veröffentlicht, mit einem Raumschiff aus Knetmasse zum Mars fliegt und Linux auf einem Toaster installiert. Außerdem sprechen wir über die Dinge die die Technikwelt gerade bewegen. Klingt abgedreht? Ist es auch. Hör rein dann verpasst du nichts.
 
 * Number of published episodes: 83
-* Last episode published: 🟢 Friday, 14 March 2025
+* Last episode published: 🟡 Friday, 14 March 2025
 * [DAS WAR SCHON KAPUTT Website](http://daswarschonkaputt.tech/)
 * [DAS WAR SCHON KAPUTT @ Spotify](https://open.spotify.com/show/5F92Db3OFLQXxdh2OIXEzI)
 * [DAS WAR SCHON KAPUTT Podcast RSS](https://daswarschonkaputt.tech/feed/dwsk.xml)
@@ -408,8 +408,8 @@ Wir sind ein Laber-Technik-Lebensweisheiten-Podcast, mit News, Retrogeschichten 
 
 Wir machen Data Science. Und in unserem Podcast Data Science Deep Dive reden wir darüber. Du bist ebenfalls Data Scientist oder interessierst dich für Daten, ML und AI? Dann ist dieser Podcast für dich. Wir teilen unsere Learnings aus über 180 Projekten, du bekommst Infos und Anregungen zu spannenden Themen rund um Daten. Wir klären auf, geben Hinweise und teilen unsere Erfahrungen, die wir in über 10 Jahren als Data Scientists im B2B Bereich gesammelt haben. Wir decken auf, was wirklich hinter den Hypes und Trends der Data Science Branche steckt. Wir hinterfragen, was ein Data Science Projekt erfolgreich macht und welche Faktoren es zum Scheitern verurteilen.
 
-* Number of published episodes: 72
-* Last episode published: 🟢 Thursday, 01 May 2025
+* Number of published episodes: 73
+* Last episode published: 🟢 Thursday, 15 May 2025
 * Weekly downloads (avg): 618 (updated: 2024-10-25)
 * [Data Science Deep Dive Website](https://inwt.podbean.com/)
 * [Data Science Deep Dive @ Spotify](https://open.spotify.com/show/089UlaVMdcppseWxxYr28O)
@@ -603,8 +603,8 @@ Wir talken GameDev und haben Unreal News.
 
 Ein monatlicher Podcast der GNU/Linux.ch Community mit Themen und Interviews rund um die Themen GNU/Linux, Freie Software und Freie Gesellschaft.
 
-* Number of published episodes: 141
-* Last episode published: 🟢 Wednesday, 07 May 2025
+* Number of published episodes: 142
+* Last episode published: 🟢 Wednesday, 14 May 2025
 * [GNU/Linux.ch Website](https://gnulinux.ch/)
 * [GNU/Linux.ch @ Spotify](https://open.spotify.com/show/0rs1Zm91TsjHhGo2lt0uPi)
 * [GNU/Linux.ch @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1527155920)
@@ -698,8 +698,8 @@ Dieser Podcast unterstützt schnell, konkret und umfänglich beim Einstieg in di
 
 Nur etwas mehr als 60 Jahre liegen zwischen dem ersten Start eines Motorflugzeugs und dem ersten bemannten Flug zum Mond. Das Handy wurde in nur 30 Jahren zum wichtigsten Kommunikationskanal unserer Zeit. Und IT? Die entwickelt sich nicht weniger rasant und macht in einer vernetzten und digitalen Welt vor keinem Bereich mehr halt. Im Podcast sprechen wir über Trendthemen, die zwar nichts mit Raketenwissenschaft zu tun haben, dafür aber Menschen auf dem Weg in eine digitale Zukunft begleiten. Bist Du bereit?
 
-* Number of published episodes: 135
-* Last episode published: 🟢 Wednesday, 07 May 2025
+* Number of published episodes: 136
+* Last episode published: 🟢 Wednesday, 14 May 2025
 * [IT ist alles Website](https://www.pco-online.de/magazin/2020/07/podcast)
 * [IT ist alles @ Spotify](https://open.spotify.com/show/46EUTeJsHSfscbkrI38f6p)
 * [IT ist alles @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1524049773)
@@ -761,8 +761,8 @@ Ja sia! Der Technikpodcast von und mit Chris und Pati. Wir bringen euch regelmä
 
 Wie intelligent ist Künstliche Intelligenz eigentlich? Welche Folgen hat generative KI für unsere Arbeit, unsere Freizeit und die Gesellschaft? Im &#34;KI-Update&#34; von heise bringen wir Euch gemeinsam mit The Decoder werktäglich Updates zu den wichtigsten KI-Entwicklungen. Freitags beleuchten wir mit Experten die unterschiedlichen Aspekte der KI-Revolution.
 
-* Number of published episodes: 465
-* Last episode published: 🟢 Tuesday, 13 May 2025
+* Number of published episodes: 467
+* Last episode published: 🟢 Thursday, 15 May 2025
 * [KI-Update Website](https://www.heise.de/thema/KI-Update)
 * [KI-Update @ Spotify](https://open.spotify.com/show/1rm6gMybQWnHePvY2eCpzp)
 * [KI-Update @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1691536182)
@@ -778,7 +778,7 @@ Wie intelligent ist Künstliche Intelligenz eigentlich? Welche Folgen hat genera
 Die IT-News des Tages von heise online
 
 * Number of published episodes: 1000
-* Last episode published: 🟢 Wednesday, 14 May 2025
+* Last episode published: 🟢 Thursday, 15 May 2025
 * [Kurz informiert by heise online Website](https://www.heise.de/Hoeren-Sie-von-uns-unsere-Podcasts-4206659.html)
 * [Kurz informiert by heise online @ Spotify](https://open.spotify.com/show/2etf1jog8leNHbnhIArM9Z)
 * [Kurz informiert by heise online Podcast RSS](https://kurzinformiert.podigee.io/feed/mp3)
@@ -920,8 +920,8 @@ Mehr Wissen über die digitale Welt. Experten des Hasso-Plattner-Instituts sprec
 
 Ein Podcast über die dunkle Seite der Digitalisierung: Spionage, Hacker, Sabotage, Subversion, Desinformation und die Cyber Konflikte der Vergangenheit und Zukunft. Irgendwo zwischen IT-Sicherheit und Cyber Security geht es um die großen Linien, um eine kritische, politik- bzw. sozialwissenschaftliche Einordnung der Phänomene, statt um das Verbreiten von FUD: Fear, Uncertainty and Doubt. Betrieben wird das ganze von Dr. Matthias Schulze, der unter percepticon.de schon seit Jahren dazu bloggt.
 
-* Number of published episodes: 48
-* Last episode published: 🟢 Sunday, 06 April 2025
+* Number of published episodes: 49
+* Last episode published: 🟢 Thursday, 15 May 2025
 * Weekly downloads (avg): 375 (updated: 2023-01-02)
 * [Percepticon Website](https://percepticon.de/category/podcast/)
 * [Percepticon @ Spotify](https://open.spotify.com/show/1BgA82Dtniy7Aaj2aktJI2)
@@ -937,8 +937,8 @@ Ein Podcast über die dunkle Seite der Digitalisierung: Spionage, Hacker, Sabota
 
 Mit geballter Dev-Power nehmen Dennis, Fabi, Sebi und Jojo neue Podcastfolgen auf und werden dabei regelmäßig von Gäst:innen aus der Branche unterstützt. Taucht in unseren Deep Dives mit uns in Frameworks und Datenbanken ein, hört euch in den CTO-Specials die Erfahrungen führender Persönlichkeiten großer Unternehmen an und bleibt mit unseren News-Folgen stets am Ball in der Welt der App- und Webentwicklung.
 
-* Number of published episodes: 411
-* Last episode published: 🟢 Tuesday, 13 May 2025
+* Number of published episodes: 412
+* Last episode published: 🟢 Thursday, 15 May 2025
 * Weekly downloads (avg): 8744 (updated: 2023-04-12)
 * [programmier.bar Website](https://www.programmier.bar/podcast)
 * [programmier.bar @ Spotify](https://open.spotify.com/show/0ik0sXv9paTQCeThcOLCCJ)
@@ -1116,8 +1116,8 @@ Der SoftwerkerCast präsentiert euch Softwerker-Wissen zum Reinhören und Nachh�
 
 In diesem Podcast diskutiert die t3n-Redaktion mit Gästen über die spannendsten digitalen Themen unserer Zeit. Ob innovative Führungskonzepte, die Digitalisierung der Gesellschaft, smarte Gadgets, neue Mobilität oder Zukunftstechnologien. Jeden Freitag um 10 Uhr!
 
-* Number of published episodes: 681
-* Last episode published: 🟢 Friday, 09 May 2025
+* Number of published episodes: 682
+* Last episode published: 🟢 Friday, 16 May 2025
 * [t3n Interview Website](https://t3n.de/podcast#interview)
 * [t3n Interview @ Spotify](https://open.spotify.com/show/7obTbZaywhQEiUUOMswQBQ)
 * [t3n Interview @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1115601393)
@@ -1276,8 +1276,8 @@ Im Webcafé erzählen Felix und Kay aus ihrem Arbeitsalltag bei der Geenen IT-Sy
 
 Latenight-Frontend-Talkshow rund um Webdesign und Entwicklung. Es reden sich um &lt;HEAD&gt; und Kragen: HTML-Fundamentalist Moritz Gießmann und JavaScript Jongleur Constantin Groß.
 
-* Number of published episodes: 74
-* Last episode published: 🟢 Friday, 18 April 2025
+* Number of published episodes: 75
+* Last episode published: 🟢 Wednesday, 14 May 2025
 * [Wo wir sind ist vorne Website](https://wowirsindistvorne.show/)
 * [Wo wir sind ist vorne @ Spotify](https://open.spotify.com/show/54K1DpiQYHBHSnIO6OzSKs)
 * [Wo wir sind ist vorne @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1500485579)
