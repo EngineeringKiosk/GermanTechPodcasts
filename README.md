@@ -492,8 +492,8 @@ Einfach Komplex macht Software und IT verständlich – für Laien und Experten 
 
 Der Engineering Kiosk ist der deutschsprachige Software-Engineering-Podcast mit Wolfgang Gassler und Andy Grunwald rund um die Themen Engineering-Kultur, Open Source, Menschen, Technologie und allen anderen Bereichen, die damit in Verbindung stehen.
 
-* Number of published episodes: 197
-* Last episode published: 🟢 Tuesday, 13 May 2025
+* Number of published episodes: 198
+* Last episode published: 🟢 Tuesday, 20 May 2025
 * Weekly downloads (avg): 1099 (updated: 2023-01-31)
 * [Engineering Kiosk Website](https://engineeringkiosk.dev/)
 * [Engineering Kiosk @ Spotify](https://open.spotify.com/show/0tJRC0UsObPCWLmmzmOkIs)
@@ -558,8 +558,8 @@ Der FOCUS ON: Linux Podcast beschäftigt sich mit verschiedenen Themen rund um L
 
 Habt ihr diesen Spruch auch schon mal gehört – mit hochgezogenen Augenbrauen, dezentem Kopfschütteln und einem leicht genervten Ausatmen: “Frauen und Technik…”, dann seid ihr hier genau richtig. Der neue Technologie-Podcast der c&#39;t “Frauen und Technik mit Svea Eckert und Eva Wolfangel” spielt genau mit diesem Klischee, bricht es charmant auf und vermittelt dabei Wissen. Die beiden erfahrenen, freien Technologie-Journalistinnen widmen sich alle 14-Tage einem spannenden Tech-Thema und laden sich dazu inspirierende weibliche Gäste ein. Aber auch die Podcast-Hosts bringen etwas mit: investigative und spannende Recherchen, zu denen es in jeder Folge gleich zu Beginn einen kurzen Deepdive gibt.
 
-* Number of published episodes: 31
-* Last episode published: 🟢 Wednesday, 21 May 2025
+* Number of published episodes: 32
+* Last episode published: 🟢 Wednesday, 28 May 2025
 * [Frauen und Technik – mit Eckert und Wolfangel Website](https://frauen-technik.podigee.io/)
 * [Frauen und Technik – mit Eckert und Wolfangel @ Spotify](https://open.spotify.com/show/3HwNHImCFF1NvNMQnN2rFR)
 * [Frauen und Technik – mit Eckert und Wolfangel @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1762825923)
@@ -588,8 +588,8 @@ Freak Show ist ein Podcast, der sich mit dem Leben mit Technik im 21. Jahrhunder
 
 Wir talken GameDev und haben Unreal News.
 
-* Number of published episodes: 139
-* Last episode published: 🟢 Tuesday, 29 April 2025
+* Number of published episodes: 140
+* Last episode published: 🟢 Tuesday, 27 May 2025
 * [Gamedev für die Platte - Der Unreal Podcast Website](https://gamedevfuerdieplatte.podbean.com/)
 * [Gamedev für die Platte - Der Unreal Podcast @ Spotify](https://open.spotify.com/show/3UtoyAbMfEvkSIx5w3HohY)
 * [Gamedev für die Platte - Der Unreal Podcast Podcast RSS](https://feed.podbean.com/gamedevfuerdieplatte/feed.xml)
@@ -603,8 +603,8 @@ Wir talken GameDev und haben Unreal News.
 
 Ein monatlicher Podcast der GNU/Linux.ch Community mit Themen und Interviews rund um die Themen GNU/Linux, Freie Software und Freie Gesellschaft.
 
-* Number of published episodes: 143
-* Last episode published: 🟢 Wednesday, 21 May 2025
+* Number of published episodes: 144
+* Last episode published: 🟢 Tuesday, 27 May 2025
 * [GNU/Linux.ch Website](https://gnulinux.ch/)
 * [GNU/Linux.ch @ Spotify](https://open.spotify.com/show/0rs1Zm91TsjHhGo2lt0uPi)
 * [GNU/Linux.ch @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1527155920)
@@ -620,7 +620,7 @@ Ein monatlicher Podcast der GNU/Linux.ch Community mit Themen und Interviews run
 Der Podcast für den praktizierenden Softwarearchitekten
 
 * Number of published episodes: 105
-* Last episode published: 🟢 Friday, 28 March 2025
+* Last episode published: 🟡 Friday, 28 March 2025
 * [heise Developer: SoftwareArchitekTOUR Website](https://www.heise.de/developer/SoftwareArchitekTOUR-4076349.html)
 * [heise Developer: SoftwareArchitekTOUR @ Spotify](https://open.spotify.com/show/2Uc7vL8U6kUZYSCOvDIJ67)
 * [heise Developer: SoftwareArchitekTOUR @ Apple Podcasts](https://podcasts.apple.com/de/podcast/313825047)
@@ -731,8 +731,8 @@ Der Podcast für Auszubildende, Ausbilder und IHK-Prüfer in den IT-Berufen (Fac
 
 IT@DB ist ein Podcast für IT Fach- und Führungskräfte (w/m/d). Hier erhältst du einen exklusiven Einblick zu spannenden IT Projekten der Deutschen Bahn.
 
-* Number of published episodes: 91
-* Last episode published: 🟢 Monday, 28 April 2025
+* Number of published episodes: 92
+* Last episode published: 🟢 Tuesday, 27 May 2025
 * [IT@DB Website](https://cqlshb.podcaster.de/)
 * [IT@DB @ Spotify](https://open.spotify.com/show/3uV0oOeigGJCAAQbXZ49Dv)
 * [IT@DB @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1462447493)
@@ -761,8 +761,8 @@ Ja sia! Der Technikpodcast von und mit Chris und Pati. Wir bringen euch regelmä
 
 Wie intelligent ist Künstliche Intelligenz eigentlich? Welche Folgen hat generative KI für unsere Arbeit, unsere Freizeit und die Gesellschaft? Im &#34;KI-Update&#34; von heise bringen wir Euch gemeinsam mit The Decoder werktäglich Updates zu den wichtigsten KI-Entwicklungen. Freitags beleuchten wir mit Experten die unterschiedlichen Aspekte der KI-Revolution.
 
-* Number of published episodes: 473
-* Last episode published: 🟢 Friday, 23 May 2025
+* Number of published episodes: 475
+* Last episode published: 🟢 Tuesday, 27 May 2025
 * [KI-Update Website](https://www.heise.de/thema/KI-Update)
 * [KI-Update @ Spotify](https://open.spotify.com/show/1rm6gMybQWnHePvY2eCpzp)
 * [KI-Update @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1691536182)
@@ -778,7 +778,7 @@ Wie intelligent ist Künstliche Intelligenz eigentlich? Welche Folgen hat genera
 Die IT-News des Tages von heise online
 
 * Number of published episodes: 1000
-* Last episode published: 🟢 Monday, 26 May 2025
+* Last episode published: 🟢 Tuesday, 27 May 2025
 * [Kurz informiert by heise online Website](https://www.heise.de/Hoeren-Sie-von-uns-unsere-Podcasts-4206659.html)
 * [Kurz informiert by heise online @ Spotify](https://open.spotify.com/show/2etf1jog8leNHbnhIArM9Z)
 * [Kurz informiert by heise online Podcast RSS](https://kurzinformiert.podigee.io/feed/mp3)
@@ -937,8 +937,8 @@ Ein Podcast über die dunkle Seite der Digitalisierung: Spionage, Hacker, Sabota
 
 Mit geballter Dev-Power nehmen Dennis, Fabi, Sebi und Jojo neue Podcastfolgen auf und werden dabei regelmäßig von Gäst:innen aus der Branche unterstützt. Taucht in unseren Deep Dives mit uns in Frameworks und Datenbanken ein, hört euch in den CTO-Specials die Erfahrungen führender Persönlichkeiten großer Unternehmen an und bleibt mit unseren News-Folgen stets am Ball in der Welt der App- und Webentwicklung.
 
-* Number of published episodes: 414
-* Last episode published: 🟢 Thursday, 22 May 2025
+* Number of published episodes: 415
+* Last episode published: 🟢 Tuesday, 27 May 2025
 * Weekly downloads (avg): 8744 (updated: 2023-04-12)
 * [programmier.bar Website](https://www.programmier.bar/podcast)
 * [programmier.bar @ Spotify](https://open.spotify.com/show/0ik0sXv9paTQCeThcOLCCJ)
@@ -1069,7 +1069,7 @@ Jung, weiblich, genial: Im Tech-Podcast von NDR Info sucht die Tech-Journalistin
 Der Podcast für praktische Softwarearchitektur. Mit: Carola Lilienthal, Patrick Roos, Johannes Seitz, Michael Stal, Gernot Starke, Eberhard Wolff.
 
 * Number of published episodes: 105
-* Last episode published: 🟢 Friday, 28 March 2025
+* Last episode published: 🟡 Friday, 28 March 2025
 * [SoftwareArchitekTOUR - von Entwicklern für Entwickler Website](https://www.heise.de/thema/softwarearchitektour)
 * [SoftwareArchitekTOUR - von Entwicklern für Entwickler @ Spotify](https://open.spotify.com/show/2Uc7vL8U6kUZYSCOvDIJ67)
 * [SoftwareArchitekTOUR - von Entwicklern für Entwickler @ Apple Podcasts](https://podcasts.apple.com/de/podcast/313825047)
@@ -1100,8 +1100,8 @@ Live-Diskussion zu Software-Architektur im Stream. Einmal in der Woche diskutier
 
 Der SoftwerkerCast präsentiert euch Softwerker-Wissen zum Reinhören und Nachhören. Wie auch bei den anderen Softwerker-Formaten erwartet euch im SoftwerkerCast das volle Themenspektrum aus der bunten Welt der Softwareentwicklung: von A wie APM bis Z wie Zero Downtime. Paradigmen und neue Trends, Evergreens und Eintagsfliegen.
 
-* Number of published episodes: 68
-* Last episode published: 🟢 Friday, 16 May 2025
+* Number of published episodes: 69
+* Last episode published: 🟢 Tuesday, 27 May 2025
 * [SoftwerkerCast Website](https://www.codecentric.de/softwerkercast)
 * [SoftwerkerCast @ Spotify](https://open.spotify.com/show/0GMFlDJabOtXYm8u8HfAvL)
 * [SoftwerkerCast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1592472699)
@@ -1260,8 +1260,8 @@ In diesem Podcast geht es um Web und User Interface Design, Freelancing, Arbeits
 
 Im Webcafé erzählen Felix und Kay aus ihrem Arbeitsalltag bei der Geenen IT-Systeme GmbH und nehmen euch mit auf eine spannende Reise durch ihre Technologielandschaft, Programmierthemen und die Herausforderungen der Unternehmens- und Personalführung. Damit richtet sich der Podcast an EntwicklerInnen, FreelancerInnen und Führungskräfte.
 
-* Number of published episodes: 26
-* Last episode published: 🟢 Thursday, 22 May 2025
+* Number of published episodes: 27
+* Last episode published: 🟢 Tuesday, 27 May 2025
 * [Webcafé - Webentwicklung und Unternehmenskultur Website](https://geenen-it-systeme.de/#podcast)
 * [Webcafé - Webentwicklung und Unternehmenskultur @ Spotify](https://open.spotify.com/show/6KnpB0BENh4XcHiqr4isHt)
 * [Webcafé - Webentwicklung und Unternehmenskultur @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1727941100)
@@ -1292,8 +1292,8 @@ Latenight-Frontend-Talkshow rund um Webdesign und Entwicklung. Es reden sich um 
 
 Wöchentlicher Podcast für Webdesigner:innen und -entwickler:innen
 
-* Number of published episodes: 682
-* Last episode published: 🟢 Tuesday, 20 May 2025
+* Number of published episodes: 683
+* Last episode published: 🟢 Tuesday, 27 May 2025
 * [Working Draft Website](https://workingdraft.de/)
 * [Working Draft @ Spotify](https://open.spotify.com/show/78iH7cIFzu1ejoB6aQUsIh)
 * [Working Draft @ Apple Podcasts](https://podcasts.apple.com/de/podcast/402204581)
