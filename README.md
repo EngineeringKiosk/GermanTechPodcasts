@@ -6,7 +6,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (75 podcasts)
+* [Podcasts](#podcasts) (74 podcasts)
   * [#heiseshow](#heiseshow)
   * [((c3d2)) Pentaradio 24](#c3d2-pentaradio-24)
   * [0d - Zeroday](#0d-zeroday)
@@ -22,7 +22,6 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [Code Culture](#code-culture)
   * [Coding Buddies](#coding-buddies)
   * [Computer und Kommunikation (Deutschlandfunk)](#computer-und-kommunikation-deutschlandfunk)
-  * [Cybersecurity entschlüsselt](#cybersecurity-entschlusselt)
   * [Das Duumvirat](#das-duumvirat)
   * [DAS WAR SCHON KAPUTT](#das-war-schon-kaputt)
   * [Data Science Deep Dive](#data-science-deep-dive)
@@ -82,11 +81,12 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [Webcafé - Webentwicklung und Unternehmenskultur](#webcafe-webentwicklung-und-unternehmenskultur)
   * [Wo wir sind ist vorne](#wo-wir-sind-ist-vorne)
   * [Working Draft](#working-draft)
-* [Archived podcasts](#archived-podcasts) (28 podcasts)
+* [Archived podcasts](#archived-podcasts) (29 podcasts)
   * [Armchair Investigators](#armchair-investigators)
   * [Autoweird](#autoweird)
   * [Bits &amp; Böses - Der Tech Crime Podcast](#bits-and-boses-der-tech-crime-podcast)
   * [Codestammtisch](#codestammtisch)
+  * [Cybersecurity entschlüsselt](#cybersecurity-entschlusselt)
   * [dev.env](#dev-env)
   * [Digitalisierungsfieber](#digitalisierungsfieber)
   * [GeekWeek](#geekweek)
@@ -356,22 +356,6 @@ Jeden Samstag das Neueste aus Computertechnik und Informationstechnologie. Beitr
 
 ----
 
-<h3 id="cybersecurity-entschlusselt">Cybersecurity entschlüsselt</h3>
-
-<img align="right" width="215" height="215" src="./generated/images/cybersecurity-entschluesselt.jpg" />
-
-Cybersecurity entschüsselt ist ein deutschsprachiger Podcast, in dem sich alles um Sicherheit dreht.
-
-* Number of published episodes: 56
-* Last episode published: 🟡 Tuesday, 10 December 2024
-* [Cybersecurity entschlüsselt Website](https://www.cybersecurity-entschluesselt.de)
-* [Cybersecurity entschlüsselt @ Spotify](https://open.spotify.com/show/0sAcefh8cixTxjJn9s1dvM)
-* [Cybersecurity entschlüsselt @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1637327527)
-* [Cybersecurity entschlüsselt Podcast RSS](https://cybersecurity-entschluesselt.de/rss.xml)
-* Tags: Security, IT Security, Technology
-
-----
-
 <h3 id="das-duumvirat">Das Duumvirat</h3>
 
 <img align="right" width="215" height="215" src="./generated/images/das-duumvirat.jpg" />
@@ -492,8 +476,8 @@ Einfach Komplex macht Software und IT verständlich – für Laien und Experten 
 
 Der Engineering Kiosk ist der deutschsprachige Software-Engineering-Podcast mit Wolfgang Gassler und Andy Grunwald rund um die Themen Engineering-Kultur, Open Source, Menschen, Technologie und allen anderen Bereichen, die damit in Verbindung stehen.
 
-* Number of published episodes: 199
-* Last episode published: 🟢 Tuesday, 27 May 2025
+* Number of published episodes: 200
+* Last episode published: 🟢 Tuesday, 03 June 2025
 * Weekly downloads (avg): 1099 (updated: 2023-01-31)
 * [Engineering Kiosk Website](https://engineeringkiosk.dev/)
 * [Engineering Kiosk @ Spotify](https://open.spotify.com/show/0tJRC0UsObPCWLmmzmOkIs)
@@ -558,8 +542,8 @@ Der FOCUS ON: Linux Podcast beschäftigt sich mit verschiedenen Themen rund um L
 
 Habt ihr diesen Spruch auch schon mal gehört – mit hochgezogenen Augenbrauen, dezentem Kopfschütteln und einem leicht genervten Ausatmen: “Frauen und Technik…”, dann seid ihr hier genau richtig. Der neue Technologie-Podcast der c&#39;t “Frauen und Technik mit Svea Eckert und Eva Wolfangel” spielt genau mit diesem Klischee, bricht es charmant auf und vermittelt dabei Wissen. Die beiden erfahrenen, freien Technologie-Journalistinnen widmen sich alle 14-Tage einem spannenden Tech-Thema und laden sich dazu inspirierende weibliche Gäste ein. Aber auch die Podcast-Hosts bringen etwas mit: investigative und spannende Recherchen, zu denen es in jeder Folge gleich zu Beginn einen kurzen Deepdive gibt.
 
-* Number of published episodes: 33
-* Last episode published: 🟢 Wednesday, 04 June 2025
+* Number of published episodes: 34
+* Last episode published: 🟢 Wednesday, 11 June 2025
 * [Frauen und Technik – mit Eckert und Wolfangel Website](https://frauen-technik.podigee.io/)
 * [Frauen und Technik – mit Eckert und Wolfangel @ Spotify](https://open.spotify.com/show/3HwNHImCFF1NvNMQnN2rFR)
 * [Frauen und Technik – mit Eckert und Wolfangel @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1762825923)
@@ -635,7 +619,7 @@ Der Podcast für den praktizierenden Softwarearchitekten
 Zwei Softwareentwickler und Spiele-Enthusiasten entwickeln in ihrer Freizeit Videospiele und sprechen in einem Podcast über das, was sie tun, geben Tipps und diskutieren Technik sowie Methoden zur Spieleentwicklung.
 
 * Number of published episodes: 24
-* Last episode published: 🟢 Wednesday, 09 April 2025
+* Last episode published: 🟡 Wednesday, 09 April 2025
 * [Hobby Spieleentwickler Podcast Website](https://www.hobbyspieleentwicklerpodcast.de/)
 * [Hobby Spieleentwickler Podcast @ Spotify](https://open.spotify.com/show/0T08Oz5l2ztunuVZCBPyvG?si=bad7bdc63e9c4bba)
 * [Hobby Spieleentwickler Podcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1554911727)
@@ -650,8 +634,8 @@ Zwei Softwareentwickler und Spiele-Enthusiasten entwickeln in ihrer Freizeit Vid
 
 Du bist Entwickler/Developer? Dann Lauscher auf! Thomas und Christian sprechen im &#34;Index out of bounds&#34; Entwickler/Developer Podcast über ihre persönlichen Erfahrungen aus der Welt der Programmierung von Software, Websites, Apps und was es sonst noch so gibt. Schon seit Jahren tauschen sich die beiden leidenschaftlich gerne über Entwicklung/Development, den Spaß am Programmieren und Technologie aus. Hin und wieder sind da auch ein paar helle Momente dabei! Ein Podcast von Programmierern für Programmierer.
 
-* Number of published episodes: 103
-* Last episode published: 🟢 Sunday, 25 May 2025
+* Number of published episodes: 104
+* Last episode published: 🟢 Tuesday, 10 June 2025
 * [Index out of bounds Website](https://www.ioob.de/)
 * [Index out of bounds @ Spotify](https://open.spotify.com/show/2r1FGvYRkSYq4SmXyVKmnA)
 * [Index out of bounds @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1564647339)
@@ -778,7 +762,7 @@ Wie intelligent ist Künstliche Intelligenz eigentlich? Welche Folgen hat genera
 Die IT-News des Tages von heise online
 
 * Number of published episodes: 1000
-* Last episode published: 🟢 Friday, 06 June 2025
+* Last episode published: 🟢 Tuesday, 10 June 2025
 * [Kurz informiert by heise online Website](https://www.heise.de/Hoeren-Sie-von-uns-unsere-Podcasts-4206659.html)
 * [Kurz informiert by heise online @ Spotify](https://open.spotify.com/show/2etf1jog8leNHbnhIArM9Z)
 * [Kurz informiert by heise online Podcast RSS](https://kurzinformiert.podigee.io/feed/mp3)
@@ -823,8 +807,8 @@ Logbuch:Netzpolitik ist ein in der Regel wöchentlich erscheinender Podcast, der
 
 Hintergründe, Einschätzungen, Tipps und Neuigkeiten: Im Zweiwochenrhythmus unterhalten sich Malte Kirchner und Leo Becker im Mac &amp; i-Podcast mit Gästen über Fachthemen zu iPhone, iPad, Mac, Watch &amp;amp; Co sowie Apple-Betriebssysteme, Dienste und das Drumherum.
 
-* Number of published episodes: 98
-* Last episode published: 🟢 Tuesday, 20 May 2025
+* Number of published episodes: 99
+* Last episode published: 🟢 Wednesday, 11 June 2025
 * [Mac &amp; i - der Apple-Podcast Website](https://www.heise.de/mac-and-i/meldung/Mac-i-Der-Apple-Podcast-4681220.html)
 * [Mac &amp; i - der Apple-Podcast @ Spotify](https://open.spotify.com/show/5Tcgc97HvYREYM7kIRsxii)
 * [Mac &amp; i - der Apple-Podcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1499510618)
@@ -920,8 +904,8 @@ Wir thematisieren die wichtigen Fragestellungen rund um Internet, Gesellschaft u
 
 Mehr Wissen über die digitale Welt. Experten des Hasso-Plattner-Instituts sprechen verständlich über digitale Entwicklungen und Trends, über Chancen und Risiken der Digitalisierung. Jede Sendung widmet sich einem gesellschaftlich relevanten Thema: Von der Macht der Künstlichen Intelligenz über die Blockchain bis zu Hetze in den sozialen Medien.
 
-* Number of published episodes: 101
-* Last episode published: 🟢 Monday, 28 April 2025
+* Number of published episodes: 102
+* Last episode published: 🟢 Tuesday, 10 June 2025
 * [Neuland Website](https://podcast.hpi.de/)
 * [Neuland @ Spotify](https://open.spotify.com/show/0kd8vXJDv3sN7VMtcLRsH9)
 * [Neuland @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1448992875)
@@ -953,8 +937,8 @@ Ein Podcast über die dunkle Seite der Digitalisierung: Spionage, Hacker, Sabota
 
 Mit geballter Dev-Power nehmen Dennis, Fabi, Sebi und Jojo neue Podcastfolgen auf und werden dabei regelmäßig von Gäst:innen aus der Branche unterstützt. Taucht in unseren Deep Dives mit uns in Frameworks und Datenbanken ein, hört euch in den CTO-Specials die Erfahrungen führender Persönlichkeiten großer Unternehmen an und bleibt mit unseren News-Folgen stets am Ball in der Welt der App- und Webentwicklung.
 
-* Number of published episodes: 417
-* Last episode published: 🟢 Thursday, 05 June 2025
+* Number of published episodes: 419
+* Last episode published: 🟢 Tuesday, 10 June 2025
 * Weekly downloads (avg): 8744 (updated: 2023-04-12)
 * [programmier.bar Website](https://www.programmier.bar/podcast)
 * [programmier.bar @ Spotify](https://open.spotify.com/show/0ik0sXv9paTQCeThcOLCCJ)
@@ -1116,8 +1100,8 @@ Live-Diskussion zu Software-Architektur im Stream. Einmal in der Woche diskutier
 
 Der SoftwerkerCast präsentiert euch Softwerker-Wissen zum Reinhören und Nachhören. Wie auch bei den anderen Softwerker-Formaten erwartet euch im SoftwerkerCast das volle Themenspektrum aus der bunten Welt der Softwareentwicklung: von A wie APM bis Z wie Zero Downtime. Paradigmen und neue Trends, Evergreens und Eintagsfliegen.
 
-* Number of published episodes: 69
-* Last episode published: 🟢 Tuesday, 27 May 2025
+* Number of published episodes: 70
+* Last episode published: 🟢 Wednesday, 11 June 2025
 * [SoftwerkerCast Website](https://www.codecentric.de/softwerkercast)
 * [SoftwerkerCast @ Spotify](https://open.spotify.com/show/0GMFlDJabOtXYm8u8HfAvL)
 * [SoftwerkerCast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1592472699)
@@ -1308,8 +1292,8 @@ Latenight-Frontend-Talkshow rund um Webdesign und Entwicklung. Es reden sich um 
 
 Wöchentlicher Podcast für Webdesigner:innen und -entwickler:innen
 
-* Number of published episodes: 684
-* Last episode published: 🟢 Tuesday, 03 June 2025
+* Number of published episodes: 685
+* Last episode published: 🟢 Tuesday, 10 June 2025
 * [Working Draft Website](https://workingdraft.de/)
 * [Working Draft @ Spotify](https://open.spotify.com/show/78iH7cIFzu1ejoB6aQUsIh)
 * [Working Draft @ Apple Podcasts](https://podcasts.apple.com/de/podcast/402204581)
@@ -1382,6 +1366,22 @@ Zwei Softwareentwickler — Max und Nathan — unterhalten sich ein Getränk lan
 * [Codestammtisch Website](https://codestammtis.ch/)
 * [Codestammtisch @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1410854302)
 * [Codestammtisch Podcast RSS](https://codestammtis.ch/feed/mp3/)
+
+----
+
+<h3 id="cybersecurity-entschlusselt">Cybersecurity entschlüsselt</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/cybersecurity-entschluesselt.jpg" />
+
+Cybersecurity entschüsselt ist ein deutschsprachiger Podcast, in dem sich alles um Sicherheit dreht.
+
+* Number of published episodes: 56
+* Last episode published: 🔴 Tuesday, 10 December 2024
+* [Cybersecurity entschlüsselt Website](https://www.cybersecurity-entschluesselt.de)
+* [Cybersecurity entschlüsselt @ Spotify](https://open.spotify.com/show/0sAcefh8cixTxjJn9s1dvM)
+* [Cybersecurity entschlüsselt @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1637327527)
+* [Cybersecurity entschlüsselt Podcast RSS](https://cybersecurity-entschluesselt.de/rss.xml)
+* Tags: Security, IT Security, Technology
 
 ----
 
@@ -1734,7 +1734,7 @@ Der Podcast des Tux-Tage Teams. Wir wollen euch über die wichtigsten Themen in 
 
 <h3 id="unter-4-ohren">Unter 4 Ohren</h3>
 
-<img align="right" width="215" height="215" src="./generated/generated/images/unter-4-ohren.jpg" />
+<img align="right" width="215" height="215" src="./generated/images/unter-4-ohren.jpg" />
 
 IT Security Podcast
 
