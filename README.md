@@ -176,8 +176,8 @@ Deutschsprachiger Podcast zu den Themen IT-Sicherheit und Privatsphäre. Stefan 
 
 Apfelfunk ist ein wöchentlicher Podcast über Apple-Themen. Jean-Claude Frick und Malte Kirchner berichten und bewerten darin die Neuigkeiten über den wichtigsten Computerkonzern der Welt.
 
-* Number of published episodes: 489
-* Last episode published: 🟢 Wednesday, 04 June 2025
+* Number of published episodes: 490
+* Last episode published: 🟢 Friday, 13 June 2025
 * [Apfelfunk Website](http://www.apfelfunk.com/)
 * [Apfelfunk @ Spotify](https://open.spotify.com/show/7FQLyWiNhMR0KS93ReaI4h)
 * [Apfelfunk @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1081146940)
@@ -241,7 +241,7 @@ Prozessoren, Grafikkarten, Notebooks, Desktop-PCs, Server, KI, Rechenzentren und
 Die wöchentliche Talkrunde rund um Apple, Mac, iPod &#43; iPhone, Gadgets und so. Fast live aus München.
 
 * Number of published episodes: 10
-* Last episode published: 🟢 Wednesday, 11 June 2025
+* Last episode published: 🟢 Sunday, 15 June 2025
 * [Bits und so Website](http://www.bitsundso.de/)
 * [Bits und so @ Apple Podcasts](https://podcasts.apple.com/de/podcast/202753375)
 * [Bits und so Podcast RSS](http://www.bitsundso.de/feed/)
@@ -255,8 +255,8 @@ Die wöchentliche Talkrunde rund um Apple, Mac, iPod &#43; iPhone, Gadgets und s
 
 Ransomware Attacken, Phishing oder DDoS - jeden Tag aufs Neue werden Unternehmen Ziel von Angriffen. Was sind die Geschichten dahinter, wie laufen die Attacken ab und wie kann Schaden verhindert werden? Kim und Robert haben tagtäglich Einblicke in die Info Sec Welt und teilen in diesem Podcast mit Euch ihre Erfahrungen. Schaltet ein, wenn ihr regelmäßige Updates zu aktuellen Sicherheitslücken, Diskussionen zu Technologie Trends oder anderen Themen aus der Welt der Info Sec haben möchtet!
 
-* Number of published episodes: 86
-* Last episode published: 🟢 Thursday, 05 June 2025
+* Number of published episodes: 87
+* Last episode published: 🟢 Friday, 13 June 2025
 * [Breach FM Website](https://breachfm.transistor.fm/)
 * [Breach FM @ Spotify](https://open.spotify.com/show/4ooV9mM8Qiyfkj9jUkdZjj)
 * [Breach FM @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1641279793)
@@ -271,8 +271,8 @@ Ransomware Attacken, Phishing oder DDoS - jeden Tag aufs Neue werden Unternehmen
 
 Mitglieder der c&#39;t-Redaktion diskutieren über die aktuellen Themen aus dem c’t Magazin und was sonst noch so in der IT-Welt passiert.
 
-* Number of published episodes: 597
-* Last episode published: 🟢 Saturday, 07 June 2025
+* Number of published episodes: 598
+* Last episode published: 🟢 Saturday, 14 June 2025
 * [c&#39;t uplink Website](https://www.heise.de/thema/ct-uplink)
 * [c&#39;t uplink @ Spotify](https://open.spotify.com/show/4LdN7lGr9winLtQSqoIjVD)
 * [c&#39;t uplink @ Apple Podcasts](https://podcasts.apple.com/de/podcast/835717958)
@@ -347,7 +347,7 @@ Dein Podcast rund um Softwareentwicklung und aktueller Tech News. Lernt die Codi
 Jeden Samstag das Neueste aus Computertechnik und Informationstechnologie. Beiträge, Reportagen und Interviews zu IT-Sicherheit, Informatik, Datenschutz, Smartphones, Cloud-Computing und IT-Politik. Die Trends der IT werden kompakt und informativ zusammengefasst.
 
 * Number of published episodes: 20
-* Last episode published: 🟢 Saturday, 07 June 2025
+* Last episode published: 🟢 Saturday, 14 June 2025
 * [Computer und Kommunikation (Deutschlandfunk) Website](https://www.deutschlandfunk.de/computer-und-kommunikation-102.html)
 * [Computer und Kommunikation (Deutschlandfunk) @ Spotify](https://open.spotify.com/show/4uy56W83RGe8SKmzNpyfAc)
 * [Computer und Kommunikation (Deutschlandfunk) @ Apple Podcasts](https://podcasts.apple.com/de/podcast/173754605)
@@ -362,8 +362,8 @@ Jeden Samstag das Neueste aus Computertechnik und Informationstechnologie. Beitr
 
 Im Podcast Das Duumvirat unterhalten wir uns über verschiedene Mac-Themen aus dem Alltag von Anwendern. Wir schauen über den Tellerrand. Und manchmal haben wir auch Gäste.
 
-* Number of published episodes: 67
-* Last episode published: 🟢 Thursday, 08 May 2025
+* Number of published episodes: 68
+* Last episode published: 🟢 Monday, 16 June 2025
 * [Das Duumvirat Website](https://www.trommelspeicher.de/podcast/)
 * [Das Duumvirat @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1212750085)
 * [Das Duumvirat Podcast RSS](https://www.trommelspeicher.de/resource/podcast/feed.xml)
@@ -558,8 +558,8 @@ Habt ihr diesen Spruch auch schon mal gehört – mit hochgezogenen Augenbrauen,
 
 Freak Show ist ein Podcast, der sich mit dem Leben mit Technik im 21. Jahrhundert auseinandersetzt und dabei eine Vielzahl von Themen anschneidet. Es ist kein Geheimnis, dass das Team sich viel und gerne mit Apple und seinen Produkten, Programmierung, Bitcoin, Gitarren, Podcasting und anderen Lastern herumschlägt. Aber wir reden auch über was anderes.
 
-* Number of published episodes: 293
-* Last episode published: 🟢 Friday, 23 May 2025
+* Number of published episodes: 294
+* Last episode published: 🟢 Saturday, 14 June 2025
 * [Freakshow Website](https://freakshow.fm/)
 * [Freakshow @ Apple Podcasts](https://podcasts.apple.com/de/podcast/277518737)
 * [Freakshow Podcast RSS](https://feeds.metaebene.me/freakshow/m4a)
@@ -603,8 +603,8 @@ Ein monatlicher Podcast der GNU/Linux.ch Community mit Themen und Interviews run
 
 Der Podcast für den praktizierenden Softwarearchitekten
 
-* Number of published episodes: 105
-* Last episode published: 🟡 Friday, 28 March 2025
+* Number of published episodes: 106
+* Last episode published: 🟢 Friday, 13 June 2025
 * [heise Developer: SoftwareArchitekTOUR Website](https://www.heise.de/developer/SoftwareArchitekTOUR-4076349.html)
 * [heise Developer: SoftwareArchitekTOUR @ Spotify](https://open.spotify.com/show/2Uc7vL8U6kUZYSCOvDIJ67)
 * [heise Developer: SoftwareArchitekTOUR @ Apple Podcasts](https://podcasts.apple.com/de/podcast/313825047)
@@ -715,8 +715,8 @@ Der Podcast für Auszubildende, Ausbilder und IHK-Prüfer in den IT-Berufen (Fac
 
 IT@DB ist ein Podcast für IT Fach- und Führungskräfte (w/m/d). Hier erhältst du einen exklusiven Einblick zu spannenden IT Projekten der Deutschen Bahn.
 
-* Number of published episodes: 92
-* Last episode published: 🟢 Tuesday, 27 May 2025
+* Number of published episodes: 93
+* Last episode published: 🟢 Monday, 16 June 2025
 * [IT@DB Website](https://cqlshb.podcaster.de/)
 * [IT@DB @ Spotify](https://open.spotify.com/show/3uV0oOeigGJCAAQbXZ49Dv)
 * [IT@DB @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1462447493)
@@ -745,8 +745,8 @@ Ja sia! Der Technikpodcast von und mit Chris und Pati. Wir bringen euch regelmä
 
 Wie intelligent ist Künstliche Intelligenz eigentlich? Welche Folgen hat generative KI für unsere Arbeit, unsere Freizeit und die Gesellschaft? Im &#34;KI-Update&#34; von heise bringen wir Euch gemeinsam mit The Decoder werktäglich Updates zu den wichtigsten KI-Entwicklungen. Freitags beleuchten wir mit Experten die unterschiedlichen Aspekte der KI-Revolution.
 
-* Number of published episodes: 480
-* Last episode published: 🟢 Wednesday, 11 June 2025
+* Number of published episodes: 481
+* Last episode published: 🟢 Friday, 13 June 2025
 * [KI-Update Website](https://www.heise.de/thema/KI-Update)
 * [KI-Update @ Spotify](https://open.spotify.com/show/1rm6gMybQWnHePvY2eCpzp)
 * [KI-Update @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1691536182)
@@ -762,7 +762,7 @@ Wie intelligent ist Künstliche Intelligenz eigentlich? Welche Folgen hat genera
 Die IT-News des Tages von heise online
 
 * Number of published episodes: 1000
-* Last episode published: 🟢 Friday, 13 June 2025
+* Last episode published: 🟢 Monday, 16 June 2025
 * [Kurz informiert by heise online Website](https://www.heise.de/Hoeren-Sie-von-uns-unsere-Podcasts-4206659.html)
 * [Kurz informiert by heise online @ Spotify](https://open.spotify.com/show/2etf1jog8leNHbnhIArM9Z)
 * [Kurz informiert by heise online Podcast RSS](https://kurzinformiert.podigee.io/feed/mp3)
@@ -823,8 +823,8 @@ Hintergründe, Einschätzungen, Tipps und Neuigkeiten: Im Zweiwochenrhythmus unt
 
 Scrum kann doch inzwischen eh jeder? Von wegen! Denn - ganz unter uns: genug falsch machen kann man ohne Probleme. Daher möchten wir über Stolpersteine sprechen, über Smells und unsere Erfahrungen mitteilen, die wir mit Scrum, Kanban und Agil im Allgemeinen gemacht haben.
 
-* Number of published episodes: 139
-* Last episode published: 🟢 Monday, 26 May 2025
+* Number of published episodes: 140
+* Last episode published: 🟢 Monday, 16 June 2025
 * Weekly downloads (avg): 14449 (updated: 2022-12-28)
 * [Mein Scrum ist kaputt! Website](https://meinscrumistkaputt.de/)
 * [Mein Scrum ist kaputt! @ Spotify](https://open.spotify.com/show/7lECdowQCq0OWlf0EZnSpL)
@@ -1035,8 +1035,8 @@ Die IT hat unser Leben in den letzten Jahrzehnten von Grund auf verändert. Aber
 
 Der Security-Insider Podcast ist ein Podcast für Security-Profis mit Infos, Nachrichten und Meinungen rund um die IT-Sicherheit. Hier unterhält sich Chefredakteur Peter Schmitz mit seinem Co-Host Dirk Srocke und manchmal auch mit spannenden Gästen. Zum Gespräch stehen alle Themen rund um die IT-Sicherheit, Datenschutz und Compliance.
 
-* Number of published episodes: 100
-* Last episode published: 🟢 Monday, 26 May 2025
+* Number of published episodes: 101
+* Last episode published: 🟢 Monday, 16 June 2025
 * Weekly downloads (avg): 1060 (updated: 2023-01-16)
 * [Security-Insider Website](https://www.security-insider.de/)
 * [Security-Insider @ Spotify](https://open.spotify.com/show/3n8Pbu19oN32bzq7zsQbvC)
@@ -1068,8 +1068,8 @@ Jung, weiblich, genial: Im Tech-Podcast von NDR Info sucht die Tech-Journalistin
 
 Der Podcast für praktische Softwarearchitektur. Mit: Carola Lilienthal, Patrick Roos, Johannes Seitz, Michael Stal, Gernot Starke, Eberhard Wolff.
 
-* Number of published episodes: 105
-* Last episode published: 🟡 Friday, 28 March 2025
+* Number of published episodes: 106
+* Last episode published: 🟢 Friday, 13 June 2025
 * [SoftwareArchitekTOUR - von Entwicklern für Entwickler Website](https://www.heise.de/thema/softwarearchitektour)
 * [SoftwareArchitekTOUR - von Entwicklern für Entwickler @ Spotify](https://open.spotify.com/show/2Uc7vL8U6kUZYSCOvDIJ67)
 * [SoftwareArchitekTOUR - von Entwicklern für Entwickler @ Apple Podcasts](https://podcasts.apple.com/de/podcast/313825047)
@@ -1084,8 +1084,8 @@ Der Podcast für praktische Softwarearchitektur. Mit: Carola Lilienthal, Patrick
 
 Live-Diskussion zu Software-Architektur im Stream. Einmal in der Woche diskutiert Eberhard Wolff Software-Architektur im Live-Stream auf YouTube und Twitch - oft zusammen mit einem Gast. Zuschauer können über den Chat mitdiskutieren oder Fragen stellen. Der Podcast enthält die Audio-Spur des Streams.
 
-* Number of published episodes: 264
-* Last episode published: 🟢 Friday, 06 June 2025
+* Number of published episodes: 265
+* Last episode published: 🟢 Friday, 13 June 2025
 * [SoftwareArchitektur im Stream Website](https://software-architektur.tv/)
 * [SoftwareArchitektur im Stream @ Spotify](https://open.spotify.com/show/7ySg1eZoWYBshd6QpGaW8B)
 * [SoftwareArchitektur im Stream @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1538545458)
@@ -1195,8 +1195,8 @@ Sujeevan und Dirk reden über Themen, die Ihnen in der letzten Zeit untergekomme
 
 Deutschsprachiger Podcast für die großen und kleinen Fragen des Developeralltags. Schon seit Langem tauschen sich Malte und Robin-Manuel in regelmäßigen Abständen über diverse Themen aus ihrem Alltag in der Softwareentwicklung aus. Dabei lernen sie jedes Mal etwas Neues! Warum also das Ganze nicht aufzeichnen und als Podcast zur Verfügung stellen?
 
-* Number of published episodes: 117
-* Last episode published: 🟢 Monday, 02 June 2025
+* Number of published episodes: 118
+* Last episode published: 🟢 Monday, 16 June 2025
 * [todo:cast Website](https://www.todocast.io/)
 * [todo:cast @ Spotify](https://open.spotify.com/show/2tIlVD6vBAtEhOZM4jS1mw)
 * [todo:cast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1467179396)
@@ -1211,8 +1211,8 @@ Deutschsprachiger Podcast für die großen und kleinen Fragen des Developerallta
 
 Wir sind UNMUTE IT, der Podcast von und mit Frauen aus der IT. Wir erzählen von unseren Erfahrungen, begegneten Herausforderungen, Tipps &amp; Tricks und teilen die eine oder andere Anekdote. Frauen gehören in STEM Felder.Mit unserer Präsenz wollen wir dies untermauern und Frauen motivieren, sich mit dem Thema zu beschäftigen und den Schritt in die IT zu gehen.
 
-* Number of published episodes: 83
-* Last episode published: 🟢 Monday, 21 April 2025
+* Number of published episodes: 84
+* Last episode published: 🟢 Sunday, 15 June 2025
 * Weekly downloads (avg): 177 (updated: 2023-01-21)
 * [Unmute IT Website](https://linkr.bio/unmute-it)
 * [Unmute IT @ Spotify](https://open.spotify.com/show/4v3xXuY5Km98xnmeXeGZgx)
