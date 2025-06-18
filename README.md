@@ -6,7 +6,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (74 podcasts)
+* [Podcasts](#podcasts) (73 podcasts)
   * [#heiseshow](#heiseshow)
   * [((c3d2)) Pentaradio 24](#c3d2-pentaradio-24)
   * [0d - Zeroday](#0d-zeroday)
@@ -45,7 +45,6 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [IT ist alles](#it-ist-alles)
   * [IT-Berufe Podcast](#it-berufe-podcast)
   * [IT@DB](#itatdb)
-  * [Ja sia!](#ja-sia)
   * [KI-Update](#ki-update)
   * [Kurz informiert by heise online](#kurz-informiert-by-heise-online)
   * [Logbuch Digitalien](#logbuch-digitalien)
@@ -81,7 +80,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [Webcafé - Webentwicklung und Unternehmenskultur](#webcafe-webentwicklung-und-unternehmenskultur)
   * [Wo wir sind ist vorne](#wo-wir-sind-ist-vorne)
   * [Working Draft](#working-draft)
-* [Archived podcasts](#archived-podcasts) (29 podcasts)
+* [Archived podcasts](#archived-podcasts) (30 podcasts)
   * [Armchair Investigators](#armchair-investigators)
   * [Autoweird](#autoweird)
   * [Bits &amp; Böses - Der Tech Crime Podcast](#bits-and-boses-der-tech-crime-podcast)
@@ -93,6 +92,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [Herr Zenzes wills wissen](#herr-zenzes-wills-wissen)
   * [Herzbergs Hörsaal](#herzbergs-horsaal)
   * [INNOQ Security Podcast](#innoq-security-podcast)
+  * [Ja sia!](#ja-sia)
   * [knowIT](#knowit)
   * [Macht der Craft](#macht-der-craft)
   * [Open Source Couch](#open-source-couch)
@@ -224,8 +224,8 @@ Ein Podcast über Web, Entwicklung, Mobile und Technologie. Betrachtet aus der S
 
 Prozessoren, Grafikkarten, Notebooks, Desktop-PCs, Server, KI, Rechenzentren und IT-Markt: In &#34;Bit-Rauschen&#34;, dem Prozessor-Podcast des Computermagazins c’t, dreht sich alles um Chips.
 
-* Number of published episodes: 116
-* Last episode published: 🟢 Wednesday, 04 June 2025
+* Number of published episodes: 117
+* Last episode published: 🟢 Wednesday, 18 June 2025
 * [Bit-Rauschen - der Prozessor-Podcast von c&#39;t Website](https://www.heise.de/thema/bit-rauschen)
 * [Bit-Rauschen - der Prozessor-Podcast von c&#39;t @ Spotify](https://open.spotify.com/show/6JD6gwqgVR27GYZACrWOT1)
 * [Bit-Rauschen - der Prozessor-Podcast von c&#39;t @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1549821753)
@@ -459,8 +459,8 @@ Hier geht es um die kleinen und großen Fehlschläge in der Geschichte der Techn
 
 Einfach Komplex macht Software und IT verständlich – für Laien und Experten gleichermaßen. Jeden zweiten Dienstag bieten wir Einblicke in die Welt der Softwareentwicklung und IT. Unser Ziel: dich für Diskussionen rund um Softwareprojekte, IT/OT-Infrastruktur oder digitale Zukunftsfragen fit zu machen. Einfach erklärt, aber in all seiner Komplexität – damit du besser mitreden kannst und fundierte Entscheidungen triffst. Einfach Komplex wird präsentiert von Heisenware.
 
-* Number of published episodes: 85
-* Last episode published: 🟢 Monday, 02 June 2025
+* Number of published episodes: 86
+* Last episode published: 🟢 Tuesday, 17 June 2025
 * Weekly downloads (avg): 1900 (updated: 2025-01-21)
 * [Einfach Komplex Website](https://heisenware.com/podcast)
 * [Einfach Komplex @ Spotify](https://open.spotify.com/show/4eTpBCjUos9xUXtX294CnY?si=457f567027574f40)
@@ -476,8 +476,8 @@ Einfach Komplex macht Software und IT verständlich – für Laien und Experten 
 
 Der Engineering Kiosk ist der deutschsprachige Software-Engineering-Podcast mit Wolfgang Gassler und Andy Grunwald rund um die Themen Engineering-Kultur, Open Source, Menschen, Technologie und allen anderen Bereichen, die damit in Verbindung stehen.
 
-* Number of published episodes: 200
-* Last episode published: 🟢 Tuesday, 03 June 2025
+* Number of published episodes: 202
+* Last episode published: 🟢 Tuesday, 17 June 2025
 * Weekly downloads (avg): 1099 (updated: 2023-01-31)
 * [Engineering Kiosk Website](https://engineeringkiosk.dev/)
 * [Engineering Kiosk @ Spotify](https://open.spotify.com/show/0tJRC0UsObPCWLmmzmOkIs)
@@ -542,8 +542,8 @@ Der FOCUS ON: Linux Podcast beschäftigt sich mit verschiedenen Themen rund um L
 
 Habt ihr diesen Spruch auch schon mal gehört – mit hochgezogenen Augenbrauen, dezentem Kopfschütteln und einem leicht genervten Ausatmen: “Frauen und Technik…”, dann seid ihr hier genau richtig. Der neue Technologie-Podcast der c&#39;t “Frauen und Technik mit Svea Eckert und Eva Wolfangel” spielt genau mit diesem Klischee, bricht es charmant auf und vermittelt dabei Wissen. Die beiden erfahrenen, freien Technologie-Journalistinnen widmen sich alle 14-Tage einem spannenden Tech-Thema und laden sich dazu inspirierende weibliche Gäste ein. Aber auch die Podcast-Hosts bringen etwas mit: investigative und spannende Recherchen, zu denen es in jeder Folge gleich zu Beginn einen kurzen Deepdive gibt.
 
-* Number of published episodes: 34
-* Last episode published: 🟢 Wednesday, 11 June 2025
+* Number of published episodes: 35
+* Last episode published: 🟢 Wednesday, 18 June 2025
 * [Frauen und Technik – mit Eckert und Wolfangel Website](https://frauen-technik.podigee.io/)
 * [Frauen und Technik – mit Eckert und Wolfangel @ Spotify](https://open.spotify.com/show/3HwNHImCFF1NvNMQnN2rFR)
 * [Frauen und Technik – mit Eckert und Wolfangel @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1762825923)
@@ -587,8 +587,8 @@ Wir talken GameDev und haben Unreal News.
 
 Ein monatlicher Podcast der GNU/Linux.ch Community mit Themen und Interviews rund um die Themen GNU/Linux, Freie Software und Freie Gesellschaft.
 
-* Number of published episodes: 146
-* Last episode published: 🟢 Wednesday, 11 June 2025
+* Number of published episodes: 147
+* Last episode published: 🟢 Tuesday, 17 June 2025
 * [GNU/Linux.ch Website](https://gnulinux.ch/)
 * [GNU/Linux.ch @ Spotify](https://open.spotify.com/show/0rs1Zm91TsjHhGo2lt0uPi)
 * [GNU/Linux.ch @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1527155920)
@@ -724,29 +724,14 @@ IT@DB ist ein Podcast für IT Fach- und Führungskräfte (w/m/d). Hier erhältst
 
 ----
 
-<h3 id="ja-sia">Ja sia!</h3>
-
-<img align="right" width="215" height="215" src="./generated/images/ja-sia.jpg" />
-
-Ja sia! Der Technikpodcast von und mit Chris und Pati. Wir bringen euch regelmäßig neue Infos zu aktuellen technologischen- und dazugehörigen wissenschaftlichen Themen kombiniert mit der einen oder anderen unterhaltsamen Spaßrubrik. ;)
-
-* Number of published episodes: 103
-* Last episode published: 🟡 Tuesday, 17 December 2024
-* [Ja sia! Website](https://www.ja-sia.de/)
-* [Ja sia! @ Spotify](https://open.spotify.com/show/6hjVDLM5ldA2t3YEwLfeKI)
-* [Ja sia! @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1527996174)
-* [Ja sia! Podcast RSS](https://www.ja-sia.de/jasia.rss)
-
-----
-
 <h3 id="ki-update">KI-Update</h3>
 
 <img align="right" width="215" height="215" src="./generated/images/ki-update.png" />
 
 Wie intelligent ist Künstliche Intelligenz eigentlich? Welche Folgen hat generative KI für unsere Arbeit, unsere Freizeit und die Gesellschaft? Im &#34;KI-Update&#34; von heise bringen wir Euch gemeinsam mit The Decoder werktäglich Updates zu den wichtigsten KI-Entwicklungen. Freitags beleuchten wir mit Experten die unterschiedlichen Aspekte der KI-Revolution.
 
-* Number of published episodes: 481
-* Last episode published: 🟢 Friday, 13 June 2025
+* Number of published episodes: 482
+* Last episode published: 🟢 Monday, 16 June 2025
 * [KI-Update Website](https://www.heise.de/thema/KI-Update)
 * [KI-Update @ Spotify](https://open.spotify.com/show/1rm6gMybQWnHePvY2eCpzp)
 * [KI-Update @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1691536182)
@@ -762,7 +747,7 @@ Wie intelligent ist Künstliche Intelligenz eigentlich? Welche Folgen hat genera
 Die IT-News des Tages von heise online
 
 * Number of published episodes: 1000
-* Last episode published: 🟢 Monday, 16 June 2025
+* Last episode published: 🟢 Wednesday, 18 June 2025
 * [Kurz informiert by heise online Website](https://www.heise.de/Hoeren-Sie-von-uns-unsere-Podcasts-4206659.html)
 * [Kurz informiert by heise online @ Spotify](https://open.spotify.com/show/2etf1jog8leNHbnhIArM9Z)
 * [Kurz informiert by heise online Podcast RSS](https://kurzinformiert.podigee.io/feed/mp3)
@@ -792,8 +777,8 @@ Der Podcast über unsere digitale Lebens- und Arbeitswelt mit Markus Hörster un
 
 Logbuch:Netzpolitik ist ein in der Regel wöchentlich erscheinender Podcast, der im Dialog zwischen Linus Neumann und Tim Pritlove die wichtigsten Themen und Ereignisse mit netzpolitischem Bezug aufgreift und diskutiert.
 
-* Number of published episodes: 528
-* Last episode published: 🟢 Sunday, 08 June 2025
+* Number of published episodes: 529
+* Last episode published: 🟢 Tuesday, 17 June 2025
 * [Logbuch: Netzpolitik Website](https://logbuch-netzpolitik.de/)
 * [Logbuch: Netzpolitik @ Apple Podcasts](https://podcasts.apple.com/de/podcast/476856034)
 * [Logbuch: Netzpolitik Podcast RSS](https://feeds.metaebene.me/lnp/m4a)
@@ -872,8 +857,8 @@ Der MIXEDCAST ist Deutschlands Podcast über Virtual Reality, Augmented Reality,
 
 Die Welt wird immer digitaler und IT-Sicherheit auch im Alltag immer wichtiger. Im Podcast „Nachgehackt“ spricht Moderator  Henrik Hanses mit Expertinnen, Experten und anderen spannenden Gästen über unterschiedliche Aspekte der IT Security – und zwar so, dass es auch für Laien verständlich ist.
 
-* Number of published episodes: 31
-* Last episode published: 🟢 Tuesday, 20 May 2025
+* Number of published episodes: 32
+* Last episode published: 🟢 Tuesday, 17 June 2025
 * [Nachgehackt Website](https://nachgehacktpodcast.podigee.io/)
 * [Nachgehackt @ Spotify](https://open.spotify.com/show/0fn3tYRiZAR3wlkSw5vJdQ)
 * [Nachgehackt @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1641242207)
@@ -937,8 +922,8 @@ Ein Podcast über die dunkle Seite der Digitalisierung: Spionage, Hacker, Sabota
 
 Mit geballter Dev-Power nehmen Dennis, Fabi, Sebi und Jojo neue Podcastfolgen auf und werden dabei regelmäßig von Gäst:innen aus der Branche unterstützt. Taucht in unseren Deep Dives mit uns in Frameworks und Datenbanken ein, hört euch in den CTO-Specials die Erfahrungen führender Persönlichkeiten großer Unternehmen an und bleibt mit unseren News-Folgen stets am Ball in der Welt der App- und Webentwicklung.
 
-* Number of published episodes: 420
-* Last episode published: 🟢 Thursday, 12 June 2025
+* Number of published episodes: 421
+* Last episode published: 🟢 Tuesday, 17 June 2025
 * Weekly downloads (avg): 8744 (updated: 2023-04-12)
 * [programmier.bar Website](https://www.programmier.bar/podcast)
 * [programmier.bar @ Spotify](https://open.spotify.com/show/0ik0sXv9paTQCeThcOLCCJ)
@@ -1292,8 +1277,8 @@ Latenight-Frontend-Talkshow rund um Webdesign und Entwicklung. Es reden sich um 
 
 Wöchentlicher Podcast für Webdesigner:innen und -entwickler:innen
 
-* Number of published episodes: 685
-* Last episode published: 🟢 Tuesday, 10 June 2025
+* Number of published episodes: 686
+* Last episode published: 🟢 Tuesday, 17 June 2025
 * [Working Draft Website](https://workingdraft.de/)
 * [Working Draft @ Spotify](https://open.spotify.com/show/78iH7cIFzu1ejoB6aQUsIh)
 * [Working Draft @ Apple Podcasts](https://podcasts.apple.com/de/podcast/402204581)
@@ -1433,7 +1418,7 @@ Nothing But Tech - Aus Deutschland, der Schweiz und den USA. geek-week.de berich
 
 <h3 id="herr-zenzes-wills-wissen">Herr Zenzes wills wissen</h3>
 
-<img align="right" width="215" height="215" src="./generated/generated/images/herr-zenzes.png" />
+<img align="right" width="215" height="215" src="./generated/images/herr-zenzes.png" />
 
 &#34;Herr Zenzes wills wissen&#34; stellt jeden Monat eine interessante Person und ihre Themen aus der IT-Welt vor.
 
@@ -1476,6 +1461,21 @@ In diesem Podcast sprechen wir über die Grundlagen von IT-Security. Ein praktis
 * [INNOQ Security Podcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1518284030)
 * [INNOQ Security Podcast Podcast RSS](https://innoqsecurity.podigee.io/feed/aac)
 * Tags: Security
+
+----
+
+<h3 id="ja-sia">Ja sia!</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/ja-sia.jpg" />
+
+Ja sia! Der Technikpodcast von und mit Chris und Pati. Wir bringen euch regelmäßig neue Infos zu aktuellen technologischen- und dazugehörigen wissenschaftlichen Themen kombiniert mit der einen oder anderen unterhaltsamen Spaßrubrik. ;)
+
+* Number of published episodes: 103
+* Last episode published: 🔴 Tuesday, 17 December 2024
+* [Ja sia! Website](https://www.ja-sia.de/)
+* [Ja sia! @ Spotify](https://open.spotify.com/show/6hjVDLM5ldA2t3YEwLfeKI)
+* [Ja sia! @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1527996174)
+* [Ja sia! Podcast RSS](https://www.ja-sia.de/jasia.rss)
 
 ----
 
