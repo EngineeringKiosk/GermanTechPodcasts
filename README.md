@@ -6,7 +6,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (73 podcasts)
+* [Podcasts](#podcasts) (76 podcasts)
   * [#heiseshow](#heiseshow)
   * [((c3d2)) Pentaradio 24](#c3d2-pentaradio-24)
   * [0d - Zeroday](#0d-zeroday)
@@ -27,9 +27,11 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [Data Science Deep Dive](#data-science-deep-dive)
   * [Der GameDev Podcast](#der-gamedev-podcast)
   * [DevCouch](#devcouch)
+  * [Devs on Tape](#devs-on-tape)
   * [Digitale Anomalien](#digitale-anomalien)
   * [Einfach Komplex](#einfach-komplex)
   * [Engineering Kiosk](#engineering-kiosk)
+  * [Faxinformatiker](#faxinformatiker)
   * [Female TechTalk](#female-techtalk)
   * [FOCUS ON: DevOps](#focus-on-devops)
   * [FOCUS ON: Linux](#focus-on-linux)
@@ -65,6 +67,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [Schlüsseltechnologie](#schlusseltechnologie)
   * [Security-Insider](#security-insider)
   * [She Likes Tech](#she-likes-tech)
+  * [Silicon Weekly](#silicon-weekly)
   * [SoftwareArchitekTOUR - von Entwicklern für Entwickler](#softwarearchitektour-von-entwicklern-fur-entwickler)
   * [SoftwareArchitektur im Stream](#softwarearchitektur-im-stream)
   * [SoftwerkerCast](#softwerkercast)
@@ -436,6 +439,22 @@ Der Unterhaltungs-Podcast für .NET Entwickler - ca. alle zwei Wochen treffen si
 
 ----
 
+<h3 id="devs-on-tape">Devs on Tape</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/devs-on-tape.jpg" />
+
+&#34;Devs on Tape&#34; ist ein Podcast, der sich mit allen Themen rund um die professionelle Software-Entwicklung beschäftigt. Zwei kreative Köpfe teilen Ihr Wissen und ihre Erfahrungen im Bereich Development, DevOps, Vereinsarbeit und vielem mehr.
+
+* Number of published episodes: 80
+* Last episode published: 🟢 Wednesday, 18 June 2025
+* [Devs on Tape Website](https://devsontape.podigee.io/)
+* [Devs on Tape @ Spotify](https://open.spotify.com/show/6TwshmvspMnBzzh8mX8Me1)
+* [Devs on Tape @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1604337890)
+* [Devs on Tape Podcast RSS](https://devsontape.podigee.io/feed/mp3)
+* Tags: Oracle, Softwareentwicklung, Software Development
+
+----
+
 <h3 id="digitale-anomalien">Digitale Anomalien</h3>
 
 <img align="right" width="215" height="215" src="./generated/images/digitale-anomalien.jpg" />
@@ -484,6 +503,22 @@ Der Engineering Kiosk ist der deutschsprachige Software-Engineering-Podcast mit 
 * [Engineering Kiosk @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1603082924)
 * [Engineering Kiosk Podcast RSS](https://feeds.redcircle.com/0ecfdfd7-fda1-4c3d-9515-476727f9df5e)
 * Tags: Development, Tech-Kultur, Open Source, DevOps, Cloud, Softwareentwicklung
+
+----
+
+<h3 id="faxinformatiker">Faxinformatiker</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/faxinformatiker.png" />
+
+Willkommen beim Faxinformatiker-Podcast, wo wir die humorvolle und manchmal chaotische Welt der IT erkunden! Wir – Marius Quabeck, Claudia Kühn, Patrick Terlisten, Falk Rösing und Christian Stankowic – teilen unsere besten und schlimmsten Anekdoten aus dem Berufsalltag. Von unerwarteten Stromausfällen und durchgebrannten Telefonanlagen bis hin zu ausgefallenen Klimaanlagen – bei uns gibt es immer wieder Überraschungen, die uns auf Trab halten. Erlebt mit uns, wie wir mit kreativen Lösungen und einer Portion Humor diese Herausforderungen meistern. Unser Podcast ist ein Mix aus Tech-Talk und unterhaltsamen Geschichten direkt aus dem Leben eines Fachinformatikers. Ob ihr selbst in der IT arbeitet oder einfach nur neugierig auf die Welt hinter den Bildschirmen seid – bei uns seid ihr genau richtig. Schaltet ein, lacht mit uns und lernt aus unseren Erfahrungen.
+
+* Number of published episodes: 9
+* Last episode published: 🟢 Sunday, 15 June 2025
+* [Faxinformatiker Website](https://faxinformatiker.de/)
+* [Faxinformatiker @ Spotify](https://open.spotify.com/show/2Ep8xMdjrvi46XJiPS9uAh)
+* [Faxinformatiker @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1750596424)
+* [Faxinformatiker Podcast RSS](https://faxinformatiker.de/feed/podcast/)
+* Tags: Tech-Talk
 
 ----
 
@@ -1044,6 +1079,22 @@ Jung, weiblich, genial: Im Tech-Podcast von NDR Info sucht die Tech-Journalistin
 * [She Likes Tech @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1530596058)
 * [She Likes Tech Podcast RSS](https://www.ndr.de/nachrichten/info/podcast4808.xml)
 * Tags: Female host
+
+----
+
+<h3 id="silicon-weekly">Silicon Weekly</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/silicon-weekly.jpg" />
+
+Themen wie KI oder Cybersecurity werden immer wichtiger und ein immer größerer Teil unseres Lebens. Einmal die Woche besprechen Elisabeth, Stella und Caspar die wichtigsten Tech-News und helfen euch dabei, sie zu verstehen. Schnappt euch einen Kaffee, Kakao oder Tee und setzt euch dazu!
+
+* Number of published episodes: 53
+* Last episode published: 🟢 Wednesday, 18 June 2025
+* [Silicon Weekly Website](https://silicon-weekly.de/)
+* [Silicon Weekly @ Spotify](https://open.spotify.com/show/1zaQ4IXAfm5J7XjcsKQ4Y7)
+* [Silicon Weekly @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1741135990)
+* [Silicon Weekly Podcast RSS](https://letscast.fm/podcasts/silicon-weekly-97f9c1f8/feed)
+* Tags: News
 
 ----
 
