@@ -1152,8 +1152,8 @@ Der SoftwerkerCast präsentiert euch Softwerker-Wissen zum Reinhören und Nachh�
 
 In diesem Podcast diskutiert die t3n-Redaktion mit Gästen über die spannendsten digitalen Themen unserer Zeit. Ob innovative Führungskonzepte, die Digitalisierung der Gesellschaft, smarte Gadgets, neue Mobilität oder Zukunftstechnologien. Jeden Freitag um 10 Uhr!
 
-* Number of published episodes: 687
-* Last episode published: 🟢 Friday, 13 June 2025
+* Number of published episodes: 688
+* Last episode published: 🟢 Friday, 20 June 2025
 * [t3n Interview Website](https://t3n.de/podcast#interview)
 * [t3n Interview @ Spotify](https://open.spotify.com/show/7obTbZaywhQEiUUOMswQBQ)
 * [t3n Interview @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1115601393)
@@ -1785,7 +1785,7 @@ Der Podcast des Tux-Tage Teams. Wir wollen euch über die wichtigsten Themen in 
 
 <h3 id="unter-4-ohren">Unter 4 Ohren</h3>
 
-<img align="right" width="215" height="215" src="./generated/images/unter-4-ohren.jpg" />
+<img align="right" width="215" height="215" src="./generated/generated/images/unter-4-ohren.jpg" />
 
 IT Security Podcast
 
