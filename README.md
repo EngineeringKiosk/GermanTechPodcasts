@@ -130,8 +130,8 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
 
 Immer donnerstags live um 17 Uhr sprechen Anna Kalinowsky, Malte Kirchner und Volker Zota von heise online bei YouTube über die Tech-Themen der Woche. Zum Nachhören gibt es die #heiseshow auch als Podcast.
 
-* Number of published episodes: 465
-* Last episode published: 🟢 Thursday, 05 June 2025
+* Number of published episodes: 466
+* Last episode published: 🟢 Thursday, 19 June 2025
 * [#heiseshow Website](https://www.heise.de/thema/heiseshow)
 * [#heiseshow @ Spotify](https://open.spotify.com/show/7iMjJRAHcOAumvPbdGDavJ)
 * [#heiseshow @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1082296572)
@@ -334,8 +334,8 @@ Lucas Rott und Markus Herhoffer erzählen alle 14 Tage von Code und Nerd-Kultur.
 
 Dein Podcast rund um Softwareentwicklung und aktueller Tech News. Lernt die Coding Buddies Tino und Fabi kennen. Erfahrt spannende Dinge über diverse Themen aus der Softwareentwicklung und lauscht den Erfahrungen der Beiden. Dazu gibt es witzige Anekdoten der Coding Buddies.
 
-* Number of published episodes: 117
-* Last episode published: 🟢 Thursday, 12 June 2025
+* Number of published episodes: 118
+* Last episode published: 🟢 Thursday, 19 June 2025
 * [Coding Buddies Website](https://www.codingbuddies.de/)
 * [Coding Buddies @ Spotify](https://open.spotify.com/show/5DaiBkAgQBt8DRCcwZY8xT?si=4acf817842f44c43)
 * [Coding Buddies @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1680339110)
@@ -1040,8 +1040,8 @@ Wie können wir Cybersicherheit als gesamtgesellschaftliches Problem verstehen? 
 
 Die IT hat unser Leben in den letzten Jahrzehnten von Grund auf verändert. Aber wie funktioniert sie wirklich? Das möchte ttimeless mal erklärt bekommen. Zum Glück hat Xyrill Antworten.
 
-* Number of published episodes: 74
-* Last episode published: 🟢 Thursday, 29 May 2025
+* Number of published episodes: 75
+* Last episode published: 🟢 Thursday, 19 June 2025
 * [Schlüsseltechnologie Website](https://xyrillian.de/noises/stp/)
 * [Schlüsseltechnologie @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1559995829)
 * [Schlüsseltechnologie Podcast RSS](https://xyrillian.de/noises/stp/rss.xml)
@@ -1280,8 +1280,8 @@ Alle 14 Tage laden wir zu einer kleinen Kaminzimmerrunde über IT-Kram ein. In E
 
 In diesem Podcast geht es um Web und User Interface Design, Freelancing, Arbeitsprozesse, Kunden und alles, wo sich diese Bereiche überschneiden.
 
-* Number of published episodes: 231
-* Last episode published: 🟢 Friday, 02 May 2025
+* Number of published episodes: 232
+* Last episode published: 🟢 Friday, 20 June 2025
 * [Web &amp; Design Podcast Website](https://www.jonasarleth.com/podcast)
 * [Web &amp; Design Podcast @ Spotify](https://open.spotify.com/show/6P3ovTvnUXUQZdjEMLEBer)
 * [Web &amp; Design Podcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1197452865)
@@ -1328,8 +1328,8 @@ Latenight-Frontend-Talkshow rund um Webdesign und Entwicklung. Es reden sich um 
 
 Wöchentlicher Podcast für Webdesigner:innen und -entwickler:innen
 
-* Number of published episodes: 686
-* Last episode published: 🟢 Tuesday, 17 June 2025
+* Number of published episodes: 687
+* Last episode published: 🟢 Thursday, 19 June 2025
 * [Working Draft Website](https://workingdraft.de/)
 * [Working Draft @ Spotify](https://open.spotify.com/show/78iH7cIFzu1ejoB6aQUsIh)
 * [Working Draft @ Apple Podcasts](https://podcasts.apple.com/de/podcast/402204581)
