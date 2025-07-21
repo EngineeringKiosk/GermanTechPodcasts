@@ -142,7 +142,7 @@ Immer donnerstags live um 17 Uhr sprechen Anna Kalinowsky, Malte Kirchner und Vo
 
 <h3 id="c3d2-pentaradio-24">((c3d2)) Pentaradio 24</h3>
 
-<img align="right" width="215" height="215" src="./generated/images/pentaradio24.png" />
+<img align="right" width="215" height="215" src="./generated/generated/images/pentaradio24.png" />
 
 Pentaradio24 ist eine Sendung, die jeden vierten Dienstag im Monat zwischen 21:30 und 23:00 Uhr auf coloRadio live ausgestrahlt wird, bestehend aus einem informativen Rahmenprogramm und Beiträgen zu einem sendungsspezifischen Thema.
 
@@ -274,8 +274,8 @@ Die wöchentliche Talkrunde rund um Apple, Mac, iPod &#43; iPhone, Gadgets und s
 
 Ransomware Attacken, Phishing oder DDoS - jeden Tag aufs Neue werden Unternehmen Ziel von Angriffen. Was sind die Geschichten dahinter, wie laufen die Attacken ab und wie kann Schaden verhindert werden? Kim und Robert haben tagtäglich Einblicke in die Info Sec Welt und teilen in diesem Podcast mit Euch ihre Erfahrungen. Schaltet ein, wenn ihr regelmäßige Updates zu aktuellen Sicherheitslücken, Diskussionen zu Technologie Trends oder anderen Themen aus der Welt der Info Sec haben möchtet!
 
-* Number of published episodes: 88
-* Last episode published: 🟢 Wednesday, 18 June 2025
+* Number of published episodes: 92
+* Last episode published: 🟢 Wednesday, 16 July 2025
 * [Breach FM Website](https://breachfm.transistor.fm/)
 * [Breach FM @ Spotify](https://open.spotify.com/show/4ooV9mM8Qiyfkj9jUkdZjj)
 * [Breach FM @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1641279793)
@@ -290,8 +290,8 @@ Ransomware Attacken, Phishing oder DDoS - jeden Tag aufs Neue werden Unternehmen
 
 Mitglieder der c&#39;t-Redaktion diskutieren über die aktuellen Themen aus dem c’t Magazin und was sonst noch so in der IT-Welt passiert.
 
-* Number of published episodes: 602
-* Last episode published: 🟢 Saturday, 12 July 2025
+* Number of published episodes: 603
+* Last episode published: 🟢 Saturday, 19 July 2025
 * [c&#39;t uplink Website](https://www.heise.de/thema/ct-uplink)
 * [c&#39;t uplink @ Spotify](https://open.spotify.com/show/4LdN7lGr9winLtQSqoIjVD)
 * [c&#39;t uplink @ Apple Podcasts](https://podcasts.apple.com/de/podcast/835717958)
@@ -366,7 +366,7 @@ Dein Podcast rund um Softwareentwicklung und aktueller Tech News. Lernt die Codi
 Jeden Samstag das Neueste aus Computertechnik und Informationstechnologie. Beiträge, Reportagen und Interviews zu IT-Sicherheit, Informatik, Datenschutz, Smartphones, Cloud-Computing und IT-Politik. Die Trends der IT werden kompakt und informativ zusammengefasst.
 
 * Number of published episodes: 20
-* Last episode published: 🟢 Saturday, 12 July 2025
+* Last episode published: 🟢 Saturday, 19 July 2025
 * [Computer und Kommunikation (Deutschlandfunk) Website](https://www.deutschlandfunk.de/computer-und-kommunikation-102.html)
 * [Computer und Kommunikation (Deutschlandfunk) @ Spotify](https://open.spotify.com/show/4uy56W83RGe8SKmzNpyfAc)
 * [Computer und Kommunikation (Deutschlandfunk) @ Apple Podcasts](https://podcasts.apple.com/de/podcast/173754605)
@@ -461,8 +461,8 @@ Der Unterhaltungs-Podcast für .NET Entwickler - ca. alle zwei Wochen treffen si
 
 &#34;Devs on Tape&#34; ist ein Podcast, der sich mit allen Themen rund um die professionelle Software-Entwicklung beschäftigt. Zwei kreative Köpfe teilen Ihr Wissen und ihre Erfahrungen im Bereich Development, DevOps, Vereinsarbeit und vielem mehr.
 
-* Number of published episodes: 81
-* Last episode published: 🟢 Wednesday, 02 July 2025
+* Number of published episodes: 82
+* Last episode published: 🟢 Wednesday, 16 July 2025
 * [Devs on Tape Website](https://devsontape.podigee.io/)
 * [Devs on Tape @ Spotify](https://open.spotify.com/show/6TwshmvspMnBzzh8mX8Me1)
 * [Devs on Tape @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1604337890)
@@ -494,8 +494,8 @@ Hier geht es um die kleinen und großen Fehlschläge in der Geschichte der Techn
 
 Einfach Komplex macht Software und IT verständlich – für Laien und Experten gleichermaßen. Jeden zweiten Dienstag bieten wir Einblicke in die Welt der Softwareentwicklung und IT. Unser Ziel: dich für Diskussionen rund um Softwareprojekte, IT/OT-Infrastruktur oder digitale Zukunftsfragen fit zu machen. Einfach erklärt, aber in all seiner Komplexität – damit du besser mitreden kannst und fundierte Entscheidungen triffst. Einfach Komplex wird präsentiert von Heisenware.
 
-* Number of published episodes: 87
-* Last episode published: 🟢 Tuesday, 01 July 2025
+* Number of published episodes: 88
+* Last episode published: 🟢 Tuesday, 15 July 2025
 * Weekly downloads (avg): 1900 (updated: 2025-01-21)
 * [Einfach Komplex Website](https://heisenware.com/podcast)
 * [Einfach Komplex @ Spotify](https://open.spotify.com/show/4eTpBCjUos9xUXtX294CnY?si=457f567027574f40)
@@ -511,8 +511,8 @@ Einfach Komplex macht Software und IT verständlich – für Laien und Experten 
 
 Der Engineering Kiosk ist der deutschsprachige Software-Engineering-Podcast mit Wolfgang Gassler und Andy Grunwald rund um die Themen Engineering-Kultur, Open Source, Menschen, Technologie und allen anderen Bereichen, die damit in Verbindung stehen.
 
-* Number of published episodes: 205
-* Last episode published: 🟢 Tuesday, 08 July 2025
+* Number of published episodes: 206
+* Last episode published: 🟢 Tuesday, 15 July 2025
 * Weekly downloads (avg): 1099 (updated: 2023-01-31)
 * [Engineering Kiosk Website](https://engineeringkiosk.dev/)
 * [Engineering Kiosk @ Spotify](https://open.spotify.com/show/0tJRC0UsObPCWLmmzmOkIs)
@@ -749,8 +749,8 @@ Nur etwas mehr als 60 Jahre liegen zwischen dem ersten Start eines Motorflugzeug
 
 Der Podcast für Auszubildende, Ausbilder und IHK-Prüfer in den IT-Berufen (Fachinformatiker für Anwendungsentwicklung/Systemintegration/Daten- und Prozessanalyse/Digitale Vernetzung, IT-Systemelektroniker, Kaufmann für IT-Systemmanagement, Kaufmann für Digitalisierungsmanagement).
 
-* Number of published episodes: 211
-* Last episode published: 🟢 Monday, 14 July 2025
+* Number of published episodes: 212
+* Last episode published: 🟢 Monday, 21 July 2025
 * Weekly downloads (avg): 5000 (updated: 2022-12-27)
 * [IT-Berufe Podcast Website](https://it-berufe-podcast.de/episoden/)
 * [IT-Berufe Podcast @ Spotify](https://open.spotify.com/show/3Z9nS0wsn9akCfo6zrmNb1)
@@ -781,8 +781,8 @@ IT@DB ist ein Podcast für IT Fach- und Führungskräfte (w/m/d). Hier erhältst
 
 Wie intelligent ist Künstliche Intelligenz eigentlich? Welche Folgen hat generative KI für unsere Arbeit, unsere Freizeit und die Gesellschaft? Im &#34;KI-Update&#34; von heise bringen wir Euch gemeinsam mit The Decoder werktäglich Updates zu den wichtigsten KI-Entwicklungen. Freitags beleuchten wir mit Experten die unterschiedlichen Aspekte der KI-Revolution.
 
-* Number of published episodes: 494
-* Last episode published: 🟢 Monday, 14 July 2025
+* Number of published episodes: 496
+* Last episode published: 🟢 Friday, 18 July 2025
 * [KI-Update Website](https://www.heise.de/thema/KI-Update)
 * [KI-Update @ Spotify](https://open.spotify.com/show/1rm6gMybQWnHePvY2eCpzp)
 * [KI-Update @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1691536182)
@@ -798,7 +798,7 @@ Wie intelligent ist Künstliche Intelligenz eigentlich? Welche Folgen hat genera
 Die IT-News des Tages von heise online
 
 * Number of published episodes: 1000
-* Last episode published: 🟢 Tuesday, 15 July 2025
+* Last episode published: 🟢 Friday, 18 July 2025
 * [Kurz informiert by heise online Website](https://www.heise.de/Hoeren-Sie-von-uns-unsere-Podcasts-4206659.html)
 * [Kurz informiert by heise online @ Spotify](https://open.spotify.com/show/2etf1jog8leNHbnhIArM9Z)
 * [Kurz informiert by heise online Podcast RSS](https://kurzinformiert.podigee.io/feed/mp3)
@@ -876,8 +876,8 @@ Scrum kann doch inzwischen eh jeder? Von wegen! Denn - ganz unter uns: genug fal
 
 Mind the Tech ist ein Podcast, der die dunklen Seiten der IT- und Tech-Welt beleuchtet. Dazu zählen legendäre Hackerangriffe, Datendiebstähle und Cyberattacken. Ebenso kommen die unzähligen Geschichten von Menschen auf den Tisch, die es mit Recht und Gesetz im Web nicht so ernst nehmen – und irgendwann die Konsequenzen ihres Handelns zu spüren bekommen. Wir widmen uns Antitrends und Mythen, stellen Entwicklungen im und rund ums Internet in Frage, wägen ab. Denn wir sind fest davon überzeugt: Nur wenn wir uns ihren Schattenseiten widmen, können wir die (digitale) Welt zu einem besseren Ort machen.
 
-* Number of published episodes: 97
-* Last episode published: 🟢 Wednesday, 25 June 2025
+* Number of published episodes: 98
+* Last episode published: 🟢 Saturday, 19 July 2025
 * [Mind the Tech Website](https://www.mindthetech.de/)
 * [Mind the Tech @ Spotify](https://open.spotify.com/show/6FydYmBjELizU8k8DOIcaA)
 * [Mind the Tech @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1515173582)
@@ -1040,8 +1040,8 @@ Sandra Parsick &amp; Daniel Zenzes präsentieren mit Ready for Review einen bunt
 
 Wie können wir Cybersicherheit als gesamtgesellschaftliches Problem verstehen? Wolfgang Straßer, langjähriger Experte im Bereich Cybersicherheit und Marian Blok, Politikberater mit Schwerpunkt Cybersecurity, sprechen mit Cyber-Experten aus Unternehmen, Behörden und Verbänden.
 
-* Number of published episodes: 21
-* Last episode published: 🟡 Tuesday, 25 March 2025
+* Number of published episodes: 22
+* Last episode published: 🟢 Wednesday, 16 July 2025
 * [Rheingehäckt Website](https://www.at-yet.de/aktuelles)
 * [Rheingehäckt @ Spotify](https://open.spotify.com/show/1CFAcjQuET8Yv35k6v38fs)
 * [Rheingehäckt @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1585954195)
@@ -1247,8 +1247,8 @@ Sujeevan und Dirk reden über Themen, die Ihnen in der letzten Zeit untergekomme
 
 Deutschsprachiger Podcast für die großen und kleinen Fragen des Developeralltags. Schon seit Langem tauschen sich Malte und Robin-Manuel in regelmäßigen Abständen über diverse Themen aus ihrem Alltag in der Softwareentwicklung aus. Dabei lernen sie jedes Mal etwas Neues! Warum also das Ganze nicht aufzeichnen und als Podcast zur Verfügung stellen?
 
-* Number of published episodes: 122
-* Last episode published: 🟢 Monday, 14 July 2025
+* Number of published episodes: 123
+* Last episode published: 🟢 Monday, 21 July 2025
 * [todo:cast Website](https://www.todocast.io/)
 * [todo:cast @ Spotify](https://open.spotify.com/show/2tIlVD6vBAtEhOZM4jS1mw)
 * [todo:cast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1467179396)
