@@ -6,7 +6,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (79 podcasts)
+* [Podcasts](#podcasts) (80 podcasts)
   * [#heiseshow](#heiseshow)
   * [((c3d2)) Pentaradio 24](#c3d2-pentaradio-24)
   * [0d - Zeroday](#0d-zeroday)
@@ -68,6 +68,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [Rheingehäckt](#rheingehackt)
   * [Schlüsseltechnologie](#schlusseltechnologie)
   * [Security-Insider](#security-insider)
+  * [Server Side Stories](#server-side-stories)
   * [She Likes Tech](#she-likes-tech)
   * [Silicon Weekly](#silicon-weekly)
   * [SoftwareArchitekTOUR - von Entwicklern für Entwickler](#softwarearchitektour-von-entwicklern-fur-entwickler)
@@ -1096,6 +1097,22 @@ Der Security-Insider Podcast ist ein Podcast für Security-Profis mit Infos, Nac
 * [Security-Insider @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1470962583)
 * [Security-Insider Podcast RSS](https://security-insider.podigee.io/feed/mp3)
 * Tags: Security, IT-Sicherheit, Cybersecurity, Datenschutz, Compliance, Malware, Sicherheitslücken
+
+----
+
+<h3 id="server-side-stories">Server Side Stories</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/server-side-stories.png" />
+
+Mark und Maurice unterhalten sich über ihren gemeinsamen Alltag als Webentwickler. Sie sprechen über die Technologien, die sie nutzen, oder nutzen wollen. Sie berichten über aktuelle Projekte und wie sie umgesetzt werden, über Fallstricke und praktische Hacks ...
+
+* Number of published episodes: 22
+* Last episode published: 🟢 Thursday, 07 August 2025
+* [Server Side Stories Website](https://konzentrik.de/de/server-side-stories)
+* [Server Side Stories @ Spotify](https://open.spotify.com/show/5P4NQCFwVoS4fxppGtxpAn)
+* [Server Side Stories @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1775196783)
+* [Server Side Stories Podcast RSS](https://konzentrik.de/server-side-stories/feed)
+* Tags: Softwareentwicklung, Entwickleralltag
 
 ----
 

@@ -2,7 +2,7 @@
  <opml version="2.0">
    <head>
      <title>Deutschsprachige Tech Podcasts</title>
-     <dateCreated>Thu, 07 Aug 2025 19:20:08 UTC</dateCreated>
+     <dateCreated>Thu, 07 Aug 2025 19:34:33 UTC</dateCreated>
      <ownerName>Engineering Kiosk</ownerName>
      <ownerEmail>stehtisch@engineeringkiosk.dev</ownerEmail>
    </head>
@@ -85,6 +85,7 @@
      <outline title="Schwarz, Code, Gold – Deutschland, Entwicklungsland?" text="Schwarz, Code, Gold – Deutschland, Entwicklungsland?" type="rss" xmlUrl="https://feed.schwarz-code-gold.de" htmlUrl="https://www.brandad-systems.de/podcast-schwarz-code-gold-deutschland-entwicklungsland"></outline>
      <outline title="Security-Insider" text="Security-Insider" type="rss" xmlUrl="https://security-insider.podigee.io/feed/mp3" htmlUrl="https://www.security-insider.de/"></outline>
      <outline title="SELECTrageFROMit;" text="SELECTrageFROMit;" type="rss" xmlUrl="https://anchor.fm/s/6c46c0c8/podcast/rss" htmlUrl="https://linktr.ee/selectragefromit"></outline>
+     <outline title="Server Side Stories" text="Server Side Stories" type="rss" xmlUrl="https://konzentrik.de/server-side-stories/feed" htmlUrl="https://konzentrik.de/de/server-side-stories"></outline>
      <outline title="She for what? She for IT!" text="She for what? She for IT!" type="rss" xmlUrl="https://sheforwhat-sheforit.podigee.io/feed/mp3" htmlUrl="https://www.adesso.de/de/unternehmen/she-for-it/podcasts.jsp"></outline>
      <outline title="She Likes Tech" text="She Likes Tech" type="rss" xmlUrl="https://www.ndr.de/nachrichten/info/podcast4808.xml" htmlUrl="https://www.ndr.de/nachrichten/info/podcast4808.html"></outline>
      <outline title="Silicon Weekly" text="Silicon Weekly" type="rss" xmlUrl="https://letscast.fm/podcasts/silicon-weekly-97f9c1f8/feed" htmlUrl="https://silicon-weekly.de/"></outline>
