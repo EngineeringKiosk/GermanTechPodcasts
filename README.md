@@ -6,7 +6,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (80 podcasts)
+* [Podcasts](#podcasts) (81 podcasts)
   * [#heiseshow](#heiseshow)
   * [((c3d2)) Pentaradio 24](#c3d2-pentaradio-24)
   * [0d - Zeroday](#0d-zeroday)
@@ -75,6 +75,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [SoftwareArchitektur im Stream](#softwarearchitektur-im-stream)
   * [SoftwerkerCast](#softwerkercast)
   * [t3n Interview](#t3n-interview)
+  * [Technik Tales](#technik-tales)
   * [TechnikTechnik](#techniktechnik)
   * [The World of IT-Security](#the-world-of-it-security)
   * [ThinkPad-Museum Podcast](#thinkpad-museum-podcast)
@@ -1208,6 +1209,21 @@ In diesem Podcast diskutiert die t3n-Redaktion mit Gästen über die spannendste
 * [t3n Interview @ Spotify](https://open.spotify.com/show/7obTbZaywhQEiUUOMswQBQ)
 * [t3n Interview @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1115601393)
 * [t3n Interview Podcast RSS](https://t3n-podcast.podigee.io/feed/mp3)
+
+----
+
+<h3 id="technik-tales">Technik Tales</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/technik-tales.png" />
+
+Willkommen bei &#34;Technik-Tales: Kuriose Technikgeschichten&#34; – dem Podcast, der sich auf die spannendsten und skurrilsten Geschichten aus der Welt der Technik konzentriert! In jeder Episode treffen sich unsere beiden Technik-Enthusiasten, Kai und Paddy, um sich gegenseitig mit den ungewöhnlichsten und faszinierendsten Anekdoten aus der Welt der Innovation und Ingenieurskunst zu überraschen. Von den kuriosen Pannen bei der Raumfahrt bis hin zu den witzigsten Missgeschicken in der Softwareentwicklung – &#34;Technik-Tales&#34; bietet euch jede Menge Unterhaltung, Wissenswertes und natürlich viele Lacher. Erfahrt, wie ein kleiner Fehler in einem Algorithmus zu einem weltweiten Chaos führen kann, oder hört, welche verrückten Erfindungen einmal im Hype waren und dann in der Versenkung verschwanden.Ob ihr Technik-Fans, Nerds oder einfach nur neugierig auf die lustigen Seiten der High-Tech-Welt seid – dieser Podcast bringt euch die spannenden Geschichten, die man nicht im Lehrbuch findet. Schaltet ein, lehnt euch zurück und lasst euch von uns auf eine aufregende Reise durch die kurvenreiche Welt der Technik entführen!Abonnieren und nichts verpassen!
+
+* Number of published episodes: 38
+* Last episode published: 🟢 Saturday, 26 July 2025
+* [Technik Tales Website](http://www.techniktales.com/)
+* [Technik Tales @ Spotify](https://open.spotify.com/show/7k6FWQiFXbaQenxDHNpKuP)
+* [Technik Tales Podcast RSS](https://www.techniktales.com/feed/mp3)
+* Tags: Technik, Geschichte, Wissenschaft
 
 ----
 
