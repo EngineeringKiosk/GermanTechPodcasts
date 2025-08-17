@@ -6,7 +6,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (81 podcasts)
+* [Podcasts](#podcasts) (82 podcasts)
   * [#heiseshow](#heiseshow)
   * [((c3d2)) Pentaradio 24](#c3d2-pentaradio-24)
   * [0d - Zeroday](#0d-zeroday)
@@ -17,6 +17,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [Bits &amp; Böses - Der Tech Crime Podcast](#bits-and-boses-der-tech-crime-podcast)
   * [Bits und so](#bits-und-so)
   * [Breach FM](#breach-fm)
+  * [BuzzZoom](#buzzzoom)
   * [c&#39;t uplink](#ct-uplink)
   * [Chaosradio](#chaosradio)
   * [Click! Clack! Hack!](#click-clack-hack)
@@ -287,14 +288,30 @@ Ransomware Attacken, Phishing oder DDoS - jeden Tag aufs Neue werden Unternehmen
 
 ----
 
+<h3 id="buzzzoom">BuzzZoom</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/buzzzoom.png" />
+
+Zwei Admins sprechen über die Buzzwords, die ihr jeden Tag hört und benutzt, deren Bedeutung ihr aber noch nie zu hinterfragen wagtet.
+
+* Number of published episodes: 116
+* Last episode published: 🟢 Thursday, 07 August 2025
+* [BuzzZoom Website](https://buzzzoom.de/)
+* [BuzzZoom @ Spotify](https://open.spotify.com/show/62IRAtqB4QWOeH6oXaJflx)
+* [BuzzZoom @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1534027177)
+* [BuzzZoom Podcast RSS](https://buzzzoom.de/?feed=podcast)
+* Tags: Tech-Kultur, Buzzwords
+
+----
+
 <h3 id="ct-uplink">c&#39;t uplink</h3>
 
 <img align="right" width="215" height="215" src="./generated/images/ct-uplink.jpg" />
 
 Mitglieder der c&#39;t-Redaktion diskutieren über die aktuellen Themen aus dem c’t Magazin und was sonst noch so in der IT-Welt passiert.
 
-* Number of published episodes: 606
-* Last episode published: 🟢 Saturday, 09 August 2025
+* Number of published episodes: 607
+* Last episode published: 🟢 Saturday, 16 August 2025
 * [c&#39;t uplink Website](https://www.heise.de/thema/ct-uplink)
 * [c&#39;t uplink @ Spotify](https://open.spotify.com/show/4LdN7lGr9winLtQSqoIjVD)
 * [c&#39;t uplink @ Apple Podcasts](https://podcasts.apple.com/de/podcast/835717958)
@@ -369,7 +386,7 @@ Dein Podcast rund um Softwareentwicklung und aktueller Tech News. Lernt die Codi
 Jeden Samstag das Neueste aus Computertechnik und Informationstechnologie. Beiträge, Reportagen und Interviews zu IT-Sicherheit, Informatik, Datenschutz, Smartphones, Cloud-Computing und IT-Politik. Die Trends der IT werden kompakt und informativ zusammengefasst.
 
 * Number of published episodes: 20
-* Last episode published: 🟢 Saturday, 09 August 2025
+* Last episode published: 🟢 Saturday, 16 August 2025
 * [Computer und Kommunikation (Deutschlandfunk) Website](https://www.deutschlandfunk.de/computer-und-kommunikation-102.html)
 * [Computer und Kommunikation (Deutschlandfunk) @ Spotify](https://open.spotify.com/show/4uy56W83RGe8SKmzNpyfAc)
 * [Computer und Kommunikation (Deutschlandfunk) @ Apple Podcasts](https://podcasts.apple.com/de/podcast/173754605)
@@ -548,7 +565,7 @@ Der Engineering Kiosk ist der deutschsprachige Software-Engineering-Podcast mit 
 Willkommen beim Faxinformatiker-Podcast, wo wir die humorvolle und manchmal chaotische Welt der IT erkunden! Wir – Marius Quabeck, Claudia Kühn, Patrick Terlisten, Falk Rösing und Christian Stankowic – teilen unsere besten und schlimmsten Anekdoten aus dem Berufsalltag. Von unerwarteten Stromausfällen und durchgebrannten Telefonanlagen bis hin zu ausgefallenen Klimaanlagen – bei uns gibt es immer wieder Überraschungen, die uns auf Trab halten. Erlebt mit uns, wie wir mit kreativen Lösungen und einer Portion Humor diese Herausforderungen meistern. Unser Podcast ist ein Mix aus Tech-Talk und unterhaltsamen Geschichten direkt aus dem Leben eines Fachinformatikers. Ob ihr selbst in der IT arbeitet oder einfach nur neugierig auf die Welt hinter den Bildschirmen seid – bei uns seid ihr genau richtig. Schaltet ein, lacht mit uns und lernt aus unseren Erfahrungen.
 
 * Number of published episodes: 9
-* Last episode published: 🟢 Sunday, 15 June 2025
+* Last episode published: 🟡 Sunday, 15 June 2025
 * [Faxinformatiker Website](https://faxinformatiker.de/)
 * [Faxinformatiker @ Spotify](https://open.spotify.com/show/2Ep8xMdjrvi46XJiPS9uAh)
 * [Faxinformatiker @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1750596424)
@@ -704,8 +721,8 @@ Zwei Softwareentwickler und Spiele-Enthusiasten entwickeln in ihrer Freizeit Vid
 
 Du bist Entwickler/Developer? Dann Lauscher auf! Thomas und Christian sprechen im &#34;Index out of bounds&#34; Entwickler/Developer Podcast über ihre persönlichen Erfahrungen aus der Welt der Programmierung von Software, Websites, Apps und was es sonst noch so gibt. Schon seit Jahren tauschen sich die beiden leidenschaftlich gerne über Entwicklung/Development, den Spaß am Programmieren und Technologie aus. Hin und wieder sind da auch ein paar helle Momente dabei! Ein Podcast von Programmierern für Programmierer.
 
-* Number of published episodes: 108
-* Last episode published: 🟢 Sunday, 03 August 2025
+* Number of published episodes: 109
+* Last episode published: 🟢 Saturday, 16 August 2025
 * [Index out of bounds Website](https://www.ioob.de/)
 * [Index out of bounds @ Spotify](https://open.spotify.com/show/2r1FGvYRkSYq4SmXyVKmnA)
 * [Index out of bounds @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1564647339)
@@ -817,7 +834,7 @@ Wie intelligent ist Künstliche Intelligenz eigentlich? Welche Folgen hat genera
 Die IT-News des Tages von heise online
 
 * Number of published episodes: 1000
-* Last episode published: 🟢 Wednesday, 13 August 2025
+* Last episode published: 🟢 Friday, 15 August 2025
 * [Kurz informiert by heise online Website](https://www.heise.de/Hoeren-Sie-von-uns-unsere-Podcasts-4206659.html)
 * [Kurz informiert by heise online @ Spotify](https://open.spotify.com/show/2etf1jog8leNHbnhIArM9Z)
 * [Kurz informiert by heise online Podcast RSS](https://kurzinformiert.podigee.io/feed/mp3)
@@ -1171,8 +1188,8 @@ Der Podcast für praktische Softwarearchitektur. Mit: Carola Lilienthal, Patrick
 
 Live-Diskussion zu Software-Architektur im Stream. Einmal in der Woche diskutiert Eberhard Wolff Software-Architektur im Live-Stream auf YouTube und Twitch - oft zusammen mit einem Gast. Zuschauer können über den Chat mitdiskutieren oder Fragen stellen. Der Podcast enthält die Audio-Spur des Streams.
 
-* Number of published episodes: 271
-* Last episode published: 🟢 Friday, 01 August 2025
+* Number of published episodes: 272
+* Last episode published: 🟢 Saturday, 16 August 2025
 * [SoftwareArchitektur im Stream Website](https://software-architektur.tv/)
 * [SoftwareArchitektur im Stream @ Spotify](https://open.spotify.com/show/7ySg1eZoWYBshd6QpGaW8B)
 * [SoftwareArchitektur im Stream @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1538545458)
@@ -1214,7 +1231,7 @@ In diesem Podcast diskutiert die t3n-Redaktion mit Gästen über die spannendste
 
 <h3 id="technik-tales">Technik Tales</h3>
 
-<img align="right" width="215" height="215" src="./generated/images/technik-tales.png" />
+<img align="right" width="215" height="215" src="./generated/images/technik-tales.jpeg" />
 
 Willkommen bei &#34;Technik-Tales: Kuriose Technikgeschichten&#34; – dem Podcast, der sich auf die spannendsten und skurrilsten Geschichten aus der Welt der Technik konzentriert! In jeder Episode treffen sich unsere beiden Technik-Enthusiasten, Kai und Paddy, um sich gegenseitig mit den ungewöhnlichsten und faszinierendsten Anekdoten aus der Welt der Innovation und Ingenieurskunst zu überraschen. Von den kuriosen Pannen bei der Raumfahrt bis hin zu den witzigsten Missgeschicken in der Softwareentwicklung – &#34;Technik-Tales&#34; bietet euch jede Menge Unterhaltung, Wissenswertes und natürlich viele Lacher. Erfahrt, wie ein kleiner Fehler in einem Algorithmus zu einem weltweiten Chaos führen kann, oder hört, welche verrückten Erfindungen einmal im Hype waren und dann in der Versenkung verschwanden.Ob ihr Technik-Fans, Nerds oder einfach nur neugierig auf die lustigen Seiten der High-Tech-Welt seid – dieser Podcast bringt euch die spannenden Geschichten, die man nicht im Lehrbuch findet. Schaltet ein, lehnt euch zurück und lasst euch von uns auf eine aufregende Reise durch die kurvenreiche Welt der Technik entführen!Abonnieren und nichts verpassen!
 
@@ -1314,8 +1331,8 @@ Deutschsprachiger Podcast für die großen und kleinen Fragen des Developerallta
 
 Wir sind UNMUTE IT, der Podcast von und mit Frauen aus der IT. Wir erzählen von unseren Erfahrungen, begegneten Herausforderungen, Tipps &amp; Tricks und teilen die eine oder andere Anekdote. Frauen gehören in STEM Felder.Mit unserer Präsenz wollen wir dies untermauern und Frauen motivieren, sich mit dem Thema zu beschäftigen und den Schritt in die IT zu gehen.
 
-* Number of published episodes: 85
-* Last episode published: 🟢 Monday, 30 June 2025
+* Number of published episodes: 86
+* Last episode published: 🟢 Sunday, 17 August 2025
 * Weekly downloads (avg): 177 (updated: 2023-01-21)
 * [Unmute IT Website](https://linkr.bio/unmute-it)
 * [Unmute IT @ Spotify](https://open.spotify.com/show/4v3xXuY5Km98xnmeXeGZgx)

@@ -1,0 +1,22 @@
+{
+ "name": "BuzzZoom",
+ "slug": "buzzzoom",
+ "website": "https://buzzzoom.de/",
+ "podcastIndexID": 3326718,
+ "rssFeed": "https://buzzzoom.de/?feed=podcast",
+ "spotify": "https://open.spotify.com/show/62IRAtqB4QWOeH6oXaJflx",
+ "description": "Zwei Admins sprechen über die Buzzwords, die ihr jeden Tag hört und benutzt, deren Bedeutung ihr aber noch nie zu hinterfragen wagtet.",
+ "tags": [
+  "Tech-Kultur",
+  "Buzzwords"
+ ],
+ "weekly_downloads_avg": {
+  "value": 0,
+  "updated": ""
+ },
+ "episodeCount": 116,
+ "latestEpisodePublished": 1754577680,
+ "archive": false,
+ "itunesID": 1534027177,
+ "image": "images/buzzzoom.png"
+}
