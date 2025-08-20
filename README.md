@@ -264,7 +264,7 @@ Komm mit in die dunklen Ecken des Internets. Wir blicken in der ersten Staffel a
 Die wöchentliche Talkrunde rund um Apple, Mac, iPod &#43; iPhone, Gadgets und so. Fast live aus München.
 
 * Number of published episodes: 10
-* Last episode published: 🟢 Sunday, 10 August 2025
+* Last episode published: 🟢 Monday, 18 August 2025
 * [Bits und so Website](http://www.bitsundso.de/)
 * [Bits und so @ Apple Podcasts](https://podcasts.apple.com/de/podcast/202753375)
 * [Bits und so Podcast RSS](http://www.bitsundso.de/feed/)
@@ -629,8 +629,8 @@ Der FOCUS ON: Linux Podcast beschäftigt sich mit verschiedenen Themen rund um L
 
 Habt ihr diesen Spruch auch schon mal gehört – mit hochgezogenen Augenbrauen, dezentem Kopfschütteln und einem leicht genervten Ausatmen: “Frauen und Technik…”, dann seid ihr hier genau richtig. Der neue Technologie-Podcast der c&#39;t “Frauen und Technik mit Svea Eckert und Eva Wolfangel” spielt genau mit diesem Klischee, bricht es charmant auf und vermittelt dabei Wissen. Die beiden erfahrenen, freien Technologie-Journalistinnen widmen sich alle 14-Tage einem spannenden Tech-Thema und laden sich dazu inspirierende weibliche Gäste ein. Aber auch die Podcast-Hosts bringen etwas mit: investigative und spannende Recherchen, zu denen es in jeder Folge gleich zu Beginn einen kurzen Deepdive gibt.
 
-* Number of published episodes: 43
-* Last episode published: 🟢 Wednesday, 13 August 2025
+* Number of published episodes: 44
+* Last episode published: 🟢 Wednesday, 20 August 2025
 * [Frauen und Technik – mit Eckert und Wolfangel Website](https://frauen-technik.podigee.io/)
 * [Frauen und Technik – mit Eckert und Wolfangel @ Spotify](https://open.spotify.com/show/3HwNHImCFF1NvNMQnN2rFR)
 * [Frauen und Technik – mit Eckert und Wolfangel @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1762825923)
@@ -834,7 +834,7 @@ Wie intelligent ist Künstliche Intelligenz eigentlich? Welche Folgen hat genera
 Die IT-News des Tages von heise online
 
 * Number of published episodes: 1000
-* Last episode published: 🟢 Friday, 15 August 2025
+* Last episode published: 🟢 Tuesday, 19 August 2025
 * [Kurz informiert by heise online Website](https://www.heise.de/Hoeren-Sie-von-uns-unsere-Podcasts-4206659.html)
 * [Kurz informiert by heise online @ Spotify](https://open.spotify.com/show/2etf1jog8leNHbnhIArM9Z)
 * [Kurz informiert by heise online Podcast RSS](https://kurzinformiert.podigee.io/feed/mp3)
@@ -1009,8 +1009,8 @@ Ein Podcast über die dunkle Seite der Digitalisierung: Spionage, Hacker, Sabota
 
 Mit geballter Dev-Power nehmen Dennis, Fabi, Sebi und Jojo neue Podcastfolgen auf und werden dabei regelmäßig von Gäst:innen aus der Branche unterstützt. Taucht in unseren Deep Dives mit uns in Frameworks und Datenbanken ein, hört euch in den CTO-Specials die Erfahrungen führender Persönlichkeiten großer Unternehmen an und bleibt mit unseren News-Folgen stets am Ball in der Welt der App- und Webentwicklung.
 
-* Number of published episodes: 436
-* Last episode published: 🟢 Thursday, 14 August 2025
+* Number of published episodes: 437
+* Last episode published: 🟢 Tuesday, 19 August 2025
 * Weekly downloads (avg): 8744 (updated: 2023-04-12)
 * [programmier.bar Website](https://www.programmier.bar/podcast)
 * [programmier.bar @ Spotify](https://open.spotify.com/show/0ik0sXv9paTQCeThcOLCCJ)
@@ -1231,7 +1231,7 @@ In diesem Podcast diskutiert die t3n-Redaktion mit Gästen über die spannendste
 
 <h3 id="technik-tales">Technik Tales</h3>
 
-<img align="right" width="215" height="215" src="./generated/images/technik-tales.jpeg" />
+<img align="right" width="215" height="215" src="./generated/images/technik-tales.jpg" />
 
 Willkommen bei &#34;Technik-Tales: Kuriose Technikgeschichten&#34; – dem Podcast, der sich auf die spannendsten und skurrilsten Geschichten aus der Welt der Technik konzentriert! In jeder Episode treffen sich unsere beiden Technik-Enthusiasten, Kai und Paddy, um sich gegenseitig mit den ungewöhnlichsten und faszinierendsten Anekdoten aus der Welt der Innovation und Ingenieurskunst zu überraschen. Von den kuriosen Pannen bei der Raumfahrt bis hin zu den witzigsten Missgeschicken in der Softwareentwicklung – &#34;Technik-Tales&#34; bietet euch jede Menge Unterhaltung, Wissenswertes und natürlich viele Lacher. Erfahrt, wie ein kleiner Fehler in einem Algorithmus zu einem weltweiten Chaos führen kann, oder hört, welche verrückten Erfindungen einmal im Hype waren und dann in der Versenkung verschwanden.Ob ihr Technik-Fans, Nerds oder einfach nur neugierig auf die lustigen Seiten der High-Tech-Welt seid – dieser Podcast bringt euch die spannenden Geschichten, die man nicht im Lehrbuch findet. Schaltet ein, lehnt euch zurück und lasst euch von uns auf eine aufregende Reise durch die kurvenreiche Welt der Technik entführen!Abonnieren und nichts verpassen!
 
@@ -1396,8 +1396,8 @@ In diesem Podcast geht es um Web und User Interface Design, Freelancing, Arbeits
 
 Im Webcafé erzählen Felix und Kay aus ihrem Arbeitsalltag bei der Geenen IT-Systeme GmbH und nehmen euch mit auf eine spannende Reise durch ihre Technologielandschaft, Programmierthemen und die Herausforderungen der Unternehmens- und Personalführung. Damit richtet sich der Podcast an EntwicklerInnen, FreelancerInnen und Führungskräfte.
 
-* Number of published episodes: 30
-* Last episode published: 🟢 Monday, 11 August 2025
+* Number of published episodes: 31
+* Last episode published: 🟢 Wednesday, 20 August 2025
 * [Webcafé - Webentwicklung und Unternehmenskultur Website](https://geenen-it-systeme.de/#podcast)
 * [Webcafé - Webentwicklung und Unternehmenskultur @ Spotify](https://open.spotify.com/show/6KnpB0BENh4XcHiqr4isHt)
 * [Webcafé - Webentwicklung und Unternehmenskultur @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1727941100)
@@ -1412,8 +1412,8 @@ Im Webcafé erzählen Felix und Kay aus ihrem Arbeitsalltag bei der Geenen IT-Sy
 
 Latenight-Frontend-Talkshow rund um Webdesign und Entwicklung. Es reden sich um &lt;HEAD&gt; und Kragen: HTML-Fundamentalist Moritz Gießmann und JavaScript Jongleur Constantin Groß.
 
-* Number of published episodes: 77
-* Last episode published: 🟢 Monday, 04 August 2025
+* Number of published episodes: 78
+* Last episode published: 🟢 Monday, 18 August 2025
 * [Wo wir sind ist vorne Website](https://wowirsindistvorne.show/)
 * [Wo wir sind ist vorne @ Spotify](https://open.spotify.com/show/54K1DpiQYHBHSnIO6OzSKs)
 * [Wo wir sind ist vorne @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1500485579)
@@ -1428,8 +1428,8 @@ Latenight-Frontend-Talkshow rund um Webdesign und Entwicklung. Es reden sich um 
 
 Wöchentlicher Podcast für Webdesigner:innen und -entwickler:innen
 
-* Number of published episodes: 697
-* Last episode published: 🟢 Tuesday, 12 August 2025
+* Number of published episodes: 698
+* Last episode published: 🟢 Tuesday, 19 August 2025
 * [Working Draft Website](https://workingdraft.de/)
 * [Working Draft @ Spotify](https://open.spotify.com/show/78iH7cIFzu1ejoB6aQUsIh)
 * [Working Draft @ Apple Podcasts](https://podcasts.apple.com/de/podcast/402204581)
