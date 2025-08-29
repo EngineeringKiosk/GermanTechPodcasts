@@ -134,8 +134,8 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
 
 Immer donnerstags live um 17 Uhr sprechen Anna Kalinowsky, Malte Kirchner und Volker Zota von heise online bei YouTube über die Tech-Themen der Woche. Zum Nachhören gibt es die #heiseshow auch als Podcast.
 
-* Number of published episodes: 473
-* Last episode published: 🟢 Thursday, 21 August 2025
+* Number of published episodes: 474
+* Last episode published: 🟢 Thursday, 28 August 2025
 * [#heiseshow Website](https://www.heise.de/thema/heiseshow)
 * [#heiseshow @ Spotify](https://open.spotify.com/show/7iMjJRAHcOAumvPbdGDavJ)
 * [#heiseshow @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1082296572)
@@ -166,8 +166,8 @@ Pentaradio24 ist eine Sendung, die jeden vierten Dienstag im Monat zwischen 21:3
 
 Deutschsprachiger Podcast zu den Themen IT-Sicherheit und Privatsphäre. Stefan und Sven unterhalten sich über aktuelle News und allgemeine Themen rund um Security und Privacy.
 
-* Number of published episodes: 125
-* Last episode published: 🟢 Wednesday, 30 July 2025
+* Number of published episodes: 126
+* Last episode published: 🟢 Thursday, 28 August 2025
 * Weekly downloads (avg): 2000 (updated: 2023-01-16)
 * [0d - Zeroday Website](https://0x0d.de/)
 * [0d - Zeroday @ Spotify](https://open.spotify.com/show/5XTyNo5r6H0rRptIgaE1w4)
@@ -184,7 +184,7 @@ Deutschsprachiger Podcast zu den Themen IT-Sicherheit und Privatsphäre. Stefan 
 Apfelfunk ist ein wöchentlicher Podcast über Apple-Themen. Jean-Claude Frick und Malte Kirchner berichten und bewerten darin die Neuigkeiten über den wichtigsten Computerkonzern der Welt.
 
 * Number of published episodes: 500
-* Last episode published: 🟢 Wednesday, 20 August 2025
+* Last episode published: 🟢 Wednesday, 27 August 2025
 * [Apfelfunk Website](http://www.apfelfunk.com/)
 * [Apfelfunk @ Spotify](https://open.spotify.com/show/7FQLyWiNhMR0KS93ReaI4h)
 * [Apfelfunk @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1081146940)
@@ -321,7 +321,7 @@ Mitglieder der c&#39;t-Redaktion diskutieren über die aktuellen Themen aus dem 
 
 <h3 id="chaosradio">Chaosradio</h3>
 
-<img align="right" width="215" height="215" src="./generated/images/chaosradio.png" />
+<img align="right" width="215" height="215" src="./generated/generated/images/chaosradio.png" />
 
 Im monatlichen Chaosradio informiert der Chaos Computer Club Berlin seit 1995 über die Auswirkungen von Technik auf die Gesellschaft.
 
@@ -497,8 +497,8 @@ Der Unterhaltungs-Podcast für .NET Entwickler - ca. alle zwei Wochen treffen si
 
 &#34;Devs on Tape&#34; ist ein Podcast, der sich mit allen Themen rund um die professionelle Software-Entwicklung beschäftigt. Zwei kreative Köpfe teilen Ihr Wissen und ihre Erfahrungen im Bereich Development, DevOps, Vereinsarbeit und vielem mehr.
 
-* Number of published episodes: 84
-* Last episode published: 🟢 Thursday, 14 August 2025
+* Number of published episodes: 85
+* Last episode published: 🟢 Thursday, 28 August 2025
 * [Devs on Tape Website](https://devsontape.podigee.io/)
 * [Devs on Tape @ Spotify](https://open.spotify.com/show/6TwshmvspMnBzzh8mX8Me1)
 * [Devs on Tape @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1604337890)
@@ -596,8 +596,8 @@ Student*innen der Informatik, die einen Podcast machen, damit ihr alle checkt wi
 
 Der FOCUS ON: DevOps Podcast beschäftigt sich mit verschiedenen Methoden und Werkzeugen rund um das Thema DevOps. Dabei wechseln sich technische mit methodischen Folgen ab. Unser Ziel ist es über relevante Themen zu informieren und auch die Hersteller auf dem Markt als Gäste mit einzubinden.
 
-* Number of published episodes: 131
-* Last episode published: 🟢 Thursday, 14 August 2025
+* Number of published episodes: 132
+* Last episode published: 🟢 Thursday, 28 August 2025
 * [FOCUS ON: DevOps Website](https://focusondevops.podigee.io/)
 * [FOCUS ON: DevOps @ Spotify](https://open.spotify.com/show/0gXBw5mGcqXQkPW9h2JTaa)
 * [FOCUS ON: DevOps @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1542623849)
@@ -818,7 +818,7 @@ IT@DB ist ein Podcast für IT Fach- und Führungskräfte (w/m/d). Hier erhältst
 Wie intelligent ist Künstliche Intelligenz eigentlich? Welche Folgen hat generative KI für unsere Arbeit, unsere Freizeit und die Gesellschaft? Im &#34;KI-Update&#34; von heise bringen wir Euch gemeinsam mit The Decoder werktäglich Updates zu den wichtigsten KI-Entwicklungen. Freitags beleuchten wir mit Experten die unterschiedlichen Aspekte der KI-Revolution.
 
 * Number of published episodes: 500
-* Last episode published: 🟢 Monday, 25 August 2025
+* Last episode published: 🟢 Wednesday, 27 August 2025
 * [KI-Update Website](https://www.heise.de/thema/KI-Update)
 * [KI-Update @ Spotify](https://open.spotify.com/show/1rm6gMybQWnHePvY2eCpzp)
 * [KI-Update @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1691536182)
@@ -834,7 +834,7 @@ Wie intelligent ist Künstliche Intelligenz eigentlich? Welche Folgen hat genera
 Die IT-News des Tages von heise online
 
 * Number of published episodes: 1000
-* Last episode published: 🟢 Monday, 25 August 2025
+* Last episode published: 🟢 Wednesday, 27 August 2025
 * [Kurz informiert by heise online Website](https://www.heise.de/Hoeren-Sie-von-uns-unsere-Podcasts-4206659.html)
 * [Kurz informiert by heise online @ Spotify](https://open.spotify.com/show/2etf1jog8leNHbnhIArM9Z)
 * [Kurz informiert by heise online Podcast RSS](https://kurzinformiert.podigee.io/feed/mp3)
@@ -895,8 +895,8 @@ Hintergründe, Einschätzungen, Tipps und Neuigkeiten: Im Zweiwochenrhythmus unt
 
 Scrum kann doch inzwischen eh jeder? Von wegen! Denn - ganz unter uns: genug falsch machen kann man ohne Probleme. Daher möchten wir über Stolpersteine sprechen, über Smells und unsere Erfahrungen mitteilen, die wir mit Scrum, Kanban und Agil im Allgemeinen gemacht haben.
 
-* Number of published episodes: 141
-* Last episode published: 🟢 Tuesday, 22 July 2025
+* Number of published episodes: 142
+* Last episode published: 🟢 Friday, 29 August 2025
 * Weekly downloads (avg): 14449 (updated: 2022-12-28)
 * [Mein Scrum ist kaputt! Website](https://meinscrumistkaputt.de/)
 * [Mein Scrum ist kaputt! @ Spotify](https://open.spotify.com/show/7lECdowQCq0OWlf0EZnSpL)
@@ -1009,8 +1009,8 @@ Ein Podcast über die dunkle Seite der Digitalisierung: Spionage, Hacker, Sabota
 
 Mit geballter Dev-Power nehmen Dennis, Fabi, Sebi und Jojo neue Podcastfolgen auf und werden dabei regelmäßig von Gäst:innen aus der Branche unterstützt. Taucht in unseren Deep Dives mit uns in Frameworks und Datenbanken ein, hört euch in den CTO-Specials die Erfahrungen führender Persönlichkeiten großer Unternehmen an und bleibt mit unseren News-Folgen stets am Ball in der Welt der App- und Webentwicklung.
 
-* Number of published episodes: 439
-* Last episode published: 🟢 Tuesday, 26 August 2025
+* Number of published episodes: 440
+* Last episode published: 🟢 Thursday, 28 August 2025
 * Weekly downloads (avg): 8744 (updated: 2023-04-12)
 * [programmier.bar Website](https://www.programmier.bar/podcast)
 * [programmier.bar @ Spotify](https://open.spotify.com/show/0ik0sXv9paTQCeThcOLCCJ)
@@ -1156,8 +1156,8 @@ Jung, weiblich, genial: Im Tech-Podcast von NDR Info sucht die Tech-Journalistin
 
 Themen wie KI oder Cybersecurity werden immer wichtiger und ein immer größerer Teil unseres Lebens. Einmal die Woche besprechen Elisabeth, Stella und Caspar die wichtigsten Tech-News und helfen euch dabei, sie zu verstehen. Schnappt euch einen Kaffee, Kakao oder Tee und setzt euch dazu!
 
-* Number of published episodes: 62
-* Last episode published: 🟢 Thursday, 21 August 2025
+* Number of published episodes: 63
+* Last episode published: 🟢 Wednesday, 27 August 2025
 * [Silicon Weekly Website](https://silicon-weekly.de/)
 * [Silicon Weekly @ Spotify](https://open.spotify.com/show/1zaQ4IXAfm5J7XjcsKQ4Y7)
 * [Silicon Weekly @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1741135990)
@@ -1220,8 +1220,8 @@ Der SoftwerkerCast präsentiert euch Softwerker-Wissen zum Reinhören und Nachh�
 
 In diesem Podcast diskutiert die t3n-Redaktion mit Gästen über die spannendsten digitalen Themen unserer Zeit. Ob innovative Führungskonzepte, die Digitalisierung der Gesellschaft, smarte Gadgets, neue Mobilität oder Zukunftstechnologien. Jeden Freitag um 10 Uhr!
 
-* Number of published episodes: 697
-* Last episode published: 🟢 Friday, 22 August 2025
+* Number of published episodes: 698
+* Last episode published: 🟢 Friday, 29 August 2025
 * [t3n Interview Website](https://t3n.de/podcast#interview)
 * [t3n Interview @ Spotify](https://open.spotify.com/show/7obTbZaywhQEiUUOMswQBQ)
 * [t3n Interview @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1115601393)
