@@ -6,7 +6,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (82 podcasts)
+* [Podcasts](#podcasts) (83 podcasts)
   * [#heiseshow](#heiseshow)
   * [((c3d2)) Pentaradio 24](#c3d2-pentaradio-24)
   * [0d - Zeroday](#0d-zeroday)
@@ -44,6 +44,7 @@ All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml
   * [GNU/Linux.ch](#gnu-linux-ch)
   * [heise Developer: SoftwareArchitekTOUR](#heise-developer-softwarearchitektour)
   * [Hobby Spieleentwickler Podcast](#hobby-spieleentwickler-podcast)
+  * [Increase Cycle Time - Der JobRad® Development Podcast](#increase-cycle-time-der-jobrad-r-development-podcast)
   * [Index out of bounds](#index-out-of-bounds)
   * [INNOQ Podcast](#innoq-podcast)
   * [ISMS X-Plain](#isms-x-plain)
@@ -397,7 +398,7 @@ Jeden Samstag das Neueste aus Computertechnik und Informationstechnologie. Beitr
 
 <h3 id="cybersecurity-entschlusselt">Cybersecurity entschlüsselt</h3>
 
-<img align="right" width="215" height="215" src="./generated/images/cybersecurity-entschluesselt.jpg" />
+<img align="right" width="215" height="215" src="./generated/generated/images/cybersecurity-entschluesselt.jpg" />
 
 Cybersecurity entschüsselt ist ein deutschsprachiger Podcast, in dem sich alles um Sicherheit dreht.
 
@@ -418,7 +419,7 @@ Cybersecurity entschüsselt ist ein deutschsprachiger Podcast, in dem sich alles
 Im Podcast Das Duumvirat unterhalten wir uns über verschiedene Mac-Themen aus dem Alltag von Anwendern. Wir schauen über den Tellerrand. Und manchmal haben wir auch Gäste.
 
 * Number of published episodes: 69
-* Last episode published: 🟢 Tuesday, 01 July 2025
+* Last episode published: 🟡 Tuesday, 01 July 2025
 * [Das Duumvirat Website](https://www.trommelspeicher.de/podcast/)
 * [Das Duumvirat @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1212750085)
 * [Das Duumvirat Podcast RSS](https://www.trommelspeicher.de/resource/podcast/feed.xml)
@@ -715,6 +716,23 @@ Zwei Softwareentwickler und Spiele-Enthusiasten entwickeln in ihrer Freizeit Vid
 
 ----
 
+<h3 id="increase-cycle-time-der-jobrad-r-development-podcast">Increase Cycle Time - Der JobRad® Development Podcast</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/increase-cycle-time.png" />
+
+Increase Cycle Time ist Euer JobRad® Podcast für Software-Entwicklung. Und alles, was damit zusammenhängt.
+
+* Number of published episodes: 4
+* Last episode published: 🟢 Wednesday, 27 August 2025
+* Weekly downloads (avg): 158 (updated: 2025-08-11)
+* [Increase Cycle Time - Der JobRad® Development Podcast Website](https://jobrad-increase-cycle-time.podigee.io/)
+* [Increase Cycle Time - Der JobRad® Development Podcast @ Spotify](https://open.spotify.com/show/0hJlS2NMC0NEreoUzz7tp3?si=997aa47bd99b4ae3)
+* [Increase Cycle Time - Der JobRad® Development Podcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1825842432)
+* [Increase Cycle Time - Der JobRad® Development Podcast Podcast RSS](https://jobrad-increase-cycle-time.podigee.io/feed/mp3)
+* Tags: Software-Entwicklung, UX, Produkt-Entwicklung, Fahrrad, Cycle Time
+
+----
+
 <h3 id="index-out-of-bounds">Index out of bounds</h3>
 
 <img align="right" width="215" height="215" src="./generated/images/index-out-of-bounds.jpg" />
@@ -848,8 +866,8 @@ Die IT-News des Tages von heise online
 
 Der Podcast über unsere digitale Lebens- und Arbeitswelt mit Markus Hörster und Christian Cordes. Alle vier Wochen dienstags um 19.00 Uhr im Radio auf Radio Okerwelle (UKW 104,6 in der Region Braunschweig) und nach der Ausstrahlung als Podcast. Wir beschäftigen uns mit allen Themen, die etwas mit Digitalien zu tun haben.
 
-* Number of published episodes: 99
-* Last episode published: 🟡 Wednesday, 11 June 2025
+* Number of published episodes: 100
+* Last episode published: 🟢 Monday, 01 September 2025
 * [Logbuch Digitalien Website](https://www.logbuch-digitalien.de/)
 * [Logbuch Digitalien @ Spotify](https://open.spotify.com/show/5HxbvAOx6qOMOXbtulHji1)
 * [Logbuch Digitalien @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1240755398)
@@ -1009,8 +1027,8 @@ Ein Podcast über die dunkle Seite der Digitalisierung: Spionage, Hacker, Sabota
 
 Mit geballter Dev-Power nehmen Dennis, Fabi, Sebi und Jojo neue Podcastfolgen auf und werden dabei regelmäßig von Gäst:innen aus der Branche unterstützt. Taucht in unseren Deep Dives mit uns in Frameworks und Datenbanken ein, hört euch in den CTO-Specials die Erfahrungen führender Persönlichkeiten großer Unternehmen an und bleibt mit unseren News-Folgen stets am Ball in der Welt der App- und Webentwicklung.
 
-* Number of published episodes: 440
-* Last episode published: 🟢 Thursday, 28 August 2025
+* Number of published episodes: 441
+* Last episode published: 🟢 Tuesday, 02 September 2025
 * Weekly downloads (avg): 8744 (updated: 2023-04-12)
 * [programmier.bar Website](https://www.programmier.bar/podcast)
 * [programmier.bar @ Spotify](https://open.spotify.com/show/0ik0sXv9paTQCeThcOLCCJ)

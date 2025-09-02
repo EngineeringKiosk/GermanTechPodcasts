@@ -2,7 +2,7 @@
  <opml version="2.0">
    <head>
      <title>Deutschsprachige Tech Podcasts</title>
-     <dateCreated>Mon, 01 Sep 2025 11:24:24 UTC</dateCreated>
+     <dateCreated>Tue, 02 Sep 2025 06:37:16 UTC</dateCreated>
      <ownerName>Engineering Kiosk</ownerName>
      <ownerEmail>stehtisch@engineeringkiosk.dev</ownerEmail>
    </head>
@@ -52,6 +52,7 @@
      <outline title="Herr Zenzes wills wissen" text="Herr Zenzes wills wissen" type="rss" xmlUrl="https://zenzes.me/podcast/feed.xml" htmlUrl="https://zenzes.me/"></outline>
      <outline title="Herzbergs Hörsaal" text="Herzbergs Hörsaal" type="rss" xmlUrl="https://anchor.fm/s/ba9c0bc/podcast/rss" htmlUrl="https://www.thm.de/site/hochschule/service/schulportal/lehrerinnen-und-lehrer/studieren-probieren/podcast-herzbergs-hoersaal.html"></outline>
      <outline title="Hobby Spieleentwickler Podcast" text="Hobby Spieleentwickler Podcast" type="rss" xmlUrl="https://hobbyspieleentwicklerpodcast.de/podcast.xml" htmlUrl="https://www.hobbyspieleentwicklerpodcast.de/"></outline>
+     <outline title="Increase Cycle Time - Der JobRad® Development Podcast" text="Increase Cycle Time - Der JobRad® Development Podcast" type="rss" xmlUrl="https://jobrad-increase-cycle-time.podigee.io/feed/mp3" htmlUrl="https://jobrad-increase-cycle-time.podigee.io/"></outline>
      <outline title="Index out of bounds" text="Index out of bounds" type="rss" xmlUrl="https://anchor.fm/s/54509264/podcast/rss" htmlUrl="https://www.ioob.de/"></outline>
      <outline title="INNOQ Podcast" text="INNOQ Podcast" type="rss" xmlUrl="https://innoq.podigee.io/feed/aac" htmlUrl="https://www.innoq.com/de/podcast/"></outline>
      <outline title="INNOQ Security Podcast" text="INNOQ Security Podcast" type="rss" xmlUrl="https://innoqsecurity.podigee.io/feed/aac" htmlUrl="https://www.innoq.com/de/podcast/?channel=security"></outline>

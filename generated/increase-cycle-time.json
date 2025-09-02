@@ -1,0 +1,25 @@
+{
+ "name": "Increase Cycle Time - Der JobRad® Development Podcast",
+ "slug": "increase-cycle-time-der-jobrad-r-development-podcast",
+ "website": "https://jobrad-increase-cycle-time.podigee.io/",
+ "podcastIndexID": 7407605,
+ "rssFeed": "https://jobrad-increase-cycle-time.podigee.io/feed/mp3",
+ "spotify": "https://open.spotify.com/show/0hJlS2NMC0NEreoUzz7tp3?si=997aa47bd99b4ae3",
+ "description": "Increase Cycle Time ist Euer JobRad® Podcast für Software-Entwicklung. Und alles, was damit zusammenhängt.",
+ "tags": [
+  "Software-Entwicklung",
+  "UX",
+  "Produkt-Entwicklung",
+  "Fahrrad",
+  "Cycle Time"
+ ],
+ "weekly_downloads_avg": {
+  "value": 158,
+  "updated": "2025-08-11"
+ },
+ "episodeCount": 4,
+ "latestEpisodePublished": 1756282124,
+ "archive": false,
+ "itunesID": 1825842432,
+ "image": "images/increase-cycle-time.png"
+}
