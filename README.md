@@ -398,7 +398,7 @@ Jeden Samstag das Neueste aus Computertechnik und Informationstechnologie. Beitr
 
 <h3 id="cybersecurity-entschlusselt">Cybersecurity entschlüsselt</h3>
 
-<img align="right" width="215" height="215" src="./generated/generated/images/cybersecurity-entschluesselt.jpg" />
+<img align="right" width="215" height="215" src="./generated/images/cybersecurity-entschluesselt.jpg" />
 
 Cybersecurity entschüsselt ist ein deutschsprachiger Podcast, in dem sich alles um Sicherheit dreht.
 
@@ -548,8 +548,8 @@ Einfach Komplex macht Software und IT verständlich – für Laien und Experten 
 
 Der Engineering Kiosk ist der deutschsprachige Software-Engineering-Podcast mit Wolfgang Gassler und Andy Grunwald rund um die Themen Engineering-Kultur, Open Source, Menschen, Technologie und allen anderen Bereichen, die damit in Verbindung stehen.
 
-* Number of published episodes: 211
-* Last episode published: 🟢 Tuesday, 19 August 2025
+* Number of published episodes: 213
+* Last episode published: 🟢 Tuesday, 02 September 2025
 * Weekly downloads (avg): 1099 (updated: 2023-01-31)
 * [Engineering Kiosk Website](https://engineeringkiosk.dev/)
 * [Engineering Kiosk @ Spotify](https://open.spotify.com/show/0tJRC0UsObPCWLmmzmOkIs)
@@ -660,8 +660,8 @@ Freak Show ist ein Podcast, der sich mit dem Leben mit Technik im 21. Jahrhunder
 
 Wir talken GameDev und haben Unreal News.
 
-* Number of published episodes: 142
-* Last episode published: 🟢 Tuesday, 29 July 2025
+* Number of published episodes: 143
+* Last episode published: 🟢 Tuesday, 02 September 2025
 * [Gamedev für die Platte - Der Unreal Podcast Website](https://gamedevfuerdieplatte.podbean.com/)
 * [Gamedev für die Platte - Der Unreal Podcast @ Spotify](https://open.spotify.com/show/3UtoyAbMfEvkSIx5w3HohY)
 * [Gamedev für die Platte - Der Unreal Podcast Podcast RSS](https://feed.podbean.com/gamedevfuerdieplatte/feed.xml)
@@ -852,7 +852,7 @@ Wie intelligent ist Künstliche Intelligenz eigentlich? Welche Folgen hat genera
 Die IT-News des Tages von heise online
 
 * Number of published episodes: 1000
-* Last episode published: 🟢 Friday, 29 August 2025
+* Last episode published: 🟢 Tuesday, 02 September 2025
 * [Kurz informiert by heise online Website](https://www.heise.de/Hoeren-Sie-von-uns-unsere-Podcasts-4206659.html)
 * [Kurz informiert by heise online @ Spotify](https://open.spotify.com/show/2etf1jog8leNHbnhIArM9Z)
 * [Kurz informiert by heise online Podcast RSS](https://kurzinformiert.podigee.io/feed/mp3)
