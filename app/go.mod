@@ -5,7 +5,6 @@ go 1.25
 require (
 	github.com/gosimple/slug v1.15.0
 	github.com/spf13/cobra v1.10.1
-	gopkg.in/yaml.v2 v2.4.0
 	gopkg.in/yaml.v3 v3.0.1
 )
 

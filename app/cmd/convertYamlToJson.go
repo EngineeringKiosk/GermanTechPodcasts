@@ -10,7 +10,7 @@ import (
 	"github.com/EngineeringKiosk/GermanTechPodcasts/io"
 	"github.com/gosimple/slug"
 	"github.com/spf13/cobra"
-	"gopkg.in/yaml.v2"
+	"gopkg.in/yaml.v3"
 )
 
 // convertYamlToJsonCmd represents the convertYamlToJson command
