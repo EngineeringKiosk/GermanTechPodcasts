@@ -32,8 +32,14 @@ func init() {
 	generateOpmlCmd.Flags().String("json-directory", "", "Directory on where to store the json files")
 	generateOpmlCmd.Flags().String("opml-output", "", "Path to the README file that will be written")
 
-	generateOpmlCmd.MarkFlagRequired("json-directory")
-	generateOpmlCmd.MarkFlagRequired("opml-output")
+	err := generateOpmlCmd.MarkFlagRequired("json-directory")
+	if err != nil {
+		log.Fatalf("Error marking flag as required: %v", err)
+	}
+	err = generateOpmlCmd.MarkFlagRequired("opml-output")
+	if err != nil {
+		log.Fatalf("Error marking flag as required: %v", err)
+	}
 
 	generateOpmlCmd.MarkFlagsRequiredTogether("json-directory", "opml-output")
 }

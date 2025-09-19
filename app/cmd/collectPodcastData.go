@@ -42,9 +42,18 @@ func init() {
 	collectPodcastDataCmd.Flags().String("api-key", "", "API Key for Podcast Index API")
 	collectPodcastDataCmd.Flags().String("api-secret", "", "API Secret for Podcast Index API")
 
-	collectPodcastDataCmd.MarkFlagRequired("json-directory")
-	collectPodcastDataCmd.MarkFlagRequired("api-key")
-	collectPodcastDataCmd.MarkFlagRequired("api-secret")
+	err := collectPodcastDataCmd.MarkFlagRequired("json-directory")
+	if err != nil {
+		log.Fatalf("Error marking flag as required: %v", err)
+	}
+	err = collectPodcastDataCmd.MarkFlagRequired("api-key")
+	if err != nil {
+		log.Fatalf("Error marking flag as required: %v", err)
+	}
+	err = collectPodcastDataCmd.MarkFlagRequired("api-secret")
+	if err != nil {
+		log.Fatalf("Error marking flag as required: %v", err)
+	}
 }
 
 func cmdCollectPodcastData(cmd *cobra.Command, args []string) error {
@@ -210,7 +219,7 @@ func downloadFile(address, fileName string) (*http.Response, error) {
 	if err != nil {
 		return response, err
 	}
-	defer response.Body.Close()
+	defer func() { _ = response.Body.Close() }()
 
 	if response.StatusCode != 200 {
 		return response, fmt.Errorf("received %d as status code, expected 200", response.StatusCode)
@@ -220,7 +229,7 @@ func downloadFile(address, fileName string) (*http.Response, error) {
 	if err != nil {
 		return response, err
 	}
-	defer file.Close()
+	defer func() { _ = file.Close() }()
 
 	_, err = io.Copy(file, response.Body)
 	if err != nil {
