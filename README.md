@@ -2,7 +2,7 @@
 
 A curated list of German Tech Podcasts :de: :austria: :switzerland:
 
-All listed podcasts are available as [OPML file (podcasts.opml)](./podcasts.opml) to import those into your podcatcher as well.
+All listed podcasts are available as an [OPML file (podcasts.opml)](./podcasts.opml) to import those into your podcatcher as well.
 
 ## Table of Contents
 
@@ -1904,15 +1904,15 @@ Wir berichten zweiwöchentlich über News und Updates aus dem WordPress Universu
 ## Legend
 
 We calculate a traffic light indicator on when the last podcast episode was published:
-* 🔴 Last Episode published > 6 months ago
-* 🟡 Last Episode published something between 2 months and 6 months ago
-* 🟢 Last Episode published within today and last 2 month
+* 🔴 Last episode published > 6 months ago
+* 🟡 Last episode published something between 2 months and 6 months ago
+* 🟢 Last episode published in the timeframe of today and the last 2 months
 
 ## How to contribute
 
 If you want to 
 * add a new podcast to the list, check out our [Contribution Guide](/CONTRIBUTING.md)
-* modify the tooling and structure, check out our [Development Guide](/DEVELOPMENT.md)
+* modify the tooling and structure; check out our [Development Guide](/DEVELOPMENT.md)
 
 ## In the press
 
@@ -1924,14 +1924,14 @@ If you want to
 
 ... but it has mainly German content?
 
-Tricky question and both languages (German or English) would be feasible candidates for this repository's primary language.
+Tricky question, and both languages (German or English) would be feasible candidates for this repository's primary language.
 Eventually, we decided to do a split:
 
 #### On GitHub: English
 
 On GitHub, the primary language is English.
 Mainly because the engineering community primarily communicates in English (yeah, there are also a lot of Chinese repositories).
-For all German speaking people, we also did an episode and talked about this topic why
+For all German-speaking people, we also did an episode and talked about this topic why
 [English is an important language in software engineering](https://engineeringkiosk.dev/podcast/episode/26-my-english-is-not-the-yellow-from-the-egg-arbeiten-in-internationalen-teams/).
 Hence, we went for English in the GitHub version because this repository contains software written/commented in English.
 This leads to a language mix in the `README.md` because the titles and descriptions of the podcasts are German.
@@ -1943,4 +1943,4 @@ We have a German version available on the [Engineering Kiosk website](https://en
 
 ## Other
 
-If you seek more german speaking _technology_ related podcasts without guidelines (see [our policies](./CONTRIBUTING.md)), have a look at the [technology section at fyyd.de](https://fyyd.de/discover/cat/technology/0).
+If you seek more German-speaking technology-related podcasts without guidelines (see [our policies](./CONTRIBUTING.md)), take a look at the [technology section at fyyd.de](https://fyyd.de/discover/cat/technology/0).
