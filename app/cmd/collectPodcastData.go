@@ -42,9 +42,18 @@ func init() {
 	collectPodcastDataCmd.Flags().String("api-key", "", "API Key for Podcast Index API")
 	collectPodcastDataCmd.Flags().String("api-secret", "", "API Secret for Podcast Index API")
 
-	collectPodcastDataCmd.MarkFlagRequired("json-directory")
-	collectPodcastDataCmd.MarkFlagRequired("api-key")
-	collectPodcastDataCmd.MarkFlagRequired("api-secret")
+	err := collectPodcastDataCmd.MarkFlagRequired("json-directory")
+	if err != nil {
+		log.Fatalf("Error marking flag as required: %v", err)
+	}
+	err = collectPodcastDataCmd.MarkFlagRequired("api-key")
+	if err != nil {
+		log.Fatalf("Error marking flag as required: %v", err)
+	}
+	err = collectPodcastDataCmd.MarkFlagRequired("api-secret")
+	if err != nil {
+		log.Fatalf("Error marking flag as required: %v", err)
+	}
 }
 
 func cmdCollectPodcastData(cmd *cobra.Command, args []string) error {

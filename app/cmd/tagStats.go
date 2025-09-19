@@ -28,7 +28,10 @@ var tagStatsCmd = &cobra.Command{
 func init() {
 	rootCmd.AddCommand(tagStatsCmd)
 	tagStatsCmd.Flags().String("yml-directory", "", "Directory containing the YML files")
-	tagStatsCmd.MarkFlagRequired("yml-directory")
+	err := tagStatsCmd.MarkFlagRequired("yml-directory")
+	if err != nil {
+		log.Fatalf("Error marking flag as required: %v", err)
+	}
 }
 
 func cmdTagStats(cmd *cobra.Command, args []string) error {

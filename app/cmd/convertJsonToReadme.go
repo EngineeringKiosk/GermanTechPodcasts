@@ -32,9 +32,18 @@ func init() {
 	convertJsonToReadmeCmd.Flags().String("readme-template", "", "Path to the README template")
 	convertJsonToReadmeCmd.Flags().String("readme-output", "", "Path to the README file that will be written")
 
-	convertJsonToReadmeCmd.MarkFlagRequired("json-directory")
-	convertJsonToReadmeCmd.MarkFlagRequired("readme-template")
-	convertJsonToReadmeCmd.MarkFlagRequired("readme-output")
+	err := convertJsonToReadmeCmd.MarkFlagRequired("json-directory")
+	if err != nil {
+		log.Fatalf("Error marking flag as required: %v", err)
+	}
+	err = convertJsonToReadmeCmd.MarkFlagRequired("readme-template")
+	if err != nil {
+		log.Fatalf("Error marking flag as required: %v", err)
+	}
+	err = convertJsonToReadmeCmd.MarkFlagRequired("readme-output")
+	if err != nil {
+		log.Fatalf("Error marking flag as required: %v", err)
+	}
 
 	convertJsonToReadmeCmd.MarkFlagsRequiredTogether("json-directory", "readme-template", "readme-output")
 }

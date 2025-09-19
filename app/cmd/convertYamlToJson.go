@@ -30,8 +30,15 @@ func init() {
 	convertYamlToJsonCmd.Flags().String("yaml-directory", "", "Directory on where to find the yaml files")
 	convertYamlToJsonCmd.Flags().String("json-directory", "", "Directory on where to store the json files")
 
-	convertYamlToJsonCmd.MarkFlagRequired("yaml-directory")
-	convertYamlToJsonCmd.MarkFlagRequired("json-directory")
+	err := convertYamlToJsonCmd.MarkFlagRequired("yaml-directory")
+	if err != nil {
+		log.Fatalf("Error marking flag as required: %v", err)
+	}
+	err = convertYamlToJsonCmd.MarkFlagRequired("json-directory")
+	if err != nil {
+		log.Fatalf("Error marking flag as required: %v", err)
+	}
+
 	convertYamlToJsonCmd.MarkFlagsRequiredTogether("yaml-directory", "json-directory")
 }
 
