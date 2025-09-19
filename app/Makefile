@@ -24,3 +24,7 @@ tagstats: ## get tag stats
 .PHONY: run
 run: build ## Compiles and starts the application
 	./GermanTechPodcasts
+
+.PHONY: test
+test: ## Runs all unit tests
+	go test -v -race ./...
