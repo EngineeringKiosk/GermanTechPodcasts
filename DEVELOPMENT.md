@@ -9,11 +9,11 @@ If you want to change the `README.md` file, please make your changes to `assets/
 
 ## Extending the *yml* format in `/podcasts`
 
-If you aim to modify (add, change or remove) a yaml proprty in the `/podcasts/*.yml`, 
+If you aim to modify (add, change, or remove) a YAML property in the `/podcasts/*.yml`, 
 please ensure making this change in all *.yml* files.
 
-Our tooling in `/app` also need adjustment.
+Our tooling in `/app` also needs adjustment.
 Mainly in
 
 * `/app/cmd/types.go`: Adjusting the type structure
-* `app/cmd/convertYamlToJson.go` -> `mergePodcastInformation`: Adjusting the Yaml to JSON merge logic
+* `app/cmd/convertYamlToJson.go` -> `mergePodcastInformation`: Adjusting the YAML to JSON merge logic

@@ -10,15 +10,15 @@ If you're in doubt if a particular podcast is a good fit for the list, **don't o
 Each podcast on the list should adhere to the following criteria
 
 - is a podcast :smiley:
-- is published using a RSS feed and is not behind a paywall
+- is published using an RSS feed and is not behind a paywall
 - published in German :de: :austria: :switzerland:
 - has published at least 3 consecutive episodes
 - is at least 2 months old
-- majority of content is `tech` (tech context should be clearly visible and more than 60% of all episodes)
+- majority of content is `tech` (tech context should be clearly visible in more than 60% of all episodes)
 - reasonable audio quality
 - is still active (new episode published within two months) or has timeless/relevant content (e.g. a news episode won't be relevant months later)
 
-Podcasts can be removed from the list if a criteria is no longer met.
+Podcasts can be removed from the list if a criterion is no longer met.
 
 #### What is `tech` in this context?
 
@@ -28,7 +28,7 @@ When it deals with things like ...
 - Dev culture, team culture of tech/product teams
 - Worklife of devs and tech people (e.g. coping with stress, imposter, etc.)
 - Research of topics mentioned above
-- Tech influence/impact on society (Artificial intelligence (AI), security, etc)
+- Tech influence/impact on society (Artificial intelligence (AI), security, etc.)
 
 #### What is not `tech` in this context?
 
