@@ -219,7 +219,7 @@ func downloadFile(address, fileName string) (*http.Response, error) {
 	if err != nil {
 		return response, err
 	}
-	defer response.Body.Close()
+	defer func() { _ = response.Body.Close() }()
 
 	if response.StatusCode != 200 {
 		return response, fmt.Errorf("received %d as status code, expected 200", response.StatusCode)
@@ -229,7 +229,7 @@ func downloadFile(address, fileName string) (*http.Response, error) {
 	if err != nil {
 		return response, err
 	}
-	defer file.Close()
+	defer func() { _ = file.Close() }()
 
 	_, err = io.Copy(file, response.Body)
 	if err != nil {
