@@ -2,7 +2,7 @@
  <opml version="2.0">
    <head>
      <title>Deutschsprachige Tech Podcasts</title>
-     <dateCreated>Sat, 20 Sep 2025 07:23:30 UTC</dateCreated>
+     <dateCreated>Sat, 20 Sep 2025 17:09:06 UTC</dateCreated>
      <ownerName>Engineering Kiosk</ownerName>
      <ownerEmail>stehtisch@engineeringkiosk.dev</ownerEmail>
    </head>
@@ -18,7 +18,7 @@
      <outline title="Bit-Rauschen - der Prozessor-Podcast von c&#39;t" text="Bit-Rauschen - der Prozessor-Podcast von c&#39;t" type="rss" xmlUrl="https://bit-rauschen.podigee.io/feed/mp3" htmlUrl="https://www.heise.de/thema/bit-rauschen"></outline>
      <outline title="Bits &amp; Böses - Der Tech Crime Podcast" text="Bits &amp; Böses - Der Tech Crime Podcast" type="rss" xmlUrl="https://bitsundboeses.podigee.io/feed/mp3" htmlUrl="https://bitsundboeses.podigee.io/"></outline>
      <outline title="Bits und so" text="Bits und so" type="rss" xmlUrl="http://www.bitsundso.de/feed/" htmlUrl="http://www.bitsundso.de/"></outline>
-     <outline title="Breach FM" text="Breach FM" type="rss" xmlUrl="https://feeds.transistor.fm/breach-fm-der-infosec-podcast" htmlUrl="https://breachfm.transistor.fm/"></outline>
+     <outline title="Breach FM" text="Breach FM" type="rss" xmlUrl="https://anchor.fm/s/fcc344f0/podcast/rss" htmlUrl="https://creators.spotify.com/pod/profile/superrobeert1/"></outline>
      <outline title="BuzzZoom" text="BuzzZoom" type="rss" xmlUrl="https://buzzzoom.de/?feed=podcast" htmlUrl="https://buzzzoom.de/"></outline>
      <outline title="c&#39;t uplink" text="c&#39;t uplink" type="rss" xmlUrl="https://ct-uplink.podigee.io/feed/mp3" htmlUrl="https://www.heise.de/thema/ct-uplink"></outline>
      <outline title="Chaosradio" text="Chaosradio" type="rss" xmlUrl="https://chaosradio.de/feed/m4a" htmlUrl="https://chaosradio.de/"></outline>
