@@ -2,7 +2,7 @@
  <opml version="2.0">
    <head>
      <title>Deutschsprachige Tech Podcasts</title>
-     <dateCreated>Fri, 19 Sep 2025 11:23:03 UTC</dateCreated>
+     <dateCreated>Sat, 20 Sep 2025 07:23:30 UTC</dateCreated>
      <ownerName>Engineering Kiosk</ownerName>
      <ownerEmail>stehtisch@engineeringkiosk.dev</ownerEmail>
    </head>
@@ -105,6 +105,7 @@
      <outline title="TechnikTechnik" text="TechnikTechnik" type="rss" xmlUrl="https://techniktechnik.de/?feed=mp3" htmlUrl="https://techniktechnik.de/"></outline>
      <outline title="Techtiefen" text="Techtiefen" type="rss" xmlUrl="https://techtiefen.de//index.php/feed/mp3/" htmlUrl="https://techtiefen.de/"></outline>
      <outline title="The World of IT-Security" text="The World of IT-Security" type="rss" xmlUrl="https://feeds.buzzsprout.com/1779426.rss" htmlUrl="https://www.suresecure.de/aktuelles/podcast"></outline>
+     <outline title="They Talk Tech – mit Eckert und Wolfangel" text="They Talk Tech – mit Eckert und Wolfangel" type="rss" xmlUrl="https://frauen-technik.podigee.io/feed/mp3" htmlUrl="https://frauen-technik.podigee.io/"></outline>
      <outline title="ThinkPad-Museum Podcast" text="ThinkPad-Museum Podcast" type="rss" xmlUrl="https://podcasts.darmstadt.social/@thinkpadmuseum/feed.xml" htmlUrl="https://thinkpad-museum.de/"></outline>
      <outline title="TILpod" text="TILpod" type="rss" xmlUrl="https://tilpod.net/feed/mp3" htmlUrl="https://tilpod.net/"></outline>
      <outline title="todo:cast" text="todo:cast" type="rss" xmlUrl="https://anchor.fm/s/f0b4224c/podcast/rss" htmlUrl="https://www.todocast.io/"></outline>
