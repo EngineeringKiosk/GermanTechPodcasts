@@ -327,8 +327,8 @@ Mitglieder der c&#39;t-Redaktion diskutieren über die aktuellen Themen aus dem 
 
 Im monatlichen Chaosradio informiert der Chaos Computer Club Berlin seit 1995 über die Auswirkungen von Technik auf die Gesellschaft.
 
-* Number of published episodes: 290
-* Last episode published: 🟢 Tuesday, 29 July 2025
+* Number of published episodes: 291
+* Last episode published: 🟢 Tuesday, 09 September 2025
 * [Chaosradio Website](https://chaosradio.de/)
 * [Chaosradio @ Apple Podcasts](https://podcasts.apple.com/de/podcast/135057225)
 * [Chaosradio Podcast RSS](https://chaosradio.de/feed/m4a)
@@ -388,7 +388,7 @@ Dein Podcast rund um Softwareentwicklung und aktueller Tech News. Lernt die Codi
 Jeden Samstag das Neueste aus Computertechnik und Informationstechnologie. Beiträge, Reportagen und Interviews zu IT-Sicherheit, Informatik, Datenschutz, Smartphones, Cloud-Computing und IT-Politik. Die Trends der IT werden kompakt und informativ zusammengefasst.
 
 * Number of published episodes: 20
-* Last episode published: 🟢 Saturday, 13 September 2025
+* Last episode published: 🟢 Saturday, 20 September 2025
 * [Computer und Kommunikation (Deutschlandfunk) Website](https://www.deutschlandfunk.de/computer-und-kommunikation-102.html)
 * [Computer und Kommunikation (Deutschlandfunk) @ Spotify](https://open.spotify.com/show/4uy56W83RGe8SKmzNpyfAc)
 * [Computer und Kommunikation (Deutschlandfunk) @ Apple Podcasts](https://podcasts.apple.com/de/podcast/173754605)
@@ -515,8 +515,8 @@ Der Unterhaltungs-Podcast für .NET Entwickler - ca. alle zwei Wochen treffen si
 
 Hier geht es um die kleinen und großen Fehlschläge in der Geschichte der Technik. Computer, die falsch rechnen, automatische Finanzsysteme, die Millionen von Dollar vernichten oder abstürzende Raketen: Hinter jedem Fehler steckt eine spannende und oftmals verblüffende Geschichte. Bei all den Fakten kommen ausschweifende Anekdoten, Witz und Bezüge zum aktuellen Zeitgeschehen nicht zu kurz.
 
-* Number of published episodes: 112
-* Last episode published: 🟢 Sunday, 07 September 2025
+* Number of published episodes: 113
+* Last episode published: 🟢 Sunday, 21 September 2025
 * Weekly downloads (avg): 1982 (updated: 2023-12-11)
 * [Digitale Anomalien Website](https://digitaleanomalien.de/)
 * [Digitale Anomalien @ Spotify](https://open.spotify.com/show/0aG1QAgC5wK5uYBfKxp6JB)
@@ -853,7 +853,7 @@ Wie intelligent ist Künstliche Intelligenz eigentlich? Welche Folgen hat genera
 Die IT-News des Tages von heise online
 
 * Number of published episodes: 1000
-* Last episode published: 🟢 Friday, 19 September 2025
+* Last episode published: 🟢 Monday, 22 September 2025
 * [Kurz informiert by heise online Website](https://www.heise.de/Hoeren-Sie-von-uns-unsere-Podcasts-4206659.html)
 * [Kurz informiert by heise online @ Spotify](https://open.spotify.com/show/2etf1jog8leNHbnhIArM9Z)
 * [Kurz informiert by heise online Podcast RSS](https://kurzinformiert.podigee.io/feed/mp3)
@@ -1254,8 +1254,8 @@ In diesem Podcast diskutiert die t3n-Redaktion mit Gästen über die spannendste
 
 Willkommen bei &#34;Technik-Tales: Kuriose Technikgeschichten&#34; – dem Podcast, der sich auf die spannendsten und skurrilsten Geschichten aus der Welt der Technik konzentriert! In jeder Episode treffen sich unsere beiden Technik-Enthusiasten, Kai und Paddy, um sich gegenseitig mit den ungewöhnlichsten und faszinierendsten Anekdoten aus der Welt der Innovation und Ingenieurskunst zu überraschen. Von den kuriosen Pannen bei der Raumfahrt bis hin zu den witzigsten Missgeschicken in der Softwareentwicklung – &#34;Technik-Tales&#34; bietet euch jede Menge Unterhaltung, Wissenswertes und natürlich viele Lacher. Erfahrt, wie ein kleiner Fehler in einem Algorithmus zu einem weltweiten Chaos führen kann, oder hört, welche verrückten Erfindungen einmal im Hype waren und dann in der Versenkung verschwanden.Ob ihr Technik-Fans, Nerds oder einfach nur neugierig auf die lustigen Seiten der High-Tech-Welt seid – dieser Podcast bringt euch die spannenden Geschichten, die man nicht im Lehrbuch findet. Schaltet ein, lehnt euch zurück und lasst euch von uns auf eine aufregende Reise durch die kurvenreiche Welt der Technik entführen!Abonnieren und nichts verpassen!
 
-* Number of published episodes: 41
-* Last episode published: 🟢 Sunday, 07 September 2025
+* Number of published episodes: 42
+* Last episode published: 🟢 Saturday, 20 September 2025
 * Weekly downloads (avg): 200 (updated: 2025-08-08)
 * [Technik Tales Website](http://www.techniktales.com/)
 * [Technik Tales @ Spotify](https://open.spotify.com/show/7k6FWQiFXbaQenxDHNpKuP)
@@ -1317,8 +1317,8 @@ Der neue Technologie-Podcast mit Svea Eckert und Eva Wolfangel. Die beiden freie
 
 Besonders in Business- und Hacker:innen-Kreisen trifft man sie häufig an - ThinkPads. Dieser Podcast beschäftigt sich mit der Geschichte und Gegenwart der Geräte. So sprechen wir über denkwürdige Modelle, revolutionäre Techniken und spannende Persönlichkeiten aus dem ThinkPad-Kosmos.
 
-* Number of published episodes: 18
-* Last episode published: 🟢 Friday, 12 September 2025
+* Number of published episodes: 19
+* Last episode published: 🟢 Sunday, 21 September 2025
 * Weekly downloads (avg): 105 (updated: 2025-03-27)
 * [ThinkPad-Museum Podcast Website](https://thinkpad-museum.de/)
 * [ThinkPad-Museum Podcast @ Spotify](https://open.spotify.com/show/1Tyf65RpY3bKZr0xYVFhjc)
@@ -1350,8 +1350,8 @@ Sujeevan und Dirk reden über Themen, die Ihnen in der letzten Zeit untergekomme
 
 Deutschsprachiger Podcast für die großen und kleinen Fragen des Developeralltags. Schon seit Langem tauschen sich Malte und Robin-Manuel in regelmäßigen Abständen über diverse Themen aus ihrem Alltag in der Softwareentwicklung aus. Dabei lernen sie jedes Mal etwas Neues! Warum also das Ganze nicht aufzeichnen und als Podcast zur Verfügung stellen?
 
-* Number of published episodes: 131
-* Last episode published: 🟢 Monday, 15 September 2025
+* Number of published episodes: 132
+* Last episode published: 🟢 Monday, 22 September 2025
 * [todo:cast Website](https://www.todocast.io/)
 * [todo:cast @ Spotify](https://open.spotify.com/show/2tIlVD6vBAtEhOZM4jS1mw)
 * [todo:cast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1467179396)
@@ -1856,7 +1856,7 @@ Der Podcast rund um Technologie, Smart Home, Gadgets und mehr. Patrick und Ingo 
 
 <h3 id="techtiefen">Techtiefen</h3>
 
-<img align="right" width="215" height="215" src="./generated/images/techtiefen.jpg" />
+<img align="right" width="215" height="215" src="./generated/generated/images/techtiefen.jpg" />
 
 Ausführliche, häufig zeitlose Gespräche von Gastgeber Nico Kreiling mit wechselnden Gästen der IT-Welt zu deren Fach-Gebieten. Von Nerds, für Nerds!
 
