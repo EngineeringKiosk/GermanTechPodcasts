@@ -1,0 +1,28 @@
+{
+ "name": "SmartHütte",
+ "slug": "smarthutte",
+ "website": "https://podcast.smarthuette.de",
+ "podcastIndexID": 7425625,
+ "rssFeed": "https://feeds.transistor.fm/smarthuette",
+ "spotify": "https://open.spotify.com/show/3cYGMZNGW9C8jVYEOx052k",
+ "description": "Zwei Freunde, ihr Smart Home, Self-Hosting, Technik und das ein oder andere Interview mit Makern",
+ "tags": [
+  "Smart Home",
+  "Home Assistant",
+  "Self-Hosting",
+  "Linux",
+  "Technology",
+  "Maker",
+  "Hardware",
+  "Interviews"
+ ],
+ "weekly_downloads_avg": {
+  "value": 0,
+  "updated": ""
+ },
+ "episodeCount": 10,
+ "latestEpisodePublished": 1759089772,
+ "archive": false,
+ "itunesID": 1829137207,
+ "image": "images/smarthuette.jpg"
+}

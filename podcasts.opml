@@ -2,7 +2,7 @@
  <opml version="2.0">
    <head>
      <title>Deutschsprachige Tech Podcasts</title>
-     <dateCreated>Wed, 01 Oct 2025 11:24:24 UTC</dateCreated>
+     <dateCreated>Thu, 02 Oct 2025 20:13:10 UTC</dateCreated>
      <ownerName>Engineering Kiosk</ownerName>
      <ownerEmail>stehtisch@engineeringkiosk.dev</ownerEmail>
    </head>
@@ -91,6 +91,7 @@
      <outline title="She for what? She for IT!" text="She for what? She for IT!" type="rss" xmlUrl="https://sheforwhat-sheforit.podigee.io/feed/mp3" htmlUrl="https://www.adesso.de/de/unternehmen/she-for-it/podcasts.jsp"></outline>
      <outline title="She Likes Tech" text="She Likes Tech" type="rss" xmlUrl="https://www.ndr.de/nachrichten/info/podcast4808.xml" htmlUrl="https://www.ndr.de/nachrichten/info/podcast4808.html"></outline>
      <outline title="Silicon Weekly" text="Silicon Weekly" type="rss" xmlUrl="https://letscast.fm/podcasts/silicon-weekly-97f9c1f8/feed" htmlUrl="https://silicon-weekly.de/"></outline>
+     <outline title="SmartHütte" text="SmartHütte" type="rss" xmlUrl="https://feeds.transistor.fm/smarthuette" htmlUrl="https://podcast.smarthuette.de"></outline>
      <outline title="Software-Architektur als Beruf" text="Software-Architektur als Beruf" type="rss" xmlUrl="https://1evriw.podcaster.de/software-architektur-als-beruf.rss" htmlUrl="https://software-architektur.tv/beruf.html"></outline>
      <outline title="SoftwareArchitekTOUR - von Entwicklern für Entwickler" text="SoftwareArchitekTOUR - von Entwicklern für Entwickler" type="rss" xmlUrl="https://www.heise.de/developer/rss/podcast-softwarearchitektour.rss" htmlUrl="https://www.heise.de/thema/softwarearchitektour"></outline>
      <outline title="SoftwareArchitektur im Stream" text="SoftwareArchitektur im Stream" type="rss" xmlUrl="https://1evriw.podcaster.de/software-architektur-im-stream.rss" htmlUrl="https://software-architektur.tv/"></outline>
