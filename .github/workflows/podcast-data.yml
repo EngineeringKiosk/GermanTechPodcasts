@@ -47,7 +47,7 @@ jobs:
         run: ./GermanTechPodcasts generateOpml --json-directory ../generated --opml-output ../podcasts.opml
 
       # Commit results back to repository
-      - uses: stefanzweifel/git-auto-commit-action@v6.0.1
+      - uses: stefanzweifel/git-auto-commit-action@v7.0.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
