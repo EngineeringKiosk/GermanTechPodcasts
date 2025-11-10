@@ -16,7 +16,7 @@
  },
  "episodeCount": 151,
  "latestEpisodePublished": 1746741900,
- "archive": false,
+ "archive": true,
  "itunesID": 1606139089,
  "image": "images/focus-on-linux.jpg"
 }
