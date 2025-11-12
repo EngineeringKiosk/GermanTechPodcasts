@@ -1495,7 +1495,7 @@ Ein Dialog über Malware, Cybercrime und Cyberspionage
 
 <h3 id="codestammtisch">Codestammtisch</h3>
 
-<img align="right" width="215" height="215" src="./generated/generated/images/codestammtisch.jpg" />
+<img align="right" width="215" height="215" src="./generated/images/codestammtisch.jpg" />
 
 Zwei Softwareentwickler — Max und Nathan — unterhalten sich ein Getränk lang über Themen aus der Softwareentwicklung. Da beide keine Ahnung von Bier haben, aber es gerne trinken, trinken die beiden meistens Bier.
 
