@@ -76,7 +76,7 @@ func cmdExtractEmails(cmd *cobra.Command, args []string) error {
 	for _, f := range jsonFiles {
 		absJsonFilePath := filepath.Join(jsonDir, f.Name())
 		log.Printf("Processing file %s", absJsonFilePath)
-		
+
 		jsonFileContent, err := os.ReadFile(absJsonFilePath)
 		if err != nil {
 			log.Printf("Error reading file %s: %v", absJsonFilePath, err)
@@ -115,7 +115,7 @@ func processRSSFeed(podcast PodcastInformation, fp *gofeed.Parser) EmailResult {
 	}
 
 	log.Printf("Parsing RSS feed for %s: %s", podcast.Name, podcast.RSSFeed)
-	
+
 	feed, err := fp.ParseURL(podcast.RSSFeed)
 	if err != nil {
 		result.Error = err.Error()
@@ -179,10 +179,10 @@ func processRSSFeed(podcast PodcastInformation, fp *gofeed.Parser) EmailResult {
 	if episodesToCheck > 3 {
 		episodesToCheck = 3
 	}
-	
+
 	for i := 0; i < episodesToCheck; i++ {
 		item := feed.Items[i]
-		
+
 		if item.Author != nil && item.Author.Email != "" {
 			emails[item.Author.Email] = true
 			authors[item.Author.Email] = AuthorInfo{
@@ -208,7 +208,7 @@ func processRSSFeed(podcast PodcastInformation, fp *gofeed.Parser) EmailResult {
 	for email := range emails {
 		result.Emails = append(result.Emails, email)
 	}
-	
+
 	for _, author := range authors {
 		result.Authors = append(result.Authors, author)
 	}
@@ -226,7 +226,7 @@ func addEmailsFromText(text string, emails map[string]bool) {
 	// Regular expression to match email addresses
 	emailRegex := regexp.MustCompile(`[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}`)
 	matches := emailRegex.FindAllString(text, -1)
-	
+
 	for _, match := range matches {
 		// Clean up the email (remove any trailing punctuation)
 		email := strings.Trim(match, ".,;!?")
@@ -243,7 +243,7 @@ func writeResultsToFile(results []EmailResult, filename string) error {
 
 	encoder := json.NewEncoder(file)
 	encoder.SetIndent("", "  ")
-	
+
 	if err := encoder.Encode(results); err != nil {
 		return err
 	}
@@ -255,7 +255,7 @@ func writeResultsToFile(results []EmailResult, filename string) error {
 func printResults(results []EmailResult) error {
 	// Print summary to stderr so JSON can be piped cleanly
 	log.Printf("Found emails from %d podcasts", len(results))
-	
+
 	foundEmails := 0
 	totalEmails := 0
 	for _, result := range results {
