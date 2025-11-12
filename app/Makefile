@@ -28,3 +28,7 @@ run: build ## Compiles and starts the application
 .PHONY: test
 test: ## Runs all unit tests
 	go test -v -race ./...
+
+.PHONY: extract-emails
+extract-emails: build ## Extracts contact emails from RSS feeds and saves to JSON file
+	./GermanTechPodcasts extractEmails --json-directory ../generated --output ../emails_with_authors.json
