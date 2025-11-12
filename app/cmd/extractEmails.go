@@ -44,7 +44,7 @@ func init() {
 	extractEmailsCmd.Flags().String("json-directory", "", "Directory containing the podcast JSON files")
 	extractEmailsCmd.Flags().String("output", "", "Optional: Output file to write results (if not provided, prints to stdout)")
 
-	extractEmailsCmd.MarkFlagRequired("json-directory")
+	_ = extractEmailsCmd.MarkFlagRequired("json-directory")
 }
 
 func cmdExtractEmails(cmd *cobra.Command, args []string) error {
@@ -239,7 +239,7 @@ func writeResultsToFile(results []EmailResult, filename string) error {
 	if err != nil {
 		return err
 	}
-	defer file.Close()
+	defer func() { _ = file.Close() }()
 
 	encoder := json.NewEncoder(file)
 	encoder.SetIndent("", "  ")

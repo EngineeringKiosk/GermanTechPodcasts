@@ -11,7 +11,7 @@ build: ## Compiles the application
 .PHONY: staticcheck
 staticcheck: ## Runs static code analyzer staticcheck
 	go install honnef.co/go/tools/cmd/staticcheck@latest
-	staticcheck ./...
+	$(shell go env GOPATH)/bin/staticcheck ./...
 
 .PHONY: vet
 vet: ## Runs go vet
