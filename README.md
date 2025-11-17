@@ -6,7 +6,7 @@ All listed podcasts are available as an [OPML file (podcasts.opml)](./podcasts.o
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (83 podcasts)
+* [Podcasts](#podcasts) (82 podcasts)
   * [#heiseshow](#heiseshow)
   * [((c3d2)) Pentaradio 24](#c3d2-pentaradio-24)
   * [0d - Zeroday](#0d-zeroday)
@@ -61,7 +61,6 @@ All listed podcasts are available as an [OPML file (podcasts.opml)](./podcasts.o
   * [Nachgehackt](#nachgehackt)
   * [Netzpolitik](#netzpolitik)
   * [Neuland](#neuland)
-  * [Percepticon](#percepticon)
   * [programmier.bar](#programmier-bar)
   * [Python Podcast](#python-podcast)
   * [RadioTux](#radiotux)
@@ -90,7 +89,7 @@ All listed podcasts are available as an [OPML file (podcasts.opml)](./podcasts.o
   * [Webcafé - Webentwicklung und Unternehmenskultur](#webcafe-webentwicklung-und-unternehmenskultur)
   * [Wo wir sind ist vorne](#wo-wir-sind-ist-vorne)
   * [Working Draft](#working-draft)
-* [Archived podcasts](#archived-podcasts) (30 podcasts)
+* [Archived podcasts](#archived-podcasts) (31 podcasts)
   * [Armchair Investigators](#armchair-investigators)
   * [Autoweird](#autoweird)
   * [Codestammtisch](#codestammtisch)
@@ -106,6 +105,7 @@ All listed podcasts are available as an [OPML file (podcasts.opml)](./podcasts.o
   * [Macht der Craft](#macht-der-craft)
   * [Open Source Couch](#open-source-couch)
   * [Open Source in der Industrie](#open-source-in-der-industrie)
+  * [Percepticon](#percepticon)
   * [Request for Comments](#request-for-comments)
   * [Schwarz, Code, Gold – Deutschland, Entwicklungsland?](#schwarz-code-gold-deutschland-entwicklungsland)
   * [SELECTrageFROMit;](#selectragefromit)
@@ -219,7 +219,7 @@ Sie möchten beim Thema Datenschutz auf dem Laufenden bleiben, aber keine seiten
 Ein Podcast über Web, Entwicklung, Mobile und Technologie. Betrachtet aus der Sicht von Entwicklern bzw. Open Source Begeisterten. Das heißt aber nicht, dass wir alles mit einer Rosa-Roten Brille sehen. Wir suchen bei Apple und Microsoft genauso das Gute und Schlechte wie auch bei Linux und anderen Open Source Projekten. Wir wollen realistisch sein. Auch wenn wir damit anecken sollten.
 
 * Number of published episodes: 50
-* Last episode published: 🟢 Friday, 31 October 2025
+* Last episode published: 🟢 Sunday, 16 November 2025
 * [Binärgewitter Website](http://blog.binaergewitter.de/)
 * [Binärgewitter @ Spotify](https://open.spotify.com/show/19LedqK0fGWfzfKzySDoVW)
 * [Binärgewitter @ Apple Podcasts](https://podcasts.apple.com/de/podcast/216877594)
@@ -250,8 +250,8 @@ Prozessoren, Grafikkarten, Notebooks, Desktop-PCs, Server, KI, Rechenzentren und
 
 Komm mit in die dunklen Ecken des Internets. Wir blicken in der ersten Staffel auf einen Fall von Identitätsdiebstahl bei Instagram und schauen uns an, wie er hätte verhindert werden können, wie die Polizei nach Cyber-Kriminellen fahndet und was man noch tun kann, wenn es eigentlich schon zu spät ist.
 
-* Number of published episodes: 13
-* Last episode published: 🟡 Tuesday, 15 July 2025
+* Number of published episodes: 15
+* Last episode published: 🟡 Tuesday, 16 September 2025
 * [Bits &amp; Böses - Der Tech Crime Podcast Website](https://bitsundboeses.podigee.io/)
 * [Bits &amp; Böses - Der Tech Crime Podcast @ Spotify](https://open.spotify.com/show/4RhbOvfpOLJDFwui3ujVn9)
 * [Bits &amp; Böses - Der Tech Crime Podcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1652515781)
@@ -267,7 +267,7 @@ Komm mit in die dunklen Ecken des Internets. Wir blicken in der ersten Staffel a
 Die wöchentliche Talkrunde rund um Apple, Mac, iPod &#43; iPhone, Gadgets und so. Fast live aus München.
 
 * Number of published episodes: 10
-* Last episode published: 🟢 Sunday, 09 November 2025
+* Last episode published: 🟢 Sunday, 16 November 2025
 * [Bits und so Website](http://www.bitsundso.de/)
 * [Bits und so @ Apple Podcasts](https://podcasts.apple.com/de/podcast/202753375)
 * [Bits und so Podcast RSS](http://www.bitsundso.de/feed/)
@@ -281,8 +281,8 @@ Die wöchentliche Talkrunde rund um Apple, Mac, iPod &#43; iPhone, Gadgets und s
 
 Breach FM taucht tief in die Welt der Cybersicherheit, digitalen Konflikte und ihrer explosiven geopolitischen Folgen ein. Moderiert von Robert Wortmann und Max Imbiel, nimmt der Podcast aktuelle Bedrohungen, innovative Technologien und clevere Strategien unter die Lupe. Mit hochkarätigen Gästen aus Forschung, Industrie und Politik werden brisante Themen wie staatliche Cyberangriffe, Krisenmanagement und die Schattenseiten der Cyberkriminalität aufgedeckt. Spannend, praxisnah und voller wertvoller Perspektiven – hier wird die digitale Frontlinie hörbar.
 
-* Number of published episodes: 108
-* Last episode published: 🟢 Wednesday, 05 November 2025
+* Number of published episodes: 109
+* Last episode published: 🟢 Wednesday, 12 November 2025
 * [Breach FM Website](https://creators.spotify.com/pod/profile/superrobeert1/)
 * [Breach FM @ Spotify](https://open.spotify.com/show/4ooV9mM8Qiyfkj9jUkdZjj)
 * [Breach FM @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1641279793)
@@ -297,8 +297,8 @@ Breach FM taucht tief in die Welt der Cybersicherheit, digitalen Konflikte und i
 
 Zwei Admins sprechen über die Buzzwords, die ihr jeden Tag hört und benutzt, deren Bedeutung ihr aber noch nie zu hinterfragen wagtet.
 
-* Number of published episodes: 121
-* Last episode published: 🟢 Friday, 31 October 2025
+* Number of published episodes: 122
+* Last episode published: 🟢 Friday, 14 November 2025
 * [BuzzZoom Website](https://buzzzoom.de/)
 * [BuzzZoom @ Spotify](https://open.spotify.com/show/62IRAtqB4QWOeH6oXaJflx)
 * [BuzzZoom @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1534027177)
@@ -313,8 +313,8 @@ Zwei Admins sprechen über die Buzzwords, die ihr jeden Tag hört und benutzt, d
 
 Mitglieder der c&#39;t-Redaktion diskutieren über die aktuellen Themen aus dem c’t Magazin und was sonst noch so in der IT-Welt passiert.
 
-* Number of published episodes: 620
-* Last episode published: 🟢 Saturday, 08 November 2025
+* Number of published episodes: 621
+* Last episode published: 🟢 Saturday, 15 November 2025
 * [c&#39;t uplink Website](https://www.heise.de/thema/ct-uplink)
 * [c&#39;t uplink @ Spotify](https://open.spotify.com/show/4LdN7lGr9winLtQSqoIjVD)
 * [c&#39;t uplink @ Apple Podcasts](https://podcasts.apple.com/de/podcast/835717958)
@@ -389,7 +389,7 @@ Dein Podcast rund um Softwareentwicklung und aktueller Tech News. Lernt die Codi
 Jeden Samstag das Neueste aus Computertechnik und Informationstechnologie. Beiträge, Reportagen und Interviews zu IT-Sicherheit, Informatik, Datenschutz, Smartphones, Cloud-Computing und IT-Politik. Die Trends der IT werden kompakt und informativ zusammengefasst.
 
 * Number of published episodes: 20
-* Last episode published: 🟢 Saturday, 08 November 2025
+* Last episode published: 🟢 Saturday, 15 November 2025
 * [Computer und Kommunikation (Deutschlandfunk) Website](https://www.deutschlandfunk.de/computer-und-kommunikation-102.html)
 * [Computer und Kommunikation (Deutschlandfunk) @ Spotify](https://open.spotify.com/show/4uy56W83RGe8SKmzNpyfAc)
 * [Computer und Kommunikation (Deutschlandfunk) @ Apple Podcasts](https://podcasts.apple.com/de/podcast/173754605)
@@ -550,8 +550,8 @@ Einfach Komplex macht Software und IT verständlich – für Laien und Experten 
 
 Der Engineering Kiosk ist der deutschsprachige Software-Engineering-Podcast mit Wolfgang Gassler und Andy Grunwald rund um die Themen Engineering-Kultur, Open Source, Menschen, Technologie und allen anderen Bereichen, die damit in Verbindung stehen.
 
-* Number of published episodes: 217
-* Last episode published: 🟢 Tuesday, 30 September 2025
+* Number of published episodes: 223
+* Last episode published: 🟢 Tuesday, 11 November 2025
 * Weekly downloads (avg): 1099 (updated: 2023-01-31)
 * [Engineering Kiosk Website](https://engineeringkiosk.dev/)
 * [Engineering Kiosk @ Spotify](https://open.spotify.com/show/0tJRC0UsObPCWLmmzmOkIs)
@@ -821,7 +821,7 @@ IT@DB ist ein Podcast für IT Fach- und Führungskräfte (w/m/d). Hier erhältst
 Wie intelligent ist Künstliche Intelligenz eigentlich? Welche Folgen hat generative KI für unsere Arbeit, unsere Freizeit und die Gesellschaft? Im &#34;KI-Update&#34; von heise bringen wir Euch gemeinsam mit The Decoder werktäglich Updates zu den wichtigsten KI-Entwicklungen. Freitags beleuchten wir mit Experten die unterschiedlichen Aspekte der KI-Revolution.
 
 * Number of published episodes: 500
-* Last episode published: 🟢 Wednesday, 12 November 2025
+* Last episode published: 🟢 Friday, 14 November 2025
 * [KI-Update Website](https://www.heise.de/thema/KI-Update)
 * [KI-Update @ Spotify](https://open.spotify.com/show/1rm6gMybQWnHePvY2eCpzp)
 * [KI-Update @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1691536182)
@@ -867,8 +867,8 @@ Der Podcast über unsere digitale Lebens- und Arbeitswelt mit Markus Hörster un
 
 Logbuch:Netzpolitik ist ein in der Regel wöchentlich erscheinender Podcast, der im Dialog zwischen Linus Neumann und Tim Pritlove die wichtigsten Themen und Ereignisse mit netzpolitischem Bezug aufgreift und diskutiert.
 
-* Number of published episodes: 539
-* Last episode published: 🟢 Friday, 31 October 2025
+* Number of published episodes: 540
+* Last episode published: 🟢 Sunday, 16 November 2025
 * [Logbuch: Netzpolitik Website](https://logbuch-netzpolitik.de/)
 * [Logbuch: Netzpolitik @ Apple Podcasts](https://podcasts.apple.com/de/podcast/476856034)
 * [Logbuch: Netzpolitik Podcast RSS](https://feeds.metaebene.me/lnp/m4a)
@@ -898,8 +898,8 @@ Hintergründe, Einschätzungen, Tipps und Neuigkeiten: Im Zweiwochenrhythmus unt
 
 Scrum kann doch inzwischen eh jeder? Von wegen! Denn - ganz unter uns: genug falsch machen kann man ohne Probleme. Daher möchten wir über Stolpersteine sprechen, über Smells und unsere Erfahrungen mitteilen, die wir mit Scrum, Kanban und Agil im Allgemeinen gemacht haben.
 
-* Number of published episodes: 143
-* Last episode published: 🟢 Thursday, 16 October 2025
+* Number of published episodes: 144
+* Last episode published: 🟢 Monday, 17 November 2025
 * Weekly downloads (avg): 14449 (updated: 2022-12-28)
 * [Mein Scrum ist kaputt! Website](https://meinscrumistkaputt.de/)
 * [Mein Scrum ist kaputt! @ Spotify](https://open.spotify.com/show/7lECdowQCq0OWlf0EZnSpL)
@@ -915,8 +915,8 @@ Scrum kann doch inzwischen eh jeder? Von wegen! Denn - ganz unter uns: genug fal
 
 Mind the Tech ist ein Podcast, der die dunklen Seiten der IT- und Tech-Welt beleuchtet. Dazu zählen legendäre Hackerangriffe, Datendiebstähle und Cyberattacken. Ebenso kommen die unzähligen Geschichten von Menschen auf den Tisch, die es mit Recht und Gesetz im Web nicht so ernst nehmen – und irgendwann die Konsequenzen ihres Handelns zu spüren bekommen. Wir widmen uns Antitrends und Mythen, stellen Entwicklungen im und rund ums Internet in Frage, wägen ab. Denn wir sind fest davon überzeugt: Nur wenn wir uns ihren Schattenseiten widmen, können wir die (digitale) Welt zu einem besseren Ort machen.
 
-* Number of published episodes: 99
-* Last episode published: 🟢 Tuesday, 07 October 2025
+* Number of published episodes: 100
+* Last episode published: 🟢 Saturday, 15 November 2025
 * [Mind the Tech Website](https://www.mindthetech.de/)
 * [Mind the Tech @ Spotify](https://open.spotify.com/show/6FydYmBjELizU8k8DOIcaA)
 * [Mind the Tech @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1515173582)
@@ -964,7 +964,7 @@ Die Welt wird immer digitaler und IT-Sicherheit auch im Alltag immer wichtiger. 
 Wir thematisieren die wichtigen Fragestellungen rund um Internet, Gesellschaft und Politik und zeigen Wege auf, wie man sich auch selbst mit Hilfe des Netzes für digitale Freiheiten und Offenheit engagieren kann. Mit netzpolitik.org beschreiben wir, wie die Politik das Internet durch Regulierung verändert und wie das Netz Politik, Öffentlichkeiten und alles andere verändert.
 
 * Number of published episodes: 25
-* Last episode published: 🟢 Saturday, 11 October 2025
+* Last episode published: 🟢 Saturday, 15 November 2025
 * [Netzpolitik Website](https://netzpolitik.org/podcast/)
 * [Netzpolitik @ Spotify](https://open.spotify.com/show/2GLuMhSNEFzUIXfx9BDxBt)
 * [Netzpolitik @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1281525246)
@@ -986,23 +986,6 @@ Mehr Wissen über die digitale Welt. Experten des Hasso-Plattner-Instituts sprec
 * [Neuland @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1448992875)
 * [Neuland Podcast RSS](https://podcast.hpi.de/feed.xml)
 * Tags: Digitalisierung, IT, Forschung, Wissenspodcast, Bildung
-
-----
-
-<h3 id="percepticon">Percepticon</h3>
-
-<img align="right" width="215" height="215" src="./generated/images/percepticon.jpg" />
-
-Ein Podcast über die dunkle Seite der Digitalisierung: Spionage, Hacker, Sabotage, Subversion, Desinformation und die Cyber Konflikte der Vergangenheit und Zukunft. Irgendwo zwischen IT-Sicherheit und Cyber Security geht es um die großen Linien, um eine kritische, politik- bzw. sozialwissenschaftliche Einordnung der Phänomene, statt um das Verbreiten von FUD: Fear, Uncertainty and Doubt. Betrieben wird das ganze von Dr. Matthias Schulze, der unter percepticon.de schon seit Jahren dazu bloggt.
-
-* Number of published episodes: 49
-* Last episode published: 🟡 Thursday, 15 May 2025
-* Weekly downloads (avg): 375 (updated: 2023-01-02)
-* [Percepticon Website](https://percepticon.de/category/podcast/)
-* [Percepticon @ Spotify](https://open.spotify.com/show/1BgA82Dtniy7Aaj2aktJI2)
-* [Percepticon @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1458318548)
-* [Percepticon Podcast RSS](https://percepticon.de/category/podcast/feed/podcast/)
-* Tags: IT-Sicherheit, Cyber Security, Sicherheitspolitik, Security
 
 ----
 
@@ -1079,8 +1062,8 @@ Sandra Parsick &amp; Daniel Zenzes präsentieren mit Ready for Review einen bunt
 
 Wie können wir Cybersicherheit als gesamtgesellschaftliches Problem verstehen? Wolfgang Straßer, langjähriger Experte im Bereich Cybersicherheit und Marian Blok, Politikberater mit Schwerpunkt Cybersecurity, sprechen mit Cyber-Experten aus Unternehmen, Behörden und Verbänden.
 
-* Number of published episodes: 23
-* Last episode published: 🟡 Friday, 01 August 2025
+* Number of published episodes: 25
+* Last episode published: 🟢 Wednesday, 22 October 2025
 * [Rheingehäckt Website](https://www.at-yet.de/aktuelles)
 * [Rheingehäckt @ Spotify](https://open.spotify.com/show/1CFAcjQuET8Yv35k6v38fs)
 * [Rheingehäckt @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1585954195)
@@ -1175,8 +1158,8 @@ Themen wie KI oder Cybersecurity werden immer wichtiger und ein immer größerer
 
 Zwei Freunde, ihr Smart Home, Self-Hosting, Technik und das ein oder andere Interview mit Makern
 
-* Number of published episodes: 16
-* Last episode published: 🟢 Sunday, 09 November 2025
+* Number of published episodes: 17
+* Last episode published: 🟢 Saturday, 15 November 2025
 * [SmartHütte Website](https://podcast.smarthuette.de)
 * [SmartHütte @ Spotify](https://open.spotify.com/show/3cYGMZNGW9C8jVYEOx052k)
 * [SmartHütte @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1829137207)
@@ -1207,8 +1190,8 @@ Der Podcast für praktische Softwarearchitektur. Mit: Carola Lilienthal, Patrick
 
 Live-Diskussion zu Software-Architektur im Stream. Einmal in der Woche diskutiert Eberhard Wolff Software-Architektur im Live-Stream auf YouTube und Twitch - oft zusammen mit einem Gast. Zuschauer können über den Chat mitdiskutieren oder Fragen stellen. Der Podcast enthält die Audio-Spur des Streams.
 
-* Number of published episodes: 285
-* Last episode published: 🟢 Saturday, 08 November 2025
+* Number of published episodes: 286
+* Last episode published: 🟢 Saturday, 15 November 2025
 * [SoftwareArchitektur im Stream Website](https://software-architektur.tv/)
 * [SoftwareArchitektur im Stream @ Spotify](https://open.spotify.com/show/7ySg1eZoWYBshd6QpGaW8B)
 * [SoftwareArchitektur im Stream @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1538545458)
@@ -1254,8 +1237,8 @@ In diesem Podcast diskutiert die t3n-Redaktion mit Gästen über die spannendste
 
 Willkommen bei &#34;Technik-Tales: Kuriose Technikgeschichten&#34; – dem Podcast, der sich auf die spannendsten und skurrilsten Geschichten aus der Welt der Technik konzentriert! In jeder Episode treffen sich unsere beiden Technik-Enthusiasten, Kai und Paddy, um sich gegenseitig mit den ungewöhnlichsten und faszinierendsten Anekdoten aus der Welt der Innovation und Ingenieurskunst zu überraschen. Von den kuriosen Pannen bei der Raumfahrt bis hin zu den witzigsten Missgeschicken in der Softwareentwicklung – &#34;Technik-Tales&#34; bietet euch jede Menge Unterhaltung, Wissenswertes und natürlich viele Lacher. Erfahrt, wie ein kleiner Fehler in einem Algorithmus zu einem weltweiten Chaos führen kann, oder hört, welche verrückten Erfindungen einmal im Hype waren und dann in der Versenkung verschwanden.Ob ihr Technik-Fans, Nerds oder einfach nur neugierig auf die lustigen Seiten der High-Tech-Welt seid – dieser Podcast bringt euch die spannenden Geschichten, die man nicht im Lehrbuch findet. Schaltet ein, lehnt euch zurück und lasst euch von uns auf eine aufregende Reise durch die kurvenreiche Welt der Technik entführen!Abonnieren und nichts verpassen!
 
-* Number of published episodes: 45
-* Last episode published: 🟢 Friday, 31 October 2025
+* Number of published episodes: 46
+* Last episode published: 🟢 Sunday, 16 November 2025
 * Weekly downloads (avg): 200 (updated: 2025-08-08)
 * [Technik Tales Website](http://www.techniktales.com/)
 * [Technik Tales @ Spotify](https://open.spotify.com/show/7k6FWQiFXbaQenxDHNpKuP)
@@ -1693,6 +1676,23 @@ Wir berichten alle zwei Wochen über Open Source Anwendungen, Ideen und Konzepte
 * [Open Source in der Industrie @ Spotify](https://open.spotify.com/show/7e0khh6f5m1NArO3ggwCSH)
 * [Open Source in der Industrie Podcast RSS](https://opensourcepodcast.podigee.io/feed/mp3)
 * Tags: Industrie, Open Source
+
+----
+
+<h3 id="percepticon">Percepticon</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/percepticon.jpg" />
+
+Ein Podcast über die dunkle Seite der Digitalisierung: Spionage, Hacker, Sabotage, Subversion, Desinformation und die Cyber Konflikte der Vergangenheit und Zukunft. Irgendwo zwischen IT-Sicherheit und Cyber Security geht es um die großen Linien, um eine kritische, politik- bzw. sozialwissenschaftliche Einordnung der Phänomene, statt um das Verbreiten von FUD: Fear, Uncertainty and Doubt. Betrieben wird das ganze von Dr. Matthias Schulze, der unter percepticon.de schon seit Jahren dazu bloggt.
+
+* Number of published episodes: 49
+* Last episode published: 🔴 Thursday, 15 May 2025
+* Weekly downloads (avg): 375 (updated: 2023-01-02)
+* [Percepticon Website](https://percepticon.de/category/podcast/)
+* [Percepticon @ Spotify](https://open.spotify.com/show/1BgA82Dtniy7Aaj2aktJI2)
+* [Percepticon @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1458318548)
+* [Percepticon Podcast RSS](https://percepticon.de/category/podcast/feed/podcast/)
+* Tags: IT-Sicherheit, Cyber Security, Sicherheitspolitik, Security
 
 ----
 

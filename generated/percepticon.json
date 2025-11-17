@@ -18,7 +18,7 @@
  },
  "episodeCount": 49,
  "latestEpisodePublished": 1747293652,
- "archive": false,
+ "archive": true,
  "itunesID": 1458318548,
  "image": "images/percepticon.jpg"
 }
