@@ -155,7 +155,7 @@ Pentaradio24 ist eine Sendung, die jeden vierten Dienstag im Monat zwischen 21:3
 
 
 * Number of published episodes: 34
-* Last episode published: 🟢 Sunday, 02 November 2025
+* Last episode published: 🟢 Monday, 01 December 2025
 * [((c3d2)) Pentaradio 24 Website](https://www.c3d2.de/radio.html)
 * [((c3d2)) Pentaradio 24 @ Apple Podcasts](https://podcasts.apple.com/de/podcast/350873124)
 * [((c3d2)) Pentaradio 24 Podcast RSS](https://www.c3d2.de/pentaradio.xml)
@@ -234,8 +234,8 @@ Ein Podcast über Web, Entwicklung, Mobile und Technologie. Betrachtet aus der S
 
 Prozessoren, Grafikkarten, Notebooks, Desktop-PCs, Server, KI, Rechenzentren und IT-Markt: In &#34;Bit-Rauschen&#34;, dem Prozessor-Podcast des Computermagazins c’t, dreht sich alles um Chips.
 
-* Number of published episodes: 128
-* Last episode published: 🟢 Wednesday, 19 November 2025
+* Number of published episodes: 129
+* Last episode published: 🟢 Wednesday, 03 December 2025
 * [Bit-Rauschen - der Prozessor-Podcast von c&#39;t Website](https://www.heise.de/thema/bit-rauschen)
 * [Bit-Rauschen - der Prozessor-Podcast von c&#39;t @ Spotify](https://open.spotify.com/show/6JD6gwqgVR27GYZACrWOT1)
 * [Bit-Rauschen - der Prozessor-Podcast von c&#39;t @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1549821753)
@@ -404,8 +404,8 @@ Jeden Samstag das Neueste aus Computertechnik und Informationstechnologie. Beitr
 
 Cybersecurity entschüsselt ist ein deutschsprachiger Podcast, in dem sich alles um Sicherheit dreht.
 
-* Number of published episodes: 65
-* Last episode published: 🟢 Tuesday, 18 November 2025
+* Number of published episodes: 66
+* Last episode published: 🟢 Tuesday, 02 December 2025
 * [Cybersecurity entschlüsselt Website](https://www.cybersecurity-entschluesselt.de)
 * [Cybersecurity entschlüsselt @ Spotify](https://open.spotify.com/show/0sAcefh8cixTxjJn9s1dvM)
 * [Cybersecurity entschlüsselt @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1637327527)
@@ -533,8 +533,8 @@ Hier geht es um die kleinen und großen Fehlschläge in der Geschichte der Techn
 
 Einfach Komplex macht Software und IT verständlich – für Laien und Experten gleichermaßen. Jeden zweiten Dienstag bieten wir Einblicke in die Welt der Softwareentwicklung und IT. Unser Ziel: dich für Diskussionen rund um Softwareprojekte, IT/OT-Infrastruktur oder digitale Zukunftsfragen fit zu machen. Einfach erklärt, aber in all seiner Komplexität – damit du besser mitreden kannst und fundierte Entscheidungen triffst. Einfach Komplex wird präsentiert von Heisenware.
 
-* Number of published episodes: 97
-* Last episode published: 🟢 Tuesday, 18 November 2025
+* Number of published episodes: 98
+* Last episode published: 🟢 Tuesday, 02 December 2025
 * Weekly downloads (avg): 1900 (updated: 2025-01-21)
 * [Einfach Komplex Website](https://heisenware.com/podcast)
 * [Einfach Komplex @ Spotify](https://open.spotify.com/show/4eTpBCjUos9xUXtX294CnY?si=457f567027574f40)
@@ -615,8 +615,8 @@ Der FOCUS ON: DevOps Podcast beschäftigt sich mit verschiedenen Methoden und We
 
 Habt ihr diesen Spruch auch schon mal gehört – mit hochgezogenen Augenbrauen, dezentem Kopfschütteln und einem leicht genervten Ausatmen: “Frauen und Technik…”, dann seid ihr hier genau richtig. Der neue Technologie-Podcast der c&#39;t “Frauen und Technik mit Svea Eckert und Eva Wolfangel” spielt genau mit diesem Klischee, bricht es charmant auf und vermittelt dabei Wissen. Die beiden erfahrenen, freien Technologie-Journalistinnen widmen sich alle 14-Tage einem spannenden Tech-Thema und laden sich dazu inspirierende weibliche Gäste ein. Aber auch die Podcast-Hosts bringen etwas mit: investigative und spannende Recherchen, zu denen es in jeder Folge gleich zu Beginn einen kurzen Deepdive gibt.
 
-* Number of published episodes: 58
-* Last episode published: 🟢 Wednesday, 26 November 2025
+* Number of published episodes: 59
+* Last episode published: 🟢 Wednesday, 03 December 2025
 * [Frauen und Technik – mit Eckert und Wolfangel Website](https://frauen-technik.podigee.io/)
 * [Frauen und Technik – mit Eckert und Wolfangel @ Spotify](https://open.spotify.com/show/3HwNHImCFF1NvNMQnN2rFR)
 * [Frauen und Technik – mit Eckert und Wolfangel @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1762825923)
@@ -821,7 +821,7 @@ IT@DB ist ein Podcast für IT Fach- und Führungskräfte (w/m/d). Hier erhältst
 Wie intelligent ist Künstliche Intelligenz eigentlich? Welche Folgen hat generative KI für unsere Arbeit, unsere Freizeit und die Gesellschaft? Im &#34;KI-Update&#34; von heise bringen wir Euch gemeinsam mit The Decoder werktäglich Updates zu den wichtigsten KI-Entwicklungen. Freitags beleuchten wir mit Experten die unterschiedlichen Aspekte der KI-Revolution.
 
 * Number of published episodes: 500
-* Last episode published: 🟢 Friday, 28 November 2025
+* Last episode published: 🟢 Monday, 01 December 2025
 * [KI-Update Website](https://www.heise.de/thema/KI-Update)
 * [KI-Update @ Spotify](https://open.spotify.com/show/1rm6gMybQWnHePvY2eCpzp)
 * [KI-Update @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1691536182)
@@ -837,7 +837,7 @@ Wie intelligent ist Künstliche Intelligenz eigentlich? Welche Folgen hat genera
 Die IT-News des Tages von heise online
 
 * Number of published episodes: 1000
-* Last episode published: 🟢 Monday, 01 December 2025
+* Last episode published: 🟢 Wednesday, 03 December 2025
 * [Kurz informiert by heise online Website](https://www.heise.de/Hoeren-Sie-von-uns-unsere-Podcasts-4206659.html)
 * [Kurz informiert by heise online @ Spotify](https://open.spotify.com/show/2etf1jog8leNHbnhIArM9Z)
 * [Kurz informiert by heise online Podcast RSS](https://kurzinformiert.podigee.io/feed/mp3)
@@ -979,8 +979,8 @@ Mehr Wissen über die digitale Welt. Experten des Hasso-Plattner-Instituts sprec
 
 Mit geballter Dev-Power nehmen Dennis, Fabi, Sebi und Jojo neue Podcastfolgen auf und werden dabei regelmäßig von Gäst:innen aus der Branche unterstützt. Taucht in unseren Deep Dives mit uns in Frameworks und Datenbanken ein, hört euch in den CTO-Specials die Erfahrungen führender Persönlichkeiten großer Unternehmen an und bleibt mit unseren News-Folgen stets am Ball in der Welt der App- und Webentwicklung.
 
-* Number of published episodes: 466
-* Last episode published: 🟢 Thursday, 27 November 2025
+* Number of published episodes: 467
+* Last episode published: 🟢 Tuesday, 02 December 2025
 * Weekly downloads (avg): 8744 (updated: 2023-04-12)
 * [programmier.bar Website](https://www.programmier.bar/podcast)
 * [programmier.bar @ Spotify](https://open.spotify.com/show/0ik0sXv9paTQCeThcOLCCJ)
@@ -1126,8 +1126,8 @@ Jung, weiblich, genial: Im Tech-Podcast von NDR Info sucht die Tech-Journalistin
 
 Themen wie KI oder Cybersecurity werden immer wichtiger und ein immer größerer Teil unseres Lebens. Einmal die Woche besprechen Elisabeth, Stella und Caspar die wichtigsten Tech-News und helfen euch dabei, sie zu verstehen. Schnappt euch einen Kaffee, Kakao oder Tee und setzt euch dazu!
 
-* Number of published episodes: 77
-* Last episode published: 🟢 Sunday, 30 November 2025
+* Number of published episodes: 79
+* Last episode published: 🟢 Tuesday, 02 December 2025
 * [Silicon Weekly Website](https://silicon-weekly.de/)
 * [Silicon Weekly @ Spotify](https://open.spotify.com/show/1zaQ4IXAfm5J7XjcsKQ4Y7)
 * [Silicon Weekly @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1741135990)
@@ -1221,8 +1221,8 @@ In diesem Podcast diskutiert die t3n-Redaktion mit Gästen über die spannendste
 
 Willkommen bei &#34;Technik-Tales: Kuriose Technikgeschichten&#34; – dem Podcast, der sich auf die spannendsten und skurrilsten Geschichten aus der Welt der Technik konzentriert! In jeder Episode treffen sich unsere beiden Technik-Enthusiasten, Kai und Paddy, um sich gegenseitig mit den ungewöhnlichsten und faszinierendsten Anekdoten aus der Welt der Innovation und Ingenieurskunst zu überraschen. Von den kuriosen Pannen bei der Raumfahrt bis hin zu den witzigsten Missgeschicken in der Softwareentwicklung – &#34;Technik-Tales&#34; bietet euch jede Menge Unterhaltung, Wissenswertes und natürlich viele Lacher. Erfahrt, wie ein kleiner Fehler in einem Algorithmus zu einem weltweiten Chaos führen kann, oder hört, welche verrückten Erfindungen einmal im Hype waren und dann in der Versenkung verschwanden.Ob ihr Technik-Fans, Nerds oder einfach nur neugierig auf die lustigen Seiten der High-Tech-Welt seid – dieser Podcast bringt euch die spannenden Geschichten, die man nicht im Lehrbuch findet. Schaltet ein, lehnt euch zurück und lasst euch von uns auf eine aufregende Reise durch die kurvenreiche Welt der Technik entführen!Abonnieren und nichts verpassen!
 
-* Number of published episodes: 47
-* Last episode published: 🟢 Sunday, 30 November 2025
+* Number of published episodes: 48
+* Last episode published: 🟢 Monday, 01 December 2025
 * Weekly downloads (avg): 200 (updated: 2025-08-08)
 * [Technik Tales Website](http://www.techniktales.com/)
 * [Technik Tales @ Spotify](https://open.spotify.com/show/7k6FWQiFXbaQenxDHNpKuP)
@@ -1268,8 +1268,8 @@ IT-Security, unendliche Weiten ... So oder so ähnlich lässt sich die Größeno
 
 Der neue Technologie-Podcast mit Svea Eckert und Eva Wolfangel. Die beiden freien Technologie-Journalistinnen widmen sich jeden Mittwoch spannenden Tech-Thema und laden sich dazu inspirierende weibliche Gäste ein. Aber auch die Podcast-Hosts bringen etwas mit: investigative und spannende Recherchen, zu denen es in jeder Folge gleich zu Beginn einen kurzen Deepdive gibt.
 
-* Number of published episodes: 58
-* Last episode published: 🟢 Wednesday, 26 November 2025
+* Number of published episodes: 59
+* Last episode published: 🟢 Wednesday, 03 December 2025
 * [They Talk Tech – mit Eckert und Wolfangel Website](https://frauen-technik.podigee.io/)
 * [They Talk Tech – mit Eckert und Wolfangel @ Spotify](https://open.spotify.com/show/3HwNHImCFF1NvNMQnN2rFR)
 * [They Talk Tech – mit Eckert und Wolfangel @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1762825923)
@@ -1413,8 +1413,8 @@ Latenight-Frontend-Talkshow rund um Webdesign und Entwicklung. Es reden sich um 
 
 Wöchentlicher Podcast für Webdesigner:innen und -entwickler:innen
 
-* Number of published episodes: 713
-* Last episode published: 🟢 Tuesday, 25 November 2025
+* Number of published episodes: 714
+* Last episode published: 🟢 Tuesday, 02 December 2025
 * [Working Draft Website](https://workingdraft.de/)
 * [Working Draft @ Spotify](https://open.spotify.com/show/78iH7cIFzu1ejoB6aQUsIh)
 * [Working Draft @ Apple Podcasts](https://podcasts.apple.com/de/podcast/402204581)
