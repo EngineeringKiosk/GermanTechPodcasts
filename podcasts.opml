@@ -2,7 +2,7 @@
  <opml version="2.0">
    <head>
      <title>Deutschsprachige Tech Podcasts</title>
-     <dateCreated>Fri, 05 Dec 2025 19:44:18 UTC</dateCreated>
+     <dateCreated>Fri, 05 Dec 2025 19:51:12 UTC</dateCreated>
      <ownerName>Engineering Kiosk</ownerName>
      <ownerEmail>stehtisch@engineeringkiosk.dev</ownerEmail>
    </head>
@@ -43,7 +43,6 @@
      <outline title="Female TechTalk" text="Female TechTalk" type="rss" xmlUrl="https://anchor.fm/s/58b9bd94/podcast/rss" htmlUrl="https://www.female-techtalk.com/"></outline>
      <outline title="FOCUS ON: DevOps" text="FOCUS ON: DevOps" type="rss" xmlUrl="https://focusondevops.podigee.io/feed/mp3" htmlUrl="https://focusondevops.podigee.io/"></outline>
      <outline title="FOCUS ON: Linux" text="FOCUS ON: Linux" type="rss" xmlUrl="https://focusonlinux.podigee.io/feed/mp3" htmlUrl="https://focusonlinux.podigee.io/"></outline>
-     <outline title="Frauen und Technik – mit Eckert und Wolfangel" text="Frauen und Technik – mit Eckert und Wolfangel" type="rss" xmlUrl="https://frauen-technik.podigee.io/feed/mp3" htmlUrl="https://frauen-technik.podigee.io/"></outline>
      <outline title="Freakshow" text="Freakshow" type="rss" xmlUrl="https://feeds.metaebene.me/freakshow/m4a" htmlUrl="https://freakshow.fm/"></outline>
      <outline title="Gamedev für die Platte - Der Unreal Podcast" text="Gamedev für die Platte - Der Unreal Podcast" type="rss" xmlUrl="https://feed.podbean.com/gamedevfuerdieplatte/feed.xml" htmlUrl="https://gamedevfuerdieplatte.podbean.com/"></outline>
      <outline title="GeekWeek" text="GeekWeek" type="rss" xmlUrl="https://geekweekde.libsyn.com/rss" htmlUrl="https://geek-week.de/"></outline>

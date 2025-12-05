@@ -6,7 +6,7 @@ All listed podcasts are available as an [OPML file (podcasts.opml)](./podcasts.o
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (81 podcasts)
+* [Podcasts](#podcasts) (80 podcasts)
   * [#heiseshow](#heiseshow)
   * [((c3d2)) Pentaradio 24](#c3d2-pentaradio-24)
   * [0d - Zeroday](#0d-zeroday)
@@ -37,7 +37,6 @@ All listed podcasts are available as an [OPML file (podcasts.opml)](./podcasts.o
   * [Faxinformatiker](#faxinformatiker)
   * [Female TechTalk](#female-techtalk)
   * [FOCUS ON: DevOps](#focus-on-devops)
-  * [Frauen und Technik – mit Eckert und Wolfangel](#frauen-und-technik-mit-eckert-und-wolfangel)
   * [Freakshow](#freakshow)
   * [Gamedev für die Platte - Der Unreal Podcast](#gamedev-fur-die-platte-der-unreal-podcast)
   * [GNU/Linux.ch](#gnu-linux-ch)
@@ -606,22 +605,6 @@ Der FOCUS ON: DevOps Podcast beschäftigt sich mit verschiedenen Methoden und We
 * [FOCUS ON: DevOps @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1542623849)
 * [FOCUS ON: DevOps Podcast RSS](https://focusondevops.podigee.io/feed/mp3)
 * Tags: DevOps, Cloud
-
-----
-
-<h3 id="frauen-und-technik-mit-eckert-und-wolfangel">Frauen und Technik – mit Eckert und Wolfangel</h3>
-
-<img align="right" width="215" height="215" src="./generated/images/frauen-und-technik.jpg" />
-
-Habt ihr diesen Spruch auch schon mal gehört – mit hochgezogenen Augenbrauen, dezentem Kopfschütteln und einem leicht genervten Ausatmen: “Frauen und Technik…”, dann seid ihr hier genau richtig. Der neue Technologie-Podcast der c&#39;t “Frauen und Technik mit Svea Eckert und Eva Wolfangel” spielt genau mit diesem Klischee, bricht es charmant auf und vermittelt dabei Wissen. Die beiden erfahrenen, freien Technologie-Journalistinnen widmen sich alle 14-Tage einem spannenden Tech-Thema und laden sich dazu inspirierende weibliche Gäste ein. Aber auch die Podcast-Hosts bringen etwas mit: investigative und spannende Recherchen, zu denen es in jeder Folge gleich zu Beginn einen kurzen Deepdive gibt.
-
-* Number of published episodes: 59
-* Last episode published: 🟢 Wednesday, 03 December 2025
-* [Frauen und Technik – mit Eckert und Wolfangel Website](https://frauen-technik.podigee.io/)
-* [Frauen und Technik – mit Eckert und Wolfangel @ Spotify](https://open.spotify.com/show/3HwNHImCFF1NvNMQnN2rFR)
-* [Frauen und Technik – mit Eckert und Wolfangel @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1762825923)
-* [Frauen und Technik – mit Eckert und Wolfangel Podcast RSS](https://frauen-technik.podigee.io/feed/mp3)
-* Tags: Female host, News, Gesellschaft, Technologie
 
 ----
 
