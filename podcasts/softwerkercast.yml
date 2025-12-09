@@ -6,7 +6,6 @@ spotify: https://open.spotify.com/show/0GMFlDJabOtXYm8u8HfAvL
 description: "Der SoftwerkerCast präsentiert euch Softwerker-Wissen zum Reinhören und Nachhören. Wie auch bei den anderen Softwerker-Formaten erwartet euch im SoftwerkerCast das volle Themenspektrum aus der bunten Welt der Softwareentwicklung: von A wie APM bis Z wie Zero Downtime. Paradigmen und neue Trends, Evergreens und Eintagsfliegen."
 tags:
     - Softwareentwicklung
-    - Software Development
     - Cloud
-    - IT Security
+    - IT-Sicherheit
     - Platform Engineering

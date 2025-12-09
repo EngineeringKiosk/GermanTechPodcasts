@@ -5,15 +5,12 @@ rssFeed: http://feed.gamedevpodcast.de/
 spotify: https://open.spotify.com/show/1AyPHtyeaeROvPtLsw1prl
 description: Wir reden über Spieleentwicklung und allgemein über die Branche aber gehen auch ins Detail wenn es um Software, Tipps und Fragen geht.
 tags:
-  - Game Development
   - Spieleentwicklung
   - 3D
   - VFX
   - Producing
-  - Video games
-  - AI
+  - Künstliche Intelligenz
   - Procedural generation
-  - Indie games
 weekly_downloads_avg:
   value: 570
   updated: "2023-01-01"

@@ -6,9 +6,7 @@ spotify: https://open.spotify.com/show/1BgA82Dtniy7Aaj2aktJI2
 description: "Ein Podcast über die dunkle Seite der Digitalisierung: Spionage, Hacker, Sabotage, Subversion, Desinformation und die Cyber Konflikte der Vergangenheit und Zukunft. Irgendwo zwischen IT-Sicherheit und Cyber Security geht es um die großen Linien, um eine kritische, politik- bzw. sozialwissenschaftliche Einordnung der Phänomene, statt um das Verbreiten von FUD: Fear, Uncertainty and Doubt. Betrieben wird das ganze von Dr. Matthias Schulze, der unter percepticon.de schon seit Jahren dazu bloggt."
 tags:
   - IT-Sicherheit
-  - Cyber Security
   - Sicherheitspolitik
-  - Security
 weekly_downloads_avg:
   value: 375
   updated: "2023-01-02"

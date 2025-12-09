@@ -5,8 +5,7 @@ rssFeed: https://0x0d.de/feed/mp3/
 spotify: https://open.spotify.com/show/5XTyNo5r6H0rRptIgaE1w4
 description: Deutschsprachiger Podcast zu den Themen IT-Sicherheit und Privatsphäre. Stefan und Sven unterhalten sich über aktuelle News und allgemeine Themen rund um Security und Privacy.
 tags:
-  - Security
-  - Informationssicherheit
+  - IT-Sicherheit
   - Privatsphäre
   - Datenschutz
 weekly_downloads_avg:
