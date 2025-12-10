@@ -6,7 +6,10 @@
  "rssFeed": "https://techniktechnik.de/?feed=mp3",
  "spotify": "https://open.spotify.com/show/31hRI4ll65FoIzDJThWHJM",
  "description": "Irgendwas mit Technik",
- "tags": null,
+ "tags": [
+  "Open Source",
+  "Female host"
+ ],
  "weekly_downloads_avg": {
   "value": 0,
   "updated": ""

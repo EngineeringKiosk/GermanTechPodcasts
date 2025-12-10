@@ -175,7 +175,7 @@ Deutschsprachiger Podcast zu den Themen IT-Sicherheit und Privatsphäre. Stefan 
 * [0d - Zeroday @ Spotify](https://open.spotify.com/show/5XTyNo5r6H0rRptIgaE1w4)
 * [0d - Zeroday @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1190478484)
 * [0d - Zeroday Podcast RSS](https://0x0d.de/feed/mp3/)
-* Tags: Security, Informationssicherheit, Privatsphäre, Datenschutz
+* Tags: IT-Sicherheit, Privatsphäre, Datenschutz
 
 ----
 
@@ -223,7 +223,7 @@ Ein Podcast über Web, Entwicklung, Mobile und Technologie. Betrachtet aus der S
 * [Binärgewitter @ Spotify](https://open.spotify.com/show/19LedqK0fGWfzfKzySDoVW)
 * [Binärgewitter @ Apple Podcasts](https://podcasts.apple.com/de/podcast/216877594)
 * [Binärgewitter Podcast RSS](http://feed.binaergewitter.de/binaergewitter_mp3.xml)
-* Tags: Open Source, Software Development, Web
+* Tags: Open Source, Softwareentwicklung, Web
 
 ----
 
@@ -266,7 +266,7 @@ Komm mit in die dunklen Ecken des Internets. Wir blicken in der ersten Staffel a
 Die wöchentliche Talkrunde rund um Apple, Mac, iPod &#43; iPhone, Gadgets und so. Fast live aus München.
 
 * Number of published episodes: 10
-* Last episode published: 🟢 Sunday, 30 November 2025
+* Last episode published: 🟢 Monday, 08 December 2025
 * [Bits und so Website](http://www.bitsundso.de/)
 * [Bits und so @ Apple Podcasts](https://podcasts.apple.com/de/podcast/202753375)
 * [Bits und so Podcast RSS](http://www.bitsundso.de/feed/)
@@ -286,7 +286,7 @@ Breach FM taucht tief in die Welt der Cybersicherheit, digitalen Konflikte und i
 * [Breach FM @ Spotify](https://open.spotify.com/show/4ooV9mM8Qiyfkj9jUkdZjj)
 * [Breach FM @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1641279793)
 * [Breach FM Podcast RSS](https://anchor.fm/s/fcc344f0/podcast/rss)
-* Tags: Security
+* Tags: IT-Sicherheit
 
 ----
 
@@ -342,8 +342,8 @@ Im monatlichen Chaosradio informiert der Chaos Computer Club Berlin seit 1995 ü
 
 Ein Podcast über den nahezu unendlich tiefen Kaninchenbau der mechanische Tastaturen. Ich erzähle euch was es neues im Hobby der mechanical Keyboards gibt, Groupbuys, Interestchecks, Neue Keyboards, Keycaps und Switches und noch viel viel mehr....
 
-* Number of published episodes: 113
-* Last episode published: 🟡 Monday, 06 October 2025
+* Number of published episodes: 114
+* Last episode published: 🟢 Tuesday, 09 December 2025
 * [Click! Clack! Hack! Website](https://www.nerdbude.com/podcast/)
 * [Click! Clack! Hack! @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1551770169)
 * [Click! Clack! Hack! Podcast RSS](https://www.nerdbude.com/podcast/feed/feed.xml)
@@ -409,7 +409,7 @@ Cybersecurity entschüsselt ist ein deutschsprachiger Podcast, in dem sich alles
 * [Cybersecurity entschlüsselt @ Spotify](https://open.spotify.com/show/0sAcefh8cixTxjJn9s1dvM)
 * [Cybersecurity entschlüsselt @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1637327527)
 * [Cybersecurity entschlüsselt Podcast RSS](https://cybersecurity-entschluesselt.de/rss.xml)
-* Tags: Security, IT Security, Technology
+* Tags: Security, IT-Sicherheit, Technologie
 
 ----
 
@@ -455,7 +455,7 @@ Wir machen Data Science. Und in unserem Podcast Data Science Deep Dive reden wir
 * [Data Science Deep Dive Website](https://inwt.podbean.com/)
 * [Data Science Deep Dive @ Spotify](https://open.spotify.com/show/089UlaVMdcppseWxxYr28O)
 * [Data Science Deep Dive Podcast RSS](https://feed.podbean.com/inwt/feed.xml)
-* Tags: Data Science, Machine Learning, Predictive Analytics, Artificial Intelligence, DevOps, MLOps, Softwareentwicklung
+* Tags: Data Science, Künstliche Intelligenz, Predictive Analytics, DevOps, MLOps, Softwareentwicklung
 
 ----
 
@@ -472,7 +472,7 @@ Wir reden über Spieleentwicklung und allgemein über die Branche aber gehen auc
 * [Der GameDev Podcast @ Spotify](https://open.spotify.com/show/1AyPHtyeaeROvPtLsw1prl)
 * [Der GameDev Podcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1143613851)
 * [Der GameDev Podcast Podcast RSS](http://feed.gamedevpodcast.de/)
-* Tags: Game Development, Spieleentwicklung, 3D, VFX, Producing, Video games, AI, Procedural generation, Indie games
+* Tags: Spieleentwicklung, 3D, VFX, Producing, Künstliche Intelligenz, Procedural generation
 
 ----
 
@@ -505,7 +505,7 @@ Der Unterhaltungs-Podcast für .NET Entwickler - ca. alle zwei Wochen treffen si
 * [Devs on Tape @ Spotify](https://open.spotify.com/show/6TwshmvspMnBzzh8mX8Me1)
 * [Devs on Tape @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1604337890)
 * [Devs on Tape Podcast RSS](https://devsontape.podigee.io/feed/mp3)
-* Tags: Oracle, Softwareentwicklung, Software Development
+* Tags: Oracle, Softwareentwicklung
 
 ----
 
@@ -515,8 +515,8 @@ Der Unterhaltungs-Podcast für .NET Entwickler - ca. alle zwei Wochen treffen si
 
 Hier geht es um die kleinen und großen Fehlschläge in der Geschichte der Technik. Computer, die falsch rechnen, automatische Finanzsysteme, die Millionen von Dollar vernichten oder abstürzende Raketen: Hinter jedem Fehler steckt eine spannende und oftmals verblüffende Geschichte. Bei all den Fakten kommen ausschweifende Anekdoten, Witz und Bezüge zum aktuellen Zeitgeschehen nicht zu kurz.
 
-* Number of published episodes: 116
-* Last episode published: 🟢 Wednesday, 26 November 2025
+* Number of published episodes: 117
+* Last episode published: 🟢 Wednesday, 10 December 2025
 * Weekly downloads (avg): 1982 (updated: 2023-12-11)
 * [Digitale Anomalien Website](https://digitaleanomalien.de/)
 * [Digitale Anomalien @ Spotify](https://open.spotify.com/show/0aG1QAgC5wK5uYBfKxp6JB)
@@ -539,7 +539,7 @@ Einfach Komplex macht Software und IT verständlich – für Laien und Experten 
 * [Einfach Komplex @ Spotify](https://open.spotify.com/show/4eTpBCjUos9xUXtX294CnY?si=457f567027574f40)
 * [Einfach Komplex @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1663188205)
 * [Einfach Komplex Podcast RSS](https://anchor.fm/s/d4258904/podcast/rss)
-* Tags: Softwareentwicklung, IoT, Technologie, Software, Manufacturing
+* Tags: Softwareentwicklung, Internet der Dinge, Technologie, Software, Manufacturing
 
 ----
 
@@ -556,7 +556,7 @@ Der Engineering Kiosk ist der deutschsprachige Software-Engineering-Podcast mit 
 * [Engineering Kiosk @ Spotify](https://open.spotify.com/show/0tJRC0UsObPCWLmmzmOkIs)
 * [Engineering Kiosk @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1603082924)
 * [Engineering Kiosk Podcast RSS](https://feeds.redcircle.com/0ecfdfd7-fda1-4c3d-9515-476727f9df5e)
-* Tags: Development, Tech-Kultur, Open Source, DevOps, Cloud, Softwareentwicklung
+* Tags: Softwareentwicklung, Tech-Kultur, Open Source, DevOps, Cloud
 
 ----
 
@@ -628,12 +628,12 @@ Freak Show ist ein Podcast, der sich mit dem Leben mit Technik im 21. Jahrhunder
 
 Wir talken GameDev und haben Unreal News.
 
-* Number of published episodes: 145
-* Last episode published: 🟢 Tuesday, 04 November 2025
+* Number of published episodes: 146
+* Last episode published: 🟢 Tuesday, 09 December 2025
 * [Gamedev für die Platte - Der Unreal Podcast Website](https://gamedevfuerdieplatte.podbean.com/)
 * [Gamedev für die Platte - Der Unreal Podcast @ Spotify](https://open.spotify.com/show/3UtoyAbMfEvkSIx5w3HohY)
 * [Gamedev für die Platte - Der Unreal Podcast Podcast RSS](https://feed.podbean.com/gamedevfuerdieplatte/feed.xml)
-* Tags: Unreal, Game Development
+* Tags: Unreal, Spieleentwicklung
 
 ----
 
@@ -643,8 +643,8 @@ Wir talken GameDev und haben Unreal News.
 
 Ein wöchentlicher Podcast der GNU/Linux.ch Community mit Themen und Interviews rund um die Themen GNU/Linux, Freie Software und Freie Gesellschaft.
 
-* Number of published episodes: 169
-* Last episode published: 🟢 Wednesday, 03 December 2025
+* Number of published episodes: 170
+* Last episode published: 🟢 Wednesday, 10 December 2025
 * [GNU/Linux.ch Website](https://gnulinux.ch/)
 * [GNU/Linux.ch @ Spotify](https://open.spotify.com/show/0rs1Zm91TsjHhGo2lt0uPi)
 * [GNU/Linux.ch @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1527155920)
@@ -680,7 +680,7 @@ Zwei Softwareentwickler und Spiele-Enthusiasten entwickeln in ihrer Freizeit Vid
 * [Hobby Spieleentwickler Podcast @ Spotify](https://open.spotify.com/show/0T08Oz5l2ztunuVZCBPyvG?si=bad7bdc63e9c4bba)
 * [Hobby Spieleentwickler Podcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1554911727)
 * [Hobby Spieleentwickler Podcast Podcast RSS](https://hobbyspieleentwicklerpodcast.de/podcast.xml)
-* Tags: Game Development
+* Tags: Spieleentwicklung
 
 ----
 
@@ -690,14 +690,14 @@ Zwei Softwareentwickler und Spiele-Enthusiasten entwickeln in ihrer Freizeit Vid
 
 Increase Cycle Time ist Euer JobRad® Podcast für Software-Entwicklung. Und alles, was damit zusammenhängt.
 
-* Number of published episodes: 6
-* Last episode published: 🟢 Tuesday, 11 November 2025
+* Number of published episodes: 7
+* Last episode published: 🟢 Wednesday, 10 December 2025
 * Weekly downloads (avg): 158 (updated: 2025-08-11)
 * [Increase Cycle Time - Der JobRad® Development Podcast Website](https://jobrad-increase-cycle-time.podigee.io/)
 * [Increase Cycle Time - Der JobRad® Development Podcast @ Spotify](https://open.spotify.com/show/0hJlS2NMC0NEreoUzz7tp3?si=997aa47bd99b4ae3)
 * [Increase Cycle Time - Der JobRad® Development Podcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1825842432)
 * [Increase Cycle Time - Der JobRad® Development Podcast Podcast RSS](https://jobrad-increase-cycle-time.podigee.io/feed/mp3)
-* Tags: Software-Entwicklung, UX, Produkt-Entwicklung, Fahrrad, Cycle Time
+* Tags: Softwareentwicklung, UX, Produkt-Entwicklung, Fahrrad, Cycle Time
 
 ----
 
@@ -707,8 +707,8 @@ Increase Cycle Time ist Euer JobRad® Podcast für Software-Entwicklung. Und all
 
 Du bist Entwickler/Developer? Dann Lauscher auf! Thomas und Christian sprechen im &#34;Index out of bounds&#34; Entwickler/Developer Podcast über ihre persönlichen Erfahrungen aus der Welt der Programmierung von Software, Websites, Apps und was es sonst noch so gibt. Schon seit Jahren tauschen sich die beiden leidenschaftlich gerne über Entwicklung/Development, den Spaß am Programmieren und Technologie aus. Hin und wieder sind da auch ein paar helle Momente dabei! Ein Podcast von Programmierern für Programmierer.
 
-* Number of published episodes: 116
-* Last episode published: 🟢 Saturday, 29 November 2025
+* Number of published episodes: 117
+* Last episode published: 🟢 Wednesday, 10 December 2025
 * [Index out of bounds Website](https://www.ioob.de/)
 * [Index out of bounds @ Spotify](https://open.spotify.com/show/2r1FGvYRkSYq4SmXyVKmnA)
 * [Index out of bounds @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1564647339)
@@ -729,7 +729,7 @@ In dieser Serie diskutieren wir interessante Themen aus Software-Entwicklung und
 * [INNOQ Podcast @ Spotify](https://open.spotify.com/show/20svL8wDDgtidO2Qwf3EWx)
 * [INNOQ Podcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/672695146)
 * [INNOQ Podcast Podcast RSS](https://innoq.podigee.io/feed/aac)
-* Tags: Softwareentwicklung, Software-Architektur
+* Tags: Softwareentwicklung, Softwarearchitektur
 
 ----
 
@@ -745,7 +745,7 @@ Dieser Podcast unterstützt schnell, konkret und umfänglich beim Einstieg in di
 * [ISMS X-Plain @ Spotify](https://open.spotify.com/show/5VGQNDbDqDciA4gFY3gXho)
 * [ISMS X-Plain @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1550125725)
 * [ISMS X-Plain Podcast RSS](https://isms-x-plain.podigee.io/feed/mp3)
-* Tags: Informationssicherheit, Security
+* Tags: IT-Sicherheit
 
 ----
 
@@ -761,7 +761,7 @@ Nur etwas mehr als 60 Jahre liegen zwischen dem ersten Start eines Motorflugzeug
 * [IT ist alles @ Spotify](https://open.spotify.com/show/46EUTeJsHSfscbkrI38f6p)
 * [IT ist alles @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1524049773)
 * [IT ist alles Podcast RSS](https://it-ist-alles.podigee.io/feed/mp3)
-* Tags: Security
+* Tags: IT-Sicherheit
 
 ----
 
@@ -804,7 +804,7 @@ IT@DB ist ein Podcast für IT Fach- und Führungskräfte (w/m/d). Hier erhältst
 Wie intelligent ist Künstliche Intelligenz eigentlich? Welche Folgen hat generative KI für unsere Arbeit, unsere Freizeit und die Gesellschaft? Im &#34;KI-Update&#34; von heise bringen wir Euch gemeinsam mit The Decoder werktäglich Updates zu den wichtigsten KI-Entwicklungen. Freitags beleuchten wir mit Experten die unterschiedlichen Aspekte der KI-Revolution.
 
 * Number of published episodes: 500
-* Last episode published: 🟢 Friday, 05 December 2025
+* Last episode published: 🟢 Wednesday, 10 December 2025
 * [KI-Update Website](https://www.heise.de/thema/KI-Update)
 * [KI-Update @ Spotify](https://open.spotify.com/show/1rm6gMybQWnHePvY2eCpzp)
 * [KI-Update @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1691536182)
@@ -820,7 +820,7 @@ Wie intelligent ist Künstliche Intelligenz eigentlich? Welche Folgen hat genera
 Die IT-News des Tages von heise online
 
 * Number of published episodes: 1000
-* Last episode published: 🟢 Monday, 08 December 2025
+* Last episode published: 🟢 Wednesday, 10 December 2025
 * [Kurz informiert by heise online Website](https://www.heise.de/Hoeren-Sie-von-uns-unsere-Podcasts-4206659.html)
 * [Kurz informiert by heise online @ Spotify](https://open.spotify.com/show/2etf1jog8leNHbnhIArM9Z)
 * [Kurz informiert by heise online Podcast RSS](https://kurzinformiert.podigee.io/feed/mp3)
@@ -888,7 +888,7 @@ Scrum kann doch inzwischen eh jeder? Von wegen! Denn - ganz unter uns: genug fal
 * [Mein Scrum ist kaputt! @ Spotify](https://open.spotify.com/show/7lECdowQCq0OWlf0EZnSpL)
 * [Mein Scrum ist kaputt! @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1150361013)
 * [Mein Scrum ist kaputt! Podcast RSS](https://meinscrumistkaputt.de/feed/podcast/)
-* Tags: Agilität, Scrum, Kanban, Management, Agile, Agile Software Development, Product Owner, Scrum Master, Product Management, Project Management, Female host
+* Tags: Agilität, Scrum, Kanban, Management, Product Owner, Scrum Master, Product Management, Project Management, Female host
 
 ----
 
@@ -904,7 +904,7 @@ Mind the Tech ist ein Podcast, der die dunklen Seiten der IT- und Tech-Welt bele
 * [Mind the Tech @ Spotify](https://open.spotify.com/show/6FydYmBjELizU8k8DOIcaA)
 * [Mind the Tech @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1515173582)
 * [Mind the Tech Podcast RSS](https://mind-the-tech.podigee.io/feed/mp3)
-* Tags: Cyber, Crime, Gesellschaft, Female host, Security
+* Tags: Cyber, Crime, Gesellschaft, Female host, IT-Sicherheit
 
 ----
 
@@ -920,7 +920,7 @@ Die Welt wird immer digitaler und IT-Sicherheit auch im Alltag immer wichtiger. 
 * [Nachgehackt @ Spotify](https://open.spotify.com/show/0fn3tYRiZAR3wlkSw5vJdQ)
 * [Nachgehackt @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1641242207)
 * [Nachgehackt Podcast RSS](https://nachgehacktpodcast.podigee.io/feed/mp3)
-* Tags: Security
+* Tags: IT-Sicherheit
 
 ----
 
@@ -962,8 +962,8 @@ Mehr Wissen über die digitale Welt. Experten des Hasso-Plattner-Instituts sprec
 
 Mit geballter Dev-Power nehmen Dennis, Fabi, Sebi und Jojo neue Podcastfolgen auf und werden dabei regelmäßig von Gäst:innen aus der Branche unterstützt. Taucht in unseren Deep Dives mit uns in Frameworks und Datenbanken ein, hört euch in den CTO-Specials die Erfahrungen führender Persönlichkeiten großer Unternehmen an und bleibt mit unseren News-Folgen stets am Ball in der Welt der App- und Webentwicklung.
 
-* Number of published episodes: 468
-* Last episode published: 🟢 Thursday, 04 December 2025
+* Number of published episodes: 469
+* Last episode published: 🟢 Tuesday, 09 December 2025
 * Weekly downloads (avg): 8744 (updated: 2023-04-12)
 * [programmier.bar Website](https://www.programmier.bar/podcast)
 * [programmier.bar @ Spotify](https://open.spotify.com/show/0ik0sXv9paTQCeThcOLCCJ)
@@ -1019,7 +1019,7 @@ Sandra Parsick &amp; Daniel Zenzes präsentieren mit Ready for Review einen bunt
 * [Ready for Review @ Spotify](https://open.spotify.com/show/7dxK2wi4ZMGEYO3UHhTSc4)
 * [Ready for Review @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1535026156)
 * [Ready for Review Podcast RSS](https://ready-for-review.podigee.io/feed/mp3)
-* Tags: Software Development, Softwareentwicklung, Java, JavaScript, Female host
+* Tags: Softwareentwicklung, Java, JavaScript, Female host
 
 ----
 
@@ -1035,7 +1035,7 @@ Wie können wir Cybersicherheit als gesamtgesellschaftliches Problem verstehen? 
 * [Rheingehäckt @ Spotify](https://open.spotify.com/show/1CFAcjQuET8Yv35k6v38fs)
 * [Rheingehäckt @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1585954195)
 * [Rheingehäckt Podcast RSS](https://2axxur.podcaster.de/rheingehaeckt.rss)
-* Tags: Security
+* Tags: IT-Sicherheit
 
 ----
 
@@ -1050,7 +1050,7 @@ Die IT hat unser Leben in den letzten Jahrzehnten von Grund auf verändert. Aber
 * [Schlüsseltechnologie Website](https://xyrillian.de/noises/stp/)
 * [Schlüsseltechnologie @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1559995829)
 * [Schlüsseltechnologie Podcast RSS](https://xyrillian.de/noises/stp/rss.xml)
-* Tags: Softwareentwicklung, Technologie, Security
+* Tags: Softwareentwicklung, Technologie, IT-Sicherheit
 
 ----
 
@@ -1067,7 +1067,7 @@ Der Security-Insider Podcast ist ein Podcast für Security-Profis mit Infos, Nac
 * [Security-Insider @ Spotify](https://open.spotify.com/show/3n8Pbu19oN32bzq7zsQbvC)
 * [Security-Insider @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1470962583)
 * [Security-Insider Podcast RSS](https://security-insider.podigee.io/feed/mp3)
-* Tags: Security, IT-Sicherheit, Cybersecurity, Datenschutz, Compliance, Malware, Sicherheitslücken
+* Tags: IT-Sicherheit, Datenschutz, Compliance, Malware, Sicherheitslücken
 
 ----
 
@@ -1109,8 +1109,8 @@ Jung, weiblich, genial: Im Tech-Podcast von NDR Info sucht die Tech-Journalistin
 
 Themen wie KI oder Cybersecurity werden immer wichtiger und ein immer größerer Teil unseres Lebens. Einmal die Woche besprechen Elisabeth, Stella und Caspar die wichtigsten Tech-News und helfen euch dabei, sie zu verstehen. Schnappt euch einen Kaffee, Kakao oder Tee und setzt euch dazu!
 
-* Number of published episodes: 84
-* Last episode published: 🟢 Sunday, 07 December 2025
+* Number of published episodes: 86
+* Last episode published: 🟢 Tuesday, 09 December 2025
 * [Silicon Weekly Website](https://silicon-weekly.de/)
 * [Silicon Weekly @ Spotify](https://open.spotify.com/show/1zaQ4IXAfm5J7XjcsKQ4Y7)
 * [Silicon Weekly @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1741135990)
@@ -1125,13 +1125,13 @@ Themen wie KI oder Cybersecurity werden immer wichtiger und ein immer größerer
 
 Zwei Freunde, ihr Smart Home, Self-Hosting, Technik und das ein oder andere Interview mit Makern
 
-* Number of published episodes: 18
-* Last episode published: 🟢 Sunday, 23 November 2025
+* Number of published episodes: 19
+* Last episode published: 🟢 Tuesday, 09 December 2025
 * [SmartHütte Website](https://podcast.smarthuette.de)
 * [SmartHütte @ Spotify](https://open.spotify.com/show/3cYGMZNGW9C8jVYEOx052k)
 * [SmartHütte @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1829137207)
 * [SmartHütte Podcast RSS](https://feeds.transistor.fm/smarthuette)
-* Tags: Smart Home, Home Assistant, Self-Hosting, Linux, Technology, Maker, Hardware, Interviews
+* Tags: Smart Home, Home Assistant, Self-Hosting, Linux, Technologie, Maker, Hardware, Interviews
 
 ----
 
@@ -1157,8 +1157,8 @@ Der Podcast für praktische Softwarearchitektur. Mit: Carola Lilienthal, Patrick
 
 Live-Diskussion zu Software-Architektur im Stream. Einmal in der Woche diskutiert Eberhard Wolff Software-Architektur im Live-Stream auf YouTube und Twitch - oft zusammen mit einem Gast. Zuschauer können über den Chat mitdiskutieren oder Fragen stellen. Der Podcast enthält die Audio-Spur des Streams.
 
-* Number of published episodes: 289
-* Last episode published: 🟢 Friday, 05 December 2025
+* Number of published episodes: 290
+* Last episode published: 🟢 Wednesday, 10 December 2025
 * [SoftwareArchitektur im Stream Website](https://software-architektur.tv/)
 * [SoftwareArchitektur im Stream @ Spotify](https://open.spotify.com/show/7ySg1eZoWYBshd6QpGaW8B)
 * [SoftwareArchitektur im Stream @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1538545458)
@@ -1179,7 +1179,7 @@ Der SoftwerkerCast präsentiert euch Softwerker-Wissen zum Reinhören und Nachh�
 * [SoftwerkerCast @ Spotify](https://open.spotify.com/show/0GMFlDJabOtXYm8u8HfAvL)
 * [SoftwerkerCast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1592472699)
 * [SoftwerkerCast Podcast RSS](https://softwerkercast.podigee.io/feed/mp3)
-* Tags: Softwareentwicklung, Software Development, Cloud, IT Security, Platform Engineering
+* Tags: Softwareentwicklung, Cloud, IT-Sicherheit, Platform Engineering
 
 ----
 
@@ -1226,6 +1226,7 @@ Irgendwas mit Technik
 * [TechnikTechnik @ Spotify](https://open.spotify.com/show/31hRI4ll65FoIzDJThWHJM)
 * [TechnikTechnik @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1285407879)
 * [TechnikTechnik Podcast RSS](https://techniktechnik.de/?feed=mp3)
+* Tags: Open Source, Female host
 
 ----
 
@@ -1241,7 +1242,7 @@ IT-Security, unendliche Weiten ... So oder so ähnlich lässt sich die Größeno
 * [The World of IT-Security @ Spotify](https://open.spotify.com/show/38ro5pDX7ToVMA9w6RVyNM)
 * [The World of IT-Security @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1567043544)
 * [The World of IT-Security Podcast RSS](https://feeds.buzzsprout.com/1779426.rss)
-* Tags: Security
+* Tags: IT-Sicherheit
 
 ----
 
@@ -1251,8 +1252,8 @@ IT-Security, unendliche Weiten ... So oder so ähnlich lässt sich die Größeno
 
 Der neue Technologie-Podcast mit Svea Eckert und Eva Wolfangel. Die beiden freien Technologie-Journalistinnen widmen sich jeden Mittwoch spannenden Tech-Thema und laden sich dazu inspirierende weibliche Gäste ein. Aber auch die Podcast-Hosts bringen etwas mit: investigative und spannende Recherchen, zu denen es in jeder Folge gleich zu Beginn einen kurzen Deepdive gibt.
 
-* Number of published episodes: 59
-* Last episode published: 🟢 Wednesday, 03 December 2025
+* Number of published episodes: 60
+* Last episode published: 🟢 Wednesday, 10 December 2025
 * [They Talk Tech – mit Eckert und Wolfangel Website](https://frauen-technik.podigee.io/)
 * [They Talk Tech – mit Eckert und Wolfangel @ Spotify](https://open.spotify.com/show/3HwNHImCFF1NvNMQnN2rFR)
 * [They Talk Tech – mit Eckert und Wolfangel @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1762825923)
@@ -1300,8 +1301,8 @@ Sujeevan und Dirk reden über Themen, die Ihnen in der letzten Zeit untergekomme
 
 Deutschsprachiger Podcast für die großen und kleinen Fragen des Developeralltags. Schon seit Langem tauschen sich Malte und Robin-Manuel in regelmäßigen Abständen über diverse Themen aus ihrem Alltag in der Softwareentwicklung aus. Dabei lernen sie jedes Mal etwas Neues! Warum also das Ganze nicht aufzeichnen und als Podcast zur Verfügung stellen?
 
-* Number of published episodes: 142
-* Last episode published: 🟢 Monday, 01 December 2025
+* Number of published episodes: 143
+* Last episode published: 🟢 Monday, 08 December 2025
 * [todo:cast Website](https://www.todocast.io/)
 * [todo:cast @ Spotify](https://open.spotify.com/show/2tIlVD6vBAtEhOZM4jS1mw)
 * [todo:cast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1467179396)
@@ -1322,7 +1323,7 @@ Wir sind UNMUTE IT, der Podcast von und mit Frauen aus der IT. Wir erzählen von
 * [Unmute IT Website](https://linkr.bio/unmute-it)
 * [Unmute IT @ Spotify](https://open.spotify.com/show/4v3xXuY5Km98xnmeXeGZgx)
 * [Unmute IT Podcast RSS](https://feeds.soundcloud.com/users/soundcloud:users:965624446/sounds.rss)
-* Tags: Female host, Development, Softwareentwicklung
+* Tags: Female host, Softwareentwicklung
 
 ----
 
@@ -1396,8 +1397,8 @@ Latenight-Frontend-Talkshow rund um Webdesign und Entwicklung. Es reden sich um 
 
 Wöchentlicher Podcast für Webdesigner:innen und -entwickler:innen
 
-* Number of published episodes: 714
-* Last episode published: 🟢 Tuesday, 02 December 2025
+* Number of published episodes: 715
+* Last episode published: 🟢 Tuesday, 09 December 2025
 * [Working Draft Website](https://workingdraft.de/)
 * [Working Draft @ Spotify](https://open.spotify.com/show/78iH7cIFzu1ejoB6aQUsIh)
 * [Working Draft @ Apple Podcasts](https://podcasts.apple.com/de/podcast/402204581)
@@ -1422,7 +1423,7 @@ Ein Dialog über Malware, Cybercrime und Cyberspionage
 * [Armchair Investigators @ Spotify](https://open.spotify.com/show/1xaPIhkQWfAtmHPg8llCEJ)
 * [Armchair Investigators @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1555931250)
 * [Armchair Investigators Podcast RSS](https://armchairinvestigators.de/feed/podcast/)
-* Tags: Malware, Cybercrime, Cyberspionage, Security
+* Tags: Malware, Cybercrime, Cyberspionage, IT-Sicherheit
 
 ----
 
@@ -1439,7 +1440,7 @@ Ein Dialog über Malware, Cybercrime und Cyberspionage
 * [Autoweird @ Spotify](https://open.spotify.com/show/6TDrYLHYxoo7VjvSglunew)
 * [Autoweird @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1180414602)
 * [Autoweird Podcast RSS](http://autoweird.fm/feed/podcast/)
-* Tags: Software-Crafting, Agilität, Softskills, Nerdquatsch, Funktionale Programmierung, Testing, Development Trends, Craft-Beer
+* Tags: Software-Crafting, Agilität, Softskills, Nerdquatsch, Funktionale Programmierung, Testing, Entwicklungstrends, Craft-Beer
 
 ----
 
@@ -1484,7 +1485,7 @@ Digitalisierungsfieber, dem Podcast für IT Security, Datenschutz, und IT Servic
 * [Digitalisierungsfieber @ Spotify](https://open.spotify.com/show/3ByjcOlWeQxCfVwSfxn4gd)
 * [Digitalisierungsfieber @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1490620957)
 * [Digitalisierungsfieber Podcast RSS](https://andreaskunz.libsyn.com/rss)
-* Tags: Security, Datenschutz
+* Tags: IT-Sicherheit, Datenschutz
 
 ----
 
@@ -1564,7 +1565,7 @@ In diesem Podcast sprechen wir über die Grundlagen von IT-Security. Ein praktis
 * [INNOQ Security Podcast @ Spotify](https://open.spotify.com/show/44tnFXbuDShbJ7vNecXCaF)
 * [INNOQ Security Podcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1518284030)
 * [INNOQ Security Podcast Podcast RSS](https://innoqsecurity.podigee.io/feed/aac)
-* Tags: Security
+* Tags: IT-Sicherheit
 
 ----
 
@@ -1675,7 +1676,7 @@ Ein Podcast über die dunkle Seite der Digitalisierung: Spionage, Hacker, Sabota
 * [Percepticon @ Spotify](https://open.spotify.com/show/1BgA82Dtniy7Aaj2aktJI2)
 * [Percepticon @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1458318548)
 * [Percepticon Podcast RSS](https://percepticon.de/category/podcast/feed/podcast/)
-* Tags: IT-Sicherheit, Cyber Security, Sicherheitspolitik, Security
+* Tags: IT-Sicherheit, Sicherheitspolitik
 
 ----
 
@@ -1705,7 +1706,7 @@ Digitalisierung in Deutschland? Sagen wir mal so: Niemand klebt sich heute das Q
 * [Schwarz, Code, Gold – Deutschland, Entwicklungsland? @ Spotify](https://open.spotify.com/show/5hXUx2Y3sbCL9O5xPdE8i6)
 * [Schwarz, Code, Gold – Deutschland, Entwicklungsland? @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1597296417)
 * [Schwarz, Code, Gold – Deutschland, Entwicklungsland? Podcast RSS](https://feed.schwarz-code-gold.de)
-* Tags: Softwareentwicklung, Made in Germany, Computerspiele, Digtalisierung, E-Health, Startups
+* Tags: Softwareentwicklung, Made in Germany, Computerspiele, Digitalisierung, E-Health, Startups
 
 ----
 
@@ -1770,7 +1771,7 @@ Ich bin Cedric und in diesem Podcast rede ich immer wieder mal über Informatik,
 * [Speak 1337 @ Spotify](https://open.spotify.com/show/0xlIih789FcMbZaASyhuAm)
 * [Speak 1337 @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1577956101)
 * [Speak 1337 Podcast RSS](https://anchor.fm/s/c821b10/podcast/rss)
-* Tags: Informatik, Datenschutz, Sicherheit, Security
+* Tags: Informatik, Datenschutz, IT-Sicherheit
 
 ----
 
@@ -1786,7 +1787,7 @@ Jede Woche setzen wir uns mit Expert:innen aus der Webentwicklung zusammen. Imme
 * [Super Duper Developers Club @ Spotify](https://open.spotify.com/show/5Ax1DMiSeTUTHMZwxtX1yR)
 * [Super Duper Developers Club @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1649104892)
 * [Super Duper Developers Club Podcast RSS](https://anchor.fm/s/bcd04b04/podcast/rss)
-* Tags: Webentwicklung, Softwareentwicklung, Web
+* Tags: Webentwicklung, Softwareentwicklung
 
 ----
 
@@ -1850,7 +1851,7 @@ Ausführliche, häufig zeitlose Gespräche von Gastgeber Nico Kreiling mit wechs
 * [Techtiefen @ Spotify](https://open.spotify.com/show/6hyfYJi5yvjWgcqOTtNzRo)
 * [Techtiefen @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1349481289)
 * [Techtiefen Podcast RSS](https://techtiefen.de//index.php/feed/mp3/)
-* Tags: Softwareentwicklung, Data Science, Machine Learning
+* Tags: Softwareentwicklung, Data Science, Künstliche Intelligenz
 
 ----
 
@@ -1881,7 +1882,7 @@ IT Security Podcast
 * [Unter 4 Ohren @ Spotify](https://open.spotify.com/show/7EQFf6fL4dytVJWB4DXYsQ)
 * [Unter 4 Ohren @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1551939691)
 * [Unter 4 Ohren Podcast RSS](https://www.all-about-security.de/feed/mp3/)
-* Tags: Security
+* Tags: IT-Sicherheit
 
 ----
 
@@ -1898,7 +1899,7 @@ Alle 14 Tage laden wir zu einer kleinen Kaminzimmerrunde über IT-Kram ein. In E
 * [Wartungsfenster @ Spotify](https://open.spotify.com/show/063YcVklbp1N8z1ZHSA709)
 * [Wartungsfenster @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1607047978)
 * [Wartungsfenster Podcast RSS](https://wartungsfenster.podigee.io/feed/mp3)
-* Tags: Datacenter, Cloud, Security, Female host
+* Tags: Datacenter, Cloud, IT-Sicherheit, Female host
 
 ----
 

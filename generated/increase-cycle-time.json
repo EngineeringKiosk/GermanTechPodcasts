@@ -7,7 +7,7 @@
  "spotify": "https://open.spotify.com/show/0hJlS2NMC0NEreoUzz7tp3?si=997aa47bd99b4ae3",
  "description": "Increase Cycle Time ist Euer JobRad® Podcast für Software-Entwicklung. Und alles, was damit zusammenhängt.",
  "tags": [
-  "Software-Entwicklung",
+  "Softwareentwicklung",
   "UX",
   "Produkt-Entwicklung",
   "Fahrrad",
@@ -17,8 +17,8 @@
   "value": 158,
   "updated": "2025-08-11"
  },
- "episodeCount": 6,
- "latestEpisodePublished": 1762847229,
+ "episodeCount": 7,
+ "latestEpisodePublished": 1765350123,
  "archive": false,
  "itunesID": 1825842432,
  "image": "images/increase-cycle-time.png"
