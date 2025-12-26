@@ -186,7 +186,7 @@ Deutschsprachiger Podcast zu den Themen IT-Sicherheit und Privatsphäre. Stefan 
 Apfelfunk ist ein wöchentlicher Podcast über Apple-Themen. Jean-Claude Frick und Malte Kirchner berichten und bewerten darin die Neuigkeiten über den wichtigsten Computerkonzern der Welt.
 
 * Number of published episodes: 500
-* Last episode published: 🟢 Wednesday, 17 December 2025
+* Last episode published: 🟢 Wednesday, 24 December 2025
 * [Apfelfunk Website](http://www.apfelfunk.com/)
 * [Apfelfunk @ Spotify](https://open.spotify.com/show/7FQLyWiNhMR0KS93ReaI4h)
 * [Apfelfunk @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1081146940)
@@ -296,8 +296,8 @@ Die wöchentliche Talkrunde rund um Apple, Mac, iPod &#43; iPhone, Gadgets und s
 
 Breach FM taucht tief in die Welt der Cybersicherheit, digitalen Konflikte und ihrer explosiven geopolitischen Folgen ein. Moderiert von Robert Wortmann und Max Imbiel, nimmt der Podcast aktuelle Bedrohungen, innovative Technologien und clevere Strategien unter die Lupe. Mit hochkarätigen Gästen aus Forschung, Industrie und Politik werden brisante Themen wie staatliche Cyberangriffe, Krisenmanagement und die Schattenseiten der Cyberkriminalität aufgedeckt. Spannend, praxisnah und voller wertvoller Perspektiven – hier wird die digitale Frontlinie hörbar.
 
-* Number of published episodes: 112
-* Last episode published: 🟢 Wednesday, 03 December 2025
+* Number of published episodes: 114
+* Last episode published: 🟢 Wednesday, 17 December 2025
 * [Breach FM Website](https://creators.spotify.com/pod/profile/superrobeert1/)
 * [Breach FM @ Spotify](https://open.spotify.com/show/4ooV9mM8Qiyfkj9jUkdZjj)
 * [Breach FM @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1641279793)
@@ -312,8 +312,8 @@ Breach FM taucht tief in die Welt der Cybersicherheit, digitalen Konflikte und i
 
 Zwei Admins sprechen über die Buzzwords, die ihr jeden Tag hört und benutzt, deren Bedeutung ihr aber noch nie zu hinterfragen wagtet.
 
-* Number of published episodes: 124
-* Last episode published: 🟢 Thursday, 11 December 2025
+* Number of published episodes: 125
+* Last episode published: 🟢 Wednesday, 24 December 2025
 * [BuzzZoom Website](https://buzzzoom.de/)
 * [BuzzZoom @ Spotify](https://open.spotify.com/show/62IRAtqB4QWOeH6oXaJflx)
 * [BuzzZoom @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1534027177)
@@ -373,8 +373,8 @@ Ein Podcast über den nahezu unendlich tiefen Kaninchenbau der mechanische Tasta
 
 Lucas Rott und Markus Herhoffer erzählen alle 14 Tage von Code und Nerd-Kultur. Mit News aus der Tech-Bubble, einem Thema der Woche über Software development und dem Code der Woche.
 
-* Number of published episodes: 133
-* Last episode published: 🟢 Tuesday, 11 November 2025
+* Number of published episodes: 134
+* Last episode published: 🟢 Thursday, 25 December 2025
 * [Code Culture Website](https://codeculture.podigee.io/)
 * [Code Culture @ Spotify](https://open.spotify.com/show/01ZL2aPP50lLW51u2aTOkN)
 * [Code Culture @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1516904389)
@@ -388,8 +388,8 @@ Lucas Rott und Markus Herhoffer erzählen alle 14 Tage von Code und Nerd-Kultur.
 
 Dein Podcast rund um Softwareentwicklung und aktueller Tech News. Lernt die Coding Buddies Tino und Fabi kennen. Erfahrt spannende Dinge über diverse Themen aus der Softwareentwicklung und lauscht den Erfahrungen der Beiden. Dazu gibt es witzige Anekdoten der Coding Buddies.
 
-* Number of published episodes: 144
-* Last episode published: 🟢 Thursday, 18 December 2025
+* Number of published episodes: 145
+* Last episode published: 🟢 Thursday, 25 December 2025
 * [Coding Buddies Website](https://www.codingbuddies.de/)
 * [Coding Buddies @ Spotify](https://open.spotify.com/show/5DaiBkAgQBt8DRCcwZY8xT?si=4acf817842f44c43)
 * [Coding Buddies @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1680339110)
@@ -531,8 +531,8 @@ Der Unterhaltungs-Podcast für .NET Entwickler - ca. alle zwei Wochen treffen si
 
 Hier geht es um die kleinen und großen Fehlschläge in der Geschichte der Technik. Computer, die falsch rechnen, automatische Finanzsysteme, die Millionen von Dollar vernichten oder abstürzende Raketen: Hinter jedem Fehler steckt eine spannende und oftmals verblüffende Geschichte. Bei all den Fakten kommen ausschweifende Anekdoten, Witz und Bezüge zum aktuellen Zeitgeschehen nicht zu kurz.
 
-* Number of published episodes: 117
-* Last episode published: 🟢 Wednesday, 10 December 2025
+* Number of published episodes: 118
+* Last episode published: 🟢 Wednesday, 24 December 2025
 * Weekly downloads (avg): 1982 (updated: 2023-12-11)
 * [Digitale Anomalien Website](https://digitaleanomalien.de/)
 * [Digitale Anomalien @ Spotify](https://open.spotify.com/show/0aG1QAgC5wK5uYBfKxp6JB)
@@ -565,8 +565,8 @@ Einfach Komplex macht Software und IT verständlich – für Laien und Experten 
 
 Der Engineering Kiosk ist der deutschsprachige Software-Engineering-Podcast mit Wolfgang Gassler und Andy Grunwald rund um die Themen Engineering-Kultur, Open Source, Menschen, Technologie und allen anderen Bereichen, die damit in Verbindung stehen.
 
-* Number of published episodes: 247
-* Last episode published: 🟢 Monday, 22 December 2025
+* Number of published episodes: 249
+* Last episode published: 🟢 Wednesday, 24 December 2025
 * Weekly downloads (avg): 1099 (updated: 2023-01-31)
 * [Engineering Kiosk Website](https://engineeringkiosk.dev/)
 * [Engineering Kiosk @ Spotify](https://open.spotify.com/show/0tJRC0UsObPCWLmmzmOkIs)
@@ -787,8 +787,8 @@ Dieser Podcast unterstützt schnell, konkret und umfänglich beim Einstieg in di
 
 Nur etwas mehr als 60 Jahre liegen zwischen dem ersten Start eines Motorflugzeugs und dem ersten bemannten Flug zum Mond. Das Handy wurde in nur 30 Jahren zum wichtigsten Kommunikationskanal unserer Zeit. Und IT? Die entwickelt sich nicht weniger rasant und macht in einer vernetzten und digitalen Welt vor keinem Bereich mehr halt. Im Podcast sprechen wir über Trendthemen, die zwar nichts mit Raketenwissenschaft zu tun haben, dafür aber Menschen auf dem Weg in eine digitale Zukunft begleiten. Bist Du bereit?
 
-* Number of published episodes: 167
-* Last episode published: 🟢 Wednesday, 17 December 2025
+* Number of published episodes: 168
+* Last episode published: 🟢 Wednesday, 24 December 2025
 * [IT ist alles Website](https://www.pco-online.de/magazin/2020/07/podcast)
 * [IT ist alles @ Spotify](https://open.spotify.com/show/46EUTeJsHSfscbkrI38f6p)
 * [IT ist alles @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1524049773)
@@ -1077,8 +1077,8 @@ Wie können wir Cybersicherheit als gesamtgesellschaftliches Problem verstehen? 
 
 Die IT hat unser Leben in den letzten Jahrzehnten von Grund auf verändert. Aber wie funktioniert sie wirklich? Das möchte ttimeless mal erklärt bekommen. Zum Glück hat Xyrill Antworten.
 
-* Number of published episodes: 84
-* Last episode published: 🟢 Thursday, 04 December 2025
+* Number of published episodes: 85
+* Last episode published: 🟢 Thursday, 25 December 2025
 * [Schlüsseltechnologie Website](https://xyrillian.de/noises/stp/)
 * [Schlüsseltechnologie @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1559995829)
 * [Schlüsseltechnologie Podcast RSS](https://xyrillian.de/noises/stp/rss.xml)
@@ -1221,8 +1221,8 @@ Der SoftwerkerCast präsentiert euch Softwerker-Wissen zum Reinhören und Nachh�
 
 In diesem Podcast diskutiert die t3n-Redaktion mit Gästen über die spannendsten digitalen Themen unserer Zeit. Ob innovative Führungskonzepte, die Digitalisierung der Gesellschaft, smarte Gadgets, neue Mobilität oder Zukunftstechnologien. Jeden Freitag um 10 Uhr!
 
-* Number of published episodes: 714
-* Last episode published: 🟢 Friday, 19 December 2025
+* Number of published episodes: 715
+* Last episode published: 🟢 Friday, 26 December 2025
 * [t3n Interview Website](https://t3n.de/podcast#interview)
 * [t3n Interview @ Spotify](https://open.spotify.com/show/7obTbZaywhQEiUUOMswQBQ)
 * [t3n Interview @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1115601393)
