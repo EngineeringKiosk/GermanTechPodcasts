@@ -153,7 +153,7 @@ Immer donnerstags live um 17 Uhr sprechen Anna Kalinowsky, Malte Kirchner und Vo
 Pentaradio24 ist eine Sendung, die jeden vierten Dienstag im Monat zwischen 21:30 und 23:00 Uhr auf coloRadio live ausgestrahlt wird, bestehend aus einem informativen Rahmenprogramm und Beiträgen zu einem sendungsspezifischen Thema.
 
 
-* Number of published episodes: 35
+* Number of published episodes: 34
 * Last episode published: 🟢 Saturday, 13 December 2025
 * [((c3d2)) Pentaradio 24 Website](https://www.c3d2.de/radio.html)
 * [((c3d2)) Pentaradio 24 @ Apple Podcasts](https://podcasts.apple.com/de/podcast/350873124)
@@ -168,8 +168,8 @@ Pentaradio24 ist eine Sendung, die jeden vierten Dienstag im Monat zwischen 21:3
 
 Deutschsprachiger Podcast zu den Themen IT-Sicherheit und Privatsphäre. Stefan und Sven unterhalten sich über aktuelle News und allgemeine Themen rund um Security und Privacy.
 
-* Number of published episodes: 128
-* Last episode published: 🟢 Saturday, 22 November 2025
+* Number of published episodes: 129
+* Last episode published: 🟢 Sunday, 28 December 2025
 * Weekly downloads (avg): 2000 (updated: 2023-01-16)
 * [0d - Zeroday Website](https://0x0d.de/)
 * [0d - Zeroday @ Spotify](https://open.spotify.com/show/5XTyNo5r6H0rRptIgaE1w4)
@@ -282,7 +282,7 @@ Komm mit in die dunklen Ecken des Internets. Wir blicken in der ersten Staffel a
 Die wöchentliche Talkrunde rund um Apple, Mac, iPod &#43; iPhone, Gadgets und so. Fast live aus München.
 
 * Number of published episodes: 10
-* Last episode published: 🟢 Monday, 22 December 2025
+* Last episode published: 🟢 Monday, 29 December 2025
 * [Bits und so Website](http://www.bitsundso.de/)
 * [Bits und so @ Apple Podcasts](https://podcasts.apple.com/de/podcast/202753375)
 * [Bits und so Podcast RSS](http://www.bitsundso.de/feed/)
@@ -328,8 +328,8 @@ Zwei Admins sprechen über die Buzzwords, die ihr jeden Tag hört und benutzt, d
 
 Mitglieder der c&#39;t-Redaktion diskutieren über die aktuellen Themen aus dem c’t Magazin und was sonst noch so in der IT-Welt passiert.
 
-* Number of published episodes: 626
-* Last episode published: 🟢 Saturday, 20 December 2025
+* Number of published episodes: 627
+* Last episode published: 🟢 Saturday, 27 December 2025
 * [c&#39;t uplink Website](https://www.heise.de/thema/ct-uplink)
 * [c&#39;t uplink @ Spotify](https://open.spotify.com/show/4LdN7lGr9winLtQSqoIjVD)
 * [c&#39;t uplink @ Apple Podcasts](https://podcasts.apple.com/de/podcast/835717958)
@@ -404,7 +404,7 @@ Dein Podcast rund um Softwareentwicklung und aktueller Tech News. Lernt die Codi
 Jeden Samstag das Neueste aus Computertechnik und Informationstechnologie. Beiträge, Reportagen und Interviews zu IT-Sicherheit, Informatik, Datenschutz, Smartphones, Cloud-Computing und IT-Politik. Die Trends der IT werden kompakt und informativ zusammengefasst.
 
 * Number of published episodes: 20
-* Last episode published: 🟢 Saturday, 20 December 2025
+* Last episode published: 🟢 Saturday, 27 December 2025
 * [Computer und Kommunikation (Deutschlandfunk) Website](https://www.deutschlandfunk.de/computer-und-kommunikation-102.html)
 * [Computer und Kommunikation (Deutschlandfunk) @ Spotify](https://open.spotify.com/show/4uy56W83RGe8SKmzNpyfAc)
 * [Computer und Kommunikation (Deutschlandfunk) @ Apple Podcasts](https://podcasts.apple.com/de/podcast/173754605)
@@ -583,7 +583,7 @@ Der Engineering Kiosk ist der deutschsprachige Software-Engineering-Podcast mit 
 Willkommen beim Faxinformatiker-Podcast, wo wir die humorvolle und manchmal chaotische Welt der IT erkunden! Wir – Marius Quabeck, Claudia Kühn, Patrick Terlisten, Falk Rösing und Christian Stankowic – teilen unsere besten und schlimmsten Anekdoten aus dem Berufsalltag. Von unerwarteten Stromausfällen und durchgebrannten Telefonanlagen bis hin zu ausgefallenen Klimaanlagen – bei uns gibt es immer wieder Überraschungen, die uns auf Trab halten. Erlebt mit uns, wie wir mit kreativen Lösungen und einer Portion Humor diese Herausforderungen meistern. Unser Podcast ist ein Mix aus Tech-Talk und unterhaltsamen Geschichten direkt aus dem Leben eines Fachinformatikers. Ob ihr selbst in der IT arbeitet oder einfach nur neugierig auf die Welt hinter den Bildschirmen seid – bei uns seid ihr genau richtig. Schaltet ein, lacht mit uns und lernt aus unseren Erfahrungen.
 
 * Number of published episodes: 10
-* Last episode published: 🟢 Monday, 27 October 2025
+* Last episode published: 🟡 Monday, 27 October 2025
 * [Faxinformatiker Website](https://faxinformatiker.de/)
 * [Faxinformatiker @ Spotify](https://open.spotify.com/show/2Ep8xMdjrvi46XJiPS9uAh)
 * [Faxinformatiker @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1750596424)
@@ -739,8 +739,8 @@ Du bist Entwickler/Developer? Dann Lauscher auf! Thomas und Christian sprechen i
 
 In dieser Serie diskutieren wir interessante Themen aus Software-Entwicklung und -Architektur – immer mit dem Fokus auf Praxistauglichkeit.
 
-* Number of published episodes: 180
-* Last episode published: 🟢 Sunday, 07 December 2025
+* Number of published episodes: 181
+* Last episode published: 🟢 Sunday, 28 December 2025
 * [INNOQ Podcast Website](https://www.innoq.com/de/podcast/)
 * [INNOQ Podcast @ Spotify](https://open.spotify.com/show/20svL8wDDgtidO2Qwf3EWx)
 * [INNOQ Podcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/672695146)
@@ -1157,8 +1157,8 @@ Themen wie KI oder Cybersecurity werden immer wichtiger und ein immer größerer
 
 Zwei Freunde, ihr Smart Home, Self-Hosting, Technik und das ein oder andere Interview mit Makern
 
-* Number of published episodes: 21
-* Last episode published: 🟢 Sunday, 21 December 2025
+* Number of published episodes: 22
+* Last episode published: 🟢 Sunday, 28 December 2025
 * [SmartHütte Website](https://podcast.smarthuette.de)
 * [SmartHütte @ Spotify](https://open.spotify.com/show/3cYGMZNGW9C8jVYEOx052k)
 * [SmartHütte @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1829137207)
@@ -1252,8 +1252,8 @@ Willkommen bei &#34;Technik-Tales: Kuriose Technikgeschichten&#34; – dem Podca
 
 Irgendwas mit Technik
 
-* Number of published episodes: 198
-* Last episode published: 🟡 Friday, 25 July 2025
+* Number of published episodes: 199
+* Last episode published: 🟢 Saturday, 27 December 2025
 * [TechnikTechnik Website](https://techniktechnik.de/)
 * [TechnikTechnik @ Spotify](https://open.spotify.com/show/31hRI4ll65FoIzDJThWHJM)
 * [TechnikTechnik @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1285407879)
@@ -1333,8 +1333,8 @@ Sujeevan und Dirk reden über Themen, die Ihnen in der letzten Zeit untergekomme
 
 Deutschsprachiger Podcast für die großen und kleinen Fragen des Developeralltags. Schon seit Langem tauschen sich Malte und Robin-Manuel in regelmäßigen Abständen über diverse Themen aus ihrem Alltag in der Softwareentwicklung aus. Dabei lernen sie jedes Mal etwas Neues! Warum also das Ganze nicht aufzeichnen und als Podcast zur Verfügung stellen?
 
-* Number of published episodes: 145
-* Last episode published: 🟢 Monday, 22 December 2025
+* Number of published episodes: 146
+* Last episode published: 🟢 Monday, 29 December 2025
 * [todo:cast Website](https://www.todocast.io/)
 * [todo:cast @ Spotify](https://open.spotify.com/show/2tIlVD6vBAtEhOZM4jS1mw)
 * [todo:cast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1467179396)
