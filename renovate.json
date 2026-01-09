@@ -11,8 +11,8 @@
   "customManagers": [
     {
       "customType": "regex",
-      "fileMatch": [
-        "^app/Makefile$"
+      "managerFilePatterns": [
+        "/^app/Makefile$/"
       ],
       "matchStrings": [
         "honnef\\.co/go/tools/cmd/staticcheck@(?<currentValue>\\d+\\.\\d+\\.\\d+)"
@@ -22,8 +22,8 @@
     },
     {
       "customType": "regex",
-      "fileMatch": [
-        "^\\.github/workflows/[^/]+\\.ya?ml$"
+      "managerFilePatterns": [
+        "/^\\.github/workflows/[^/]+\\.ya?ml$/"
       ],
       "matchStrings": [
         "uses:\\s*golangci/golangci-lint-action@[^\\n]+\\n\\s+with:\\n\\s+version:\\s*(?<currentValue>v[\\d.]+)"
