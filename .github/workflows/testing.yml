@@ -52,7 +52,7 @@ jobs:
       - name: golangci-lint
         uses: golangci/golangci-lint-action@v9
         with:
-          version: v2.4
+          version: v2.8.0
           working-directory: app
 
       # golangci-lint contains only a set of rules from staticcheck.
