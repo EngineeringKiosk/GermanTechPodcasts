@@ -2,7 +2,7 @@
  <opml version="2.0">
    <head>
      <title>Deutschsprachige Tech Podcasts</title>
-     <dateCreated>Fri, 09 Jan 2026 13:46:39 UTC</dateCreated>
+     <dateCreated>Fri, 09 Jan 2026 15:19:19 UTC</dateCreated>
      <ownerName>Engineering Kiosk</ownerName>
      <ownerEmail>stehtisch@engineeringkiosk.dev</ownerEmail>
    </head>
@@ -100,6 +100,7 @@
      <outline title="t3n Catch up" text="t3n Catch up" type="rss" xmlUrl="https://t3n-catch-up.podigee.io/feed/mp3" htmlUrl="https://t3n.de/podcast#catchup"></outline>
      <outline title="t3n Daily" text="t3n Daily" type="rss" xmlUrl="https://t3n-daily.podigee.io/feed/mp3" htmlUrl="https://t3n.de/podcast#daily"></outline>
      <outline title="t3n Interview" text="t3n Interview" type="rss" xmlUrl="https://t3n-podcast.podigee.io/feed/mp3" htmlUrl="https://t3n.de/podcast#interview"></outline>
+     <outline title="t3n MeisterPrompter" text="t3n MeisterPrompter" type="rss" xmlUrl="https://t3n-meisterprompter.podigee.io/feed/mp3" htmlUrl="https://t3n.de/podcast#meisterprompter"></outline>
      <outline title="Tech me if you can" text="Tech me if you can" type="rss" xmlUrl="https://letscast.fm/podcasts/tech-me-if-you-can-24f146bd/feed" htmlUrl="https://techmeifyoucan.letscast.fm/"></outline>
      <outline title="Technik Tales" text="Technik Tales" type="rss" xmlUrl="https://www.techniktales.com/feed/mp3" htmlUrl="http://www.techniktales.com/"></outline>
      <outline title="TechnikTechnik" text="TechnikTechnik" type="rss" xmlUrl="https://techniktechnik.de/?feed=mp3" htmlUrl="https://techniktechnik.de/"></outline>
