@@ -51,11 +51,11 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          commit_message: Update generated podcast content
           branch: main
-          commit_user_name: Podcast data update bot
-          commit_user_email: stehtisch@engineeringkiosk.dev
-          commit_author: Podcast data update bot <stehtisch@engineeringkiosk.dev>
+          commit_message: "chore: Update generated podcast content"
+          commit_user_name: "GitHub Actions Bot"
+          commit_user_email: "actions@github.com"
+          commit_author: "GitHub Actions Bot <actions@github.com>"
 
       - name: Trigger webpage to sync
         uses: peter-evans/repository-dispatch@v4.0.1
