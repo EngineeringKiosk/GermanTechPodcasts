@@ -106,3 +106,7 @@ We have a German version available on the [Engineering Kiosk website](https://en
 ## Other
 
 If you seek more German-speaking technology-related podcasts without guidelines (see [our policies](./CONTRIBUTING.md)), take a look at the [technology section at fyyd.de](https://fyyd.de/discover/cat/technology/0).
+
+## Dependencies
+
+Dependencies are managed by [Renovate Bot/Mend: Dashboard](https://developer.mend.io/github/EngineeringKiosk).
