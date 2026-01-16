@@ -15,7 +15,7 @@
  },
  "episodeCount": 33,
  "latestEpisodePublished": 1752547800,
- "archive": false,
+ "archive": true,
  "itunesID": 1641242207,
  "image": "images/nachgehackt.jpg"
 }
