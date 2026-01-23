@@ -19,7 +19,7 @@
  },
  "episodeCount": 103,
  "latestEpisodePublished": 1753243200,
- "archive": false,
+ "archive": true,
  "itunesID": 1448992875,
  "image": "images/neuland.jpg"
 }
