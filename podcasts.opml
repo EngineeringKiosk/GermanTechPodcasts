@@ -2,7 +2,7 @@
  <opml version="2.0">
    <head>
      <title>Deutschsprachige Tech Podcasts</title>
-     <dateCreated>Wed, 28 Jan 2026 11:33:29 UTC</dateCreated>
+     <dateCreated>Sun, 08 Feb 2026 09:59:35 UTC</dateCreated>
      <ownerName>Engineering Kiosk</ownerName>
      <ownerEmail>stehtisch@engineeringkiosk.dev</ownerEmail>
    </head>
@@ -29,7 +29,7 @@
      <outline title="Computer und Kommunikation (Deutschlandfunk)" text="Computer und Kommunikation (Deutschlandfunk)" type="rss" xmlUrl="https://www.deutschlandfunk.de/computer-und-kommunikation-102.xml" htmlUrl="https://www.deutschlandfunk.de/computer-und-kommunikation-102.html"></outline>
      <outline title="Cybersecurity entschlüsselt" text="Cybersecurity entschlüsselt" type="rss" xmlUrl="https://cybersecurity-entschluesselt.de/rss.xml" htmlUrl="https://www.cybersecurity-entschluesselt.de"></outline>
      <outline title="Das Duumvirat" text="Das Duumvirat" type="rss" xmlUrl="https://www.trommelspeicher.de/resource/podcast/feed.xml" htmlUrl="https://www.trommelspeicher.de/podcast/"></outline>
-     <outline title="DAS WAR SCHON KAPUTT" text="DAS WAR SCHON KAPUTT" type="rss" xmlUrl="https://daswarschonkaputt.tech/feed/dwsk.xml" htmlUrl="http://daswarschonkaputt.tech/"></outline>
+     <outline title="DAS WAR SCHON KAPUTT" text="DAS WAR SCHON KAPUTT" type="rss" xmlUrl="https://daswarschonkaputt.de/feed/dwsk.xml" htmlUrl="http://daswarschonkaputt.de/"></outline>
      <outline title="Data Science Deep Dive" text="Data Science Deep Dive" type="rss" xmlUrl="https://feed.podbean.com/inwt/feed.xml" htmlUrl="https://inwt.podbean.com/"></outline>
      <outline title="Der GameDev Podcast" text="Der GameDev Podcast" type="rss" xmlUrl="http://feed.gamedevpodcast.de/" htmlUrl="https://gamedevpodcast.de/"></outline>
      <outline title="dev.env" text="dev.env" type="rss" xmlUrl="https://python-podcast.de/show/feed/podcast/m4a/rss.xml" htmlUrl="https://shows.acast.com/dev-env"></outline>
@@ -66,7 +66,6 @@
      <outline title="Logbuch Digitalien" text="Logbuch Digitalien" type="rss" xmlUrl="https://www.logbuch-digitalien.de/feed/podcast/" htmlUrl="https://www.logbuch-digitalien.de/"></outline>
      <outline title="Logbuch: Netzpolitik" text="Logbuch: Netzpolitik" type="rss" xmlUrl="https://feeds.metaebene.me/lnp/m4a" htmlUrl="https://logbuch-netzpolitik.de/"></outline>
      <outline title="Mac &amp; i - der Apple-Podcast" text="Mac &amp; i - der Apple-Podcast" type="rss" xmlUrl="https://heise.de/mac-and-i/mac-and-i-audio-podcast.rss" htmlUrl="https://www.heise.de/mac-and-i/meldung/Mac-i-Der-Apple-Podcast-4681220.html"></outline>
-     <outline title="Macht der Craft" text="Macht der Craft" type="rss" xmlUrl="https://macht-der-craft.soler-sanandres.net/feed/podcast" htmlUrl="https://macht-der-craft.soler-sanandres.net/"></outline>
      <outline title="Mein Scrum ist kaputt!" text="Mein Scrum ist kaputt!" type="rss" xmlUrl="https://meinscrumistkaputt.de/feed/podcast/" htmlUrl="https://meinscrumistkaputt.de/"></outline>
      <outline title="Mind the Tech" text="Mind the Tech" type="rss" xmlUrl="https://mind-the-tech.podigee.io/feed/mp3" htmlUrl="https://www.mindthetech.de/"></outline>
      <outline title="Mixedcast" text="Mixedcast" type="rss" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:246129251/sounds.rss" htmlUrl="https://mixed.de/podcast/"></outline>
