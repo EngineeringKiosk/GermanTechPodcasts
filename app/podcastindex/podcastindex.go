@@ -158,12 +158,14 @@ func (c *Client) Do(ctx context.Context, req *http.Request, v interface{}) (*htt
 	case io.Writer:
 		_, err = io.Copy(v, resp.Body)
 	default:
-		decErr := json.NewDecoder(resp.Body).Decode(v)
-		if decErr == io.EOF {
-			decErr = nil // ignore EOF errors caused by empty response body
+		body, readErr := io.ReadAll(resp.Body)
+		if readErr != nil {
+			err = readErr
+			break
 		}
+		decErr := json.Unmarshal(body, v)
 		if decErr != nil {
-			err = decErr
+			err = fmt.Errorf("%w: %s", decErr, string(body))
 		}
 	}
 	return resp, err
