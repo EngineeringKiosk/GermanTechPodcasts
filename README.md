@@ -168,8 +168,8 @@ Pentaradio24 ist eine Sendung, die jeden vierten Dienstag im Monat zwischen 21:3
 
 Deutschsprachiger Podcast zu den Themen IT-Sicherheit und Privatsphäre. Stefan und Sven unterhalten sich über aktuelle News und allgemeine Themen rund um Security und Privacy.
 
-* Number of published episodes: 130
-* Last episode published: 🟢 Saturday, 31 January 2026
+* Number of published episodes: 131
+* Last episode published: 🟢 Sunday, 15 February 2026
 * Weekly downloads (avg): 2000 (updated: 2023-01-16)
 * [0d - Zeroday Website](https://0x0d.de/)
 * [0d - Zeroday @ Spotify](https://open.spotify.com/show/5XTyNo5r6H0rRptIgaE1w4)
@@ -202,7 +202,7 @@ Apfelfunk ist ein wöchentlicher Podcast über Apple-Themen. Jean-Claude Frick u
 Ein Dialog über Malware, Cybercrime und Cyberspionage
 
 * Number of published episodes: 12
-* Last episode published: 🟢 Monday, 15 December 2025
+* Last episode published: 🟡 Monday, 15 December 2025
 * [Armchair Investigators Website](https://armchairinvestigators.de/)
 * [Armchair Investigators @ Spotify](https://open.spotify.com/show/1xaPIhkQWfAtmHPg8llCEJ)
 * [Armchair Investigators @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1555931250)
@@ -234,7 +234,7 @@ Sie möchten beim Thema Datenschutz auf dem Laufenden bleiben, aber keine seiten
 Ein Podcast über Web, Entwicklung, Mobile und Technologie. Betrachtet aus der Sicht von Entwicklern bzw. Open Source Begeisterten. Das heißt aber nicht, dass wir alles mit einer Rosa-Roten Brille sehen. Wir suchen bei Apple und Microsoft genauso das Gute und Schlechte wie auch bei Linux und anderen Open Source Projekten. Wir wollen realistisch sein. Auch wenn wir damit anecken sollten.
 
 * Number of published episodes: 50
-* Last episode published: 🟢 Sunday, 25 January 2026
+* Last episode published: 🟢 Saturday, 14 February 2026
 * [Binärgewitter Website](http://blog.binaergewitter.de/)
 * [Binärgewitter @ Spotify](https://open.spotify.com/show/19LedqK0fGWfzfKzySDoVW)
 * [Binärgewitter @ Apple Podcasts](https://podcasts.apple.com/de/podcast/216877594)
@@ -296,8 +296,8 @@ Die wöchentliche Talkrunde rund um Apple, Mac, iPod &#43; iPhone, Gadgets und s
 
 Breach FM taucht tief in die Welt der Cybersicherheit, digitalen Konflikte und ihrer explosiven geopolitischen Folgen ein. Moderiert von Robert Wortmann und Max Imbiel, nimmt der Podcast aktuelle Bedrohungen, innovative Technologien und clevere Strategien unter die Lupe. Mit hochkarätigen Gästen aus Forschung, Industrie und Politik werden brisante Themen wie staatliche Cyberangriffe, Krisenmanagement und die Schattenseiten der Cyberkriminalität aufgedeckt. Spannend, praxisnah und voller wertvoller Perspektiven – hier wird die digitale Frontlinie hörbar.
 
-* Number of published episodes: 119
-* Last episode published: 🟢 Wednesday, 04 February 2026
+* Number of published episodes: 120
+* Last episode published: 🟢 Wednesday, 11 February 2026
 * [Breach FM Website](https://creators.spotify.com/pod/profile/superrobeert1/)
 * [Breach FM @ Spotify](https://open.spotify.com/show/4ooV9mM8Qiyfkj9jUkdZjj)
 * [Breach FM @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1641279793)
@@ -328,8 +328,8 @@ Zwei Admins sprechen über die Buzzwords, die ihr jeden Tag hört und benutzt, d
 
 Mitglieder der c&#39;t-Redaktion diskutieren über die aktuellen Themen aus dem c’t Magazin und was sonst noch so in der IT-Welt passiert.
 
-* Number of published episodes: 633
-* Last episode published: 🟢 Saturday, 07 February 2026
+* Number of published episodes: 634
+* Last episode published: 🟢 Saturday, 14 February 2026
 * [c&#39;t uplink Website](https://www.heise.de/thema/ct-uplink)
 * [c&#39;t uplink @ Spotify](https://open.spotify.com/show/4LdN7lGr9winLtQSqoIjVD)
 * [c&#39;t uplink @ Apple Podcasts](https://podcasts.apple.com/de/podcast/835717958)
@@ -388,8 +388,8 @@ Lucas Rott und Markus Herhoffer erzählen alle 14 Tage von Code und Nerd-Kultur.
 
 Dein Podcast rund um Softwareentwicklung und aktueller Tech News. Lernt die Coding Buddies Tino und Fabi kennen. Erfahrt spannende Dinge über diverse Themen aus der Softwareentwicklung und lauscht den Erfahrungen der Beiden. Dazu gibt es witzige Anekdoten der Coding Buddies.
 
-* Number of published episodes: 151
-* Last episode published: 🟢 Thursday, 05 February 2026
+* Number of published episodes: 152
+* Last episode published: 🟢 Thursday, 12 February 2026
 * [Coding Buddies Website](https://www.codingbuddies.de/)
 * [Coding Buddies @ Spotify](https://open.spotify.com/show/5DaiBkAgQBt8DRCcwZY8xT?si=4acf817842f44c43)
 * [Coding Buddies @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1680339110)
@@ -404,7 +404,7 @@ Dein Podcast rund um Softwareentwicklung und aktueller Tech News. Lernt die Codi
 Jeden Samstag das Neueste aus Computertechnik und Informationstechnologie. Beiträge, Reportagen und Interviews zu IT-Sicherheit, Informatik, Datenschutz, Smartphones, Cloud-Computing und IT-Politik. Die Trends der IT werden kompakt und informativ zusammengefasst.
 
 * Number of published episodes: 20
-* Last episode published: 🟢 Saturday, 07 February 2026
+* Last episode published: 🟢 Saturday, 14 February 2026
 * [Computer und Kommunikation (Deutschlandfunk) Website](https://www.deutschlandfunk.de/computer-und-kommunikation-102.html)
 * [Computer und Kommunikation (Deutschlandfunk) @ Spotify](https://open.spotify.com/show/4uy56W83RGe8SKmzNpyfAc)
 * [Computer und Kommunikation (Deutschlandfunk) @ Apple Podcasts](https://podcasts.apple.com/de/podcast/173754605)
@@ -531,8 +531,8 @@ Der Unterhaltungs-Podcast für .NET Entwickler - ca. alle zwei Wochen treffen si
 
 Hier geht es um die kleinen und großen Fehlschläge in der Geschichte der Technik. Computer, die falsch rechnen, automatische Finanzsysteme, die Millionen von Dollar vernichten oder abstürzende Raketen: Hinter jedem Fehler steckt eine spannende und oftmals verblüffende Geschichte. Bei all den Fakten kommen ausschweifende Anekdoten, Witz und Bezüge zum aktuellen Zeitgeschehen nicht zu kurz.
 
-* Number of published episodes: 121
-* Last episode published: 🟢 Sunday, 01 February 2026
+* Number of published episodes: 122
+* Last episode published: 🟢 Sunday, 15 February 2026
 * Weekly downloads (avg): 1982 (updated: 2023-12-11)
 * [Digitale Anomalien Website](https://digitaleanomalien.de/)
 * [Digitale Anomalien @ Spotify](https://open.spotify.com/show/0aG1QAgC5wK5uYBfKxp6JB)
@@ -804,7 +804,7 @@ Nur etwas mehr als 60 Jahre liegen zwischen dem ersten Start eines Motorflugzeug
 Der Podcast für Auszubildende, Ausbilder und IHK-Prüfer in den IT-Berufen (Fachinformatiker für Anwendungsentwicklung/Systemintegration/Daten- und Prozessanalyse/Digitale Vernetzung, IT-Systemelektroniker, Kaufmann für IT-Systemmanagement, Kaufmann für Digitalisierungsmanagement).
 
 * Number of published episodes: 215
-* Last episode published: 🟢 Monday, 15 December 2025
+* Last episode published: 🟡 Monday, 15 December 2025
 * Weekly downloads (avg): 5000 (updated: 2022-12-27)
 * [IT-Berufe Podcast Website](https://it-berufe-podcast.de/episoden/)
 * [IT-Berufe Podcast @ Spotify](https://open.spotify.com/show/3Z9nS0wsn9akCfo6zrmNb1)
@@ -821,7 +821,7 @@ Der Podcast für Auszubildende, Ausbilder und IHK-Prüfer in den IT-Berufen (Fac
 Wie intelligent ist Künstliche Intelligenz eigentlich? Welche Folgen hat generative KI für unsere Arbeit, unsere Freizeit und die Gesellschaft? Im &#34;KI-Update&#34; von heise bringen wir Euch gemeinsam mit The Decoder werktäglich Updates zu den wichtigsten KI-Entwicklungen. Freitags beleuchten wir mit Experten die unterschiedlichen Aspekte der KI-Revolution.
 
 * Number of published episodes: 500
-* Last episode published: 🟢 Wednesday, 11 February 2026
+* Last episode published: 🟢 Friday, 13 February 2026
 * [KI-Update Website](https://www.heise.de/thema/KI-Update)
 * [KI-Update @ Spotify](https://open.spotify.com/show/1rm6gMybQWnHePvY2eCpzp)
 * [KI-Update @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1691536182)
@@ -837,7 +837,7 @@ Wie intelligent ist Künstliche Intelligenz eigentlich? Welche Folgen hat genera
 Die IT-News des Tages von heise online
 
 * Number of published episodes: 1000
-* Last episode published: 🟢 Friday, 13 February 2026
+* Last episode published: 🟢 Monday, 16 February 2026
 * [Kurz informiert by heise online Website](https://www.heise.de/Hoeren-Sie-von-uns-unsere-Podcasts-4206659.html)
 * [Kurz informiert by heise online @ Spotify](https://open.spotify.com/show/2etf1jog8leNHbnhIArM9Z)
 * [Kurz informiert by heise online Podcast RSS](https://kurzinformiert.podigee.io/feed/mp3)
@@ -1871,7 +1871,7 @@ Ausführliche, häufig zeitlose Gespräche von Gastgeber Nico Kreiling mit wechs
 
 <h3 id="unter-4-ohren">Unter 4 Ohren</h3>
 
-<img align="right" width="215" height="215" src="./generated/generated/images/unter-4-ohren.jpg" />
+<img align="right" width="215" height="215" src="./generated/images/unter-4-ohren.jpg" />
 
 IT Security Podcast
 
