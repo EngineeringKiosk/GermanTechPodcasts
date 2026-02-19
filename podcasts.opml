@@ -2,7 +2,7 @@
  <opml version="2.0">
    <head>
      <title>Deutschsprachige Tech Podcasts</title>
-     <dateCreated>Wed, 18 Feb 2026 11:50:46 UTC</dateCreated>
+     <dateCreated>Thu, 19 Feb 2026 18:41:07 UTC</dateCreated>
      <ownerName>Engineering Kiosk</ownerName>
      <ownerEmail>stehtisch@engineeringkiosk.dev</ownerEmail>
    </head>
@@ -13,7 +13,7 @@
      <outline title="Apfelfunk" text="Apfelfunk" type="rss" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:201768667/sounds.rss" htmlUrl="http://www.apfelfunk.com/"></outline>
      <outline title="Armchair Investigators" text="Armchair Investigators" type="rss" xmlUrl="https://armchairinvestigators.de/feed/podcast/" htmlUrl="https://armchairinvestigators.de/"></outline>
      <outline title="Auslegungssache - der c&#39;t-Datenschutz-Podcast" text="Auslegungssache - der c&#39;t-Datenschutz-Podcast" type="rss" xmlUrl="https://ct-auslegungssache.podigee.io/feed/mp3" htmlUrl="https://www.heise.de/thema/auslegungssache"></outline>
-     <outline title="Autoweird" text="Autoweird" type="rss" xmlUrl="http://autoweird.fm/feed/podcast/" htmlUrl="https://autoweird.fm/"></outline>
+     <outline title="Autoweird" text="Autoweird" type="rss" xmlUrl="https://autoweirdfm.podigee.io/feed/mp3" htmlUrl="https://autoweirdfm.podigee.io/"></outline>
      <outline title="Binärgewitter" text="Binärgewitter" type="rss" xmlUrl="http://feed.binaergewitter.de/binaergewitter_mp3.xml" htmlUrl="http://blog.binaergewitter.de/"></outline>
      <outline title="Bit-Rauschen - der Prozessor-Podcast von c&#39;t" text="Bit-Rauschen - der Prozessor-Podcast von c&#39;t" type="rss" xmlUrl="https://bit-rauschen.podigee.io/feed/mp3" htmlUrl="https://www.heise.de/thema/bit-rauschen"></outline>
      <outline title="Bits &amp; Böses - Der Tech Crime Podcast" text="Bits &amp; Böses - Der Tech Crime Podcast" type="rss" xmlUrl="https://bitsundboeses.podigee.io/feed/mp3" htmlUrl="https://bitsundboeses.podigee.io/"></outline>

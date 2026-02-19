@@ -1,11 +1,11 @@
 {
  "name": "Autoweird",
  "slug": "autoweird",
- "website": "https://autoweird.fm/",
- "podcastIndexID": 53968,
- "rssFeed": "http://autoweird.fm/feed/podcast/",
+ "website": "https://autoweirdfm.podigee.io/",
+ "podcastIndexID": 7540398,
+ "rssFeed": "https://autoweirdfm.podigee.io/feed/mp3",
  "spotify": "https://open.spotify.com/show/6TDrYLHYxoo7VjvSglunew",
- "description": "@Autoweird.fm ist der regelmäßig erscheinende Podcast rund um die Themen Software Entwicklung, Agilität und Software Crafting.",
+ "description": "@Autoweird.fm ist der nicht mehr so regelmäßig erscheinende Podcast rund um die Themen Software Entwicklung, Agilität und Software Crafting.",
  "tags": [
   "Software-Crafting",
   "Agilität",
@@ -20,9 +20,9 @@
   "value": 175,
   "updated": "2022-12-29"
  },
- "episodeCount": 121,
- "latestEpisodePublished": 1690178174,
- "archive": true,
- "itunesID": 1180414602,
- "image": "generated/images/autoweird.png"
+ "episodeCount": 132,
+ "latestEpisodePublished": 1764569914,
+ "archive": false,
+ "itunesID": 0,
+ "image": "images/autoweird.png"
 }
