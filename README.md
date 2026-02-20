@@ -217,8 +217,8 @@ Ein Dialog über Malware, Cybercrime und Cyberspionage
 
 Sie möchten beim Thema Datenschutz auf dem Laufenden bleiben, aber keine seitenlange Literatur wälzen? Dann wenden Sie sich vertrauensvoll an unser Juristen-Redakteurs-Duo. Alle 14 Tage bespricht c&#39;t-Redakteur Holger Bleich mit Joerg Heidrich aktuelle Entwicklungen rund um den Datenschutz. Joerg ist beim c&#39;t-Mutterschiff Heise Medien als Justiziar für das Thema zuständig und hat täglich mit der europäischen Datenschutz-Grundverordnung (DSGVO) zu tun. Wechselnde Gäste ergänzen das Duo.&#34;
 
-* Number of published episodes: 153
-* Last episode published: 🟢 Friday, 06 February 2026
+* Number of published episodes: 154
+* Last episode published: 🟢 Friday, 20 February 2026
 * [Auslegungssache - der c&#39;t-Datenschutz-Podcast Website](https://www.heise.de/thema/auslegungssache)
 * [Auslegungssache - der c&#39;t-Datenschutz-Podcast @ Spotify](https://open.spotify.com/show/3Jrnu7vrTurguBaCiPapkA)
 * [Auslegungssache - der c&#39;t-Datenschutz-Podcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1485860893)
@@ -404,8 +404,8 @@ Lucas Rott und Markus Herhoffer erzählen alle 14 Tage von Code und Nerd-Kultur.
 
 Dein Podcast rund um Softwareentwicklung und aktueller Tech News. Lernt die Coding Buddies Tino und Fabi kennen. Erfahrt spannende Dinge über diverse Themen aus der Softwareentwicklung und lauscht den Erfahrungen der Beiden. Dazu gibt es witzige Anekdoten der Coding Buddies.
 
-* Number of published episodes: 152
-* Last episode published: 🟢 Thursday, 12 February 2026
+* Number of published episodes: 153
+* Last episode published: 🟢 Thursday, 19 February 2026
 * [Coding Buddies Website](https://www.codingbuddies.de/)
 * [Coding Buddies @ Spotify](https://open.spotify.com/show/5DaiBkAgQBt8DRCcwZY8xT?si=4acf817842f44c43)
 * [Coding Buddies @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1680339110)
@@ -853,7 +853,7 @@ Wie intelligent ist Künstliche Intelligenz eigentlich? Welche Folgen hat genera
 Die IT-News des Tages von heise online
 
 * Number of published episodes: 1000
-* Last episode published: 🟢 Thursday, 19 February 2026
+* Last episode published: 🟢 Friday, 20 February 2026
 * [Kurz informiert by heise online Website](https://www.heise.de/Hoeren-Sie-von-uns-unsere-Podcasts-4206659.html)
 * [Kurz informiert by heise online @ Spotify](https://open.spotify.com/show/2etf1jog8leNHbnhIArM9Z)
 * [Kurz informiert by heise online Podcast RSS](https://kurzinformiert.podigee.io/feed/mp3)
@@ -1013,8 +1013,8 @@ Rund um Open Source, Freie Software, Linux und gesellschaftspolitische Themen.
 
 Sandra Parsick &amp; Daniel Zenzes präsentieren mit Ready for Review einen bunten Mix aus aktuellen IT-Themen und ihrem täglichen Entwickler-Alltag.
 
-* Number of published episodes: 96
-* Last episode published: 🟢 Friday, 23 January 2026
+* Number of published episodes: 97
+* Last episode published: 🟢 Friday, 20 February 2026
 * Weekly downloads (avg): 66 (updated: 2022-07-29)
 * [Ready for Review Website](https://ready-for-review.dev/)
 * [Ready for Review @ Spotify](https://open.spotify.com/show/7dxK2wi4ZMGEYO3UHhTSc4)
@@ -1190,8 +1190,8 @@ Der SoftwerkerCast präsentiert euch Softwerker-Wissen zum Reinhören und Nachh�
 
 In diesem Podcast diskutiert die t3n-Redaktion mit Gästen über die spannendsten digitalen Themen unserer Zeit. Ob innovative Führungskonzepte, die Digitalisierung der Gesellschaft, smarte Gadgets, neue Mobilität oder Zukunftstechnologien. Jeden Freitag um 10 Uhr!
 
-* Number of published episodes: 722
-* Last episode published: 🟢 Friday, 13 February 2026
+* Number of published episodes: 723
+* Last episode published: 🟢 Friday, 20 February 2026
 * [t3n Interview Website](https://t3n.de/podcast#interview)
 * [t3n Interview @ Spotify](https://open.spotify.com/show/7obTbZaywhQEiUUOMswQBQ)
 * [t3n Interview @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1115601393)
