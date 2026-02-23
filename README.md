@@ -312,8 +312,8 @@ Die wöchentliche Talkrunde rund um Apple, Mac, iPod &#43; iPhone, Gadgets und s
 
 Breach FM taucht tief in die Welt der Cybersicherheit, digitalen Konflikte und ihrer explosiven geopolitischen Folgen ein. Moderiert von Robert Wortmann und Max Imbiel, nimmt der Podcast aktuelle Bedrohungen, innovative Technologien und clevere Strategien unter die Lupe. Mit hochkarätigen Gästen aus Forschung, Industrie und Politik werden brisante Themen wie staatliche Cyberangriffe, Krisenmanagement und die Schattenseiten der Cyberkriminalität aufgedeckt. Spannend, praxisnah und voller wertvoller Perspektiven – hier wird die digitale Frontlinie hörbar.
 
-* Number of published episodes: 120
-* Last episode published: 🟢 Wednesday, 11 February 2026
+* Number of published episodes: 121
+* Last episode published: 🟢 Wednesday, 18 February 2026
 * [Breach FM Website](https://creators.spotify.com/pod/profile/superrobeert1/)
 * [Breach FM @ Spotify](https://open.spotify.com/show/4ooV9mM8Qiyfkj9jUkdZjj)
 * [Breach FM @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1641279793)
@@ -344,8 +344,8 @@ Zwei Admins sprechen über die Buzzwords, die ihr jeden Tag hört und benutzt, d
 
 Mitglieder der c&#39;t-Redaktion diskutieren über die aktuellen Themen aus dem c’t Magazin und was sonst noch so in der IT-Welt passiert.
 
-* Number of published episodes: 634
-* Last episode published: 🟢 Saturday, 14 February 2026
+* Number of published episodes: 635
+* Last episode published: 🟢 Saturday, 21 February 2026
 * [c&#39;t uplink Website](https://www.heise.de/thema/ct-uplink)
 * [c&#39;t uplink @ Spotify](https://open.spotify.com/show/4LdN7lGr9winLtQSqoIjVD)
 * [c&#39;t uplink @ Apple Podcasts](https://podcasts.apple.com/de/podcast/835717958)
@@ -420,7 +420,7 @@ Dein Podcast rund um Softwareentwicklung und aktueller Tech News. Lernt die Codi
 Jeden Samstag das Neueste aus Computertechnik und Informationstechnologie. Beiträge, Reportagen und Interviews zu IT-Sicherheit, Informatik, Datenschutz, Smartphones, Cloud-Computing und IT-Politik. Die Trends der IT werden kompakt und informativ zusammengefasst.
 
 * Number of published episodes: 20
-* Last episode published: 🟢 Saturday, 14 February 2026
+* Last episode published: 🟢 Saturday, 21 February 2026
 * [Computer und Kommunikation (Deutschlandfunk) Website](https://www.deutschlandfunk.de/computer-und-kommunikation-102.html)
 * [Computer und Kommunikation (Deutschlandfunk) @ Spotify](https://open.spotify.com/show/4uy56W83RGe8SKmzNpyfAc)
 * [Computer und Kommunikation (Deutschlandfunk) @ Apple Podcasts](https://podcasts.apple.com/de/podcast/173754605)
@@ -451,8 +451,8 @@ Cybersecurity entschüsselt ist ein deutschsprachiger Podcast, in dem sich alles
 
 Im Podcast Das Duumvirat unterhalten wir uns über verschiedene Mac-Themen aus dem Alltag von Anwendern. Wir schauen über den Tellerrand. Und manchmal haben wir auch Gäste.
 
-* Number of published episodes: 73
-* Last episode published: 🟢 Monday, 26 January 2026
+* Number of published episodes: 74
+* Last episode published: 🟢 Sunday, 22 February 2026
 * [Das Duumvirat Website](https://www.trommelspeicher.de/podcast/)
 * [Das Duumvirat @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1212750085)
 * [Das Duumvirat Podcast RSS](https://www.trommelspeicher.de/resource/podcast/feed.xml)
@@ -581,8 +581,8 @@ Einfach Komplex macht Software und IT verständlich – für Laien und Experten 
 
 Der Engineering Kiosk ist der deutschsprachige Software-Engineering-Podcast mit Wolfgang Gassler und Andy Grunwald rund um die Themen Engineering-Kultur, Open Source, Menschen, Technologie und allen anderen Bereichen, die damit in Verbindung stehen.
 
-* Number of published episodes: 255
-* Last episode published: 🟢 Tuesday, 03 February 2026
+* Number of published episodes: 257
+* Last episode published: 🟢 Tuesday, 17 February 2026
 * Weekly downloads (avg): 1099 (updated: 2023-01-31)
 * [Engineering Kiosk Website](https://engineeringkiosk.dev/)
 * [Engineering Kiosk @ Spotify](https://open.spotify.com/show/0tJRC0UsObPCWLmmzmOkIs)
@@ -772,7 +772,7 @@ In dieser Serie diskutieren wir interessante Themen aus Software-Entwicklung und
 In diesem Podcast sprechen wir über die Grundlagen von IT-Security. Ein praktischer Einstieg für alle, die an Software arbeiten.
 
 * Number of published episodes: 103
-* Last episode published: 🟢 Monday, 22 December 2025
+* Last episode published: 🟡 Monday, 22 December 2025
 * [INNOQ Security Podcast Website](https://www.innoq.com/de/podcast/?channel=security)
 * [INNOQ Security Podcast @ Spotify](https://open.spotify.com/show/44tnFXbuDShbJ7vNecXCaF)
 * [INNOQ Security Podcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1518284030)
@@ -837,7 +837,7 @@ Der Podcast für Auszubildende, Ausbilder und IHK-Prüfer in den IT-Berufen (Fac
 Wie intelligent ist Künstliche Intelligenz eigentlich? Welche Folgen hat generative KI für unsere Arbeit, unsere Freizeit und die Gesellschaft? Im &#34;KI-Update&#34; von heise bringen wir Euch gemeinsam mit The Decoder werktäglich Updates zu den wichtigsten KI-Entwicklungen. Freitags beleuchten wir mit Experten die unterschiedlichen Aspekte der KI-Revolution.
 
 * Number of published episodes: 500
-* Last episode published: 🟢 Wednesday, 18 February 2026
+* Last episode published: 🟢 Friday, 20 February 2026
 * [KI-Update Website](https://www.heise.de/thema/KI-Update)
 * [KI-Update @ Spotify](https://open.spotify.com/show/1rm6gMybQWnHePvY2eCpzp)
 * [KI-Update @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1691536182)
@@ -853,7 +853,7 @@ Wie intelligent ist Künstliche Intelligenz eigentlich? Welche Folgen hat genera
 Die IT-News des Tages von heise online
 
 * Number of published episodes: 1000
-* Last episode published: 🟢 Friday, 20 February 2026
+* Last episode published: 🟢 Monday, 23 February 2026
 * [Kurz informiert by heise online Website](https://www.heise.de/Hoeren-Sie-von-uns-unsere-Podcasts-4206659.html)
 * [Kurz informiert by heise online @ Spotify](https://open.spotify.com/show/2etf1jog8leNHbnhIArM9Z)
 * [Kurz informiert by heise online Podcast RSS](https://kurzinformiert.podigee.io/feed/mp3)
@@ -915,7 +915,7 @@ Hintergründe, Einschätzungen, Tipps und Neuigkeiten: Im Zweiwochenrhythmus unt
 Scrum kann doch inzwischen eh jeder? Von wegen! Denn - ganz unter uns: genug falsch machen kann man ohne Probleme. Daher möchten wir über Stolpersteine sprechen, über Smells und unsere Erfahrungen mitteilen, die wir mit Scrum, Kanban und Agil im Allgemeinen gemacht haben.
 
 * Number of published episodes: 145
-* Last episode published: 🟢 Tuesday, 23 December 2025
+* Last episode published: 🟡 Tuesday, 23 December 2025
 * Weekly downloads (avg): 14449 (updated: 2022-12-28)
 * [Mein Scrum ist kaputt! Website](https://meinscrumistkaputt.de/)
 * [Mein Scrum ist kaputt! @ Spotify](https://open.spotify.com/show/7lECdowQCq0OWlf0EZnSpL)
@@ -1158,8 +1158,8 @@ Der Podcast für praktische Softwarearchitektur. Mit: Carola Lilienthal, Patrick
 
 Live-Diskussion zu Software-Architektur im Stream. Einmal in der Woche diskutiert Eberhard Wolff Software-Architektur im Live-Stream auf YouTube und Twitch - oft zusammen mit einem Gast. Zuschauer können über den Chat mitdiskutieren oder Fragen stellen. Der Podcast enthält die Audio-Spur des Streams.
 
-* Number of published episodes: 299
-* Last episode published: 🟢 Friday, 13 February 2026
+* Number of published episodes: 300
+* Last episode published: 🟢 Friday, 20 February 2026
 * [SoftwareArchitektur im Stream Website](https://software-architektur.tv/)
 * [SoftwareArchitektur im Stream @ Spotify](https://open.spotify.com/show/7ySg1eZoWYBshd6QpGaW8B)
 * [SoftwareArchitektur im Stream @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1538545458)
@@ -1220,8 +1220,8 @@ Wöchentlich am Mittwoch stellen Prompt-Expertin Susanne Renate Schneider und t3
 
 Willkommen bei &#34;Technik-Tales: Kuriose Technikgeschichten&#34; – dem Podcast, der sich auf die spannendsten und skurrilsten Geschichten aus der Welt der Technik konzentriert! In jeder Episode treffen sich unsere beiden Technik-Enthusiasten, Kai und Paddy, um sich gegenseitig mit den ungewöhnlichsten und faszinierendsten Anekdoten aus der Welt der Innovation und Ingenieurskunst zu überraschen. Von den kuriosen Pannen bei der Raumfahrt bis hin zu den witzigsten Missgeschicken in der Softwareentwicklung – &#34;Technik-Tales&#34; bietet euch jede Menge Unterhaltung, Wissenswertes und natürlich viele Lacher. Erfahrt, wie ein kleiner Fehler in einem Algorithmus zu einem weltweiten Chaos führen kann, oder hört, welche verrückten Erfindungen einmal im Hype waren und dann in der Versenkung verschwanden.Ob ihr Technik-Fans, Nerds oder einfach nur neugierig auf die lustigen Seiten der High-Tech-Welt seid – dieser Podcast bringt euch die spannenden Geschichten, die man nicht im Lehrbuch findet. Schaltet ein, lehnt euch zurück und lasst euch von uns auf eine aufregende Reise durch die kurvenreiche Welt der Technik entführen!Abonnieren und nichts verpassen!
 
-* Number of published episodes: 54
-* Last episode published: 🟢 Sunday, 08 February 2026
+* Number of published episodes: 55
+* Last episode published: 🟢 Saturday, 21 February 2026
 * Weekly downloads (avg): 200 (updated: 2025-08-08)
 * [Technik Tales Website](http://www.techniktales.com/)
 * [Technik Tales @ Spotify](https://open.spotify.com/show/7k6FWQiFXbaQenxDHNpKuP)
@@ -1236,8 +1236,8 @@ Willkommen bei &#34;Technik-Tales: Kuriose Technikgeschichten&#34; – dem Podca
 
 Irgendwas mit Technik
 
-* Number of published episodes: 200
-* Last episode published: 🟢 Thursday, 29 January 2026
+* Number of published episodes: 201
+* Last episode published: 🟢 Friday, 20 February 2026
 * [TechnikTechnik Website](https://techniktechnik.de/)
 * [TechnikTechnik @ Spotify](https://open.spotify.com/show/31hRI4ll65FoIzDJThWHJM)
 * [TechnikTechnik @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1285407879)
@@ -1396,8 +1396,8 @@ In diesem Podcast geht es um Web und User Interface Design, Freelancing, Arbeits
 
 Im Webcafé erzählen Felix und Kay aus ihrem Arbeitsalltag bei der Geenen IT-Systeme GmbH und nehmen euch mit auf eine spannende Reise durch ihre Technologielandschaft, Programmierthemen und die Herausforderungen der Unternehmens- und Personalführung. Damit richtet sich der Podcast an EntwicklerInnen, FreelancerInnen und Führungskräfte.
 
-* Number of published episodes: 39
-* Last episode published: 🟢 Monday, 09 February 2026
+* Number of published episodes: 40
+* Last episode published: 🟢 Monday, 23 February 2026
 * [Webcafé - Webentwicklung und Unternehmenskultur Website](https://geenen-it-systeme.de/#podcast)
 * [Webcafé - Webentwicklung und Unternehmenskultur @ Spotify](https://open.spotify.com/show/6KnpB0BENh4XcHiqr4isHt)
 * [Webcafé - Webentwicklung und Unternehmenskultur @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1727941100)
