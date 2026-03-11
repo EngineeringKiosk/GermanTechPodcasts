@@ -132,7 +132,7 @@ All listed podcasts are available as an [OPML file (podcasts.opml)](./podcasts.o
 
 <h3 id="heiseshow">#heiseshow</h3>
 
-<img align="right" width="215" height="215" src="./generated/images/heiseshow.jpg" />
+<img align="right" width="215" height="215" src="./generated/generated/images/heiseshow.jpg" />
 
 Immer donnerstags live um 17 Uhr sprechen Anna Kalinowsky, Malte Kirchner und Volker Zota von heise online bei YouTube über die Tech-Themen der Woche. Zum Nachhören gibt es die #heiseshow auch als Podcast.
 
@@ -213,7 +213,7 @@ Ein Dialog über Malware, Cybercrime und Cyberspionage
 
 <h3 id="auslegungssache-der-ct-datenschutz-podcast">Auslegungssache - der c&#39;t-Datenschutz-Podcast</h3>
 
-<img align="right" width="215" height="215" src="./generated/images/auslegungssache.jpg" />
+<img align="right" width="215" height="215" src="./generated/generated/images/auslegungssache.jpg" />
 
 Sie möchten beim Thema Datenschutz auf dem Laufenden bleiben, aber keine seitenlange Literatur wälzen? Dann wenden Sie sich vertrauensvoll an unser Juristen-Redakteurs-Duo. Alle 14 Tage bespricht c&#39;t-Redakteur Holger Bleich mit Joerg Heidrich aktuelle Entwicklungen rund um den Datenschutz. Joerg ist beim c&#39;t-Mutterschiff Heise Medien als Justiziar für das Thema zuständig und hat täglich mit der europäischen Datenschutz-Grundverordnung (DSGVO) zu tun. Wechselnde Gäste ergänzen das Duo.&#34;
 
@@ -265,8 +265,8 @@ Ein Podcast über Web, Entwicklung, Mobile und Technologie. Betrachtet aus der S
 
 Prozessoren, Grafikkarten, Notebooks, Desktop-PCs, Server, KI, Rechenzentren und IT-Markt: In &#34;Bit-Rauschen&#34;, dem Prozessor-Podcast des Computermagazins c’t, dreht sich alles um Chips.
 
-* Number of published episodes: 135
-* Last episode published: 🟢 Wednesday, 25 February 2026
+* Number of published episodes: 136
+* Last episode published: 🟢 Wednesday, 11 March 2026
 * [Bit-Rauschen - der Prozessor-Podcast von c&#39;t Website](https://www.heise.de/thema/bit-rauschen)
 * [Bit-Rauschen - der Prozessor-Podcast von c&#39;t @ Spotify](https://open.spotify.com/show/6JD6gwqgVR27GYZACrWOT1)
 * [Bit-Rauschen - der Prozessor-Podcast von c&#39;t @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1549821753)
@@ -389,8 +389,8 @@ Ein Podcast über den nahezu unendlich tiefen Kaninchenbau der mechanische Tasta
 
 Lucas Rott und Markus Herhoffer erzählen alle 14 Tage von Code und Nerd-Kultur. Mit News aus der Tech-Bubble, einem Thema der Woche über Software development und dem Code der Woche.
 
-* Number of published episodes: 135
-* Last episode published: 🟢 Wednesday, 21 January 2026
+* Number of published episodes: 136
+* Last episode published: 🟢 Monday, 09 March 2026
 * [Code Culture Website](https://codeculture.podigee.io/)
 * [Code Culture @ Spotify](https://open.spotify.com/show/01ZL2aPP50lLW51u2aTOkN)
 * [Code Culture @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1516904389)
@@ -420,7 +420,7 @@ Dein Podcast rund um Softwareentwicklung und aktueller Tech News. Lernt die Codi
 Jeden Samstag das Neueste aus Computertechnik und Informationstechnologie. Beiträge, Reportagen und Interviews zu IT-Sicherheit, Informatik, Datenschutz, Smartphones, Cloud-Computing und IT-Politik. Die Trends der IT werden kompakt und informativ zusammengefasst.
 
 * Number of published episodes: 20
-* Last episode published: 🟢 Saturday, 28 February 2026
+* Last episode published: 🟢 Saturday, 07 March 2026
 * [Computer und Kommunikation (Deutschlandfunk) Website](https://www.deutschlandfunk.de/computer-und-kommunikation-102.html)
 * [Computer und Kommunikation (Deutschlandfunk) @ Spotify](https://open.spotify.com/show/4uy56W83RGe8SKmzNpyfAc)
 * [Computer und Kommunikation (Deutschlandfunk) @ Apple Podcasts](https://podcasts.apple.com/de/podcast/173754605)
@@ -547,8 +547,8 @@ Hier geht es um die kleinen und großen Fehlschläge in der Geschichte der Techn
 
 Einfach Komplex macht Software und IT verständlich – für Laien und Experten gleichermaßen. Jeden zweiten Dienstag bieten wir Einblicke in die Welt der Softwareentwicklung und IT. Unser Ziel: dich für Diskussionen rund um Softwareprojekte, IT/OT-Infrastruktur oder digitale Zukunftsfragen fit zu machen. Einfach erklärt, aber in all seiner Komplexität – damit du besser mitreden kannst und fundierte Entscheidungen triffst. Einfach Komplex wird präsentiert von Heisenware.
 
-* Number of published episodes: 104
-* Last episode published: 🟢 Tuesday, 24 February 2026
+* Number of published episodes: 105
+* Last episode published: 🟢 Tuesday, 10 March 2026
 * Weekly downloads (avg): 1900 (updated: 2025-01-21)
 * [Einfach Komplex Website](https://heisenware.com/podcast)
 * [Einfach Komplex @ Spotify](https://open.spotify.com/show/4eTpBCjUos9xUXtX294CnY?si=457f567027574f40)
@@ -701,7 +701,7 @@ Zwei Softwareentwickler und Spiele-Enthusiasten entwickeln in ihrer Freizeit Vid
 
 <h3 id="increase-cycle-time-der-jobrad-r-development-podcast">Increase Cycle Time - Der JobRad® Development Podcast</h3>
 
-<img align="right" width="215" height="215" src="./generated/images/increase-cycle-time.png" />
+<img align="right" width="215" height="215" src="./generated/generated/images/increase-cycle-time.png" />
 
 Increase Cycle Time ist Euer JobRad® Podcast für Software-Entwicklung. Und alles, was damit zusammenhängt.
 
@@ -722,8 +722,8 @@ Increase Cycle Time ist Euer JobRad® Podcast für Software-Entwicklung. Und all
 
 Du bist Entwickler/Developer? Dann Lauscher auf! Thomas und Christian sprechen im &#34;Index out of bounds&#34; Entwickler/Developer Podcast über ihre persönlichen Erfahrungen aus der Welt der Programmierung von Software, Websites, Apps und was es sonst noch so gibt. Schon seit Jahren tauschen sich die beiden leidenschaftlich gerne über Entwicklung/Development, den Spaß am Programmieren und Technologie aus. Hin und wieder sind da auch ein paar helle Momente dabei! Ein Podcast von Programmierern für Programmierer.
 
-* Number of published episodes: 122
-* Last episode published: 🟢 Tuesday, 24 February 2026
+* Number of published episodes: 123
+* Last episode published: 🟢 Sunday, 08 March 2026
 * [Index out of bounds Website](https://www.ioob.de/)
 * [Index out of bounds @ Spotify](https://open.spotify.com/show/2r1FGvYRkSYq4SmXyVKmnA)
 * [Index out of bounds @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1564647339)
@@ -820,7 +820,7 @@ Der Podcast für Auszubildende, Ausbilder und IHK-Prüfer in den IT-Berufen (Fac
 Wie intelligent ist Künstliche Intelligenz eigentlich? Welche Folgen hat generative KI für unsere Arbeit, unsere Freizeit und die Gesellschaft? Im &#34;KI-Update&#34; von heise bringen wir Euch gemeinsam mit The Decoder werktäglich Updates zu den wichtigsten KI-Entwicklungen. Freitags beleuchten wir mit Experten die unterschiedlichen Aspekte der KI-Revolution.
 
 * Number of published episodes: 500
-* Last episode published: 🟢 Friday, 06 March 2026
+* Last episode published: 🟢 Monday, 09 March 2026
 * [KI-Update Website](https://www.heise.de/thema/KI-Update)
 * [KI-Update @ Spotify](https://open.spotify.com/show/1rm6gMybQWnHePvY2eCpzp)
 * [KI-Update @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1691536182)
@@ -836,7 +836,7 @@ Wie intelligent ist Künstliche Intelligenz eigentlich? Welche Folgen hat genera
 Die IT-News des Tages von heise online
 
 * Number of published episodes: 1000
-* Last episode published: 🟢 Monday, 09 March 2026
+* Last episode published: 🟢 Wednesday, 11 March 2026
 * [Kurz informiert by heise online Website](https://www.heise.de/Hoeren-Sie-von-uns-unsere-Podcasts-4206659.html)
 * [Kurz informiert by heise online @ Spotify](https://open.spotify.com/show/2etf1jog8leNHbnhIArM9Z)
 * [Kurz informiert by heise online Podcast RSS](https://kurzinformiert.podigee.io/feed/mp3)
@@ -946,8 +946,8 @@ Wir thematisieren die wichtigen Fragestellungen rund um Internet, Gesellschaft u
 
 Mit geballter Dev-Power nehmen Dennis, Fabi, Sebi und Jojo neue Podcastfolgen auf und werden dabei regelmäßig von Gäst:innen aus der Branche unterstützt. Taucht in unseren Deep Dives mit uns in Frameworks und Datenbanken ein, hört euch in den CTO-Specials die Erfahrungen führender Persönlichkeiten großer Unternehmen an und bleibt mit unseren News-Folgen stets am Ball in der Welt der App- und Webentwicklung.
 
-* Number of published episodes: 490
-* Last episode published: 🟢 Thursday, 05 March 2026
+* Number of published episodes: 491
+* Last episode published: 🟢 Tuesday, 10 March 2026
 * Weekly downloads (avg): 8744 (updated: 2023-04-12)
 * [programmier.bar Website](https://www.programmier.bar/podcast)
 * [programmier.bar @ Spotify](https://open.spotify.com/show/0ik0sXv9paTQCeThcOLCCJ)
@@ -1121,7 +1121,7 @@ Zwei Freunde, ihr Smart Home, Self-Hosting, Technik und das ein oder andere Inte
 
 <h3 id="softwarearchitektour-von-entwicklern-fur-entwickler">SoftwareArchitekTOUR - von Entwicklern für Entwickler</h3>
 
-<img align="right" width="215" height="215" src="./generated/images/softwarearchitektour.jpg" />
+<img align="right" width="215" height="215" src="./generated/generated/images/softwarearchitektour.jpg" />
 
 Der Podcast für praktische Softwarearchitektur. Mit: Carola Lilienthal, Patrick Roos, Johannes Seitz, Michael Stal, Gernot Starke, Eberhard Wolff.
 
@@ -1188,8 +1188,8 @@ In diesem Podcast diskutiert die t3n-Redaktion mit Gästen über die spannendste
 
 Wöchentlich am Mittwoch stellen Prompt-Expertin Susanne Renate Schneider und t3n-Redakteurin Stella-Sophie Wojtczak Prompts vor, die für den Arbeitsalltag relevant sind. Mit ihrem KI-Klartext liefern sie Vorschläge für Prompts, die sinnvolle Ergebnisse erzielen. Dazu gehen sie einmal pro Monat auf häufige Prompt-Fehler ein und erklären, wie sich diese vermeiden lassen. Ihre Anleitungen sind stets kurz, konkret und  direkt umsetzbar – t3n MeisterPrompter ist dein KI-Podcast zum mitprompten.
 
-* Number of published episodes: 60
-* Last episode published: 🟢 Wednesday, 04 March 2026
+* Number of published episodes: 61
+* Last episode published: 🟢 Wednesday, 11 March 2026
 * [t3n MeisterPrompter Website](https://t3n.de/podcast#meisterprompter)
 * [t3n MeisterPrompter @ Spotify](https://open.spotify.com/show/0vgZKlXhSZ12WovlEAgCgX)
 * [t3n MeisterPrompter @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1796409152)
@@ -1251,8 +1251,8 @@ IT-Security, unendliche Weiten ... So oder so ähnlich lässt sich die Größeno
 
 Der neue Technologie-Podcast mit Svea Eckert und Eva Wolfangel. Die beiden freien Technologie-Journalistinnen widmen sich jeden Mittwoch spannenden Tech-Thema und laden sich dazu inspirierende weibliche Gäste ein. Aber auch die Podcast-Hosts bringen etwas mit: investigative und spannende Recherchen, zu denen es in jeder Folge gleich zu Beginn einen kurzen Deepdive gibt.
 
-* Number of published episodes: 72
-* Last episode published: 🟢 Wednesday, 04 March 2026
+* Number of published episodes: 73
+* Last episode published: 🟢 Wednesday, 11 March 2026
 * [They Talk Tech – mit Eckert und Wolfangel Website](https://frauen-technik.podigee.io/)
 * [They Talk Tech – mit Eckert und Wolfangel @ Spotify](https://open.spotify.com/show/3HwNHImCFF1NvNMQnN2rFR)
 * [They Talk Tech – mit Eckert und Wolfangel @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1762825923)
@@ -1375,7 +1375,7 @@ In diesem Podcast geht es um Web und User Interface Design, Freelancing, Arbeits
 
 <h3 id="webcafe-webentwicklung-und-unternehmenskultur">Webcafé - Webentwicklung und Unternehmenskultur</h3>
 
-<img align="right" width="215" height="215" src="./generated/images/webcafe.jpg" />
+<img align="right" width="215" height="215" src="./generated/generated/images/webcafe.jpg" />
 
 Im Webcafé erzählen Felix und Kay aus ihrem Arbeitsalltag bei der Geenen IT-Systeme GmbH und nehmen euch mit auf eine spannende Reise durch ihre Technologielandschaft, Programmierthemen und die Herausforderungen der Unternehmens- und Personalführung. Damit richtet sich der Podcast an EntwicklerInnen, FreelancerInnen und Führungskräfte.
 
@@ -1411,8 +1411,8 @@ Latenight-Frontend-Talkshow rund um Webdesign und Entwicklung. Es reden sich um 
 
 Wöchentlicher Podcast für Webdesigner:innen und -entwickler:innen
 
-* Number of published episodes: 728
-* Last episode published: 🟢 Tuesday, 03 March 2026
+* Number of published episodes: 729
+* Last episode published: 🟢 Wednesday, 11 March 2026
 * [Working Draft Website](https://workingdraft.de/)
 * [Working Draft @ Spotify](https://open.spotify.com/show/78iH7cIFzu1ejoB6aQUsIh)
 * [Working Draft @ Apple Podcasts](https://podcasts.apple.com/de/podcast/402204581)
@@ -1489,7 +1489,7 @@ Digitalisierungsfieber, dem Podcast für IT Security, Datenschutz, und IT Servic
 
 <h3 id="focus-on-linux">FOCUS ON: Linux</h3>
 
-<img align="right" width="215" height="215" src="./generated/images/focus-on-linux.jpg" />
+<img align="right" width="215" height="215" src="./generated/generated/images/focus-on-linux.jpg" />
 
 Der FOCUS ON: Linux Podcast beschäftigt sich mit verschiedenen Themen rund um Linux. Unser Ziel ist es, euch monatlich über die Entwicklungen und Neuigkeiten zu informieren und auch praktische Tool-Tipps an die Hand zu geben.
 
@@ -1663,7 +1663,7 @@ Oli und Michael sprechen über alles Wichtige aus der Welt der Open Source, Tech
 
 <h3 id="open-source-in-der-industrie">Open Source in der Industrie</h3>
 
-<img align="right" width="215" height="215" src="./generated/images/open-source-in-der-industrie.jpg" />
+<img align="right" width="215" height="215" src="./generated/generated/images/open-source-in-der-industrie.jpg" />
 
 Wir berichten alle zwei Wochen über Open Source Anwendungen, Ideen und Konzepte aus der Industrie.
 
@@ -1806,7 +1806,7 @@ Jede Woche setzen wir uns mit Expert:innen aus der Webentwicklung zusammen. Imme
 
 <h3 id="t3n-catch-up">t3n Catch up</h3>
 
-<img align="right" width="215" height="215" src="./generated/images/t3n-catch-up.jpg" />
+<img align="right" width="215" height="215" src="./generated/generated/images/t3n-catch-up.jpg" />
 
 Digitalisierung ist komplex. Heute entsteht dies, morgen das. Und was übermorgen noch wichtig ist, wissen die wenigsten. Wir schon! Im Podcast besprechen wir mit den Expert:innen unserer Redaktion die wichtigsten Entwicklungen der Woche und der Zukunft. Wir geben Wissensvorsprung und Impulse.
 
@@ -1853,7 +1853,7 @@ Der Podcast rund um Technologie, Smart Home, Gadgets und mehr. Patrick und Ingo 
 
 <h3 id="techtiefen">Techtiefen</h3>
 
-<img align="right" width="215" height="215" src="./generated/images/techtiefen.jpg" />
+<img align="right" width="215" height="215" src="./generated/generated/images/techtiefen.jpg" />
 
 Ausführliche, häufig zeitlose Gespräche von Gastgeber Nico Kreiling mit wechselnden Gästen der IT-Welt zu deren Fach-Gebieten. Von Nerds, für Nerds!
 
