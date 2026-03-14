@@ -15,7 +15,7 @@
         "/^app/Makefile$/"
       ],
       "matchStrings": [
-        "honnef\\.co/go/tools/cmd/staticcheck@(?<currentValue>\\d+\\.\\d+\\.\\d+)"
+        "honnef\\.co/go/tools/cmd/staticcheck@(?<currentValue>\\d+\\.\\d+(?:\\.\\d+)?)"
       ],
       "depNameTemplate": "dominikh/go-tools",
       "datasourceTemplate": "github-releases"
