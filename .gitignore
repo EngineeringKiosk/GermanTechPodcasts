@@ -2,3 +2,6 @@
 app/GermanTechPodcasts
 
 emails*.json
+
+# Claude Code
+.claude/
