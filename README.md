@@ -6,7 +6,7 @@ All listed podcasts are available as an [OPML file (podcasts.opml)](./podcasts.o
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (81 podcasts)
+* [Podcasts](#podcasts) (80 podcasts)
   * [#heiseshow](#heiseshow)
   * [((c3d2)) Pentaradio 24](#c3d2-pentaradio-24)
   * [0d - Zeroday](#0d-zeroday)
@@ -16,7 +16,6 @@ All listed podcasts are available as an [OPML file (podcasts.opml)](./podcasts.o
   * [Autoweird](#autoweird)
   * [Binärgewitter](#binargewitter)
   * [Bit-Rauschen - der Prozessor-Podcast von c&#39;t](#bit-rauschen-der-prozessor-podcast-von-ct)
-  * [Bits &amp; Böses - Der Tech Crime Podcast](#bits-and-boses-der-tech-crime-podcast)
   * [Bits und so](#bits-und-so)
   * [Breach FM](#breach-fm)
   * [BuzzZoom](#buzzzoom)
@@ -88,7 +87,8 @@ All listed podcasts are available as an [OPML file (podcasts.opml)](./podcasts.o
   * [Webcafé - Webentwicklung und Unternehmenskultur](#webcafe-webentwicklung-und-unternehmenskultur)
   * [Wo wir sind ist vorne](#wo-wir-sind-ist-vorne)
   * [Working Draft](#working-draft)
-* [Archived podcasts](#archived-podcasts) (31 podcasts)
+* [Archived podcasts](#archived-podcasts) (32 podcasts)
+  * [Bits &amp; Böses - Der Tech Crime Podcast](#bits-and-boses-der-tech-crime-podcast)
   * [Codestammtisch](#codestammtisch)
   * [Der GameDev Podcast](#der-gamedev-podcast)
   * [dev.env](#dev-env)
@@ -275,22 +275,6 @@ Prozessoren, Grafikkarten, Notebooks, Desktop-PCs, Server, KI, Rechenzentren und
 
 ----
 
-<h3 id="bits-and-boses-der-tech-crime-podcast">Bits &amp; Böses - Der Tech Crime Podcast</h3>
-
-<img align="right" width="215" height="215" src="./generated/images/bits-und-boeses.jpg" />
-
-Komm mit in die dunklen Ecken des Internets. Wir blicken in der ersten Staffel auf einen Fall von Identitätsdiebstahl bei Instagram und schauen uns an, wie er hätte verhindert werden können, wie die Polizei nach Cyber-Kriminellen fahndet und was man noch tun kann, wenn es eigentlich schon zu spät ist.
-
-* Number of published episodes: 15
-* Last episode published: 🟡 Tuesday, 16 September 2025
-* [Bits &amp; Böses - Der Tech Crime Podcast Website](https://bitsundboeses.podigee.io/)
-* [Bits &amp; Böses - Der Tech Crime Podcast @ Spotify](https://open.spotify.com/show/4RhbOvfpOLJDFwui3ujVn9)
-* [Bits &amp; Böses - Der Tech Crime Podcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1652515781)
-* [Bits &amp; Böses - Der Tech Crime Podcast Podcast RSS](https://bitsundboeses.podigee.io/feed/mp3)
-* Tags: Tech Crime
-
-----
-
 <h3 id="bits-und-so">Bits und so</h3>
 
 <img align="right" width="215" height="215" src="./generated/images/bits-und-so.jpg" />
@@ -375,7 +359,7 @@ Im monatlichen Chaosradio informiert der Chaos Computer Club Berlin seit 1995 ü
 Ein Podcast über den nahezu unendlich tiefen Kaninchenbau der mechanische Tastaturen. Ich erzähle euch was es neues im Hobby der mechanical Keyboards gibt, Groupbuys, Interestchecks, Neue Keyboards, Keycaps und Switches und noch viel viel mehr....
 
 * Number of published episodes: 116
-* Last episode published: 🟢 Saturday, 17 January 2026
+* Last episode published: 🟡 Saturday, 17 January 2026
 * [Click! Clack! Hack! Website](https://www.nerdbude.com/podcast/)
 * [Click! Clack! Hack! @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1551770169)
 * [Click! Clack! Hack! Podcast RSS](https://www.nerdbude.com/podcast/feed/feed.xml)
@@ -435,8 +419,8 @@ Jeden Samstag das Neueste aus Computertechnik und Informationstechnologie. Beitr
 
 Cybersecurity entschüsselt ist ein deutschsprachiger Podcast, in dem sich alles um Sicherheit dreht.
 
-* Number of published episodes: 71
-* Last episode published: 🟢 Tuesday, 03 March 2026
+* Number of published episodes: 72
+* Last episode published: 🟢 Tuesday, 17 March 2026
 * [Cybersecurity entschlüsselt Website](https://www.cybersecurity-entschluesselt.de)
 * [Cybersecurity entschlüsselt @ Spotify](https://open.spotify.com/show/0sAcefh8cixTxjJn9s1dvM)
 * [Cybersecurity entschlüsselt @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1637327527)
@@ -564,8 +548,8 @@ Einfach Komplex macht Software und IT verständlich – für Laien und Experten 
 
 Der Engineering Kiosk ist der deutschsprachige Software-Engineering-Podcast mit Wolfgang Gassler und Andy Grunwald rund um die Themen Engineering-Kultur, Open Source, Menschen, Technologie und allen anderen Bereichen, die damit in Verbindung stehen.
 
-* Number of published episodes: 260
-* Last episode published: 🟢 Tuesday, 10 March 2026
+* Number of published episodes: 261
+* Last episode published: 🟢 Tuesday, 17 March 2026
 * Weekly downloads (avg): 1099 (updated: 2023-01-31)
 * [Engineering Kiosk Website](https://engineeringkiosk.dev/)
 * [Engineering Kiosk @ Spotify](https://open.spotify.com/show/0tJRC0UsObPCWLmmzmOkIs)
@@ -738,8 +722,8 @@ Du bist Entwickler/Developer? Dann Lauscher auf! Thomas und Christian sprechen i
 
 In dieser Serie diskutieren wir interessante Themen aus Software-Entwicklung und -Architektur – immer mit dem Fokus auf Praxistauglichkeit.
 
-* Number of published episodes: 184
-* Last episode published: 🟢 Friday, 27 February 2026
+* Number of published episodes: 185
+* Last episode published: 🟢 Tuesday, 17 March 2026
 * [INNOQ Podcast Website](https://www.innoq.com/de/podcast/)
 * [INNOQ Podcast @ Spotify](https://open.spotify.com/show/20svL8wDDgtidO2Qwf3EWx)
 * [INNOQ Podcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/672695146)
@@ -820,7 +804,7 @@ Der Podcast für Auszubildende, Ausbilder und IHK-Prüfer in den IT-Berufen (Fac
 Wie intelligent ist Künstliche Intelligenz eigentlich? Welche Folgen hat generative KI für unsere Arbeit, unsere Freizeit und die Gesellschaft? Im &#34;KI-Update&#34; von heise bringen wir Euch gemeinsam mit The Decoder werktäglich Updates zu den wichtigsten KI-Entwicklungen. Freitags beleuchten wir mit Experten die unterschiedlichen Aspekte der KI-Revolution.
 
 * Number of published episodes: 500
-* Last episode published: 🟢 Friday, 13 March 2026
+* Last episode published: 🟢 Monday, 16 March 2026
 * [KI-Update Website](https://www.heise.de/thema/KI-Update)
 * [KI-Update @ Spotify](https://open.spotify.com/show/1rm6gMybQWnHePvY2eCpzp)
 * [KI-Update @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1691536182)
@@ -836,7 +820,7 @@ Wie intelligent ist Künstliche Intelligenz eigentlich? Welche Folgen hat genera
 Die IT-News des Tages von heise online
 
 * Number of published episodes: 1000
-* Last episode published: 🟢 Monday, 16 March 2026
+* Last episode published: 🟢 Tuesday, 17 March 2026
 * [Kurz informiert by heise online Website](https://www.heise.de/Hoeren-Sie-von-uns-unsere-Podcasts-4206659.html)
 * [Kurz informiert by heise online @ Spotify](https://open.spotify.com/show/2etf1jog8leNHbnhIArM9Z)
 * [Kurz informiert by heise online Podcast RSS](https://kurzinformiert.podigee.io/feed/mp3)
@@ -881,8 +865,8 @@ Logbuch:Netzpolitik ist ein in der Regel wöchentlich erscheinender Podcast, der
 
 Hintergründe, Einschätzungen, Tipps und Neuigkeiten: Im Zweiwochenrhythmus unterhalten sich Malte Kirchner und Leo Becker im Mac &amp; i-Podcast mit Gästen über Fachthemen zu iPhone, iPad, Mac, Watch &amp;amp; Co sowie Apple-Betriebssysteme, Dienste und das Drumherum.
 
-* Number of published episodes: 116
-* Last episode published: 🟢 Thursday, 05 March 2026
+* Number of published episodes: 117
+* Last episode published: 🟢 Tuesday, 17 March 2026
 * [Mac &amp; i - der Apple-Podcast Website](https://www.heise.de/mac-and-i/meldung/Mac-i-Der-Apple-Podcast-4681220.html)
 * [Mac &amp; i - der Apple-Podcast @ Spotify](https://open.spotify.com/show/5Tcgc97HvYREYM7kIRsxii)
 * [Mac &amp; i - der Apple-Podcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1499510618)
@@ -897,8 +881,8 @@ Hintergründe, Einschätzungen, Tipps und Neuigkeiten: Im Zweiwochenrhythmus unt
 
 Scrum kann doch inzwischen eh jeder? Von wegen! Denn - ganz unter uns: genug falsch machen kann man ohne Probleme. Daher möchten wir über Stolpersteine sprechen, über Smells und unsere Erfahrungen mitteilen, die wir mit Scrum, Kanban und Agil im Allgemeinen gemacht haben.
 
-* Number of published episodes: 145
-* Last episode published: 🟡 Tuesday, 23 December 2025
+* Number of published episodes: 146
+* Last episode published: 🟢 Wednesday, 18 March 2026
 * Weekly downloads (avg): 14449 (updated: 2022-12-28)
 * [Mein Scrum ist kaputt! Website](https://meinscrumistkaputt.de/)
 * [Mein Scrum ist kaputt! @ Spotify](https://open.spotify.com/show/7lECdowQCq0OWlf0EZnSpL)
@@ -946,8 +930,8 @@ Wir thematisieren die wichtigen Fragestellungen rund um Internet, Gesellschaft u
 
 Mit geballter Dev-Power nehmen Dennis, Fabi, Sebi und Jojo neue Podcastfolgen auf und werden dabei regelmäßig von Gäst:innen aus der Branche unterstützt. Taucht in unseren Deep Dives mit uns in Frameworks und Datenbanken ein, hört euch in den CTO-Specials die Erfahrungen führender Persönlichkeiten großer Unternehmen an und bleibt mit unseren News-Folgen stets am Ball in der Welt der App- und Webentwicklung.
 
-* Number of published episodes: 492
-* Last episode published: 🟢 Thursday, 12 March 2026
+* Number of published episodes: 494
+* Last episode published: 🟢 Wednesday, 18 March 2026
 * Weekly downloads (avg): 8744 (updated: 2023-04-12)
 * [programmier.bar Website](https://www.programmier.bar/podcast)
 * [programmier.bar @ Spotify](https://open.spotify.com/show/0ik0sXv9paTQCeThcOLCCJ)
@@ -980,7 +964,7 @@ Ein deutschsprachiger Podcast rund um die Programmiersprache Python
 
 Rund um Open Source, Freie Software, Linux und gesellschaftspolitische Themen.
 
-* Number of published episodes: 300
+* Number of published episodes: 1
 * Last episode published: 🟢 Saturday, 31 January 2026
 * [RadioTux Website](https://www.radiotux.de/)
 * [RadioTux @ Spotify](https://open.spotify.com/show/3ycOmt9723grwgr0wCbTye)
@@ -1141,8 +1125,8 @@ Der Podcast für praktische Softwarearchitektur. Mit: Carola Lilienthal, Patrick
 
 Live-Diskussion zu Software-Architektur im Stream. Einmal in der Woche diskutiert Eberhard Wolff Software-Architektur im Live-Stream auf YouTube und Twitch - oft zusammen mit einem Gast. Zuschauer können über den Chat mitdiskutieren oder Fragen stellen. Der Podcast enthält die Audio-Spur des Streams.
 
-* Number of published episodes: 301
-* Last episode published: 🟢 Saturday, 28 February 2026
+* Number of published episodes: 302
+* Last episode published: 🟢 Tuesday, 17 March 2026
 * [SoftwareArchitektur im Stream Website](https://software-architektur.tv/)
 * [SoftwareArchitektur im Stream @ Spotify](https://open.spotify.com/show/7ySg1eZoWYBshd6QpGaW8B)
 * [SoftwareArchitektur im Stream @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1538545458)
@@ -1188,8 +1172,8 @@ In diesem Podcast diskutiert die t3n-Redaktion mit Gästen über die spannendste
 
 Wöchentlich am Mittwoch stellen Prompt-Expertin Susanne Renate Schneider und t3n-Redakteurin Stella-Sophie Wojtczak Prompts vor, die für den Arbeitsalltag relevant sind. Mit ihrem KI-Klartext liefern sie Vorschläge für Prompts, die sinnvolle Ergebnisse erzielen. Dazu gehen sie einmal pro Monat auf häufige Prompt-Fehler ein und erklären, wie sich diese vermeiden lassen. Ihre Anleitungen sind stets kurz, konkret und  direkt umsetzbar – t3n MeisterPrompter ist dein KI-Podcast zum mitprompten.
 
-* Number of published episodes: 61
-* Last episode published: 🟢 Wednesday, 11 March 2026
+* Number of published episodes: 62
+* Last episode published: 🟢 Wednesday, 18 March 2026
 * [t3n MeisterPrompter Website](https://t3n.de/podcast#meisterprompter)
 * [t3n MeisterPrompter @ Spotify](https://open.spotify.com/show/0vgZKlXhSZ12WovlEAgCgX)
 * [t3n MeisterPrompter @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1796409152)
@@ -1251,8 +1235,8 @@ IT-Security, unendliche Weiten ... So oder so ähnlich lässt sich die Größeno
 
 Der neue Technologie-Podcast mit Svea Eckert und Eva Wolfangel. Die beiden freien Technologie-Journalistinnen widmen sich jeden Mittwoch spannenden Tech-Thema und laden sich dazu inspirierende weibliche Gäste ein. Aber auch die Podcast-Hosts bringen etwas mit: investigative und spannende Recherchen, zu denen es in jeder Folge gleich zu Beginn einen kurzen Deepdive gibt.
 
-* Number of published episodes: 73
-* Last episode published: 🟢 Wednesday, 11 March 2026
+* Number of published episodes: 74
+* Last episode published: 🟢 Wednesday, 18 March 2026
 * [They Talk Tech – mit Eckert und Wolfangel Website](https://frauen-technik.podigee.io/)
 * [They Talk Tech – mit Eckert und Wolfangel @ Spotify](https://open.spotify.com/show/3HwNHImCFF1NvNMQnN2rFR)
 * [They Talk Tech – mit Eckert und Wolfangel @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1762825923)
@@ -1300,8 +1284,8 @@ Sujeevan und Dirk reden über Themen, die Ihnen in der letzten Zeit untergekomme
 
 Deutschsprachiger Podcast für die großen und kleinen Fragen des Developeralltags. Schon seit Langem tauschen sich Malte und Robin-Manuel in regelmäßigen Abständen über diverse Themen aus ihrem Alltag in der Softwareentwicklung aus. Dabei lernen sie jedes Mal etwas Neues! Warum also das Ganze nicht aufzeichnen und als Podcast zur Verfügung stellen?
 
-* Number of published episodes: 155
-* Last episode published: 🟢 Monday, 02 March 2026
+* Number of published episodes: 157
+* Last episode published: 🟢 Monday, 16 March 2026
 * [todo:cast Website](https://www.todocast.io/)
 * [todo:cast @ Spotify](https://open.spotify.com/show/2tIlVD6vBAtEhOZM4jS1mw)
 * [todo:cast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1467179396)
@@ -1424,6 +1408,22 @@ Wöchentlicher Podcast für Webdesigner:innen und -entwickler:innen
 
 ## Archived podcasts
 
+
+<h3 id="bits-and-boses-der-tech-crime-podcast">Bits &amp; Böses - Der Tech Crime Podcast</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/bits-und-boeses.jpg" />
+
+Komm mit in die dunklen Ecken des Internets. Wir blicken in der ersten Staffel auf einen Fall von Identitätsdiebstahl bei Instagram und schauen uns an, wie er hätte verhindert werden können, wie die Polizei nach Cyber-Kriminellen fahndet und was man noch tun kann, wenn es eigentlich schon zu spät ist.
+
+* Number of published episodes: 15
+* Last episode published: 🔴 Tuesday, 16 September 2025
+* [Bits &amp; Böses - Der Tech Crime Podcast Website](https://bitsundboeses.podigee.io/)
+* [Bits &amp; Böses - Der Tech Crime Podcast @ Spotify](https://open.spotify.com/show/4RhbOvfpOLJDFwui3ujVn9)
+* [Bits &amp; Böses - Der Tech Crime Podcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1652515781)
+* [Bits &amp; Böses - Der Tech Crime Podcast Podcast RSS](https://bitsundboeses.podigee.io/feed/mp3)
+* Tags: Tech Crime
+
+----
 
 <h3 id="codestammtisch">Codestammtisch</h3>
 
