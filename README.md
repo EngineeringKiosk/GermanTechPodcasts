@@ -6,7 +6,7 @@ All listed podcasts are available as an [OPML file (podcasts.opml)](./podcasts.o
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (81 podcasts)
+* [Podcasts](#podcasts) (79 podcasts)
   * [#heiseshow](#heiseshow)
   * [((c3d2)) Pentaradio 24](#c3d2-pentaradio-24)
   * [0d - Zeroday](#0d-zeroday)
@@ -40,7 +40,6 @@ All listed podcasts are available as an [OPML file (podcasts.opml)](./podcasts.o
   * [Freakshow](#freakshow)
   * [Gamedev für die Platte - Der Unreal Podcast](#gamedev-fur-die-platte-der-unreal-podcast)
   * [GNU/Linux.ch](#gnu-linux-ch)
-  * [heise Developer: SoftwareArchitekTOUR](#heise-developer-softwarearchitektour)
   * [Hobby Spieleentwickler Podcast](#hobby-spieleentwickler-podcast)
   * [Increase Cycle Time - Der JobRad® Development Podcast](#increase-cycle-time-der-jobrad-r-development-podcast)
   * [Index out of bounds](#index-out-of-bounds)
@@ -68,7 +67,6 @@ All listed podcasts are available as an [OPML file (podcasts.opml)](./podcasts.o
   * [She Likes Tech](#she-likes-tech)
   * [Silicon Weekly](#silicon-weekly)
   * [SmartHütte](#smarthutte)
-  * [SoftwareArchitekTOUR - von Entwicklern für Entwickler](#softwarearchitektour-von-entwicklern-fur-entwickler)
   * [SoftwareArchitektur im Stream](#softwarearchitektur-im-stream)
   * [SoftwerkerCast](#softwerkercast)
   * [t3n Interview](#t3n-interview)
@@ -88,7 +86,7 @@ All listed podcasts are available as an [OPML file (podcasts.opml)](./podcasts.o
   * [Webcafé - Webentwicklung und Unternehmenskultur](#webcafe-webentwicklung-und-unternehmenskultur)
   * [Wo wir sind ist vorne](#wo-wir-sind-ist-vorne)
   * [Working Draft](#working-draft)
-* [Archived podcasts](#archived-podcasts) (31 podcasts)
+* [Archived podcasts](#archived-podcasts) (33 podcasts)
   * [Bits &amp; Böses - Der Tech Crime Podcast](#bits-and-boses-der-tech-crime-podcast)
   * [Codestammtisch](#codestammtisch)
   * [Der GameDev Podcast](#der-gamedev-podcast)
@@ -96,6 +94,7 @@ All listed podcasts are available as an [OPML file (podcasts.opml)](./podcasts.o
   * [Digitalisierungsfieber](#digitalisierungsfieber)
   * [FOCUS ON: Linux](#focus-on-linux)
   * [GeekWeek](#geekweek)
+  * [heise Developer: SoftwareArchitekTOUR](#heise-developer-softwarearchitektour)
   * [Herr Zenzes wills wissen](#herr-zenzes-wills-wissen)
   * [Herzbergs Hörsaal](#herzbergs-horsaal)
   * [IT@DB](#itatdb)
@@ -112,6 +111,7 @@ All listed podcasts are available as an [OPML file (podcasts.opml)](./podcasts.o
   * [SELECTrageFROMit;](#selectragefromit)
   * [She for what? She for IT!](#she-for-what-she-for-it)
   * [Software-Architektur als Beruf](#software-architektur-als-beruf)
+  * [SoftwareArchitekTOUR - von Entwicklern für Entwickler](#softwarearchitektour-von-entwicklern-fur-entwickler)
   * [Speak 1337](#speak-1337)
   * [Super Duper Developers Club](#super-duper-developers-club)
   * [t3n Catch up](#t3n-catch-up)
@@ -250,7 +250,7 @@ Sie möchten beim Thema Datenschutz auf dem Laufenden bleiben, aber keine seiten
 Ein Podcast über Web, Entwicklung, Mobile und Technologie. Betrachtet aus der Sicht von Entwicklern bzw. Open Source Begeisterten. Das heißt aber nicht, dass wir alles mit einer Rosa-Roten Brille sehen. Wir suchen bei Apple und Microsoft genauso das Gute und Schlechte wie auch bei Linux und anderen Open Source Projekten. Wir wollen realistisch sein. Auch wenn wir damit anecken sollten.
 
 * Number of published episodes: 50
-* Last episode published: 🟢 Sunday, 22 March 2026
+* Last episode published: 🟢 Saturday, 04 April 2026
 * [Binärgewitter Website](http://blog.binaergewitter.de/)
 * [Binärgewitter @ Spotify](https://open.spotify.com/show/19LedqK0fGWfzfKzySDoVW)
 * [Binärgewitter @ Apple Podcasts](https://podcasts.apple.com/de/podcast/216877594)
@@ -328,8 +328,8 @@ Zwei Admins sprechen über die Buzzwords, die ihr jeden Tag hört und benutzt, d
 
 Mitglieder der c&#39;t-Redaktion diskutieren über die aktuellen Themen aus dem c’t Magazin und was sonst noch so in der IT-Welt passiert.
 
-* Number of published episodes: 640
-* Last episode published: 🟢 Saturday, 28 March 2026
+* Number of published episodes: 641
+* Last episode published: 🟢 Saturday, 04 April 2026
 * [c&#39;t uplink Website](https://www.heise.de/thema/ct-uplink)
 * [c&#39;t uplink @ Spotify](https://open.spotify.com/show/4LdN7lGr9winLtQSqoIjVD)
 * [c&#39;t uplink @ Apple Podcasts](https://podcasts.apple.com/de/podcast/835717958)
@@ -404,7 +404,7 @@ Dein Podcast rund um Softwareentwicklung und aktueller Tech News. Lernt die Codi
 Jeden Samstag das Neueste aus Computertechnik und Informationstechnologie. Beiträge, Reportagen und Interviews zu IT-Sicherheit, Informatik, Datenschutz, Smartphones, Cloud-Computing und IT-Politik. Die Trends der IT werden kompakt und informativ zusammengefasst.
 
 * Number of published episodes: 20
-* Last episode published: 🟢 Saturday, 28 March 2026
+* Last episode published: 🟢 Saturday, 04 April 2026
 * [Computer und Kommunikation (Deutschlandfunk) Website](https://www.deutschlandfunk.de/computer-und-kommunikation-102.html)
 * [Computer und Kommunikation (Deutschlandfunk) @ Spotify](https://open.spotify.com/show/4uy56W83RGe8SKmzNpyfAc)
 * [Computer und Kommunikation (Deutschlandfunk) @ Apple Podcasts](https://podcasts.apple.com/de/podcast/173754605)
@@ -652,21 +652,6 @@ Ein wöchentlicher Podcast der GNU/Linux.ch Community mit Themen und Interviews 
 
 ----
 
-<h3 id="heise-developer-softwarearchitektour">heise Developer: SoftwareArchitekTOUR</h3>
-
-<img align="right" width="215" height="215" src="./generated/images/heise-developer-softwarearchitektour.jpg" />
-
-Der Podcast für den praktizierenden Softwarearchitekten
-
-* Number of published episodes: 108
-* Last episode published: 🟡 Monday, 06 October 2025
-* [heise Developer: SoftwareArchitekTOUR Website](https://www.heise.de/developer/SoftwareArchitekTOUR-4076349.html)
-* [heise Developer: SoftwareArchitekTOUR @ Spotify](https://open.spotify.com/show/2Uc7vL8U6kUZYSCOvDIJ67)
-* [heise Developer: SoftwareArchitekTOUR @ Apple Podcasts](https://podcasts.apple.com/de/podcast/313825047)
-* [heise Developer: SoftwareArchitekTOUR Podcast RSS](https://softwarearchitektour.podigee.io/feed/mp3)
-
-----
-
 <h3 id="hobby-spieleentwickler-podcast">Hobby Spieleentwickler Podcast</h3>
 
 <img align="right" width="215" height="215" src="./generated/images/hobby-spieleentwickler-podcast.jpg" />
@@ -754,8 +739,8 @@ In diesem Podcast sprechen wir über die Grundlagen von IT-Security. Ein praktis
 
 Dieser Podcast unterstützt schnell, konkret und umfänglich beim Einstieg in die Themen Informationssicherheit, ISMS, ISO27001 und TISAX und richtet sich an IT-Leiter, Informationssicherheitsbeauftragte (ISB / CISO), Auditoren, Mitarbeitende, die sich tiefer den Aufgaben Informationssicherheit und Informationssicherheitsmanagement widmen wollen. Im Austausch unter unseren Expertinnen und Experten, mit interessanten Interviewpartner*innen und der Betrachtung aktuellster Entwicklungen bleibst du bei allen Änderungen und neuen Versionen der Normen auf dem Laufenden und kennst die Standards - für Eure Informationssicherheit.
 
-* Number of published episodes: 79
-* Last episode published: 🟢 Monday, 02 March 2026
+* Number of published episodes: 80
+* Last episode published: 🟢 Sunday, 05 April 2026
 * [ISMS X-Plain Website](https://www.abat.de/wissen/podcast-isms-x-plain)
 * [ISMS X-Plain @ Spotify](https://open.spotify.com/show/5VGQNDbDqDciA4gFY3gXho)
 * [ISMS X-Plain @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1550125725)
@@ -786,8 +771,8 @@ Nur etwas mehr als 60 Jahre liegen zwischen dem ersten Start eines Motorflugzeug
 
 Der Podcast für Auszubildende, Ausbilder und IHK-Prüfer in den IT-Berufen (Fachinformatiker für Anwendungsentwicklung/Systemintegration/Daten- und Prozessanalyse/Digitale Vernetzung, IT-Systemelektroniker, Kaufmann für IT-Systemmanagement, Kaufmann für Digitalisierungsmanagement).
 
-* Number of published episodes: 216
-* Last episode published: 🟢 Monday, 30 March 2026
+* Number of published episodes: 217
+* Last episode published: 🟢 Monday, 06 April 2026
 * Weekly downloads (avg): 5000 (updated: 2022-12-27)
 * [IT-Berufe Podcast Website](https://it-berufe-podcast.de/episoden/)
 * [IT-Berufe Podcast @ Spotify](https://open.spotify.com/show/3Z9nS0wsn9akCfo6zrmNb1)
@@ -850,8 +835,8 @@ Der Podcast über unsere digitale Lebens- und Arbeitswelt mit Markus Hörster un
 
 Logbuch:Netzpolitik ist ein in der Regel wöchentlich erscheinender Podcast, der im Dialog zwischen Linus Neumann und Tim Pritlove die wichtigsten Themen und Ereignisse mit netzpolitischem Bezug aufgreift und diskutiert.
 
-* Number of published episodes: 552
-* Last episode published: 🟢 Thursday, 26 March 2026
+* Number of published episodes: 553
+* Last episode published: 🟢 Friday, 03 April 2026
 * [Logbuch: Netzpolitik Website](https://logbuch-netzpolitik.de/)
 * [Logbuch: Netzpolitik @ Apple Podcasts](https://podcasts.apple.com/de/podcast/476856034)
 * [Logbuch: Netzpolitik Podcast RSS](https://feeds.metaebene.me/lnp/m4a)
@@ -915,7 +900,7 @@ Mind the Tech ist ein Podcast, der die dunklen Seiten der IT- und Tech-Welt bele
 Wir thematisieren die wichtigen Fragestellungen rund um Internet, Gesellschaft und Politik und zeigen Wege auf, wie man sich auch selbst mit Hilfe des Netzes für digitale Freiheiten und Offenheit engagieren kann. Mit netzpolitik.org beschreiben wir, wie die Politik das Internet durch Regulierung verändert und wie das Netz Politik, Öffentlichkeiten und alles andere verändert.
 
 * Number of published episodes: 25
-* Last episode published: 🟢 Saturday, 07 March 2026
+* Last episode published: 🟢 Saturday, 04 April 2026
 * [Netzpolitik Website](https://netzpolitik.org/podcast/)
 * [Netzpolitik @ Spotify](https://open.spotify.com/show/2GLuMhSNEFzUIXfx9BDxBt)
 * [Netzpolitik @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1281525246)
@@ -1093,29 +1078,13 @@ Themen wie KI oder Cybersecurity werden immer wichtiger und ein immer größerer
 
 Zwei Freunde, ihr Smart Home, Self-Hosting, Technik und das ein oder andere Interview mit Makern
 
-* Number of published episodes: 29
-* Last episode published: 🟢 Sunday, 15 March 2026
+* Number of published episodes: 30
+* Last episode published: 🟢 Saturday, 04 April 2026
 * [SmartHütte Website](https://podcast.smarthuette.de)
 * [SmartHütte @ Spotify](https://open.spotify.com/show/3cYGMZNGW9C8jVYEOx052k)
 * [SmartHütte @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1829137207)
 * [SmartHütte Podcast RSS](https://feeds.transistor.fm/smarthuette)
 * Tags: Smart Home, Home Assistant, Self-Hosting, Linux, Technologie, Maker, Hardware, Interviews
-
-----
-
-<h3 id="softwarearchitektour-von-entwicklern-fur-entwickler">SoftwareArchitekTOUR - von Entwicklern für Entwickler</h3>
-
-<img align="right" width="215" height="215" src="./generated/images/softwarearchitektour.jpg" />
-
-Der Podcast für praktische Softwarearchitektur. Mit: Carola Lilienthal, Patrick Roos, Johannes Seitz, Michael Stal, Gernot Starke, Eberhard Wolff.
-
-* Number of published episodes: 108
-* Last episode published: 🟡 Monday, 06 October 2025
-* [SoftwareArchitekTOUR - von Entwicklern für Entwickler Website](https://www.heise.de/thema/softwarearchitektour)
-* [SoftwareArchitekTOUR - von Entwicklern für Entwickler @ Spotify](https://open.spotify.com/show/2Uc7vL8U6kUZYSCOvDIJ67)
-* [SoftwareArchitekTOUR - von Entwicklern für Entwickler @ Apple Podcasts](https://podcasts.apple.com/de/podcast/313825047)
-* [SoftwareArchitekTOUR - von Entwicklern für Entwickler Podcast RSS](https://www.heise.de/developer/rss/podcast-softwarearchitektour.rss)
-* Tags: Softwarearchitektur
 
 ----
 
@@ -1187,8 +1156,8 @@ Wöchentlich am Mittwoch stellen Prompt-Expertin Susanne Renate Schneider und t3
 
 Willkommen bei &#34;Technik-Tales: Kuriose Technikgeschichten&#34; – dem Podcast, der sich auf die spannendsten und skurrilsten Geschichten aus der Welt der Technik konzentriert! In jeder Episode treffen sich unsere beiden Technik-Enthusiasten, Kai und Paddy, um sich gegenseitig mit den ungewöhnlichsten und faszinierendsten Anekdoten aus der Welt der Innovation und Ingenieurskunst zu überraschen. Von den kuriosen Pannen bei der Raumfahrt bis hin zu den witzigsten Missgeschicken in der Softwareentwicklung – &#34;Technik-Tales&#34; bietet euch jede Menge Unterhaltung, Wissenswertes und natürlich viele Lacher. Erfahrt, wie ein kleiner Fehler in einem Algorithmus zu einem weltweiten Chaos führen kann, oder hört, welche verrückten Erfindungen einmal im Hype waren und dann in der Versenkung verschwanden.Ob ihr Technik-Fans, Nerds oder einfach nur neugierig auf die lustigen Seiten der High-Tech-Welt seid – dieser Podcast bringt euch die spannenden Geschichten, die man nicht im Lehrbuch findet. Schaltet ein, lehnt euch zurück und lasst euch von uns auf eine aufregende Reise durch die kurvenreiche Welt der Technik entführen!Abonnieren und nichts verpassen!
 
-* Number of published episodes: 57
-* Last episode published: 🟢 Sunday, 22 March 2026
+* Number of published episodes: 58
+* Last episode published: 🟢 Saturday, 04 April 2026
 * Weekly downloads (avg): 200 (updated: 2025-08-08)
 * [Technik Tales Website](http://www.techniktales.com/)
 * [Technik Tales @ Spotify](https://open.spotify.com/show/7k6FWQiFXbaQenxDHNpKuP)
@@ -1379,8 +1348,8 @@ In diesem Podcast geht es um Web und User Interface Design, Freelancing, Arbeits
 
 Im Webcafé erzählen Felix und Kay aus ihrem Arbeitsalltag bei der Geenen IT-Systeme GmbH und nehmen euch mit auf eine spannende Reise durch ihre Technologielandschaft, Programmierthemen und die Herausforderungen der Unternehmens- und Personalführung. Damit richtet sich der Podcast an EntwicklerInnen, FreelancerInnen und Führungskräfte.
 
-* Number of published episodes: 42
-* Last episode published: 🟢 Monday, 23 March 2026
+* Number of published episodes: 43
+* Last episode published: 🟢 Monday, 06 April 2026
 * [Webcafé - Webentwicklung und Unternehmenskultur Website](https://geenen-it-systeme.de/#podcast)
 * [Webcafé - Webentwicklung und Unternehmenskultur @ Spotify](https://open.spotify.com/show/6KnpB0BENh4XcHiqr4isHt)
 * [Webcafé - Webentwicklung und Unternehmenskultur @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1727941100)
@@ -1532,6 +1501,21 @@ Nothing But Tech - Aus Deutschland, der Schweiz und den USA. geek-week.de berich
 * [GeekWeek @ Spotify](https://open.spotify.com/show/4GrgnNFNgHNbZxu6DVxJIy)
 * [GeekWeek Podcast RSS](https://geekweekde.libsyn.com/rss)
 * Tags: News, Hardware, Cloud
+
+----
+
+<h3 id="heise-developer-softwarearchitektour">heise Developer: SoftwareArchitekTOUR</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/heise-developer-softwarearchitektour.jpg" />
+
+Der Podcast für den praktizierenden Softwarearchitekten
+
+* Number of published episodes: 108
+* Last episode published: 🔴 Monday, 06 October 2025
+* [heise Developer: SoftwareArchitekTOUR Website](https://www.heise.de/developer/SoftwareArchitekTOUR-4076349.html)
+* [heise Developer: SoftwareArchitekTOUR @ Spotify](https://open.spotify.com/show/2Uc7vL8U6kUZYSCOvDIJ67)
+* [heise Developer: SoftwareArchitekTOUR @ Apple Podcasts](https://podcasts.apple.com/de/podcast/313825047)
+* [heise Developer: SoftwareArchitekTOUR Podcast RSS](https://softwarearchitektour.podigee.io/feed/mp3)
 
 ----
 
@@ -1787,6 +1771,22 @@ Bei &#34;Software-Architektur als Beruf&#34; erzählen Menschen, wie ihr berufli
 
 ----
 
+<h3 id="softwarearchitektour-von-entwicklern-fur-entwickler">SoftwareArchitekTOUR - von Entwicklern für Entwickler</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/softwarearchitektour.jpg" />
+
+Der Podcast für praktische Softwarearchitektur. Mit: Carola Lilienthal, Patrick Roos, Johannes Seitz, Michael Stal, Gernot Starke, Eberhard Wolff.
+
+* Number of published episodes: 108
+* Last episode published: 🔴 Monday, 06 October 2025
+* [SoftwareArchitekTOUR - von Entwicklern für Entwickler Website](https://www.heise.de/thema/softwarearchitektour)
+* [SoftwareArchitekTOUR - von Entwicklern für Entwickler @ Spotify](https://open.spotify.com/show/2Uc7vL8U6kUZYSCOvDIJ67)
+* [SoftwareArchitekTOUR - von Entwicklern für Entwickler @ Apple Podcasts](https://podcasts.apple.com/de/podcast/313825047)
+* [SoftwareArchitekTOUR - von Entwicklern für Entwickler Podcast RSS](https://www.heise.de/developer/rss/podcast-softwarearchitektour.rss)
+* Tags: Softwarearchitektur
+
+----
+
 <h3 id="speak-1337">Speak 1337</h3>
 
 <img align="right" width="215" height="215" src="./generated/images/speak-1337.jpg" />
@@ -1869,7 +1869,7 @@ Der Podcast rund um Technologie, Smart Home, Gadgets und mehr. Patrick und Ingo 
 
 <h3 id="techtiefen">Techtiefen</h3>
 
-<img align="right" width="215" height="215" src="./generated/generated/images/techtiefen.jpg" />
+<img align="right" width="215" height="215" src="./generated/images/techtiefen.jpg" />
 
 Ausführliche, häufig zeitlose Gespräche von Gastgeber Nico Kreiling mit wechselnden Gästen der IT-Welt zu deren Fach-Gebieten. Von Nerds, für Nerds!
 
