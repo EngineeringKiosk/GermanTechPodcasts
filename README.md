@@ -282,7 +282,7 @@ Prozessoren, Grafikkarten, Notebooks, Desktop-PCs, Server, KI, Rechenzentren und
 Die wöchentliche Talkrunde rund um Apple, Mac, iPod &#43; iPhone, Gadgets und so. Fast live aus München.
 
 * Number of published episodes: 10
-* Last episode published: 🟢 Monday, 06 April 2026
+* Last episode published: 🟢 Tuesday, 14 April 2026
 * [Bits und so Website](http://www.bitsundso.de/)
 * [Bits und so @ Apple Podcasts](https://podcasts.apple.com/de/podcast/202753375)
 * [Bits und so Podcast RSS](http://www.bitsundso.de/feed/)
@@ -419,8 +419,8 @@ Jeden Samstag das Neueste aus Computertechnik und Informationstechnologie. Beitr
 
 Cybersecurity entschüsselt ist ein deutschsprachiger Podcast, in dem sich alles um Sicherheit dreht.
 
-* Number of published episodes: 73
-* Last episode published: 🟢 Tuesday, 31 March 2026
+* Number of published episodes: 74
+* Last episode published: 🟢 Tuesday, 14 April 2026
 * [Cybersecurity entschlüsselt Website](https://www.cybersecurity-entschluesselt.de)
 * [Cybersecurity entschlüsselt @ Spotify](https://open.spotify.com/show/0sAcefh8cixTxjJn9s1dvM)
 * [Cybersecurity entschlüsselt @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1637327527)
@@ -548,8 +548,8 @@ Einfach Komplex macht Software und IT verständlich – für Laien und Experten 
 
 Der Engineering Kiosk ist der deutschsprachige Software-Engineering-Podcast mit Wolfgang Gassler und Andy Grunwald rund um die Themen Engineering-Kultur, Open Source, Menschen, Technologie und allen anderen Bereichen, die damit in Verbindung stehen.
 
-* Number of published episodes: 264
-* Last episode published: 🟢 Tuesday, 07 April 2026
+* Number of published episodes: 265
+* Last episode published: 🟢 Tuesday, 14 April 2026
 * Weekly downloads (avg): 1099 (updated: 2023-01-31)
 * [Engineering Kiosk Website](https://engineeringkiosk.dev/)
 * [Engineering Kiosk @ Spotify](https://open.spotify.com/show/0tJRC0UsObPCWLmmzmOkIs)
@@ -707,8 +707,8 @@ Du bist Entwickler/Developer? Dann Lauscher auf! Thomas und Christian sprechen i
 
 In dieser Serie diskutieren wir interessante Themen aus Software-Entwicklung und -Architektur – immer mit dem Fokus auf Praxistauglichkeit.
 
-* Number of published episodes: 187
-* Last episode published: 🟢 Thursday, 02 April 2026
+* Number of published episodes: 188
+* Last episode published: 🟢 Monday, 13 April 2026
 * [INNOQ Podcast Website](https://www.innoq.com/de/podcast/)
 * [INNOQ Podcast @ Spotify](https://open.spotify.com/show/20svL8wDDgtidO2Qwf3EWx)
 * [INNOQ Podcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/672695146)
@@ -789,7 +789,7 @@ Der Podcast für Auszubildende, Ausbilder und IHK-Prüfer in den IT-Berufen (Fac
 Wie intelligent ist Künstliche Intelligenz eigentlich? Welche Folgen hat generative KI für unsere Arbeit, unsere Freizeit und die Gesellschaft? Im &#34;KI-Update&#34; von heise bringen wir Euch gemeinsam mit The Decoder werktäglich Updates zu den wichtigsten KI-Entwicklungen. Freitags beleuchten wir mit Experten die unterschiedlichen Aspekte der KI-Revolution.
 
 * Number of published episodes: 500
-* Last episode published: 🟢 Friday, 10 April 2026
+* Last episode published: 🟢 Monday, 13 April 2026
 * [KI-Update Website](https://www.heise.de/thema/KI-Update)
 * [KI-Update @ Spotify](https://open.spotify.com/show/1rm6gMybQWnHePvY2eCpzp)
 * [KI-Update @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1691536182)
@@ -805,7 +805,7 @@ Wie intelligent ist Künstliche Intelligenz eigentlich? Welche Folgen hat genera
 Die IT-News des Tages von heise online
 
 * Number of published episodes: 1000
-* Last episode published: 🟢 Monday, 13 April 2026
+* Last episode published: 🟢 Wednesday, 15 April 2026
 * [Kurz informiert by heise online Website](https://www.heise.de/Hoeren-Sie-von-uns-unsere-Podcasts-4206659.html)
 * [Kurz informiert by heise online @ Spotify](https://open.spotify.com/show/2etf1jog8leNHbnhIArM9Z)
 * [Kurz informiert by heise online Podcast RSS](https://kurzinformiert.podigee.io/feed/mp3)
@@ -915,8 +915,8 @@ Wir thematisieren die wichtigen Fragestellungen rund um Internet, Gesellschaft u
 
 Mit geballter Dev-Power nehmen Dennis, Fabi, Sebi und Jojo neue Podcastfolgen auf und werden dabei regelmäßig von Gäst:innen aus der Branche unterstützt. Taucht in unseren Deep Dives mit uns in Frameworks und Datenbanken ein, hört euch in den CTO-Specials die Erfahrungen führender Persönlichkeiten großer Unternehmen an und bleibt mit unseren News-Folgen stets am Ball in der Welt der App- und Webentwicklung.
 
-* Number of published episodes: 502
-* Last episode published: 🟢 Thursday, 09 April 2026
+* Number of published episodes: 503
+* Last episode published: 🟢 Tuesday, 14 April 2026
 * Weekly downloads (avg): 8744 (updated: 2023-04-12)
 * [programmier.bar Website](https://www.programmier.bar/podcast)
 * [programmier.bar @ Spotify](https://open.spotify.com/show/0ik0sXv9paTQCeThcOLCCJ)
@@ -1141,8 +1141,8 @@ In diesem Podcast diskutiert die t3n-Redaktion mit Gästen über die spannendste
 
 Wöchentlich am Mittwoch stellen Prompt-Expertin Susanne Renate Schneider und t3n-Redakteurin Stella-Sophie Wojtczak Prompts vor, die für den Arbeitsalltag relevant sind. Mit ihrem KI-Klartext liefern sie Vorschläge für Prompts, die sinnvolle Ergebnisse erzielen. Dazu gehen sie einmal pro Monat auf häufige Prompt-Fehler ein und erklären, wie sich diese vermeiden lassen. Ihre Anleitungen sind stets kurz, konkret und  direkt umsetzbar – t3n MeisterPrompter ist dein KI-Podcast zum mitprompten.
 
-* Number of published episodes: 65
-* Last episode published: 🟢 Wednesday, 08 April 2026
+* Number of published episodes: 66
+* Last episode published: 🟢 Wednesday, 15 April 2026
 * [t3n MeisterPrompter Website](https://t3n.de/podcast#meisterprompter)
 * [t3n MeisterPrompter @ Spotify](https://open.spotify.com/show/0vgZKlXhSZ12WovlEAgCgX)
 * [t3n MeisterPrompter @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1796409152)
@@ -1253,8 +1253,8 @@ Sujeevan und Dirk reden über Themen, die Ihnen in der letzten Zeit untergekomme
 
 Deutschsprachiger Podcast für die großen und kleinen Fragen des Developeralltags. Schon seit Langem tauschen sich Malte und Robin-Manuel in regelmäßigen Abständen über diverse Themen aus ihrem Alltag in der Softwareentwicklung aus. Dabei lernen sie jedes Mal etwas Neues! Warum also das Ganze nicht aufzeichnen und als Podcast zur Verfügung stellen?
 
-* Number of published episodes: 159
-* Last episode published: 🟢 Monday, 30 March 2026
+* Number of published episodes: 161
+* Last episode published: 🟢 Monday, 13 April 2026
 * [todo:cast Website](https://www.todocast.io/)
 * [todo:cast @ Spotify](https://open.spotify.com/show/2tIlVD6vBAtEhOZM4jS1mw)
 * [todo:cast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1467179396)
@@ -1380,8 +1380,8 @@ Latenight-Frontend-Talkshow rund um Webdesign und Entwicklung. Es reden sich um 
 
 Wöchentlicher Podcast für Webdesigner:innen und -entwickler:innen
 
-* Number of published episodes: 733
-* Last episode published: 🟢 Tuesday, 07 April 2026
+* Number of published episodes: 734
+* Last episode published: 🟢 Tuesday, 14 April 2026
 * [Working Draft Website](https://workingdraft.de/)
 * [Working Draft @ Spotify](https://open.spotify.com/show/78iH7cIFzu1ejoB6aQUsIh)
 * [Working Draft @ Apple Podcasts](https://podcasts.apple.com/de/podcast/402204581)
