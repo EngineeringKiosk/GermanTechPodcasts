@@ -6,7 +6,7 @@ All listed podcasts are available as an [OPML file (podcasts.opml)](./podcasts.o
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (79 podcasts)
+* [Podcasts](#podcasts) (78 podcasts)
   * [#heiseshow](#heiseshow)
   * [((c3d2)) Pentaradio 24](#c3d2-pentaradio-24)
   * [0d - Zeroday](#0d-zeroday)
@@ -34,7 +34,6 @@ All listed podcasts are available as an [OPML file (podcasts.opml)](./podcasts.o
   * [Digitale Anomalien](#digitale-anomalien)
   * [Einfach Komplex](#einfach-komplex)
   * [Engineering Kiosk](#engineering-kiosk)
-  * [Faxinformatiker](#faxinformatiker)
   * [Female TechTalk](#female-techtalk)
   * [FOCUS ON: DevOps](#focus-on-devops)
   * [Freakshow](#freakshow)
@@ -86,12 +85,13 @@ All listed podcasts are available as an [OPML file (podcasts.opml)](./podcasts.o
   * [Webcafé - Webentwicklung und Unternehmenskultur](#webcafe-webentwicklung-und-unternehmenskultur)
   * [Wo wir sind ist vorne](#wo-wir-sind-ist-vorne)
   * [Working Draft](#working-draft)
-* [Archived podcasts](#archived-podcasts) (32 podcasts)
+* [Archived podcasts](#archived-podcasts) (33 podcasts)
   * [Bits &amp; Böses - Der Tech Crime Podcast](#bits-and-boses-der-tech-crime-podcast)
   * [Codestammtisch](#codestammtisch)
   * [Der GameDev Podcast](#der-gamedev-podcast)
   * [dev.env](#dev-env)
   * [Digitalisierungsfieber](#digitalisierungsfieber)
+  * [Faxinformatiker](#faxinformatiker)
   * [FOCUS ON: Linux](#focus-on-linux)
   * [GeekWeek](#geekweek)
   * [heise Developer: SoftwareArchitekTOUR](#heise-developer-softwarearchitektour)
@@ -372,8 +372,8 @@ Ein Podcast über den nahezu unendlich tiefen Kaninchenbau der mechanische Tasta
 
 Lucas Rott und Markus Herhoffer erzählen alle 14 Tage von Code und Nerd-Kultur. Mit News aus der Tech-Bubble, einem Thema der Woche über Software development und dem Code der Woche.
 
-* Number of published episodes: 136
-* Last episode published: 🟢 Monday, 09 March 2026
+* Number of published episodes: 137
+* Last episode published: 🟢 Monday, 27 April 2026
 * [Code Culture Website](https://codeculture.podigee.io/)
 * [Code Culture @ Spotify](https://open.spotify.com/show/01ZL2aPP50lLW51u2aTOkN)
 * [Code Culture @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1516904389)
@@ -418,8 +418,8 @@ Jeden Samstag das Neueste aus Computertechnik und Informationstechnologie. Beitr
 
 Cybersecurity entschüsselt ist ein deutschsprachiger Podcast, in dem sich alles um Sicherheit dreht.
 
-* Number of published episodes: 74
-* Last episode published: 🟢 Tuesday, 14 April 2026
+* Number of published episodes: 75
+* Last episode published: 🟢 Tuesday, 28 April 2026
 * [Cybersecurity entschlüsselt Website](https://www.cybersecurity-entschluesselt.de)
 * [Cybersecurity entschlüsselt @ Spotify](https://open.spotify.com/show/0sAcefh8cixTxjJn9s1dvM)
 * [Cybersecurity entschlüsselt @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1637327527)
@@ -480,8 +480,8 @@ Wir machen Data Science. Und in unserem Podcast Data Science Deep Dive reden wir
 
 Der Unterhaltungs-Podcast für .NET Entwickler - ca. alle zwei Wochen treffen sich die freiberuflichen Entwickler Oliver Vogel, Thomas Krause und Manuel Wenk um über allerlei News und Infos aus der .NET und Microsoft Azure Welt zu berichten. Ist das Essen schon da?
 
-* Number of published episodes: 120
-* Last episode published: 🟡 Wednesday, 17 December 2025
+* Number of published episodes: 121
+* Last episode published: 🟢 Tuesday, 28 April 2026
 * Weekly downloads (avg): 471 (updated: 2023-01-03)
 * [DevCouch Website](https://devcouch.de/)
 * [DevCouch @ Spotify](https://open.spotify.com/show/0MfjnJ0I7SxJ89JIBWIcJJ)
@@ -555,22 +555,6 @@ Der Engineering Kiosk ist der deutschsprachige Software-Engineering-Podcast mit 
 * [Engineering Kiosk @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1603082924)
 * [Engineering Kiosk Podcast RSS](https://feeds.redcircle.com/0ecfdfd7-fda1-4c3d-9515-476727f9df5e)
 * Tags: Softwareentwicklung, Tech-Kultur, Open Source, DevOps, Cloud
-
-----
-
-<h3 id="faxinformatiker">Faxinformatiker</h3>
-
-<img align="right" width="215" height="215" src="./generated/images/faxinformatiker.png" />
-
-Willkommen beim Faxinformatiker-Podcast, wo wir die humorvolle und manchmal chaotische Welt der IT erkunden! Wir – Marius Quabeck, Claudia Kühn, Patrick Terlisten, Falk Rösing und Christian Stankowic – teilen unsere besten und schlimmsten Anekdoten aus dem Berufsalltag. Von unerwarteten Stromausfällen und durchgebrannten Telefonanlagen bis hin zu ausgefallenen Klimaanlagen – bei uns gibt es immer wieder Überraschungen, die uns auf Trab halten. Erlebt mit uns, wie wir mit kreativen Lösungen und einer Portion Humor diese Herausforderungen meistern. Unser Podcast ist ein Mix aus Tech-Talk und unterhaltsamen Geschichten direkt aus dem Leben eines Fachinformatikers. Ob ihr selbst in der IT arbeitet oder einfach nur neugierig auf die Welt hinter den Bildschirmen seid – bei uns seid ihr genau richtig. Schaltet ein, lacht mit uns und lernt aus unseren Erfahrungen.
-
-* Number of published episodes: 10
-* Last episode published: 🟡 Monday, 27 October 2025
-* [Faxinformatiker Website](https://faxinformatiker.de/)
-* [Faxinformatiker @ Spotify](https://open.spotify.com/show/2Ep8xMdjrvi46XJiPS9uAh)
-* [Faxinformatiker @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1750596424)
-* [Faxinformatiker Podcast RSS](https://faxinformatiker.de/feed/podcast/)
-* Tags: Tech-Talk
 
 ----
 
@@ -673,8 +657,8 @@ Zwei Softwareentwickler und Spiele-Enthusiasten entwickeln in ihrer Freizeit Vid
 
 Increase Cycle Time ist Euer JobRad® Podcast für Software-Entwicklung. Und alles, was damit zusammenhängt.
 
-* Number of published episodes: 9
-* Last episode published: 🟢 Wednesday, 25 March 2026
+* Number of published episodes: 10
+* Last episode published: 🟢 Tuesday, 28 April 2026
 * Weekly downloads (avg): 158 (updated: 2025-08-11)
 * [Increase Cycle Time - Der JobRad® Development Podcast Website](https://jobrad-increase-cycle-time.podigee.io/)
 * [Increase Cycle Time - Der JobRad® Development Podcast @ Spotify](https://open.spotify.com/show/0hJlS2NMC0NEreoUzz7tp3?si=997aa47bd99b4ae3)
@@ -788,7 +772,7 @@ Der Podcast für Auszubildende, Ausbilder und IHK-Prüfer in den IT-Berufen (Fac
 Wie intelligent ist Künstliche Intelligenz eigentlich? Welche Folgen hat generative KI für unsere Arbeit, unsere Freizeit und die Gesellschaft? Im &#34;KI-Update&#34; von heise bringen wir Euch gemeinsam mit The Decoder werktäglich Updates zu den wichtigsten KI-Entwicklungen. Freitags beleuchten wir mit Experten die unterschiedlichen Aspekte der KI-Revolution.
 
 * Number of published episodes: 500
-* Last episode published: 🟢 Friday, 24 April 2026
+* Last episode published: 🟢 Monday, 27 April 2026
 * [KI-Update Website](https://www.heise.de/thema/KI-Update)
 * [KI-Update @ Spotify](https://open.spotify.com/show/1rm6gMybQWnHePvY2eCpzp)
 * [KI-Update @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1691536182)
@@ -804,7 +788,7 @@ Wie intelligent ist Künstliche Intelligenz eigentlich? Welche Folgen hat genera
 Die IT-News des Tages von heise online
 
 * Number of published episodes: 1000
-* Last episode published: 🟢 Monday, 27 April 2026
+* Last episode published: 🟢 Wednesday, 29 April 2026
 * [Kurz informiert by heise online Website](https://www.heise.de/Hoeren-Sie-von-uns-unsere-Podcasts-4206659.html)
 * [Kurz informiert by heise online @ Spotify](https://open.spotify.com/show/2etf1jog8leNHbnhIArM9Z)
 * [Kurz informiert by heise online Podcast RSS](https://kurzinformiert.podigee.io/feed/mp3)
@@ -814,7 +798,7 @@ Die IT-News des Tages von heise online
 
 <h3 id="logbuch-digitalien">Logbuch Digitalien</h3>
 
-<img align="right" width="215" height="215" src="./generated/images/logbuch-digitalien.jpg" />
+<img align="right" width="215" height="215" src="./generated/generated/images/logbuch-digitalien.jpg" />
 
 Der Podcast über unsere digitale Lebens- und Arbeitswelt mit Markus Hörster und Christian Cordes. Alle vier Wochen dienstags um 19.00 Uhr im Radio auf Radio Okerwelle (UKW 104,6 in der Region Braunschweig) und nach der Ausstrahlung als Podcast. Wir beschäftigen uns mit allen Themen, die etwas mit Digitalien zu tun haben.
 
@@ -914,8 +898,8 @@ Wir thematisieren die wichtigen Fragestellungen rund um Internet, Gesellschaft u
 
 Mit geballter Dev-Power nehmen Dennis, Fabi, Sebi und Jojo neue Podcastfolgen auf und werden dabei regelmäßig von Gäst:innen aus der Branche unterstützt. Taucht in unseren Deep Dives mit uns in Frameworks und Datenbanken ein, hört euch in den CTO-Specials die Erfahrungen führender Persönlichkeiten großer Unternehmen an und bleibt mit unseren News-Folgen stets am Ball in der Welt der App- und Webentwicklung.
 
-* Number of published episodes: 506
-* Last episode published: 🟢 Thursday, 23 April 2026
+* Number of published episodes: 507
+* Last episode published: 🟢 Tuesday, 28 April 2026
 * Weekly downloads (avg): 8744 (updated: 2023-04-12)
 * [programmier.bar Website](https://www.programmier.bar/podcast)
 * [programmier.bar @ Spotify](https://open.spotify.com/show/0ik0sXv9paTQCeThcOLCCJ)
@@ -1093,8 +1077,8 @@ Zwei Freunde, ihr Smart Home, Self-Hosting, Technik und das ein oder andere Inte
 
 Live-Diskussion zu Software-Architektur im Stream. Einmal in der Woche diskutiert Eberhard Wolff Software-Architektur im Live-Stream auf YouTube und Twitch - oft zusammen mit einem Gast. Zuschauer können über den Chat mitdiskutieren oder Fragen stellen. Der Podcast enthält die Audio-Spur des Streams.
 
-* Number of published episodes: 307
-* Last episode published: 🟢 Monday, 20 April 2026
+* Number of published episodes: 308
+* Last episode published: 🟢 Tuesday, 28 April 2026
 * [SoftwareArchitektur im Stream Website](https://software-architektur.tv/)
 * [SoftwareArchitektur im Stream @ Spotify](https://open.spotify.com/show/7ySg1eZoWYBshd6QpGaW8B)
 * [SoftwareArchitektur im Stream @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1538545458)
@@ -1140,8 +1124,8 @@ In diesem Podcast diskutiert die t3n-Redaktion mit Gästen über die spannendste
 
 Wöchentlich am Mittwoch stellen Prompt-Expertin Susanne Renate Schneider und t3n-Redakteurin Stella-Sophie Wojtczak Prompts vor, die für den Arbeitsalltag relevant sind. Mit ihrem KI-Klartext liefern sie Vorschläge für Prompts, die sinnvolle Ergebnisse erzielen. Dazu gehen sie einmal pro Monat auf häufige Prompt-Fehler ein und erklären, wie sich diese vermeiden lassen. Ihre Anleitungen sind stets kurz, konkret und  direkt umsetzbar – t3n MeisterPrompter ist dein KI-Podcast zum mitprompten.
 
-* Number of published episodes: 67
-* Last episode published: 🟢 Wednesday, 22 April 2026
+* Number of published episodes: 68
+* Last episode published: 🟢 Wednesday, 29 April 2026
 * [t3n MeisterPrompter Website](https://t3n.de/podcast#meisterprompter)
 * [t3n MeisterPrompter @ Spotify](https://open.spotify.com/show/0vgZKlXhSZ12WovlEAgCgX)
 * [t3n MeisterPrompter @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1796409152)
@@ -1203,8 +1187,8 @@ IT-Security, unendliche Weiten ... So oder so ähnlich lässt sich die Größeno
 
 Der neue Technologie-Podcast mit Svea Eckert und Eva Wolfangel. Die beiden freien Technologie-Journalistinnen widmen sich jeden Mittwoch spannenden Tech-Thema und laden sich dazu inspirierende weibliche Gäste ein. Aber auch die Podcast-Hosts bringen etwas mit: investigative und spannende Recherchen, zu denen es in jeder Folge gleich zu Beginn einen kurzen Deepdive gibt.
 
-* Number of published episodes: 79
-* Last episode published: 🟢 Wednesday, 22 April 2026
+* Number of published episodes: 80
+* Last episode published: 🟢 Wednesday, 29 April 2026
 * [They Talk Tech – mit Eckert und Wolfangel Website](https://frauen-technik.podigee.io/)
 * [They Talk Tech – mit Eckert und Wolfangel @ Spotify](https://open.spotify.com/show/3HwNHImCFF1NvNMQnN2rFR)
 * [They Talk Tech – mit Eckert und Wolfangel @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1762825923)
@@ -1380,8 +1364,8 @@ Latenight-Frontend-Talkshow rund um Webdesign und Entwicklung. Es reden sich um 
 
 Wöchentlicher Podcast für Webdesigner:innen und -entwickler:innen
 
-* Number of published episodes: 735
-* Last episode published: 🟢 Tuesday, 21 April 2026
+* Number of published episodes: 736
+* Last episode published: 🟢 Tuesday, 28 April 2026
 * [Working Draft Website](https://workingdraft.de/)
 * [Working Draft @ Spotify](https://open.spotify.com/show/78iH7cIFzu1ejoB6aQUsIh)
 * [Working Draft @ Apple Podcasts](https://podcasts.apple.com/de/podcast/402204581)
@@ -1469,6 +1453,22 @@ Digitalisierungsfieber, dem Podcast für IT Security, Datenschutz, und IT Servic
 * [Digitalisierungsfieber @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1490620957)
 * [Digitalisierungsfieber Podcast RSS](https://andreaskunz.libsyn.com/rss)
 * Tags: IT-Sicherheit, Datenschutz
+
+----
+
+<h3 id="faxinformatiker">Faxinformatiker</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/faxinformatiker.png" />
+
+Willkommen beim Faxinformatiker-Podcast, wo wir die humorvolle und manchmal chaotische Welt der IT erkunden! Wir – Marius Quabeck, Claudia Kühn, Patrick Terlisten, Falk Rösing und Christian Stankowic – teilen unsere besten und schlimmsten Anekdoten aus dem Berufsalltag. Von unerwarteten Stromausfällen und durchgebrannten Telefonanlagen bis hin zu ausgefallenen Klimaanlagen – bei uns gibt es immer wieder Überraschungen, die uns auf Trab halten. Erlebt mit uns, wie wir mit kreativen Lösungen und einer Portion Humor diese Herausforderungen meistern. Unser Podcast ist ein Mix aus Tech-Talk und unterhaltsamen Geschichten direkt aus dem Leben eines Fachinformatikers. Ob ihr selbst in der IT arbeitet oder einfach nur neugierig auf die Welt hinter den Bildschirmen seid – bei uns seid ihr genau richtig. Schaltet ein, lacht mit uns und lernt aus unseren Erfahrungen.
+
+* Number of published episodes: 10
+* Last episode published: 🔴 Monday, 27 October 2025
+* [Faxinformatiker Website](https://faxinformatiker.de/)
+* [Faxinformatiker @ Spotify](https://open.spotify.com/show/2Ep8xMdjrvi46XJiPS9uAh)
+* [Faxinformatiker @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1750596424)
+* [Faxinformatiker Podcast RSS](https://faxinformatiker.de/feed/podcast/)
+* Tags: Tech-Talk
 
 ----
 
