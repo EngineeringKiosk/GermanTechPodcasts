@@ -6,7 +6,7 @@ All listed podcasts are available as an [OPML file (podcasts.opml)](./podcasts.o
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (77 podcasts)
+* [Podcasts](#podcasts) (78 podcasts)
   * [#heiseshow](#heiseshow)
   * [((c3d2)) Pentaradio 24](#c3d2-pentaradio-24)
   * [0d - Zeroday](#0d-zeroday)
@@ -22,6 +22,7 @@ All listed podcasts are available as an [OPML file (podcasts.opml)](./podcasts.o
   * [c&#39;t uplink](#ct-uplink)
   * [Chaosradio](#chaosradio)
   * [Click! Clack! Hack!](#click-clack-hack)
+  * [Co-Op Mode](#co-op-mode)
   * [Code Culture](#code-culture)
   * [Coding Buddies](#coding-buddies)
   * [Computer und Kommunikation (Deutschlandfunk)](#computer-und-kommunikation-deutschlandfunk)
@@ -152,8 +153,8 @@ Immer donnerstags live um 17 Uhr sprechen Anna Kalinowsky, Malte Kirchner und Vo
 Pentaradio24 ist eine Sendung, die jeden vierten Dienstag im Monat zwischen 21:30 und 23:00 Uhr auf coloRadio live ausgestrahlt wird, bestehend aus einem informativen Rahmenprogramm und Beiträgen zu einem sendungsspezifischen Thema.
 
 
-* Number of published episodes: 29
-* Last episode published: 🟢 Monday, 30 March 2026
+* Number of published episodes: 30
+* Last episode published: 🟢 Saturday, 02 May 2026
 * [((c3d2)) Pentaradio 24 Website](https://www.c3d2.de/radio.html)
 * [((c3d2)) Pentaradio 24 @ Apple Podcasts](https://podcasts.apple.com/de/podcast/350873124)
 * [((c3d2)) Pentaradio 24 Podcast RSS](https://www.c3d2.de/pentaradio.xml)
@@ -363,6 +364,22 @@ Ein Podcast über den nahezu unendlich tiefen Kaninchenbau der mechanische Tasta
 * [Click! Clack! Hack! @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1551770169)
 * [Click! Clack! Hack! Podcast RSS](https://www.nerdbude.com/podcast/feed/feed.xml)
 * Tags: Hardware, Tastaturen
+
+----
+
+<h3 id="co-op-mode">Co-Op Mode</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/co-op-mode.jpg" />
+
+Führung ist kein Singleplayer. Viele Manager in Software Entwicklung versuchen, den &#34;Helden&#34; zu spielen. Aber im Business gewinnst du nur im Team. Willkommen im Co-Op Mode! Ich bin Georg Hofmann, Digital Leader &amp; Coach. Ich zeige dir, was moderne Führungskräfte vom Gaming lernen können. Wir übersetzen Agile Leadership in Gaming-Logik: - Psychologische Sicherheit als &#34;Session Zero&#34; - Teams aufstellen wie eine Raid-Party - Strategie als &#34;Infinite Game&#34;. Kein Bullshit-Bingo, sondern echte XP für deinen Alltag. Bau eine Gilde, die jeden Boss besiegt. Drück Start! 🚀
+
+* Number of published episodes: 11
+* Last episode published: 🟢 Tuesday, 28 April 2026
+* [Co-Op Mode Website]()
+* [Co-Op Mode @ Spotify](https://open.spotify.com/show/2fq8citwJMLavqTlXU4rBF)
+* [Co-Op Mode @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1862619391)
+* [Co-Op Mode Podcast RSS](https://anchor.fm/s/10ceeec1c/podcast/rss)
+* Tags: Team culture, leadership
 
 ----
 
@@ -798,7 +815,7 @@ Die IT-News des Tages von heise online
 
 <h3 id="logbuch-digitalien">Logbuch Digitalien</h3>
 
-<img align="right" width="215" height="215" src="./generated/images/logbuch-digitalien.jpg" />
+<img align="right" width="215" height="215" src="./generated/generated/images/logbuch-digitalien.jpg" />
 
 Der Podcast über unsere digitale Lebens- und Arbeitswelt mit Markus Hörster und Christian Cordes. Alle vier Wochen dienstags um 19.00 Uhr im Radio auf Radio Okerwelle (UKW 104,6 in der Region Braunschweig) und nach der Ausstrahlung als Podcast. Wir beschäftigen uns mit allen Themen, die etwas mit Digitalien zu tun haben.
 
