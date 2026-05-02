@@ -6,7 +6,7 @@ All listed podcasts are available as an [OPML file (podcasts.opml)](./podcasts.o
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (78 podcasts)
+* [Podcasts](#podcasts) (77 podcasts)
   * [#heiseshow](#heiseshow)
   * [((c3d2)) Pentaradio 24](#c3d2-pentaradio-24)
   * [0d - Zeroday](#0d-zeroday)
@@ -83,9 +83,8 @@ All listed podcasts are available as an [OPML file (podcasts.opml)](./podcasts.o
   * [Wartungsfenster](#wartungsfenster)
   * [Web &amp; Design Podcast](#web-and-design-podcast)
   * [Webcafé - Webentwicklung und Unternehmenskultur](#webcafe-webentwicklung-und-unternehmenskultur)
-  * [Wo wir sind ist vorne](#wo-wir-sind-ist-vorne)
   * [Working Draft](#working-draft)
-* [Archived podcasts](#archived-podcasts) (33 podcasts)
+* [Archived podcasts](#archived-podcasts) (34 podcasts)
   * [Bits &amp; Böses - Der Tech Crime Podcast](#bits-and-boses-der-tech-crime-podcast)
   * [Codestammtisch](#codestammtisch)
   * [Der GameDev Podcast](#der-gamedev-podcast)
@@ -118,6 +117,7 @@ All listed podcasts are available as an [OPML file (podcasts.opml)](./podcasts.o
   * [t3n Daily](#t3n-daily)
   * [Tech me if you can](#tech-me-if-you-can)
   * [Techtiefen](#techtiefen)
+  * [Wo wir sind ist vorne](#wo-wir-sind-ist-vorne)
   * [WP Sofa](#wp-sofa)
 * [Legend](#legend)
 * [How to contribute](#how-to-contribute)
@@ -152,7 +152,7 @@ Immer donnerstags live um 17 Uhr sprechen Anna Kalinowsky, Malte Kirchner und Vo
 Pentaradio24 ist eine Sendung, die jeden vierten Dienstag im Monat zwischen 21:30 und 23:00 Uhr auf coloRadio live ausgestrahlt wird, bestehend aus einem informativen Rahmenprogramm und Beiträgen zu einem sendungsspezifischen Thema.
 
 
-* Number of published episodes: 30
+* Number of published episodes: 29
 * Last episode published: 🟢 Monday, 30 March 2026
 * [((c3d2)) Pentaradio 24 Website](https://www.c3d2.de/radio.html)
 * [((c3d2)) Pentaradio 24 @ Apple Podcasts](https://podcasts.apple.com/de/podcast/350873124)
@@ -311,8 +311,8 @@ Breach FM taucht tief in die Welt der Cybersicherheit, digitalen Konflikte und i
 
 Zwei Admins sprechen über die Buzzwords, die ihr jeden Tag hört und benutzt, deren Bedeutung ihr aber noch nie zu hinterfragen wagtet.
 
-* Number of published episodes: 133
-* Last episode published: 🟢 Wednesday, 15 April 2026
+* Number of published episodes: 134
+* Last episode published: 🟢 Friday, 01 May 2026
 * [BuzzZoom Website](https://buzzzoom.de/)
 * [BuzzZoom @ Spotify](https://open.spotify.com/show/62IRAtqB4QWOeH6oXaJflx)
 * [BuzzZoom @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1534027177)
@@ -327,8 +327,8 @@ Zwei Admins sprechen über die Buzzwords, die ihr jeden Tag hört und benutzt, d
 
 Mitglieder der c&#39;t-Redaktion diskutieren über die aktuellen Themen aus dem c’t Magazin und was sonst noch so in der IT-Welt passiert.
 
-* Number of published episodes: 644
-* Last episode published: 🟢 Saturday, 25 April 2026
+* Number of published episodes: 645
+* Last episode published: 🟢 Saturday, 02 May 2026
 * [c&#39;t uplink Website](https://www.heise.de/thema/ct-uplink)
 * [c&#39;t uplink @ Spotify](https://open.spotify.com/show/4LdN7lGr9winLtQSqoIjVD)
 * [c&#39;t uplink @ Apple Podcasts](https://podcasts.apple.com/de/podcast/835717958)
@@ -387,8 +387,8 @@ Lucas Rott und Markus Herhoffer erzählen alle 14 Tage von Code und Nerd-Kultur.
 
 Dein Podcast rund um Softwareentwicklung und aktueller Tech News. Lernt die Coding Buddies Tino und Fabi kennen. Erfahrt spannende Dinge über diverse Themen aus der Softwareentwicklung und lauscht den Erfahrungen der Beiden. Dazu gibt es witzige Anekdoten der Coding Buddies.
 
-* Number of published episodes: 162
-* Last episode published: 🟢 Thursday, 23 April 2026
+* Number of published episodes: 163
+* Last episode published: 🟢 Thursday, 30 April 2026
 * [Coding Buddies Website](https://www.codingbuddies.de/)
 * [Coding Buddies @ Spotify](https://open.spotify.com/show/5DaiBkAgQBt8DRCcwZY8xT?si=4acf817842f44c43)
 * [Coding Buddies @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1680339110)
@@ -547,8 +547,8 @@ Einfach Komplex macht Software und IT verständlich – für Laien und Experten 
 
 Der Engineering Kiosk ist der deutschsprachige Software-Engineering-Podcast mit Wolfgang Gassler und Andy Grunwald rund um die Themen Engineering-Kultur, Open Source, Menschen, Technologie und allen anderen Bereichen, die damit in Verbindung stehen.
 
-* Number of published episodes: 266
-* Last episode published: 🟢 Tuesday, 21 April 2026
+* Number of published episodes: 267
+* Last episode published: 🟢 Tuesday, 28 April 2026
 * Weekly downloads (avg): 1099 (updated: 2023-01-31)
 * [Engineering Kiosk Website](https://engineeringkiosk.dev/)
 * [Engineering Kiosk @ Spotify](https://open.spotify.com/show/0tJRC0UsObPCWLmmzmOkIs)
@@ -798,7 +798,7 @@ Die IT-News des Tages von heise online
 
 <h3 id="logbuch-digitalien">Logbuch Digitalien</h3>
 
-<img align="right" width="215" height="215" src="./generated/generated/images/logbuch-digitalien.jpg" />
+<img align="right" width="215" height="215" src="./generated/images/logbuch-digitalien.jpg" />
 
 Der Podcast über unsere digitale Lebens- und Arbeitswelt mit Markus Hörster und Christian Cordes. Alle vier Wochen dienstags um 19.00 Uhr im Radio auf Radio Okerwelle (UKW 104,6 in der Region Braunschweig) und nach der Ausstrahlung als Podcast. Wir beschäftigen uns mit allen Themen, die etwas mit Digitalien zu tun haben.
 
@@ -1267,8 +1267,8 @@ Der Podcast des Tux-Tage Teams. Wir wollen euch über die wichtigsten Themen in 
 
 Wir sind UNMUTE IT, der Podcast von und mit Frauen aus der IT. Wir erzählen von unseren Erfahrungen, begegneten Herausforderungen, Tipps &amp; Tricks und teilen die eine oder andere Anekdote. Frauen gehören in STEM Felder.Mit unserer Präsenz wollen wir dies untermauern und Frauen motivieren, sich mit dem Thema zu beschäftigen und den Schritt in die IT zu gehen.
 
-* Number of published episodes: 95
-* Last episode published: 🟢 Friday, 24 April 2026
+* Number of published episodes: 96
+* Last episode published: 🟢 Friday, 01 May 2026
 * Weekly downloads (avg): 177 (updated: 2023-01-21)
 * [Unmute IT Website](https://linkr.bio/unmute-it)
 * [Unmute IT @ Spotify](https://open.spotify.com/show/4v3xXuY5Km98xnmeXeGZgx)
@@ -1339,22 +1339,6 @@ Im Webcafé erzählen Felix und Kay aus ihrem Arbeitsalltag bei der Geenen IT-Sy
 * [Webcafé - Webentwicklung und Unternehmenskultur @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1727941100)
 * [Webcafé - Webentwicklung und Unternehmenskultur Podcast RSS](https://webcafe.podigee.io/feed/mp3)
 * Tags: Webentwicklung, Softwareentwicklung, Unternehmensführung
-
-----
-
-<h3 id="wo-wir-sind-ist-vorne">Wo wir sind ist vorne</h3>
-
-<img align="right" width="215" height="215" src="./generated/images/wo-wir-sind-ist-vorne.png" />
-
-Latenight-Frontend-Talkshow rund um Webdesign und Entwicklung. Es reden sich um &lt;HEAD&gt; und Kragen: HTML-Fundamentalist Moritz Gießmann und JavaScript Jongleur Constantin Groß.
-
-* Number of published episodes: 79
-* Last episode published: 🟡 Sunday, 02 November 2025
-* [Wo wir sind ist vorne Website](https://wowirsindistvorne.show/)
-* [Wo wir sind ist vorne @ Spotify](https://open.spotify.com/show/54K1DpiQYHBHSnIO6OzSKs)
-* [Wo wir sind ist vorne @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1500485579)
-* [Wo wir sind ist vorne Podcast RSS](https://wowirsindistvorne.show/feed/mp3/)
-* Tags: Frontend, UX, HTML, CSS, JavaScript, Tooling, Frameworks, Accessibility
 
 ----
 
@@ -1881,6 +1865,22 @@ Ausführliche, häufig zeitlose Gespräche von Gastgeber Nico Kreiling mit wechs
 * [Techtiefen @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1349481289)
 * [Techtiefen Podcast RSS](https://techtiefen.de//index.php/feed/mp3/)
 * Tags: Softwareentwicklung, Data Science, Künstliche Intelligenz
+
+----
+
+<h3 id="wo-wir-sind-ist-vorne">Wo wir sind ist vorne</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/wo-wir-sind-ist-vorne.png" />
+
+Latenight-Frontend-Talkshow rund um Webdesign und Entwicklung. Es reden sich um &lt;HEAD&gt; und Kragen: HTML-Fundamentalist Moritz Gießmann und JavaScript Jongleur Constantin Groß.
+
+* Number of published episodes: 79
+* Last episode published: 🔴 Sunday, 02 November 2025
+* [Wo wir sind ist vorne Website](https://wowirsindistvorne.show/)
+* [Wo wir sind ist vorne @ Spotify](https://open.spotify.com/show/54K1DpiQYHBHSnIO6OzSKs)
+* [Wo wir sind ist vorne @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1500485579)
+* [Wo wir sind ist vorne Podcast RSS](https://wowirsindistvorne.show/feed/mp3/)
+* Tags: Frontend, UX, HTML, CSS, JavaScript, Tooling, Frameworks, Accessibility
 
 ----
 
