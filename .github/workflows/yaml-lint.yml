@@ -17,5 +17,5 @@ jobs:
       - name: yaml-lint
         uses: ibiqlik/action-yamllint@v3.1.1
         with:
-          file_or_dir: podcasts/*.yml
+          file_or_dir: podcasts/*.yml podcasts/*.yaml
           config_file: .yamllint.yml

@@ -41,7 +41,7 @@ func cmdTagStats(cmd *cobra.Command, args []string) error {
 	}
 
 	// Read YML files
-	ymlFiles, err := libIO.GetAllFilesFromDirectory(ymlDir, ".yml")
+	ymlFiles, err := libIO.GetAllFilesFromDirectoryWithExtensions(ymlDir, libIO.GetYAMLExtensions())
 	if err != nil {
 		return err
 	}
