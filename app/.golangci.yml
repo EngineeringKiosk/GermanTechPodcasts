@@ -1,0 +1,28 @@
+version: "2"
+linters:
+  # Default set of linters.
+  # The value can be: `standard`, `all`, `none`, or `fast`.
+  default: standard
+  # Disable specific linter
+  # https://golangci-lint.run/usage/linters/#disabled-by-default
+  enable:
+    - errcheck
+    - govet
+    - ineffassign
+    - unused
+    - misspell
+  disable:
+    - staticcheck
+
+  settings:
+    errcheck:
+      # List of functions to exclude from checking, where each entry is a single function to exclude.
+      # See https://github.com/kisielk/errcheck#excluding-functions for details.
+      exclude-functions:
+        - (*net/http.Response).Body.Close
+
+run:
+  # Timeout for total work, e.g. 30s, 5m, 5m30s.
+  # If the value is lower or equal to 0, the timeout is disabled.
+  # Default: 0 (disabled)
+  timeout: 5m
