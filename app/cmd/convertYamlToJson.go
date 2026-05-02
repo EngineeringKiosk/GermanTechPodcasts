@@ -53,12 +53,12 @@ func cmdConvertYamlToJson(cmd *cobra.Command, args []string) error {
 		return err
 	}
 
-	log.Printf("Reading files with extension %s from directory %s", io.YAMLExtension, yamlDir)
-	yamlFiles, err := io.GetAllFilesFromDirectory(yamlDir, io.YAMLExtension)
+	log.Printf("Reading files with extensions %v from directory %s", io.GetYAMLExtensions(), yamlDir)
+	yamlFiles, err := io.GetAllFilesFromDirectoryWithExtensions(yamlDir, io.GetYAMLExtensions())
 	if err != nil {
 		return err
 	}
-	log.Printf("%d files found with extension %s in directory %s", len(yamlFiles), io.YAMLExtension, yamlDir)
+	log.Printf("%d files found with extensions %v in directory %s", len(yamlFiles), io.GetYAMLExtensions(), yamlDir)
 
 	log.Printf("Reading files with extension %s from directory %s", io.JSONExtension, jsonDir)
 	jsonFiles, err := io.GetAllFilesFromDirectory(jsonDir, io.JSONExtension)
