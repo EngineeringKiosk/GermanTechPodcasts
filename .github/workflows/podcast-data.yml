@@ -47,7 +47,9 @@ jobs:
         run: ./GermanTechPodcasts generateOpml --json-directory ../generated --opml-output ../podcasts.opml
 
       # Commit results back to repository
-      - uses: stefanzweifel/git-auto-commit-action@v7.1.0
+      - name: Commit changes
+        id: auto-commit
+        uses: stefanzweifel/git-auto-commit-action@v7.1.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
@@ -56,6 +58,25 @@ jobs:
           commit_user_name: "GitHub Actions Bot"
           commit_user_email: "actions@github.com"
           commit_author: "GitHub Actions Bot <actions@github.com>"
+          skip_push: true
+
+      - name: Push changes with retry
+        if: steps.auto-commit.outputs.changes_detected == 'true'
+        working-directory: ${{ github.workspace }}
+        run: |
+          max_retries=3
+          for attempt in $(seq 1 $max_retries); do
+            echo "Push attempt $attempt of $max_retries"
+            if git push origin main; then
+              echo "Push succeeded on attempt $attempt"
+              exit 0
+            fi
+            echo "Push failed, pulling with rebase and retrying..."
+            git pull --rebase origin main
+            sleep $((attempt * 2))
+          done
+          echo "Push failed after $max_retries attempts"
+          exit 1
 
       - name: Trigger webpage to sync
         uses: peter-evans/repository-dispatch@v4.0.1
