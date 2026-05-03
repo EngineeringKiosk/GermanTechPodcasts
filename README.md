@@ -378,7 +378,7 @@ Führung ist kein Singleplayer. Viele Manager in Software Entwicklung versuchen,
 * [Co-Op Mode Website]()
 * [Co-Op Mode @ Spotify](https://open.spotify.com/show/2fq8citwJMLavqTlXU4rBF)
 * [Co-Op Mode @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1862619391)
-* [Co-Op Mode Podcast RSS](https://anchor.fm/s/10ceeec1c/podcast/rss)
+* [Co-Op Mode Podcast RSS](https://coop-mode.podcaster.de/co-op-mode.rss)
 * Tags: Team culture, leadership
 
 ----
@@ -815,7 +815,7 @@ Die IT-News des Tages von heise online
 
 <h3 id="logbuch-digitalien">Logbuch Digitalien</h3>
 
-<img align="right" width="215" height="215" src="./generated/images/logbuch-digitalien.jpg" />
+<img align="right" width="215" height="215" src="./generated/generated/images/logbuch-digitalien.jpg" />
 
 Der Podcast über unsere digitale Lebens- und Arbeitswelt mit Markus Hörster und Christian Cordes. Alle vier Wochen dienstags um 19.00 Uhr im Radio auf Radio Okerwelle (UKW 104,6 in der Region Braunschweig) und nach der Ausstrahlung als Podcast. Wir beschäftigen uns mit allen Themen, die etwas mit Digitalien zu tun haben.
 
