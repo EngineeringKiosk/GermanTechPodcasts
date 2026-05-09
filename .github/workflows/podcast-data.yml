@@ -60,6 +60,13 @@ jobs:
           commit_author: "GitHub Actions Bot <actions@github.com>"
           skip_push: true
 
+      - name: Configure git identity for rebase
+        if: steps.auto-commit.outputs.changes_detected == 'true'
+        working-directory: ${{ github.workspace }}
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+
       - name: Push changes with retry
         if: steps.auto-commit.outputs.changes_detected == 'true'
         working-directory: ${{ github.workspace }}
