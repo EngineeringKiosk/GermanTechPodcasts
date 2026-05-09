@@ -339,7 +339,7 @@ Mitglieder der c&#39;t-Redaktion diskutieren über die aktuellen Themen aus dem 
 
 <h3 id="chaosradio">Chaosradio</h3>
 
-<img align="right" width="215" height="215" src="./generated/images/chaosradio.png" />
+<img align="right" width="215" height="215" src="./generated/generated/images/chaosradio.png" />
 
 Im monatlichen Chaosradio informiert der Chaos Computer Club Berlin seit 1995 über die Auswirkungen von Technik auf die Gesellschaft.
 
