@@ -16,7 +16,7 @@
  },
  "episodeCount": 90,
  "latestEpisodePublished": 1762988400,
- "archive": false,
+ "archive": true,
  "itunesID": 1604337890,
  "image": "images/devs-on-tape.jpg"
 }

@@ -6,7 +6,7 @@ All listed podcasts are available as an [OPML file (podcasts.opml)](./podcasts.o
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (78 podcasts)
+* [Podcasts](#podcasts) (77 podcasts)
   * [#heiseshow](#heiseshow)
   * [((c3d2)) Pentaradio 24](#c3d2-pentaradio-24)
   * [0d - Zeroday](#0d-zeroday)
@@ -31,7 +31,6 @@ All listed podcasts are available as an [OPML file (podcasts.opml)](./podcasts.o
   * [DAS WAR SCHON KAPUTT](#das-war-schon-kaputt)
   * [Data Science Deep Dive](#data-science-deep-dive)
   * [DevCouch](#devcouch)
-  * [Devs on Tape](#devs-on-tape)
   * [Digitale Anomalien](#digitale-anomalien)
   * [Einfach Komplex](#einfach-komplex)
   * [Engineering Kiosk](#engineering-kiosk)
@@ -85,11 +84,12 @@ All listed podcasts are available as an [OPML file (podcasts.opml)](./podcasts.o
   * [Web &amp; Design Podcast](#web-and-design-podcast)
   * [Webcafé - Webentwicklung und Unternehmenskultur](#webcafe-webentwicklung-und-unternehmenskultur)
   * [Working Draft](#working-draft)
-* [Archived podcasts](#archived-podcasts) (34 podcasts)
+* [Archived podcasts](#archived-podcasts) (35 podcasts)
   * [Bits &amp; Böses - Der Tech Crime Podcast](#bits-and-boses-der-tech-crime-podcast)
   * [Codestammtisch](#codestammtisch)
   * [Der GameDev Podcast](#der-gamedev-podcast)
   * [dev.env](#dev-env)
+  * [Devs on Tape](#devs-on-tape)
   * [Digitalisierungsfieber](#digitalisierungsfieber)
   * [Faxinformatiker](#faxinformatiker)
   * [FOCUS ON: Linux](#focus-on-linux)
@@ -282,7 +282,7 @@ Prozessoren, Grafikkarten, Notebooks, Desktop-PCs, Server, KI, Rechenzentren und
 Die wöchentliche Talkrunde rund um Apple, Mac, iPod &#43; iPhone, Gadgets und so. Fast live aus München.
 
 * Number of published episodes: 10
-* Last episode published: 🟢 Monday, 04 May 2026
+* Last episode published: 🟢 Sunday, 10 May 2026
 * [Bits und so Website](http://www.bitsundso.de/)
 * [Bits und so @ Apple Podcasts](https://podcasts.apple.com/de/podcast/202753375)
 * [Bits und so Podcast RSS](http://www.bitsundso.de/feed/)
@@ -373,8 +373,8 @@ Ein Podcast über den nahezu unendlich tiefen Kaninchenbau der mechanische Tasta
 
 Führung ist kein Singleplayer. Viele Manager in Software Entwicklung versuchen, den &#34;Helden&#34; zu spielen. Aber im Business gewinnst du nur im Team. Willkommen im Co-Op Mode! Ich bin Georg Hofmann, Digital Leader &amp; Coach. Ich zeige dir, was moderne Führungskräfte vom Gaming lernen können. Wir übersetzen Agile Leadership in Gaming-Logik: - Psychologische Sicherheit als &#34;Session Zero&#34; - Teams aufstellen wie eine Raid-Party - Strategie als &#34;Infinite Game&#34;. Kein Bullshit-Bingo, sondern echte XP für deinen Alltag. Bau eine Gilde, die jeden Boss besiegt. Drück Start! 🚀
 
-* Number of published episodes: 11
-* Last episode published: 🟢 Tuesday, 28 April 2026
+* Number of published episodes: 12
+* Last episode published: 🟢 Tuesday, 12 May 2026
 * [Co-Op Mode Website]()
 * [Co-Op Mode @ Spotify](https://open.spotify.com/show/2fq8citwJMLavqTlXU4rBF)
 * [Co-Op Mode @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1862619391)
@@ -435,8 +435,8 @@ Jeden Samstag das Neueste aus Computertechnik und Informationstechnologie. Beitr
 
 Cybersecurity entschüsselt ist ein deutschsprachiger Podcast, in dem sich alles um Sicherheit dreht.
 
-* Number of published episodes: 75
-* Last episode published: 🟢 Tuesday, 28 April 2026
+* Number of published episodes: 76
+* Last episode published: 🟢 Tuesday, 12 May 2026
 * [Cybersecurity entschlüsselt Website](https://www.cybersecurity-entschluesselt.de)
 * [Cybersecurity entschlüsselt @ Spotify](https://open.spotify.com/show/0sAcefh8cixTxjJn9s1dvM)
 * [Cybersecurity entschlüsselt @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1637327527)
@@ -508,22 +508,6 @@ Der Unterhaltungs-Podcast für .NET Entwickler - ca. alle zwei Wochen treffen si
 
 ----
 
-<h3 id="devs-on-tape">Devs on Tape</h3>
-
-<img align="right" width="215" height="215" src="./generated/images/devs-on-tape.jpg" />
-
-&#34;Devs on Tape&#34; ist ein Podcast, der sich mit allen Themen rund um die professionelle Software-Entwicklung beschäftigt. Zwei kreative Köpfe teilen Ihr Wissen und ihre Erfahrungen im Bereich Development, DevOps, Vereinsarbeit und vielem mehr.
-
-* Number of published episodes: 90
-* Last episode published: 🟡 Wednesday, 12 November 2025
-* [Devs on Tape Website](https://devsontape.podigee.io/)
-* [Devs on Tape @ Spotify](https://open.spotify.com/show/6TwshmvspMnBzzh8mX8Me1)
-* [Devs on Tape @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1604337890)
-* [Devs on Tape Podcast RSS](https://devsontape.podigee.io/feed/mp3)
-* Tags: Oracle, Softwareentwicklung
-
-----
-
 <h3 id="digitale-anomalien">Digitale Anomalien</h3>
 
 <img align="right" width="215" height="215" src="./generated/images/digitale-anomalien.jpg" />
@@ -564,8 +548,8 @@ Einfach Komplex macht Software und IT verständlich – für Laien und Experten 
 
 Der Engineering Kiosk ist der deutschsprachige Software-Engineering-Podcast mit Wolfgang Gassler und Andy Grunwald rund um die Themen Engineering-Kultur, Open Source, Menschen, Technologie und allen anderen Bereichen, die damit in Verbindung stehen.
 
-* Number of published episodes: 268
-* Last episode published: 🟢 Tuesday, 05 May 2026
+* Number of published episodes: 269
+* Last episode published: 🟢 Tuesday, 12 May 2026
 * Weekly downloads (avg): 1099 (updated: 2023-01-31)
 * [Engineering Kiosk Website](https://engineeringkiosk.dev/)
 * [Engineering Kiosk @ Spotify](https://open.spotify.com/show/0tJRC0UsObPCWLmmzmOkIs)
@@ -627,8 +611,8 @@ Freak Show ist ein Podcast, der sich mit dem Leben mit Technik im 21. Jahrhunder
 
 Wir talken GameDev und haben Unreal News.
 
-* Number of published episodes: 151
-* Last episode published: 🟢 Tuesday, 28 April 2026
+* Number of published episodes: 152
+* Last episode published: 🟢 Tuesday, 12 May 2026
 * [Gamedev für die Platte - Der Unreal Podcast Website](https://gamedevfuerdieplatte.podbean.com/)
 * [Gamedev für die Platte - Der Unreal Podcast @ Spotify](https://open.spotify.com/show/3UtoyAbMfEvkSIx5w3HohY)
 * [Gamedev für die Platte - Der Unreal Podcast Podcast RSS](https://feed.podbean.com/gamedevfuerdieplatte/feed.xml)
@@ -642,8 +626,8 @@ Wir talken GameDev und haben Unreal News.
 
 Ein wöchentlicher Podcast der GNU/Linux.ch Community mit Themen und Interviews rund um die Themen GNU/Linux, Freie Software und Freie Gesellschaft.
 
-* Number of published episodes: 185
-* Last episode published: 🟢 Wednesday, 06 May 2026
+* Number of published episodes: 186
+* Last episode published: 🟢 Wednesday, 13 May 2026
 * [GNU/Linux.ch Website](https://gnulinux.ch/)
 * [GNU/Linux.ch @ Spotify](https://open.spotify.com/show/0rs1Zm91TsjHhGo2lt0uPi)
 * [GNU/Linux.ch @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1527155920)
@@ -789,7 +773,7 @@ Der Podcast für Auszubildende, Ausbilder und IHK-Prüfer in den IT-Berufen (Fac
 Wie intelligent ist Künstliche Intelligenz eigentlich? Welche Folgen hat generative KI für unsere Arbeit, unsere Freizeit und die Gesellschaft? Im &#34;KI-Update&#34; von heise bringen wir Euch gemeinsam mit The Decoder werktäglich Updates zu den wichtigsten KI-Entwicklungen. Freitags beleuchten wir mit Experten die unterschiedlichen Aspekte der KI-Revolution.
 
 * Number of published episodes: 500
-* Last episode published: 🟢 Monday, 11 May 2026
+* Last episode published: 🟢 Wednesday, 13 May 2026
 * [KI-Update Website](https://www.heise.de/thema/KI-Update)
 * [KI-Update @ Spotify](https://open.spotify.com/show/1rm6gMybQWnHePvY2eCpzp)
 * [KI-Update @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1691536182)
@@ -805,7 +789,7 @@ Wie intelligent ist Künstliche Intelligenz eigentlich? Welche Folgen hat genera
 Die IT-News des Tages von heise online
 
 * Number of published episodes: 1000
-* Last episode published: 🟢 Monday, 11 May 2026
+* Last episode published: 🟢 Wednesday, 13 May 2026
 * [Kurz informiert by heise online Website](https://www.heise.de/Hoeren-Sie-von-uns-unsere-Podcasts-4206659.html)
 * [Kurz informiert by heise online @ Spotify](https://open.spotify.com/show/2etf1jog8leNHbnhIArM9Z)
 * [Kurz informiert by heise online Podcast RSS](https://kurzinformiert.podigee.io/feed/mp3)
@@ -850,8 +834,8 @@ Logbuch:Netzpolitik ist ein in der Regel wöchentlich erscheinender Podcast, der
 
 Hintergründe, Einschätzungen, Tipps und Neuigkeiten: Im Zweiwochenrhythmus unterhalten sich Malte Kirchner und Leo Becker im Mac &amp; i-Podcast mit Gästen über Fachthemen zu iPhone, iPad, Mac, Watch &amp;amp; Co sowie Apple-Betriebssysteme, Dienste und das Drumherum.
 
-* Number of published episodes: 120
-* Last episode published: 🟢 Tuesday, 21 April 2026
+* Number of published episodes: 121
+* Last episode published: 🟢 Wednesday, 13 May 2026
 * [Mac &amp; i - der Apple-Podcast Website](https://www.heise.de/mac-and-i/meldung/Mac-i-Der-Apple-Podcast-4681220.html)
 * [Mac &amp; i - der Apple-Podcast @ Spotify](https://open.spotify.com/show/5Tcgc97HvYREYM7kIRsxii)
 * [Mac &amp; i - der Apple-Podcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1499510618)
@@ -915,8 +899,8 @@ Wir thematisieren die wichtigen Fragestellungen rund um Internet, Gesellschaft u
 
 Mit geballter Dev-Power nehmen Dennis, Fabi, Sebi und Jojo neue Podcastfolgen auf und werden dabei regelmäßig von Gäst:innen aus der Branche unterstützt. Taucht in unseren Deep Dives mit uns in Frameworks und Datenbanken ein, hört euch in den CTO-Specials die Erfahrungen führender Persönlichkeiten großer Unternehmen an und bleibt mit unseren News-Folgen stets am Ball in der Welt der App- und Webentwicklung.
 
-* Number of published episodes: 510
-* Last episode published: 🟢 Thursday, 07 May 2026
+* Number of published episodes: 511
+* Last episode published: 🟢 Tuesday, 12 May 2026
 * Weekly downloads (avg): 8744 (updated: 2023-04-12)
 * [programmier.bar Website](https://www.programmier.bar/podcast)
 * [programmier.bar @ Spotify](https://open.spotify.com/show/0ik0sXv9paTQCeThcOLCCJ)
@@ -1110,8 +1094,8 @@ Live-Diskussion zu Software-Architektur im Stream. Einmal in der Woche diskutier
 
 Der SoftwerkerCast präsentiert euch Softwerker-Wissen zum Reinhören und Nachhören. Wie auch bei den anderen Softwerker-Formaten erwartet euch im SoftwerkerCast das volle Themenspektrum aus der bunten Welt der Softwareentwicklung: von A wie APM bis Z wie Zero Downtime. Paradigmen und neue Trends, Evergreens und Eintagsfliegen.
 
-* Number of published episodes: 77
-* Last episode published: 🟢 Monday, 23 March 2026
+* Number of published episodes: 78
+* Last episode published: 🟢 Monday, 11 May 2026
 * [SoftwerkerCast Website](https://www.codecentric.de/softwerkercast)
 * [SoftwerkerCast @ Spotify](https://open.spotify.com/show/0GMFlDJabOtXYm8u8HfAvL)
 * [SoftwerkerCast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1592472699)
@@ -1141,8 +1125,8 @@ In diesem Podcast diskutiert die t3n-Redaktion mit Gästen über die spannendste
 
 Wöchentlich am Mittwoch stellen Prompt-Expertin Susanne Renate Schneider und t3n-Redakteurin Stella-Sophie Wojtczak Prompts vor, die für den Arbeitsalltag relevant sind. Mit ihrem KI-Klartext liefern sie Vorschläge für Prompts, die sinnvolle Ergebnisse erzielen. Dazu gehen sie einmal pro Monat auf häufige Prompt-Fehler ein und erklären, wie sich diese vermeiden lassen. Ihre Anleitungen sind stets kurz, konkret und  direkt umsetzbar – t3n MeisterPrompter ist dein KI-Podcast zum mitprompten.
 
-* Number of published episodes: 69
-* Last episode published: 🟢 Wednesday, 06 May 2026
+* Number of published episodes: 70
+* Last episode published: 🟢 Wednesday, 13 May 2026
 * [t3n MeisterPrompter Website](https://t3n.de/podcast#meisterprompter)
 * [t3n MeisterPrompter @ Spotify](https://open.spotify.com/show/0vgZKlXhSZ12WovlEAgCgX)
 * [t3n MeisterPrompter @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1796409152)
@@ -1204,8 +1188,8 @@ IT-Security, unendliche Weiten ... So oder so ähnlich lässt sich die Größeno
 
 Der neue Technologie-Podcast mit Svea Eckert und Eva Wolfangel. Die beiden freien Technologie-Journalistinnen widmen sich jeden Mittwoch spannenden Tech-Thema und laden sich dazu inspirierende weibliche Gäste ein. Aber auch die Podcast-Hosts bringen etwas mit: investigative und spannende Recherchen, zu denen es in jeder Folge gleich zu Beginn einen kurzen Deepdive gibt.
 
-* Number of published episodes: 81
-* Last episode published: 🟢 Wednesday, 06 May 2026
+* Number of published episodes: 82
+* Last episode published: 🟢 Wednesday, 13 May 2026
 * [They Talk Tech – mit Eckert und Wolfangel Website](https://frauen-technik.podigee.io/)
 * [They Talk Tech – mit Eckert und Wolfangel @ Spotify](https://open.spotify.com/show/3HwNHImCFF1NvNMQnN2rFR)
 * [They Talk Tech – mit Eckert und Wolfangel @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1762825923)
@@ -1253,8 +1237,8 @@ Sujeevan und Dirk reden über Themen, die Ihnen in der letzten Zeit untergekomme
 
 Deutschsprachiger Podcast für die großen und kleinen Fragen des Developeralltags. Schon seit Langem tauschen sich Malte und Robin-Manuel in regelmäßigen Abständen über diverse Themen aus ihrem Alltag in der Softwareentwicklung aus. Dabei lernen sie jedes Mal etwas Neues! Warum also das Ganze nicht aufzeichnen und als Podcast zur Verfügung stellen?
 
-* Number of published episodes: 164
-* Last episode published: 🟢 Monday, 04 May 2026
+* Number of published episodes: 165
+* Last episode published: 🟢 Monday, 11 May 2026
 * [todo:cast Website](https://www.todocast.io/)
 * [todo:cast @ Spotify](https://open.spotify.com/show/2tIlVD6vBAtEhOZM4jS1mw)
 * [todo:cast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1467179396)
@@ -1365,8 +1349,8 @@ Im Webcafé erzählen Felix und Kay aus ihrem Arbeitsalltag bei der Geenen IT-Sy
 
 Wöchentlicher Podcast für Webdesigner:innen und -entwickler:innen
 
-* Number of published episodes: 737
-* Last episode published: 🟢 Tuesday, 05 May 2026
+* Number of published episodes: 738
+* Last episode published: 🟢 Tuesday, 12 May 2026
 * [Working Draft Website](https://workingdraft.de/)
 * [Working Draft @ Spotify](https://open.spotify.com/show/78iH7cIFzu1ejoB6aQUsIh)
 * [Working Draft @ Apple Podcasts](https://podcasts.apple.com/de/podcast/402204581)
@@ -1438,6 +1422,22 @@ Der einzige IT Podcast in dem es nicht um IT geht. Ivan Ushmorov spricht mit Men
 * [dev.env @ Spotify](https://open.spotify.com/show/6e9gpjtx54G0293RsH6agn)
 * [dev.env @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1667384138)
 * [dev.env Podcast RSS](https://python-podcast.de/show/feed/podcast/m4a/rss.xml)
+
+----
+
+<h3 id="devs-on-tape">Devs on Tape</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/devs-on-tape.jpg" />
+
+&#34;Devs on Tape&#34; ist ein Podcast, der sich mit allen Themen rund um die professionelle Software-Entwicklung beschäftigt. Zwei kreative Köpfe teilen Ihr Wissen und ihre Erfahrungen im Bereich Development, DevOps, Vereinsarbeit und vielem mehr.
+
+* Number of published episodes: 90
+* Last episode published: 🔴 Wednesday, 12 November 2025
+* [Devs on Tape Website](https://devsontape.podigee.io/)
+* [Devs on Tape @ Spotify](https://open.spotify.com/show/6TwshmvspMnBzzh8mX8Me1)
+* [Devs on Tape @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1604337890)
+* [Devs on Tape Podcast RSS](https://devsontape.podigee.io/feed/mp3)
+* Tags: Oracle, Softwareentwicklung
 
 ----
 
