@@ -6,7 +6,7 @@ All listed podcasts are available as an [OPML file (podcasts.opml)](./podcasts.o
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (77 podcasts)
+* [Podcasts](#podcasts) (76 podcasts)
   * [#heiseshow](#heiseshow)
   * [((c3d2)) Pentaradio 24](#c3d2-pentaradio-24)
   * [0d - Zeroday](#0d-zeroday)
@@ -53,7 +53,6 @@ All listed podcasts are available as an [OPML file (podcasts.opml)](./podcasts.o
   * [Logbuch: Netzpolitik](#logbuch-netzpolitik)
   * [Mac &amp; i - der Apple-Podcast](#mac-and-i-der-apple-podcast)
   * [Mein Scrum ist kaputt!](#mein-scrum-ist-kaputt)
-  * [Mind the Tech](#mind-the-tech)
   * [Netzpolitik](#netzpolitik)
   * [programmier.bar](#programmier-bar)
   * [Python Podcast](#python-podcast)
@@ -84,7 +83,7 @@ All listed podcasts are available as an [OPML file (podcasts.opml)](./podcasts.o
   * [Web &amp; Design Podcast](#web-and-design-podcast)
   * [Webcafé - Webentwicklung und Unternehmenskultur](#webcafe-webentwicklung-und-unternehmenskultur)
   * [Working Draft](#working-draft)
-* [Archived podcasts](#archived-podcasts) (35 podcasts)
+* [Archived podcasts](#archived-podcasts) (36 podcasts)
   * [Bits &amp; Böses - Der Tech Crime Podcast](#bits-and-boses-der-tech-crime-podcast)
   * [Codestammtisch](#codestammtisch)
   * [Der GameDev Podcast](#der-gamedev-podcast)
@@ -100,6 +99,7 @@ All listed podcasts are available as an [OPML file (podcasts.opml)](./podcasts.o
   * [IT@DB](#itatdb)
   * [Ja sia!](#ja-sia)
   * [knowIT](#knowit)
+  * [Mind the Tech](#mind-the-tech)
   * [Mixedcast](#mixedcast)
   * [Nachgehackt](#nachgehackt)
   * [Neuland](#neuland)
@@ -312,8 +312,8 @@ Breach FM taucht tief in die Welt der Cybersicherheit, digitalen Konflikte und i
 
 Zwei Admins sprechen über die Buzzwords, die ihr jeden Tag hört und benutzt, deren Bedeutung ihr aber noch nie zu hinterfragen wagtet.
 
-* Number of published episodes: 134
-* Last episode published: 🟢 Friday, 01 May 2026
+* Number of published episodes: 135
+* Last episode published: 🟢 Friday, 15 May 2026
 * [BuzzZoom Website](https://buzzzoom.de/)
 * [BuzzZoom @ Spotify](https://open.spotify.com/show/62IRAtqB4QWOeH6oXaJflx)
 * [BuzzZoom @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1534027177)
@@ -328,8 +328,8 @@ Zwei Admins sprechen über die Buzzwords, die ihr jeden Tag hört und benutzt, d
 
 Mitglieder der c&#39;t-Redaktion diskutieren über die aktuellen Themen aus dem c’t Magazin und was sonst noch so in der IT-Welt passiert.
 
-* Number of published episodes: 646
-* Last episode published: 🟢 Saturday, 09 May 2026
+* Number of published episodes: 647
+* Last episode published: 🟢 Saturday, 16 May 2026
 * [c&#39;t uplink Website](https://www.heise.de/thema/ct-uplink)
 * [c&#39;t uplink @ Spotify](https://open.spotify.com/show/4LdN7lGr9winLtQSqoIjVD)
 * [c&#39;t uplink @ Apple Podcasts](https://podcasts.apple.com/de/podcast/835717958)
@@ -858,22 +858,6 @@ Scrum kann doch inzwischen eh jeder? Von wegen! Denn - ganz unter uns: genug fal
 * [Mein Scrum ist kaputt! @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1150361013)
 * [Mein Scrum ist kaputt! Podcast RSS](https://meinscrumistkaputt.de/feed/podcast/)
 * Tags: Agilität, Scrum, Kanban, Management, Product Owner, Scrum Master, Product Management, Project Management, Female host
-
-----
-
-<h3 id="mind-the-tech">Mind the Tech</h3>
-
-<img align="right" width="215" height="215" src="./generated/images/mind-the-tech.png" />
-
-Mind the Tech ist ein Podcast, der die dunklen Seiten der IT- und Tech-Welt beleuchtet. Dazu zählen legendäre Hackerangriffe, Datendiebstähle und Cyberattacken. Ebenso kommen die unzähligen Geschichten von Menschen auf den Tisch, die es mit Recht und Gesetz im Web nicht so ernst nehmen – und irgendwann die Konsequenzen ihres Handelns zu spüren bekommen. Wir widmen uns Antitrends und Mythen, stellen Entwicklungen im und rund ums Internet in Frage, wägen ab. Denn wir sind fest davon überzeugt: Nur wenn wir uns ihren Schattenseiten widmen, können wir die (digitale) Welt zu einem besseren Ort machen.
-
-* Number of published episodes: 100
-* Last episode published: 🟡 Saturday, 15 November 2025
-* [Mind the Tech Website](https://www.mindthetech.de/)
-* [Mind the Tech @ Spotify](https://open.spotify.com/show/6FydYmBjELizU8k8DOIcaA)
-* [Mind the Tech @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1515173582)
-* [Mind the Tech Podcast RSS](https://mind-the-tech.podigee.io/feed/mp3)
-* Tags: Cyber, Crime, Gesellschaft, Female host, IT-Sicherheit
 
 ----
 
@@ -1595,6 +1579,22 @@ know Information Technology (kurz knowIT) - in diesem Sinne behandelt der Podcas
 * [knowIT @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1564646449)
 * [knowIT Podcast RSS](https://anchor.fm/s/57935150/podcast/rss)
 * Tags: Female host
+
+----
+
+<h3 id="mind-the-tech">Mind the Tech</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/mind-the-tech.png" />
+
+Mind the Tech ist ein Podcast, der die dunklen Seiten der IT- und Tech-Welt beleuchtet. Dazu zählen legendäre Hackerangriffe, Datendiebstähle und Cyberattacken. Ebenso kommen die unzähligen Geschichten von Menschen auf den Tisch, die es mit Recht und Gesetz im Web nicht so ernst nehmen – und irgendwann die Konsequenzen ihres Handelns zu spüren bekommen. Wir widmen uns Antitrends und Mythen, stellen Entwicklungen im und rund ums Internet in Frage, wägen ab. Denn wir sind fest davon überzeugt: Nur wenn wir uns ihren Schattenseiten widmen, können wir die (digitale) Welt zu einem besseren Ort machen.
+
+* Number of published episodes: 100
+* Last episode published: 🔴 Saturday, 15 November 2025
+* [Mind the Tech Website](https://www.mindthetech.de/)
+* [Mind the Tech @ Spotify](https://open.spotify.com/show/6FydYmBjELizU8k8DOIcaA)
+* [Mind the Tech @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1515173582)
+* [Mind the Tech Podcast RSS](https://mind-the-tech.podigee.io/feed/mp3)
+* Tags: Cyber, Crime, Gesellschaft, Female host, IT-Sicherheit
 
 ----
 

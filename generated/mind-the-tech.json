@@ -19,7 +19,7 @@
  },
  "episodeCount": 100,
  "latestEpisodePublished": 1763227800,
- "archive": false,
+ "archive": true,
  "itunesID": 1515173582,
  "image": "images/mind-the-tech.png"
 }
