@@ -16,7 +16,7 @@
  },
  "episodeCount": 67,
  "latestEpisodePublished": 1765201200,
- "archive": false,
+ "archive": true,
  "itunesID": 1445331513,
  "image": "images/python-podcast.webp"
 }
