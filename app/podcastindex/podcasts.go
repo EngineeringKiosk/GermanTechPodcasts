@@ -2,6 +2,7 @@ package podcastindex
 
 import (
 	"context"
+	"encoding/json"
 	"fmt"
 	"net/http"
 )
@@ -13,7 +14,33 @@ import (
 type PodcastsService service
 
 type Podcast struct {
-	Feed PodcastFeed `json:"feed,omitempty"`
+	Feed PodcastFeed
+
+	// Found reports whether the API returned a feed for the requested id.
+	// Once a feed is removed from the PodcastIndex, the API answers with
+	// an empty array ("feed": []) instead of a feed object.
+	Found bool
+}
+
+func (p *Podcast) UnmarshalJSON(data []byte) error {
+	var raw struct {
+		Feed json.RawMessage `json:"feed,omitempty"`
+	}
+	if err := json.Unmarshal(data, &raw); err != nil {
+		return err
+	}
+
+	// "feed": [] means: No feeds match this id.
+	if len(raw.Feed) == 0 || raw.Feed[0] == '[' {
+		return nil
+	}
+
+	if err := json.Unmarshal(raw.Feed, &p.Feed); err != nil {
+		return err
+	}
+	p.Found = true
+
+	return nil
 }
 
 type PodcastFeed struct {
