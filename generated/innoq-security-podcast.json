@@ -15,7 +15,7 @@
  },
  "episodeCount": 103,
  "latestEpisodePublished": 1766389196,
- "archive": false,
+ "archive": true,
  "itunesID": 1518284030,
  "image": "images/innoq-security-podcast.jpg"
 }

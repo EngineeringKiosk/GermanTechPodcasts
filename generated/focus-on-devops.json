@@ -16,7 +16,7 @@
  },
  "episodeCount": 139,
  "latestEpisodePublished": 1766013300,
- "archive": false,
+ "archive": true,
  "itunesID": 1542623849,
  "image": "images/focus-on-devops.jpg"
 }
