@@ -104,6 +104,13 @@ func cmdCollectPodcastData(cmd *cobra.Command, args []string) error {
 			}
 			log.Printf("Requesting 'Podcasts.GetByFeedID' data from podcast index for feed id %d ... successful", podcastInfo.PodcastIndexID)
 
+			// Once a podcast is removed from the PodcastIndex, there is nothing left to collect.
+			// We keep the data we collected in the past instead of failing the whole run.
+			if !p.Found {
+				log.Printf("PodcastIndex has no feed for id %d anymore. Keeping the existing data of %s", podcastInfo.PodcastIndexID, absJsonFilePath)
+				continue
+			}
+
 			// Set basic podcast data
 			podcastInfo.EpisodeCount = p.Feed.EpisodeCount
 			podcastInfo.ItunesID = p.Feed.ItunesID
