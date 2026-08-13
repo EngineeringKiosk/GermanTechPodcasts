@@ -2,7 +2,7 @@
  <opml version="2.0">
    <head>
      <title>Deutschsprachige Tech Podcasts</title>
-     <dateCreated>Wed, 12 Aug 2026 13:01:29 UTC</dateCreated>
+     <dateCreated>Thu, 13 Aug 2026 12:40:48 UTC</dateCreated>
      <ownerName>Engineering Kiosk</ownerName>
      <ownerEmail>stehtisch@engineeringkiosk.dev</ownerEmail>
    </head>
@@ -79,7 +79,7 @@
      <outline title="programmier.bar" text="programmier.bar" type="rss" xmlUrl="https://feeds.buzzsprout.com/176239.rss" htmlUrl="https://www.programmier.bar/podcast"></outline>
      <outline title="Python Podcast" text="Python Podcast" type="rss" xmlUrl="https://python-podcast.de/show/feed/podcast/m4a/rss.xml" htmlUrl="https://python-podcast.de/"></outline>
      <outline title="RadioTux" text="RadioTux" type="rss" xmlUrl="http://prometheus.radiotux.de/index.php?/feeds/categories/12-Sendung.rss" htmlUrl="https://www.radiotux.de/"></outline>
-     <outline title="Ready for Review" text="Ready for Review" type="rss" xmlUrl="https://ready-for-review.podigee.io/feed/mp3" htmlUrl="https://ready-for-review.dev/"></outline>
+     <outline title="Ready for Review" text="Ready for Review" type="rss" xmlUrl="https://ready-for-review.dev/podcast/feed.xml" htmlUrl="https://ready-for-review.dev/"></outline>
      <outline title="Request for Comments" text="Request for Comments" type="rss" xmlUrl="https://requestforcomments.de/feed/m4a" htmlUrl="https://requestforcomments.de/"></outline>
      <outline title="Rheingehäckt" text="Rheingehäckt" type="rss" xmlUrl="https://2axxur.podcaster.de/rheingehaeckt.rss" htmlUrl="https://www.at-yet.de/aktuelles"></outline>
      <outline title="Schlüsseltechnologie" text="Schlüsseltechnologie" type="rss" xmlUrl="https://xyrillian.de/noises/stp/rss.xml" htmlUrl="https://xyrillian.de/noises/stp/"></outline>

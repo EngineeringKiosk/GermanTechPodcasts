@@ -3,7 +3,7 @@
  "slug": "ready-for-review",
  "website": "https://ready-for-review.dev/",
  "podcastIndexID": 1982599,
- "rssFeed": "https://ready-for-review.podigee.io/feed/mp3",
+ "rssFeed": "https://ready-for-review.dev/podcast/feed.xml",
  "spotify": "https://open.spotify.com/show/7dxK2wi4ZMGEYO3UHhTSc4",
  "description": "Sandra Parsick \u0026 Daniel Zenzes präsentieren mit Ready for Review einen bunten Mix aus aktuellen IT-Themen und ihrem täglichen Entwickler-Alltag.",
  "tags": [
