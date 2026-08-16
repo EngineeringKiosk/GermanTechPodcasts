@@ -6,7 +6,7 @@ All listed podcasts are available as an [OPML file (podcasts.opml)](./podcasts.o
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (69 podcasts)
+* [Podcasts](#podcasts) (70 podcasts)
   * [#heiseshow](#heiseshow)
   * [((c3d2)) Pentaradio 24](#c3d2-pentaradio-24)
   * [0d - Zeroday](#0d-zeroday)
@@ -33,6 +33,7 @@ All listed podcasts are available as an [OPML file (podcasts.opml)](./podcasts.o
   * [Digitale Anomalien](#digitale-anomalien)
   * [Einfach Komplex](#einfach-komplex)
   * [Engineering Kiosk](#engineering-kiosk)
+  * [Female TechTalk](#female-techtalk)
   * [Freakshow](#freakshow)
   * [Gamedev für die Platte - Der Unreal Podcast](#gamedev-fur-die-platte-der-unreal-podcast)
   * [GNU/Linux.ch](#gnu-linux-ch)
@@ -76,7 +77,7 @@ All listed podcasts are available as an [OPML file (podcasts.opml)](./podcasts.o
   * [Web &amp; Design Podcast](#web-and-design-podcast)
   * [Webcafé - Webentwicklung und Unternehmenskultur](#webcafe-webentwicklung-und-unternehmenskultur)
   * [Working Draft](#working-draft)
-* [Archived podcasts](#archived-podcasts) (43 podcasts)
+* [Archived podcasts](#archived-podcasts) (42 podcasts)
   * [Armchair Investigators](#armchair-investigators)
   * [Bits &amp; Böses - Der Tech Crime Podcast](#bits-and-boses-der-tech-crime-podcast)
   * [Codestammtisch](#codestammtisch)
@@ -85,7 +86,6 @@ All listed podcasts are available as an [OPML file (podcasts.opml)](./podcasts.o
   * [dev.env](#dev-env)
   * [Digitalisierungsfieber](#digitalisierungsfieber)
   * [Faxinformatiker](#faxinformatiker)
-  * [Female TechTalk](#female-techtalk)
   * [FOCUS ON: DevOps](#focus-on-devops)
   * [FOCUS ON: Linux](#focus-on-linux)
   * [GeekWeek](#geekweek)
@@ -136,8 +136,8 @@ All listed podcasts are available as an [OPML file (podcasts.opml)](./podcasts.o
 
 Immer donnerstags live um 17 Uhr sprechen Anna Kalinowsky, Malte Kirchner und Volker Zota von heise online bei YouTube über die Tech-Themen der Woche. Zum Nachhören gibt es die #heiseshow auch als Podcast.
 
-* Number of published episodes: 516
-* Last episode published: 🟢 Thursday, 06 August 2026
+* Number of published episodes: 517
+* Last episode published: 🟢 Thursday, 13 August 2026
 * [#heiseshow Website](https://www.heise.de/thema/heiseshow)
 * [#heiseshow @ Spotify](https://open.spotify.com/show/7iMjJRAHcOAumvPbdGDavJ)
 * [#heiseshow @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1082296572)
@@ -169,7 +169,7 @@ Pentaradio24 ist eine Sendung, die jeden vierten Dienstag im Monat zwischen 21:3
 Deutschsprachiger Podcast zu den Themen IT-Sicherheit und Privatsphäre. Stefan und Sven unterhalten sich über aktuelle News und allgemeine Themen rund um Security und Privacy.
 
 * Number of published episodes: 134
-* Last episode published: 🟢 Sunday, 14 June 2026
+* Last episode published: 🟡 Sunday, 14 June 2026
 * Weekly downloads (avg): 2000 (updated: 2023-01-16)
 * [0d - Zeroday Website](https://0x0d.de/)
 * [0d - Zeroday @ Spotify](https://open.spotify.com/show/5XTyNo5r6H0rRptIgaE1w4)
@@ -312,8 +312,8 @@ Zwei Admins sprechen über die Buzzwords, die ihr jeden Tag hört und benutzt, d
 
 Mitglieder der c&#39;t-Redaktion diskutieren über die aktuellen Themen aus dem c’t Magazin und was sonst noch so in der IT-Welt passiert.
 
-* Number of published episodes: 659
-* Last episode published: 🟢 Saturday, 08 August 2026
+* Number of published episodes: 660
+* Last episode published: 🟢 Saturday, 15 August 2026
 * [c&#39;t uplink Website](https://www.heise.de/thema/ct-uplink)
 * [c&#39;t uplink @ Spotify](https://open.spotify.com/show/4LdN7lGr9winLtQSqoIjVD)
 * [c&#39;t uplink @ Apple Podcasts](https://podcasts.apple.com/de/podcast/835717958)
@@ -388,8 +388,8 @@ Lucas Rott und Markus Herhoffer erzählen alle 14 Tage von Code und Nerd-Kultur.
 
 Dein Podcast rund um Softwareentwicklung und aktueller Tech News. Lernt die Coding Buddies Tino und Fabi kennen. Erfahrt spannende Dinge über diverse Themen aus der Softwareentwicklung und lauscht den Erfahrungen der Beiden. Dazu gibt es witzige Anekdoten der Coding Buddies.
 
-* Number of published episodes: 177
-* Last episode published: 🟢 Thursday, 06 August 2026
+* Number of published episodes: 178
+* Last episode published: 🟢 Thursday, 13 August 2026
 * [Coding Buddies Website](https://www.codingbuddies.de/)
 * [Coding Buddies @ Spotify](https://open.spotify.com/show/5DaiBkAgQBt8DRCcwZY8xT?si=4acf817842f44c43)
 * [Coding Buddies @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1680339110)
@@ -404,7 +404,7 @@ Dein Podcast rund um Softwareentwicklung und aktueller Tech News. Lernt die Codi
 Jeden Samstag das Neueste aus Computertechnik und Informationstechnologie. Beiträge, Reportagen und Interviews zu IT-Sicherheit, Informatik, Datenschutz, Smartphones, Cloud-Computing und IT-Politik. Die Trends der IT werden kompakt und informativ zusammengefasst.
 
 * Number of published episodes: 20
-* Last episode published: 🟢 Saturday, 08 August 2026
+* Last episode published: 🟢 Saturday, 15 August 2026
 * [Computer und Kommunikation (Deutschlandfunk) Website](https://www.deutschlandfunk.de/computer-und-kommunikation-102.html)
 * [Computer und Kommunikation (Deutschlandfunk) @ Spotify](https://open.spotify.com/show/4uy56W83RGe8SKmzNpyfAc)
 * [Computer und Kommunikation (Deutschlandfunk) @ Apple Podcasts](https://podcasts.apple.com/de/podcast/173754605)
@@ -451,7 +451,7 @@ Im Podcast Das Duumvirat unterhalten wir uns über verschiedene Mac-Themen aus d
 Wir machen Data Science. Und in unserem Podcast Data Science Deep Dive reden wir darüber. Du bist ebenfalls Data Scientist oder interessierst dich für Daten, ML und AI? Dann ist dieser Podcast für dich. Wir teilen unsere Learnings aus über 180 Projekten, du bekommst Infos und Anregungen zu spannenden Themen rund um Daten. Wir klären auf, geben Hinweise und teilen unsere Erfahrungen, die wir in über 10 Jahren als Data Scientists im B2B Bereich gesammelt haben. Wir decken auf, was wirklich hinter den Hypes und Trends der Data Science Branche steckt. Wir hinterfragen, was ein Data Science Projekt erfolgreich macht und welche Faktoren es zum Scheitern verurteilen.
 
 * Number of published episodes: 100
-* Last episode published: 🟢 Thursday, 30 July 2026
+* Last episode published: 🟢 Thursday, 13 August 2026
 * Weekly downloads (avg): 618 (updated: 2024-10-25)
 * [Data Science Deep Dive Website](https://inwt.podbean.com/)
 * [Data Science Deep Dive @ Spotify](https://open.spotify.com/show/089UlaVMdcppseWxxYr28O)
@@ -533,14 +533,30 @@ Einfach Komplex macht Software und IT verständlich – für Laien und Experten 
 
 Der Engineering Kiosk ist der deutschsprachige Software-Engineering-Podcast mit Wolfgang Gassler und Andy Grunwald rund um die Themen Engineering-Kultur, Open Source, Menschen, Technologie und allen anderen Bereichen, die damit in Verbindung stehen.
 
-* Number of published episodes: 281
-* Last episode published: 🟢 Tuesday, 04 August 2026
+* Number of published episodes: 282
+* Last episode published: 🟢 Tuesday, 11 August 2026
 * Weekly downloads (avg): 1099 (updated: 2023-01-31)
 * [Engineering Kiosk Website](https://engineeringkiosk.dev/)
 * [Engineering Kiosk @ Spotify](https://open.spotify.com/show/0tJRC0UsObPCWLmmzmOkIs)
 * [Engineering Kiosk @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1603082924)
 * [Engineering Kiosk Podcast RSS](https://feeds.redcircle.com/0ecfdfd7-fda1-4c3d-9515-476727f9df5e)
 * Tags: Softwareentwicklung, Tech-Kultur, Open Source, DevOps, Cloud
+
+----
+
+<h3 id="female-techtalk">Female TechTalk</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/female-tech-talk.jpg" />
+
+Student*innen der Informatik, die einen Podcast machen, damit ihr alle checkt wie geil Informatik eigentlich ist.
+
+* Number of published episodes: 74
+* Last episode published: 🟢 Friday, 14 August 2026
+* [Female TechTalk Website](https://www.female-techtalk.com/)
+* [Female TechTalk @ Spotify](https://open.spotify.com/show/23CmXEDANTleEB6hmeVj4W)
+* [Female TechTalk @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1589781968)
+* [Female TechTalk Podcast RSS](https://anchor.fm/s/58b9bd94/podcast/rss)
+* Tags: Female host
 
 ----
 
@@ -579,8 +595,8 @@ Wir talken GameDev und haben Unreal News.
 
 Ein wöchentlicher Podcast der GNU/Linux.ch Community mit Themen und Interviews rund um die Themen GNU/Linux, Freie Software und Freie Gesellschaft.
 
-* Number of published episodes: 197
-* Last episode published: 🟢 Wednesday, 05 August 2026
+* Number of published episodes: 198
+* Last episode published: 🟢 Wednesday, 12 August 2026
 * [GNU/Linux.ch Website](https://gnulinux.ch/)
 * [GNU/Linux.ch @ Spotify](https://open.spotify.com/show/0rs1Zm91TsjHhGo2lt0uPi)
 * [GNU/Linux.ch @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1527155920)
@@ -710,7 +726,7 @@ Der Podcast für Auszubildende, Ausbilder und IHK-Prüfer in den IT-Berufen (Fac
 Wie intelligent ist Künstliche Intelligenz eigentlich? Welche Folgen hat generative KI für unsere Arbeit, unsere Freizeit und die Gesellschaft? Im &#34;KI-Update&#34; von heise bringen wir Euch gemeinsam mit The Decoder werktäglich Updates zu den wichtigsten KI-Entwicklungen. Freitags beleuchten wir mit Experten die unterschiedlichen Aspekte der KI-Revolution.
 
 * Number of published episodes: 500
-* Last episode published: 🟢 Wednesday, 12 August 2026
+* Last episode published: 🟢 Friday, 14 August 2026
 * [KI-Update Website](https://www.heise.de/thema/KI-Update)
 * [KI-Update @ Spotify](https://open.spotify.com/show/1rm6gMybQWnHePvY2eCpzp)
 * [KI-Update @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1691536182)
@@ -726,7 +742,7 @@ Wie intelligent ist Künstliche Intelligenz eigentlich? Welche Folgen hat genera
 Die IT-News des Tages von heise online
 
 * Number of published episodes: 1000
-* Last episode published: 🟢 Thursday, 13 August 2026
+* Last episode published: 🟢 Friday, 14 August 2026
 * [Kurz informiert by heise online Website](https://www.heise.de/Hoeren-Sie-von-uns-unsere-Podcasts-4206659.html)
 * [Kurz informiert by heise online @ Spotify](https://open.spotify.com/show/2etf1jog8leNHbnhIArM9Z)
 * [Kurz informiert by heise online Podcast RSS](https://kurzinformiert.podigee.io/feed/mp3)
@@ -736,7 +752,7 @@ Die IT-News des Tages von heise online
 
 <h3 id="logbuch-digitalien">Logbuch Digitalien</h3>
 
-<img align="right" width="215" height="215" src="./generated/images/logbuch-digitalien.jpg" />
+<img align="right" width="215" height="215" src="./generated/generated/images/logbuch-digitalien.jpg" />
 
 Der Podcast über unsere digitale Lebens- und Arbeitswelt mit Markus Hörster und Christian Cordes. Alle vier Wochen dienstags um 19.00 Uhr im Radio auf Radio Okerwelle (UKW 104,6 in der Region Braunschweig) und nach der Ausstrahlung als Podcast. Wir beschäftigen uns mit allen Themen, die etwas mit Digitalien zu tun haben.
 
@@ -871,7 +887,7 @@ Sandra Parsick &amp; Daniel Zenzes präsentieren mit Ready for Review einen bunt
 Wie können wir Cybersicherheit als gesamtgesellschaftliches Problem verstehen? Wolfgang Straßer, langjähriger Experte im Bereich Cybersicherheit und Marian Blok, Politikberater mit Schwerpunkt Cybersecurity, sprechen mit Cyber-Experten aus Unternehmen, Behörden und Verbänden.
 
 * Number of published episodes: 31
-* Last episode published: 🟢 Monday, 15 June 2026
+* Last episode published: 🟡 Monday, 15 June 2026
 * [Rheingehäckt Website](https://www.at-yet.de/aktuelles)
 * [Rheingehäckt @ Spotify](https://open.spotify.com/show/1CFAcjQuET8Yv35k6v38fs)
 * [Rheingehäckt @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1585954195)
@@ -886,8 +902,8 @@ Wie können wir Cybersicherheit als gesamtgesellschaftliches Problem verstehen? 
 
 Die IT hat unser Leben in den letzten Jahrzehnten von Grund auf verändert. Aber wie funktioniert sie wirklich? Das möchte ttimeless mal erklärt bekommen. Zum Glück hat Xyrill Antworten.
 
-* Number of published episodes: 94
-* Last episode published: 🟢 Thursday, 23 July 2026
+* Number of published episodes: 95
+* Last episode published: 🟢 Thursday, 13 August 2026
 * [Schlüsseltechnologie Website](https://xyrillian.de/noises/stp/)
 * [Schlüsseltechnologie @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1559995829)
 * [Schlüsseltechnologie Podcast RSS](https://xyrillian.de/noises/stp/rss.xml)
@@ -998,8 +1014,8 @@ Der SoftwerkerCast präsentiert euch Softwerker-Wissen zum Reinhören und Nachh�
 
 In diesem Podcast diskutiert die t3n-Redaktion mit Gästen über die spannendsten digitalen Themen unserer Zeit. Ob innovative Führungskonzepte, die Digitalisierung der Gesellschaft, smarte Gadgets, neue Mobilität oder Zukunftstechnologien. Jeden Freitag um 10 Uhr!
 
-* Number of published episodes: 747
-* Last episode published: 🟢 Friday, 07 August 2026
+* Number of published episodes: 748
+* Last episode published: 🟢 Friday, 14 August 2026
 * [t3n Interview Website](https://t3n.de/podcast#interview)
 * [t3n Interview @ Spotify](https://open.spotify.com/show/7obTbZaywhQEiUUOMswQBQ)
 * [t3n Interview @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1115601393)
@@ -1358,22 +1374,6 @@ Willkommen beim Faxinformatiker-Podcast, wo wir die humorvolle und manchmal chao
 * [Faxinformatiker @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1750596424)
 * [Faxinformatiker Podcast RSS](https://faxinformatiker.de/feed/podcast/)
 * Tags: Tech-Talk
-
-----
-
-<h3 id="female-techtalk">Female TechTalk</h3>
-
-<img align="right" width="215" height="215" src="./generated/images/female-tech-talk.jpg" />
-
-Student*innen der Informatik, die einen Podcast machen, damit ihr alle checkt wie geil Informatik eigentlich ist.
-
-* Number of published episodes: 73
-* Last episode published: 🔴 Thursday, 29 January 2026
-* [Female TechTalk Website](https://www.female-techtalk.com/)
-* [Female TechTalk @ Spotify](https://open.spotify.com/show/23CmXEDANTleEB6hmeVj4W)
-* [Female TechTalk @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1589781968)
-* [Female TechTalk Podcast RSS](https://anchor.fm/s/58b9bd94/podcast/rss)
-* Tags: Female host
 
 ----
 
