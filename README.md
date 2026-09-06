@@ -136,8 +136,8 @@ All listed podcasts are available as an [OPML file (podcasts.opml)](./podcasts.o
 
 Immer donnerstags live um 17 Uhr sprechen Anna Kalinowsky, Malte Kirchner und Volker Zota von heise online bei YouTube über die Tech-Themen der Woche. Zum Nachhören gibt es die #heiseshow auch als Podcast.
 
-* Number of published episodes: 519
-* Last episode published: 🟢 Thursday, 27 August 2026
+* Number of published episodes: 520
+* Last episode published: 🟢 Thursday, 03 September 2026
 * [#heiseshow Website](https://www.heise.de/thema/heiseshow)
 * [#heiseshow @ Spotify](https://open.spotify.com/show/7iMjJRAHcOAumvPbdGDavJ)
 * [#heiseshow @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1082296572)
@@ -186,7 +186,7 @@ Deutschsprachiger Podcast zu den Themen IT-Sicherheit und Privatsphäre. Stefan 
 Apfelfunk ist ein wöchentlicher Podcast über Apple-Themen. Jean-Claude Frick und Malte Kirchner berichten und bewerten darin die Neuigkeiten über den wichtigsten Computerkonzern der Welt.
 
 * Number of published episodes: 500
-* Last episode published: 🟢 Wednesday, 26 August 2026
+* Last episode published: 🟢 Wednesday, 02 September 2026
 * [Apfelfunk Website](http://www.apfelfunk.com/)
 * [Apfelfunk @ Spotify](https://open.spotify.com/show/7FQLyWiNhMR0KS93ReaI4h)
 * [Apfelfunk @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1081146940)
@@ -201,8 +201,8 @@ Apfelfunk ist ein wöchentlicher Podcast über Apple-Themen. Jean-Claude Frick u
 
 Sie möchten beim Thema Datenschutz auf dem Laufenden bleiben, aber keine seitenlange Literatur wälzen? Dann wenden Sie sich vertrauensvoll an unser Juristen-Redakteurs-Duo. Alle 14 Tage bespricht c&#39;t-Redakteur Holger Bleich mit Joerg Heidrich aktuelle Entwicklungen rund um den Datenschutz. Joerg ist beim c&#39;t-Mutterschiff Heise Medien als Justiziar für das Thema zuständig und hat täglich mit der europäischen Datenschutz-Grundverordnung (DSGVO) zu tun. Wechselnde Gäste ergänzen das Duo.&#34;
 
-* Number of published episodes: 167
-* Last episode published: 🟢 Friday, 21 August 2026
+* Number of published episodes: 168
+* Last episode published: 🟢 Friday, 04 September 2026
 * [Auslegungssache - der c&#39;t-Datenschutz-Podcast Website](https://www.heise.de/thema/auslegungssache)
 * [Auslegungssache - der c&#39;t-Datenschutz-Podcast @ Spotify](https://open.spotify.com/show/3Jrnu7vrTurguBaCiPapkA)
 * [Auslegungssache - der c&#39;t-Datenschutz-Podcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1485860893)
@@ -266,7 +266,7 @@ Prozessoren, Grafikkarten, Notebooks, Desktop-PCs, Server, KI, Rechenzentren und
 Die wöchentliche Talkrunde rund um Apple, Mac, iPod &#43; iPhone, Gadgets und so. Fast live aus München.
 
 * Number of published episodes: 10
-* Last episode published: 🟢 Monday, 24 August 2026
+* Last episode published: 🟢 Monday, 31 August 2026
 * [Bits und so Website](http://www.bitsundso.de/)
 * [Bits und so @ Apple Podcasts](https://podcasts.apple.com/de/podcast/202753375)
 * [Bits und so Podcast RSS](http://www.bitsundso.de/feed/)
@@ -296,8 +296,8 @@ Breach FM taucht tief in die Welt der Cybersicherheit, digitalen Konflikte und i
 
 Zwei Admins sprechen über die Buzzwords, die ihr jeden Tag hört und benutzt, deren Bedeutung ihr aber noch nie zu hinterfragen wagtet.
 
-* Number of published episodes: 142
-* Last episode published: 🟢 Thursday, 20 August 2026
+* Number of published episodes: 143
+* Last episode published: 🟢 Friday, 04 September 2026
 * [BuzzZoom Website](https://buzzzoom.de/)
 * [BuzzZoom @ Spotify](https://open.spotify.com/show/62IRAtqB4QWOeH6oXaJflx)
 * [BuzzZoom @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1534027177)
@@ -312,8 +312,8 @@ Zwei Admins sprechen über die Buzzwords, die ihr jeden Tag hört und benutzt, d
 
 Mitglieder der c&#39;t-Redaktion diskutieren über die aktuellen Themen aus dem c’t Magazin und was sonst noch so in der IT-Welt passiert.
 
-* Number of published episodes: 662
-* Last episode published: 🟢 Saturday, 29 August 2026
+* Number of published episodes: 663
+* Last episode published: 🟢 Saturday, 05 September 2026
 * [c&#39;t uplink Website](https://www.heise.de/thema/ct-uplink)
 * [c&#39;t uplink @ Spotify](https://open.spotify.com/show/4LdN7lGr9winLtQSqoIjVD)
 * [c&#39;t uplink @ Apple Podcasts](https://podcasts.apple.com/de/podcast/835717958)
@@ -388,8 +388,8 @@ Lucas Rott und Markus Herhoffer erzählen alle 14 Tage von Code und Nerd-Kultur.
 
 Dein Podcast rund um Softwareentwicklung und aktueller Tech News. Lernt die Coding Buddies Tino und Fabi kennen. Erfahrt spannende Dinge über diverse Themen aus der Softwareentwicklung und lauscht den Erfahrungen der Beiden. Dazu gibt es witzige Anekdoten der Coding Buddies.
 
-* Number of published episodes: 180
-* Last episode published: 🟢 Thursday, 27 August 2026
+* Number of published episodes: 181
+* Last episode published: 🟢 Thursday, 03 September 2026
 * [Coding Buddies Website](https://www.codingbuddies.de/)
 * [Coding Buddies @ Spotify](https://open.spotify.com/show/5DaiBkAgQBt8DRCcwZY8xT?si=4acf817842f44c43)
 * [Coding Buddies @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1680339110)
@@ -404,7 +404,7 @@ Dein Podcast rund um Softwareentwicklung und aktueller Tech News. Lernt die Codi
 Jeden Samstag das Neueste aus Computertechnik und Informationstechnologie. Beiträge, Reportagen und Interviews zu IT-Sicherheit, Informatik, Datenschutz, Smartphones, Cloud-Computing und IT-Politik. Die Trends der IT werden kompakt und informativ zusammengefasst.
 
 * Number of published episodes: 20
-* Last episode published: 🟢 Saturday, 29 August 2026
+* Last episode published: 🟢 Saturday, 05 September 2026
 * [Computer und Kommunikation (Deutschlandfunk) Website](https://www.deutschlandfunk.de/computer-und-kommunikation-102.html)
 * [Computer und Kommunikation (Deutschlandfunk) @ Spotify](https://open.spotify.com/show/4uy56W83RGe8SKmzNpyfAc)
 * [Computer und Kommunikation (Deutschlandfunk) @ Apple Podcasts](https://podcasts.apple.com/de/podcast/173754605)
@@ -483,8 +483,8 @@ Der Unterhaltungs-Podcast für .NET Entwickler - ca. alle zwei Wochen treffen si
 
 &#34;Devs on Tape&#34; ist ein Podcast, der sich mit allen Themen rund um die professionelle Software-Entwicklung beschäftigt. Zwei kreative Köpfe teilen Ihr Wissen und ihre Erfahrungen im Bereich Development, DevOps, Vereinsarbeit und vielem mehr.
 
-* Number of published episodes: 97
-* Last episode published: 🟢 Thursday, 20 August 2026
+* Number of published episodes: 98
+* Last episode published: 🟢 Wednesday, 02 September 2026
 * [Devs on Tape Website](https://devsontape.podigee.io/)
 * [Devs on Tape @ Spotify](https://open.spotify.com/show/6TwshmvspMnBzzh8mX8Me1)
 * [Devs on Tape @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1604337890)
@@ -595,8 +595,8 @@ Wir talken GameDev und haben Unreal News.
 
 Ein wöchentlicher Podcast der GNU/Linux.ch Community mit Themen und Interviews rund um die Themen GNU/Linux, Freie Software und Freie Gesellschaft.
 
-* Number of published episodes: 199
-* Last episode published: 🟢 Wednesday, 19 August 2026
+* Number of published episodes: 200
+* Last episode published: 🟢 Wednesday, 02 September 2026
 * [GNU/Linux.ch Website](https://gnulinux.ch/)
 * [GNU/Linux.ch @ Spotify](https://open.spotify.com/show/0rs1Zm91TsjHhGo2lt0uPi)
 * [GNU/Linux.ch @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1527155920)
@@ -692,8 +692,8 @@ Dieser Podcast unterstützt schnell, konkret und umfänglich beim Einstieg in di
 
 Nur etwas mehr als 60 Jahre liegen zwischen dem ersten Start eines Motorflugzeugs und dem ersten bemannten Flug zum Mond. Das Handy wurde in nur 30 Jahren zum wichtigsten Kommunikationskanal unserer Zeit. Und IT? Die entwickelt sich nicht weniger rasant und macht in einer vernetzten und digitalen Welt vor keinem Bereich mehr halt. Im Podcast sprechen wir über Trendthemen, die zwar nichts mit Raketenwissenschaft zu tun haben, dafür aber Menschen auf dem Weg in eine digitale Zukunft begleiten. Bist Du bereit?
 
-* Number of published episodes: 196
-* Last episode published: 🟢 Wednesday, 19 August 2026
+* Number of published episodes: 197
+* Last episode published: 🟢 Wednesday, 02 September 2026
 * [IT ist alles Website](https://www.pco-online.de/magazin/2020/07/podcast)
 * [IT ist alles @ Spotify](https://open.spotify.com/show/46EUTeJsHSfscbkrI38f6p)
 * [IT ist alles @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1524049773)
@@ -726,7 +726,7 @@ Der Podcast für Auszubildende, Ausbilder und IHK-Prüfer in den IT-Berufen (Fac
 Wie intelligent ist Künstliche Intelligenz eigentlich? Welche Folgen hat generative KI für unsere Arbeit, unsere Freizeit und die Gesellschaft? Im &#34;KI-Update&#34; von heise bringen wir Euch gemeinsam mit The Decoder werktäglich Updates zu den wichtigsten KI-Entwicklungen. Freitags beleuchten wir mit Experten die unterschiedlichen Aspekte der KI-Revolution.
 
 * Number of published episodes: 500
-* Last episode published: 🟢 Monday, 31 August 2026
+* Last episode published: 🟢 Friday, 04 September 2026
 * [KI-Update Website](https://www.heise.de/thema/KI-Update)
 * [KI-Update @ Spotify](https://open.spotify.com/show/1rm6gMybQWnHePvY2eCpzp)
 * [KI-Update @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1691536182)
@@ -742,7 +742,7 @@ Wie intelligent ist Künstliche Intelligenz eigentlich? Welche Folgen hat genera
 Die IT-News des Tages von heise online
 
 * Number of published episodes: 1000
-* Last episode published: 🟢 Wednesday, 02 September 2026
+* Last episode published: 🟢 Friday, 04 September 2026
 * [Kurz informiert by heise online Website](https://www.heise.de/Hoeren-Sie-von-uns-unsere-Podcasts-4206659.html)
 * [Kurz informiert by heise online @ Spotify](https://open.spotify.com/show/2etf1jog8leNHbnhIArM9Z)
 * [Kurz informiert by heise online Podcast RSS](https://kurzinformiert.podigee.io/feed/mp3)
@@ -752,12 +752,12 @@ Die IT-News des Tages von heise online
 
 <h3 id="logbuch-digitalien">Logbuch Digitalien</h3>
 
-<img align="right" width="215" height="215" src="./generated/images/logbuch-digitalien.jpg" />
+<img align="right" width="215" height="215" src="./generated/generated/images/logbuch-digitalien.jpg" />
 
 Der Podcast über unsere digitale Lebens- und Arbeitswelt mit Markus Hörster und Christian Cordes. Alle vier Wochen dienstags um 19.00 Uhr im Radio auf Radio Okerwelle (UKW 104,6 in der Region Braunschweig) und nach der Ausstrahlung als Podcast. Wir beschäftigen uns mit allen Themen, die etwas mit Digitalien zu tun haben.
 
-* Number of published episodes: 112
-* Last episode published: 🟢 Friday, 07 August 2026
+* Number of published episodes: 113
+* Last episode published: 🟢 Friday, 04 September 2026
 * [Logbuch Digitalien Website](https://www.logbuch-digitalien.de/)
 * [Logbuch Digitalien @ Spotify](https://open.spotify.com/show/5HxbvAOx6qOMOXbtulHji1)
 * [Logbuch Digitalien @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1240755398)
@@ -772,8 +772,8 @@ Der Podcast über unsere digitale Lebens- und Arbeitswelt mit Markus Hörster un
 
 Logbuch:Netzpolitik ist ein in der Regel wöchentlich erscheinender Podcast, der im Dialog zwischen Linus Neumann und Tim Pritlove die wichtigsten Themen und Ereignisse mit netzpolitischem Bezug aufgreift und diskutiert.
 
-* Number of published episodes: 560
-* Last episode published: 🟢 Thursday, 27 August 2026
+* Number of published episodes: 561
+* Last episode published: 🟢 Friday, 04 September 2026
 * [Logbuch: Netzpolitik Website](https://logbuch-netzpolitik.de/)
 * [Logbuch: Netzpolitik @ Apple Podcasts](https://podcasts.apple.com/de/podcast/476856034)
 * [Logbuch: Netzpolitik Podcast RSS](https://feeds.metaebene.me/lnp/m4a)
@@ -820,8 +820,8 @@ Scrum kann doch inzwischen eh jeder? Von wegen! Denn - ganz unter uns: genug fal
 
 Wir thematisieren die wichtigen Fragestellungen rund um Internet, Gesellschaft und Politik und zeigen Wege auf, wie man sich auch selbst mit Hilfe des Netzes für digitale Freiheiten und Offenheit engagieren kann. Mit netzpolitik.org beschreiben wir, wie die Politik das Internet durch Regulierung verändert und wie das Netz Politik, Öffentlichkeiten und alles andere verändert.
 
-* Number of published episodes: 29
-* Last episode published: 🟢 Saturday, 01 August 2026
+* Number of published episodes: 30
+* Last episode published: 🟢 Saturday, 05 September 2026
 * [Netzpolitik Website](https://netzpolitik.org/podcast/)
 * [Netzpolitik @ Spotify](https://open.spotify.com/show/2GLuMhSNEFzUIXfx9BDxBt)
 * [Netzpolitik @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1281525246)
@@ -836,8 +836,8 @@ Wir thematisieren die wichtigen Fragestellungen rund um Internet, Gesellschaft u
 
 Mit geballter Dev-Power nehmen Dennis, Fabi, Sebi und Jojo neue Podcastfolgen auf und werden dabei regelmäßig von Gäst:innen aus der Branche unterstützt. Taucht in unseren Deep Dives mit uns in Frameworks und Datenbanken ein, hört euch in den CTO-Specials die Erfahrungen führender Persönlichkeiten großer Unternehmen an und bleibt mit unseren News-Folgen stets am Ball in der Welt der App- und Webentwicklung.
 
-* Number of published episodes: 540
-* Last episode published: 🟢 Tuesday, 01 September 2026
+* Number of published episodes: 541
+* Last episode published: 🟢 Thursday, 03 September 2026
 * Weekly downloads (avg): 8744 (updated: 2023-04-12)
 * [programmier.bar Website](https://www.programmier.bar/podcast)
 * [programmier.bar @ Spotify](https://open.spotify.com/show/0ik0sXv9paTQCeThcOLCCJ)
@@ -902,8 +902,8 @@ Wie können wir Cybersicherheit als gesamtgesellschaftliches Problem verstehen? 
 
 Die IT hat unser Leben in den letzten Jahrzehnten von Grund auf verändert. Aber wie funktioniert sie wirklich? Das möchte ttimeless mal erklärt bekommen. Zum Glück hat Xyrill Antworten.
 
-* Number of published episodes: 95
-* Last episode published: 🟢 Thursday, 13 August 2026
+* Number of published episodes: 96
+* Last episode published: 🟢 Thursday, 03 September 2026
 * [Schlüsseltechnologie Website](https://xyrillian.de/noises/stp/)
 * [Schlüsseltechnologie @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1559995829)
 * [Schlüsseltechnologie Podcast RSS](https://xyrillian.de/noises/stp/rss.xml)
@@ -950,8 +950,8 @@ Jung, weiblich, genial: Im Tech-Podcast von NDR Info sucht die Tech-Journalistin
 
 Themen wie KI oder Cybersecurity werden immer wichtiger und ein immer größerer Teil unseres Lebens. Einmal die Woche besprechen Elisabeth, Stella und Caspar die wichtigsten Tech-News und helfen euch dabei, sie zu verstehen. Schnappt euch einen Kaffee, Kakao oder Tee und setzt euch dazu!
 
-* Number of published episodes: 130
-* Last episode published: 🟢 Wednesday, 29 July 2026
+* Number of published episodes: 131
+* Last episode published: 🟢 Wednesday, 02 September 2026
 * [Silicon Weekly Website](https://silicon-weekly.de/)
 * [Silicon Weekly @ Spotify](https://open.spotify.com/show/1zaQ4IXAfm5J7XjcsKQ4Y7)
 * [Silicon Weekly @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1741135990)
@@ -966,8 +966,8 @@ Themen wie KI oder Cybersecurity werden immer wichtiger und ein immer größerer
 
 Zwei Freunde, ihr Smart Home, Self-Hosting, Technik und das ein oder andere Interview mit Makern
 
-* Number of published episodes: 36
-* Last episode published: 🟢 Sunday, 09 August 2026
+* Number of published episodes: 37
+* Last episode published: 🟢 Wednesday, 02 September 2026
 * [SmartHütte Website](https://podcast.smarthuette.de)
 * [SmartHütte @ Spotify](https://open.spotify.com/show/3cYGMZNGW9C8jVYEOx052k)
 * [SmartHütte @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1829137207)
@@ -982,8 +982,8 @@ Zwei Freunde, ihr Smart Home, Self-Hosting, Technik und das ein oder andere Inte
 
 Live-Diskussion zu Software-Architektur im Stream. Einmal in der Woche diskutiert Eberhard Wolff Software-Architektur im Live-Stream auf YouTube und Twitch - oft zusammen mit einem Gast. Zuschauer können über den Chat mitdiskutieren oder Fragen stellen. Der Podcast enthält die Audio-Spur des Streams.
 
-* Number of published episodes: 326
-* Last episode published: 🟢 Friday, 21 August 2026
+* Number of published episodes: 327
+* Last episode published: 🟢 Thursday, 03 September 2026
 * [SoftwareArchitektur im Stream Website](https://software-architektur.tv/)
 * [SoftwareArchitektur im Stream @ Spotify](https://open.spotify.com/show/7ySg1eZoWYBshd6QpGaW8B)
 * [SoftwareArchitektur im Stream @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1538545458)
@@ -999,7 +999,7 @@ Live-Diskussion zu Software-Architektur im Stream. Einmal in der Woche diskutier
 Der SoftwerkerCast präsentiert euch Softwerker-Wissen zum Reinhören und Nachhören. Wie auch bei den anderen Softwerker-Formaten erwartet euch im SoftwerkerCast das volle Themenspektrum aus der bunten Welt der Softwareentwicklung: von A wie APM bis Z wie Zero Downtime. Paradigmen und neue Trends, Evergreens und Eintagsfliegen.
 
 * Number of published episodes: 82
-* Last episode published: 🟢 Thursday, 02 July 2026
+* Last episode published: 🟡 Thursday, 02 July 2026
 * [SoftwerkerCast Website](https://www.codecentric.de/softwerkercast)
 * [SoftwerkerCast @ Spotify](https://open.spotify.com/show/0GMFlDJabOtXYm8u8HfAvL)
 * [SoftwerkerCast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1592472699)
@@ -1014,8 +1014,8 @@ Der SoftwerkerCast präsentiert euch Softwerker-Wissen zum Reinhören und Nachh�
 
 In diesem Podcast diskutiert die t3n-Redaktion mit Gästen über die spannendsten digitalen Themen unserer Zeit. Ob innovative Führungskonzepte, die Digitalisierung der Gesellschaft, smarte Gadgets, neue Mobilität oder Zukunftstechnologien. Jeden Freitag um 10 Uhr!
 
-* Number of published episodes: 750
-* Last episode published: 🟢 Friday, 28 August 2026
+* Number of published episodes: 751
+* Last episode published: 🟢 Friday, 04 September 2026
 * [t3n Interview Website](https://t3n.de/podcast#interview)
 * [t3n Interview @ Spotify](https://open.spotify.com/show/7obTbZaywhQEiUUOMswQBQ)
 * [t3n Interview @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1115601393)
@@ -1157,8 +1157,8 @@ Deutschsprachiger Podcast für die großen und kleinen Fragen des Developerallta
 
 Wir sind UNMUTE IT, der Podcast von und mit Frauen aus der IT. Wir erzählen von unseren Erfahrungen, begegneten Herausforderungen, Tipps &amp; Tricks und teilen die eine oder andere Anekdote. Frauen gehören in STEM Felder.Mit unserer Präsenz wollen wir dies untermauern und Frauen motivieren, sich mit dem Thema zu beschäftigen und den Schritt in die IT zu gehen.
 
-* Number of published episodes: 103
-* Last episode published: 🟢 Saturday, 01 August 2026
+* Number of published episodes: 104
+* Last episode published: 🟢 Tuesday, 01 September 2026
 * Weekly downloads (avg): 177 (updated: 2023-01-21)
 * [Unmute IT Website](https://linkr.bio/unmute-it)
 * [Unmute IT @ Spotify](https://open.spotify.com/show/4v3xXuY5Km98xnmeXeGZgx)
@@ -1234,7 +1234,7 @@ Im Webcafé erzählen Felix und Kay aus ihrem Arbeitsalltag bei der Geenen IT-Sy
 
 <h3 id="working-draft">Working Draft</h3>
 
-<img align="right" width="215" height="215" src="./generated/generated/images/working-draft.png" />
+<img align="right" width="215" height="215" src="./generated/images/working-draft.png" />
 
 Wöchentlicher Podcast für Webdesigner:innen und -entwickler:innen
 
