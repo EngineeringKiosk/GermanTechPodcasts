@@ -1,0 +1,21 @@
+{
+ "name": "GameDev nach Feierabend",
+ "slug": "gamedev-nach-feierabend",
+ "website": "https://www.hobbyspieleentwicklerpodcast.de/",
+ "podcastIndexID": 3669659,
+ "rssFeed": "https://hobbyspieleentwicklerpodcast.de/podcast.xml",
+ "spotify": "https://open.spotify.com/show/0T08Oz5l2ztunuVZCBPyvG?si=bad7bdc63e9c4bba",
+ "description": "Zwei Softwareentwickler und Spiele-Enthusiasten entwickeln in ihrer Freizeit Videospiele und sprechen in einem Podcast über das, was sie tun, geben Tipps und diskutieren Technik sowie Methoden zur Spieleentwicklung.",
+ "tags": [
+  "Spieleentwicklung"
+ ],
+ "weekly_downloads_avg": {
+  "value": 0,
+  "updated": ""
+ },
+ "episodeCount": 28,
+ "latestEpisodePublished": 1779994740,
+ "archive": false,
+ "itunesID": 1554911727,
+ "image": "images/gamedev-nach-feierabend.jpg"
+}
