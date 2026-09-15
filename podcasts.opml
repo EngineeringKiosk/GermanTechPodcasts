@@ -2,7 +2,7 @@
  <opml version="2.0">
    <head>
      <title>Deutschsprachige Tech Podcasts</title>
-     <dateCreated>Sun, 13 Sep 2026 12:55:47 UTC</dateCreated>
+     <dateCreated>Tue, 15 Sep 2026 18:52:38 UTC</dateCreated>
      <ownerName>Engineering Kiosk</ownerName>
      <ownerEmail>stehtisch@engineeringkiosk.dev</ownerEmail>
    </head>
@@ -64,6 +64,7 @@
      <outline title="KI-Update" text="KI-Update" type="rss" xmlUrl="https://kiupdate.podigee.io/feed/mp3" htmlUrl="https://www.heise.de/thema/KI-Update"></outline>
      <outline title="knowIT" text="knowIT" type="rss" xmlUrl="https://anchor.fm/s/57935150/podcast/rss" htmlUrl="https://inside.iu-fernstudium.de/knowit/"></outline>
      <outline title="Kurz informiert by heise online" text="Kurz informiert by heise online" type="rss" xmlUrl="https://kurzinformiert.podigee.io/feed/mp3" htmlUrl="https://www.heise.de/Hoeren-Sie-von-uns-unsere-Podcasts-4206659.html"></outline>
+     <outline title="Linux-Magazin Podcast" text="Linux-Magazin Podcast" type="rss" xmlUrl="https://linux-magazin-podcast.podigee.io/feed/mp3" htmlUrl="https://www.linux-magazin.de/podcast/"></outline>
      <outline title="Logbuch Digitalien" text="Logbuch Digitalien" type="rss" xmlUrl="https://www.logbuch-digitalien.de/feed/podcast/" htmlUrl="https://www.logbuch-digitalien.de/"></outline>
      <outline title="Logbuch: Netzpolitik" text="Logbuch: Netzpolitik" type="rss" xmlUrl="https://feeds.metaebene.me/lnp/m4a" htmlUrl="https://logbuch-netzpolitik.de/"></outline>
      <outline title="Mac &amp; i - der Apple-Podcast" text="Mac &amp; i - der Apple-Podcast" type="rss" xmlUrl="https://heise.de/mac-and-i/mac-and-i-audio-podcast.rss" htmlUrl="https://www.heise.de/mac-and-i/meldung/Mac-i-Der-Apple-Podcast-4681220.html"></outline>

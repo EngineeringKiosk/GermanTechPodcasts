@@ -1,0 +1,22 @@
+{
+ "name": "Linux-Magazin Podcast",
+ "slug": "linux-magazin-podcast",
+ "website": "https://www.linux-magazin.de/podcast/",
+ "podcastIndexID": 7486993,
+ "rssFeed": "https://linux-magazin-podcast.podigee.io/feed/mp3",
+ "spotify": "",
+ "description": "Der monatliche Podcast vom Linux-Magazin 🐧🎤",
+ "tags": [
+  "Linux",
+  "Open Source"
+ ],
+ "weekly_downloads_avg": {
+  "value": 0,
+  "updated": ""
+ },
+ "episodeCount": 4,
+ "latestEpisodePublished": 1783967603,
+ "archive": false,
+ "itunesID": 1839676773,
+ "image": "images/linux-magazin-podcast.jpg"
+}
