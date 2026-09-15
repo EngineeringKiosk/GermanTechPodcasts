@@ -1,0 +1,9 @@
+name: Linux-Magazin Podcast
+website: https://www.linux-magazin.de/podcast/
+podcastIndexID: 7486993
+rssFeed: https://linux-magazin-podcast.podigee.io/feed/mp3
+spotify:
+description: Der monatliche Podcast vom Linux-Magazin 🐧🎤
+tags:
+  - Linux
+  - Open Source
