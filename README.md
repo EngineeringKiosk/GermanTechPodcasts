@@ -187,7 +187,7 @@ Deutschsprachiger Podcast zu den Themen IT-Sicherheit und Privatsphäre. Stefan 
 Apfelfunk ist ein wöchentlicher Podcast über Apple-Themen. Jean-Claude Frick und Malte Kirchner berichten und bewerten darin die Neuigkeiten über den wichtigsten Computerkonzern der Welt.
 
 * Number of published episodes: 500
-* Last episode published: 🟢 Wednesday, 23 September 2026
+* Last episode published: 🟢 Friday, 02 October 2026
 * [Apfelfunk Website](http://www.apfelfunk.com/)
 * [Apfelfunk @ Spotify](https://open.spotify.com/show/7FQLyWiNhMR0KS93ReaI4h)
 * [Apfelfunk @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1081146940)
@@ -235,7 +235,7 @@ Sie möchten beim Thema Datenschutz auf dem Laufenden bleiben, aber keine seiten
 Ein Podcast über Web, Entwicklung, Mobile und Technologie. Betrachtet aus der Sicht von Entwicklern bzw. Open Source Begeisterten. Das heißt aber nicht, dass wir alles mit einer Rosa-Roten Brille sehen. Wir suchen bei Apple und Microsoft genauso das Gute und Schlechte wie auch bei Linux und anderen Open Source Projekten. Wir wollen realistisch sein. Auch wenn wir damit anecken sollten.
 
 * Number of published episodes: 100
-* Last episode published: 🟢 Sunday, 20 September 2026
+* Last episode published: 🟢 Saturday, 03 October 2026
 * [Binärgewitter Website](http://blog.binaergewitter.de/)
 * [Binärgewitter @ Spotify](https://open.spotify.com/show/19LedqK0fGWfzfKzySDoVW)
 * [Binärgewitter @ Apple Podcasts](https://podcasts.apple.com/de/podcast/216877594)
@@ -329,8 +329,8 @@ Zwei Admins sprechen über die Buzzwords, die ihr jeden Tag hört und benutzt, d
 
 Mitglieder der c&#39;t-Redaktion diskutieren über die aktuellen Themen aus dem c’t Magazin und was sonst noch so in der IT-Welt passiert.
 
-* Number of published episodes: 666
-* Last episode published: 🟢 Saturday, 26 September 2026
+* Number of published episodes: 667
+* Last episode published: 🟢 Saturday, 03 October 2026
 * [c&#39;t uplink Website](https://www.heise.de/thema/ct-uplink)
 * [c&#39;t uplink @ Spotify](https://open.spotify.com/show/4LdN7lGr9winLtQSqoIjVD)
 * [c&#39;t uplink @ Apple Podcasts](https://podcasts.apple.com/de/podcast/835717958)
@@ -405,8 +405,8 @@ Lucas Rott und Markus Herhoffer erzählen alle 14 Tage von Code und Nerd-Kultur.
 
 Dein Podcast rund um Softwareentwicklung und aktueller Tech News. Lernt die Coding Buddies Tino und Fabi kennen. Erfahrt spannende Dinge über diverse Themen aus der Softwareentwicklung und lauscht den Erfahrungen der Beiden. Dazu gibt es witzige Anekdoten der Coding Buddies.
 
-* Number of published episodes: 184
-* Last episode published: 🟢 Thursday, 24 September 2026
+* Number of published episodes: 185
+* Last episode published: 🟢 Thursday, 01 October 2026
 * [Coding Buddies Website](https://www.codingbuddies.de/)
 * [Coding Buddies @ Spotify](https://open.spotify.com/show/5DaiBkAgQBt8DRCcwZY8xT?si=4acf817842f44c43)
 * [Coding Buddies @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1680339110)
@@ -725,7 +725,7 @@ Nur etwas mehr als 60 Jahre liegen zwischen dem ersten Start eines Motorflugzeug
 
 Der Podcast für Auszubildende, Ausbilder und IHK-Prüfer in den IT-Berufen (Fachinformatiker für Anwendungsentwicklung/Systemintegration/Daten- und Prozessanalyse/Digitale Vernetzung, IT-Systemelektroniker, Kaufmann für IT-Systemmanagement, Kaufmann für Digitalisierungsmanagement).
 
-* Number of published episodes: 229
+* Number of published episodes: 212
 * Last episode published: 🟢 Monday, 10 August 2026
 * Weekly downloads (avg): 5000 (updated: 2022-12-27)
 * [IT-Berufe Podcast Website](https://it-berufe-podcast.de/episoden/)
@@ -743,7 +743,7 @@ Der Podcast für Auszubildende, Ausbilder und IHK-Prüfer in den IT-Berufen (Fac
 Wie intelligent ist Künstliche Intelligenz eigentlich? Welche Folgen hat generative KI für unsere Arbeit, unsere Freizeit und die Gesellschaft? Im &#34;KI-Update&#34; von heise bringen wir Euch gemeinsam mit The Decoder werktäglich Updates zu den wichtigsten KI-Entwicklungen. Freitags beleuchten wir mit Experten die unterschiedlichen Aspekte der KI-Revolution.
 
 * Number of published episodes: 500
-* Last episode published: 🟢 Wednesday, 30 September 2026
+* Last episode published: 🟢 Friday, 02 October 2026
 * [KI-Update Website](https://www.heise.de/thema/KI-Update)
 * [KI-Update @ Spotify](https://open.spotify.com/show/1rm6gMybQWnHePvY2eCpzp)
 * [KI-Update @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1691536182)
@@ -784,7 +784,7 @@ Der monatliche Podcast vom Linux-Magazin 🐧🎤
 
 <h3 id="logbuch-digitalien">Logbuch Digitalien</h3>
 
-<img align="right" width="215" height="215" src="./generated/generated/images/logbuch-digitalien.jpg" />
+<img align="right" width="215" height="215" src="./generated/images/logbuch-digitalien.jpg" />
 
 Der Podcast über unsere digitale Lebens- und Arbeitswelt mit Markus Hörster und Christian Cordes. Alle vier Wochen dienstags um 19.00 Uhr im Radio auf Radio Okerwelle (UKW 104,6 in der Region Braunschweig) und nach der Ausstrahlung als Podcast. Wir beschäftigen uns mit allen Themen, die etwas mit Digitalien zu tun haben.
 
@@ -1014,8 +1014,8 @@ Zwei Freunde, ihr Smart Home, Self-Hosting, Technik und das ein oder andere Inte
 
 Live-Diskussion zu Software-Architektur im Stream. Einmal in der Woche diskutiert Eberhard Wolff Software-Architektur im Live-Stream auf YouTube und Twitch - oft zusammen mit einem Gast. Zuschauer können über den Chat mitdiskutieren oder Fragen stellen. Der Podcast enthält die Audio-Spur des Streams.
 
-* Number of published episodes: 333
-* Last episode published: 🟢 Thursday, 01 October 2026
+* Number of published episodes: 334
+* Last episode published: 🟢 Friday, 02 October 2026
 * [SoftwareArchitektur im Stream Website](https://software-architektur.tv/)
 * [SoftwareArchitektur im Stream @ Spotify](https://open.spotify.com/show/7ySg1eZoWYBshd6QpGaW8B)
 * [SoftwareArchitektur im Stream @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1538545458)
@@ -1076,8 +1076,8 @@ Wöchentlich am Mittwoch stellen Prompt-Expertin Susanne Renate Schneider und t3
 
 Willkommen bei &#34;Technik-Tales: Kuriose Technikgeschichten&#34; – dem Podcast, der sich auf die spannendsten und skurrilsten Geschichten aus der Welt der Technik konzentriert! In jeder Episode treffen sich unsere beiden Technik-Enthusiasten, Kai und Paddy, um sich gegenseitig mit den ungewöhnlichsten und faszinierendsten Anekdoten aus der Welt der Innovation und Ingenieurskunst zu überraschen. Von den kuriosen Pannen bei der Raumfahrt bis hin zu den witzigsten Missgeschicken in der Softwareentwicklung – &#34;Technik-Tales&#34; bietet euch jede Menge Unterhaltung, Wissenswertes und natürlich viele Lacher. Erfahrt, wie ein kleiner Fehler in einem Algorithmus zu einem weltweiten Chaos führen kann, oder hört, welche verrückten Erfindungen einmal im Hype waren und dann in der Versenkung verschwanden.Ob ihr Technik-Fans, Nerds oder einfach nur neugierig auf die lustigen Seiten der High-Tech-Welt seid – dieser Podcast bringt euch die spannenden Geschichten, die man nicht im Lehrbuch findet. Schaltet ein, lehnt euch zurück und lasst euch von uns auf eine aufregende Reise durch die kurvenreiche Welt der Technik entführen!Abonnieren und nichts verpassen!
 
-* Number of published episodes: 70
-* Last episode published: 🟢 Saturday, 19 September 2026
+* Number of published episodes: 71
+* Last episode published: 🟢 Saturday, 03 October 2026
 * Weekly downloads (avg): 200 (updated: 2025-08-08)
 * [Technik Tales Website](http://www.techniktales.com/)
 * [Technik Tales @ Spotify](https://open.spotify.com/show/7k6FWQiFXbaQenxDHNpKuP)
@@ -1331,7 +1331,7 @@ Wir sind ein Laber-Technik-Lebensweisheiten-Podcast, mit News, Retrogeschichten 
 
 <h3 id="der-gamedev-podcast">Der GameDev Podcast</h3>
 
-<img align="right" width="215" height="215" src="./generated/images/game-dev-podcast.png" />
+<img align="right" width="215" height="215" src="./generated/generated/images/game-dev-podcast.png" />
 
 Wir reden über Spieleentwicklung und allgemein über die Branche aber gehen auch ins Detail wenn es um Software, Tipps und Fragen geht.
 
