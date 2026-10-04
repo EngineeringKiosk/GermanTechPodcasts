@@ -10,7 +10,7 @@ on:
 jobs:
   testing:
     name: Testing (Go)
-    runs-on: ubuntu-24.04
+    runs-on: ubuntu-26.04
     defaults:
       run:
         working-directory: app
@@ -30,7 +30,7 @@ jobs:
 
   golangci:
     name: Linting (Go)
-    runs-on: ubuntu-24.04
+    runs-on: ubuntu-26.04
     defaults:
       run:
         working-directory: app
@@ -64,7 +64,7 @@ jobs:
 
   compile:
     name: Compile application
-    runs-on: ubuntu-24.04
+    runs-on: ubuntu-26.04
     defaults:
       run:
         working-directory: app
