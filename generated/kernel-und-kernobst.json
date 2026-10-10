@@ -1,0 +1,24 @@
+{
+ "name": "Kernel und Kernobst",
+ "slug": "kernel-und-kernobst",
+ "website": "https://www.trommelspeicher.de/podcast/",
+ "podcastIndexID": 642907,
+ "rssFeed": "https://www.trommelspeicher.de/podcast.xml",
+ "spotify": "",
+ "description": "Im Podcast unterhalten wir uns über verschiedene technische Themen und Belange aus dem Alltag. Egal ob es einen Bezug zu einer bestimmten Hard- und Software gibt. Aber meistens im Kontext zum Apple- bzw. Linux-Universum. Wir schauen sehr oft über den Tellerrand und haben auch manchmal Gäste bei uns.",
+ "tags": [
+  "Hardware",
+  "Software",
+  "Apple",
+  "Linux"
+ ],
+ "weekly_downloads_avg": {
+  "value": 0,
+  "updated": ""
+ },
+ "episodeCount": 80,
+ "latestEpisodePublished": 1789391100,
+ "archive": false,
+ "itunesID": 1212750085,
+ "image": "images/kernel-und-kernobst.jpg"
+}
