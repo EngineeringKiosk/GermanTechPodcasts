@@ -1,13 +1,15 @@
 {
  "name": "Herzbergs Hörsaal",
  "slug": "herzbergs-horsaal",
- "website": "https://www.thm.de/site/hochschule/service/schulportal/lehrerinnen-und-lehrer/studieren-probieren/podcast-herzbergs-hoersaal.html",
+ "website": "https://www.thm.de/mni/dominikus-herzberg",
  "podcastIndexID": 821928,
  "rssFeed": "https://anchor.fm/s/ba9c0bc/podcast/rss",
  "spotify": "https://open.spotify.com/show/5FDlXkn4fnAgp2ucaT7hL6",
  "description": "Dieser Podcast ist ein Hörsaal für die Ohren meiner Studierenden an der THM und alle Interessierten. Die Themen sind u.a.: Grundlagen der Informatik (GDI), Objekt-Orientierte Programmierung (OOP/Java), Programmierung interaktiver Systeme (PiS), Quantencomputing (QC), Wissenschaftliches Arbeiten (in der Informatik) (WA bzw. WAI), Bits und Bäume: Digitalisierung nachhaltig gestalten (BuB).",
  "tags": [
-  "Bildung"
+  "Bildung",
+  "Informatik",
+  "Java"
  ],
  "weekly_downloads_avg": {
   "value": 0,

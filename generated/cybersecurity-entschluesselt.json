@@ -5,11 +5,10 @@
  "podcastIndexID": 5606687,
  "rssFeed": "https://cybersecurity-entschluesselt.de/rss.xml",
  "spotify": "https://open.spotify.com/show/0sAcefh8cixTxjJn9s1dvM",
- "description": "Cybersecurity entschüsselt ist ein deutschsprachiger Podcast, in dem sich alles um Sicherheit dreht.",
+ "description": "Cybersecurity entschlüsselt ist ein deutschsprachiger Podcast, in dem sich alles um Sicherheit dreht.",
  "tags": [
-  "Security",
   "IT-Sicherheit",
-  "Technologie"
+  "Technologie - Security - IT-Sicherheit - Technologie"
  ],
  "weekly_downloads_avg": {
   "value": 0,

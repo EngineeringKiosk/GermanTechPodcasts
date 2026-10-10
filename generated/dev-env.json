@@ -3,10 +3,14 @@
  "slug": "dev-env",
  "website": "https://shows.acast.com/dev-env",
  "podcastIndexID": 5985065,
- "rssFeed": "https://python-podcast.de/show/feed/podcast/m4a/rss.xml",
+ "rssFeed": "https://feeds.acast.com/public/shows/6339fdba344e60001238ce7f",
  "spotify": "https://open.spotify.com/show/6e9gpjtx54G0293RsH6agn",
  "description": "Der einzige IT Podcast in dem es nicht um IT geht. Ivan Ushmorov spricht mit Menschen aus der IT Industrie. Freelancer, Tech Leads, Headhunter, Founder, PMs, Agile Coaches und digitale Hustler hier kommen alle zu Wort.",
- "tags": null,
+ "tags": [
+  "Karriere",
+  "Interviews",
+  "Tech-Kultur"
+ ],
  "weekly_downloads_avg": {
   "value": 0,
   "updated": ""

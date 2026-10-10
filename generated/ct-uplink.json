@@ -6,7 +6,11 @@
  "rssFeed": "https://ct-uplink.podigee.io/feed/mp3",
  "spotify": "https://open.spotify.com/show/4LdN7lGr9winLtQSqoIjVD",
  "description": "Mitglieder der c't-Redaktion diskutieren über die aktuellen Themen aus dem c’t Magazin und was sonst noch so in der IT-Welt passiert.",
- "tags": null,
+ "tags": [
+  "News",
+  "Hardware",
+  "Technologie"
+ ],
  "weekly_downloads_avg": {
   "value": 0,
   "updated": ""

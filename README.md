@@ -6,7 +6,7 @@ All listed podcasts are available as an [OPML file (podcasts.opml)](./podcasts.o
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (70 podcasts)
+* [Podcasts](#podcasts) (69 podcasts)
   * [#heiseshow](#heiseshow)
   * [((c3d2)) Pentaradio 24](#c3d2-pentaradio-24)
   * [0d - Zeroday](#0d-zeroday)
@@ -25,6 +25,7 @@ All listed podcasts are available as an [OPML file (podcasts.opml)](./podcasts.o
   * [Code Culture](#code-culture)
   * [Coding Buddies](#coding-buddies)
   * [Computer und Kommunikation (Deutschlandfunk)](#computer-und-kommunikation-deutschlandfunk)
+  * [Cybersecurity Basement](#cybersecurity-basement)
   * [Cybersecurity entschlüsselt](#cybersecurity-entschlusselt)
   * [Data Science Deep Dive](#data-science-deep-dive)
   * [DevCouch](#devcouch)
@@ -33,6 +34,7 @@ All listed podcasts are available as an [OPML file (podcasts.opml)](./podcasts.o
   * [Einfach Komplex](#einfach-komplex)
   * [Engineering Kiosk](#engineering-kiosk)
   * [Female TechTalk](#female-techtalk)
+  * [FORMBURG | Mit Webdesigner Jonas Arleth](#formburg-mit-webdesigner-jonas-arleth)
   * [Freakshow](#freakshow)
   * [Gamedev für die Platte - Der Unreal Podcast](#gamedev-fur-die-platte-der-unreal-podcast)
   * [GameDev nach Feierabend](#gamedev-nach-feierabend)
@@ -62,11 +64,9 @@ All listed podcasts are available as an [OPML file (podcasts.opml)](./podcasts.o
   * [SmartHütte](#smarthutte)
   * [SoftwareArchitektur im Stream](#softwarearchitektur-im-stream)
   * [SoftwerkerCast](#softwerkercast)
-  * [t3n Interview](#t3n-interview)
   * [t3n MeisterPrompter](#t3n-meisterprompter)
   * [Technik Tales](#technik-tales)
   * [TechnikTechnik](#techniktechnik)
-  * [The World of IT-Security](#the-world-of-it-security)
   * [They Talk Tech – mit Eckert und Wolfangel](#they-talk-tech-mit-eckert-und-wolfangel)
   * [ThinkPad-Museum Podcast](#thinkpad-museum-podcast)
   * [TILpod](#tilpod)
@@ -74,10 +74,9 @@ All listed podcasts are available as an [OPML file (podcasts.opml)](./podcasts.o
   * [Unmute IT](#unmute-it)
   * [Urlaub im Userspace](#urlaub-im-userspace)
   * [Wartungsfenster](#wartungsfenster)
-  * [Web &amp; Design Podcast](#web-and-design-podcast)
   * [Webcafé - Webentwicklung und Unternehmenskultur](#webcafe-webentwicklung-und-unternehmenskultur)
   * [Working Draft](#working-draft)
-* [Archived podcasts](#archived-podcasts) (41 podcasts)
+* [Archived podcasts](#archived-podcasts) (38 podcasts)
   * [Armchair Investigators](#armchair-investigators)
   * [Chaosradio](#chaosradio)
   * [Codestammtisch](#codestammtisch)
@@ -93,7 +92,6 @@ All listed podcasts are available as an [OPML file (podcasts.opml)](./podcasts.o
   * [Herr Zenzes wills wissen](#herr-zenzes-wills-wissen)
   * [Herzbergs Hörsaal](#herzbergs-horsaal)
   * [INNOQ Security Podcast](#innoq-security-podcast)
-  * [IT@DB](#itatdb)
   * [Ja sia!](#ja-sia)
   * [knowIT](#knowit)
   * [Mind the Tech](#mind-the-tech)
@@ -113,8 +111,6 @@ All listed podcasts are available as an [OPML file (podcasts.opml)](./podcasts.o
   * [SoftwareArchitekTOUR - von Entwicklern für Entwickler](#softwarearchitektour-von-entwicklern-fur-entwickler)
   * [Speak 1337](#speak-1337)
   * [Super Duper Developers Club](#super-duper-developers-club)
-  * [t3n Catch up](#t3n-catch-up)
-  * [t3n Daily](#t3n-daily)
   * [Tech me if you can](#tech-me-if-you-can)
   * [Tux-Flash](#tux-flash)
   * [Wo wir sind ist vorne](#wo-wir-sind-ist-vorne)
@@ -141,7 +137,7 @@ Immer donnerstags live um 17 Uhr sprechen Anna Kalinowsky, Malte Kirchner und Vo
 * [#heiseshow @ Spotify](https://open.spotify.com/show/7iMjJRAHcOAumvPbdGDavJ)
 * [#heiseshow @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1082296572)
 * [#heiseshow Podcast RSS](https://heiseshow.podigee.io/feed/mp3)
-* Tags: News, Business
+* Tags: News, Technologie
 
 ----
 
@@ -262,7 +258,7 @@ Prozessoren, Grafikkarten, Notebooks, Desktop-PCs, Server, KI, Rechenzentren und
 
 <img align="right" width="215" height="215" src="./generated/images/bits-und-boeses.jpg" />
 
-Komm mit in die dunklen Ecken des Internets. Wir blicken in der ersten Staffel auf einen Fall von Identitätsdiebstahl bei Instagram und schauen uns an, wie er hätte verhindert werden können, wie die Polizei nach Cyber-Kriminellen fahndet und was man noch tun kann, wenn es eigentlich schon zu spät ist.
+Komm mit in die dunklen Ecken des Internets. Bits &amp; Böses ist der Tech-Crime-Podcast von heise online. Jede Staffel widmet sich einem Thema, etwa Identitätsdiebstahl bei Instagram oder Hass im Netz, und zeigt, wie die Polizei nach Cyber-Kriminellen fahndet und was man tun kann, wenn es eigentlich schon zu spät ist.
 
 * Number of published episodes: 16
 * Last episode published: 🟢 Tuesday, 15 September 2026
@@ -333,6 +329,7 @@ Mitglieder der c&#39;t-Redaktion diskutieren über die aktuellen Themen aus dem 
 * [c&#39;t uplink @ Spotify](https://open.spotify.com/show/4LdN7lGr9winLtQSqoIjVD)
 * [c&#39;t uplink @ Apple Podcasts](https://podcasts.apple.com/de/podcast/835717958)
 * [c&#39;t uplink Podcast RSS](https://ct-uplink.podigee.io/feed/mp3)
+* Tags: News, Hardware, Technologie
 
 ----
 
@@ -344,7 +341,7 @@ Ein Podcast über den nahezu unendlich tiefen Kaninchenbau der mechanische Tasta
 
 * Number of published episodes: 118
 * Last episode published: 🟡 Thursday, 07 May 2026
-* [Click! Clack! Hack! Website](https://www.nerdbude.com/podcast/)
+* [Click! Clack! Hack! Website](https://www.clickclackhack.de/)
 * [Click! Clack! Hack! @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1551770169)
 * [Click! Clack! Hack! Podcast RSS](https://www.clickclackhack.de/feed/feed.xml)
 * Tags: Hardware, Tastaturen
@@ -363,7 +360,7 @@ Führung ist kein Singleplayer. Viele Manager in Software Entwicklung versuchen,
 * [Co-Op Mode @ Spotify](https://open.spotify.com/show/2fq8citwJMLavqTlXU4rBF)
 * [Co-Op Mode @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1862619391)
 * [Co-Op Mode Podcast RSS](https://coop-mode.podcaster.de/co-op-mode.rss)
-* Tags: Team culture, leadership
+* Tags: Tech-Kultur, Management, Agilität
 
 ----
 
@@ -379,6 +376,7 @@ Lucas Rott und Markus Herhoffer erzählen alle 14 Tage von Code und Nerd-Kultur.
 * [Code Culture @ Spotify](https://open.spotify.com/show/01ZL2aPP50lLW51u2aTOkN)
 * [Code Culture @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1516904389)
 * [Code Culture Podcast RSS](https://codeculture.podigee.io/feed/mp3)
+* Tags: Softwareentwicklung, Tech-Kultur, News
 
 ----
 
@@ -393,7 +391,8 @@ Dein Podcast rund um Softwareentwicklung und aktueller Tech News. Lernt die Codi
 * [Coding Buddies Website](https://www.codingbuddies.de/)
 * [Coding Buddies @ Spotify](https://open.spotify.com/show/5DaiBkAgQBt8DRCcwZY8xT?si=4acf817842f44c43)
 * [Coding Buddies @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1680339110)
-* [Coding Buddies Podcast RSS](https://codingbuddies.podcaster.de/cb-podcast.rss)
+* [Coding Buddies Podcast RSS](https://anchor.fm/s/fedbc960/podcast/rss)
+* Tags: Softwareentwicklung, Karriere
 
 ----
 
@@ -413,11 +412,27 @@ Jeden Samstag das Neueste aus Computertechnik und Informationstechnologie. Beitr
 
 ----
 
+<h3 id="cybersecurity-basement">Cybersecurity Basement</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/cybersecurity-basement.jpg" />
+
+Alle 14 Tage spricht Michael Döhmen mit Gästen aus der Cybersecurity-Branche über die Themen, die IT- und Security-Entscheider wirklich bewegen, von Incident Response über Security Operations bis zu den Fragen, die im Tagesgeschäft für Reibung sorgen. Der Podcast richtet sich an CISOs, IT-Leiter, SOC-Verantwortliche und alle, die es werden wollen.
+
+* Number of published episodes: 102
+* Last episode published: 🟢 Thursday, 08 October 2026
+* [Cybersecurity Basement Website](https://www.suresecure.de/aktuelles/podcast)
+* [Cybersecurity Basement @ Spotify](https://open.spotify.com/show/38ro5pDX7ToVMA9w6RVyNM)
+* [Cybersecurity Basement @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1567043544)
+* [Cybersecurity Basement Podcast RSS](https://rss.buzzsprout.com/1779426.rss)
+* Tags: IT-Sicherheit
+
+----
+
 <h3 id="cybersecurity-entschlusselt">Cybersecurity entschlüsselt</h3>
 
 <img align="right" width="215" height="215" src="./generated/images/cybersecurity-entschluesselt.jpg" />
 
-Cybersecurity entschüsselt ist ein deutschsprachiger Podcast, in dem sich alles um Sicherheit dreht.
+Cybersecurity entschlüsselt ist ein deutschsprachiger Podcast, in dem sich alles um Sicherheit dreht.
 
 * Number of published episodes: 84
 * Last episode published: 🟢 Tuesday, 29 September 2026
@@ -425,7 +440,7 @@ Cybersecurity entschüsselt ist ein deutschsprachiger Podcast, in dem sich alles
 * [Cybersecurity entschlüsselt @ Spotify](https://open.spotify.com/show/0sAcefh8cixTxjJn9s1dvM)
 * [Cybersecurity entschlüsselt @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1637327527)
 * [Cybersecurity entschlüsselt Podcast RSS](https://cybersecurity-entschluesselt.de/rss.xml)
-* Tags: Security, IT-Sicherheit, Technologie
+* Tags: IT-Sicherheit, Technologie - Security - IT-Sicherheit - Technologie
 
 ----
 
@@ -541,7 +556,23 @@ Student*innen der Informatik, die einen Podcast machen, damit ihr alle checkt wi
 * [Female TechTalk @ Spotify](https://open.spotify.com/show/23CmXEDANTleEB6hmeVj4W)
 * [Female TechTalk @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1589781968)
 * [Female TechTalk Podcast RSS](https://anchor.fm/s/58b9bd94/podcast/rss)
-* Tags: Female host
+* Tags: Female host, Informatik
+
+----
+
+<h3 id="formburg-mit-webdesigner-jonas-arleth">FORMBURG | Mit Webdesigner Jonas Arleth</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/formburg.jpg" />
+
+Im FORMBURG Podcast teilt Jonas Arleth seine Erfahrungen als selbstständiger Webdesigner und Webflow-Experte. Es geht um Webflow-Themen, Design-Workflows, Kundenprojekte und den Aufbau eines nachhaltigen Webdesign-Businesses. Er richtet sich an Freelancer, Selbstständige, Agenturen und Kreative. Praxisnah, ehrlich und direkt aus echten Projekten.
+
+* Number of published episodes: 242
+* Last episode published: 🟢 Tuesday, 22 September 2026
+* [FORMBURG | Mit Webdesigner Jonas Arleth Website](https://www.formburg.com)
+* [FORMBURG | Mit Webdesigner Jonas Arleth @ Spotify](https://open.spotify.com/show/6P3ovTvnUXUQZdjEMLEBer)
+* [FORMBURG | Mit Webdesigner Jonas Arleth @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1197452865)
+* [FORMBURG | Mit Webdesigner Jonas Arleth Podcast RSS](https://api.riverside.fm/hosting/xf8xhE9S.rss)
+* Tags: Web Design, Webflow, Freelancing
 
 ----
 
@@ -555,7 +586,8 @@ Freak Show ist ein Podcast, der sich mit dem Leben mit Technik im 21. Jahrhunder
 * Last episode published: 🟢 Saturday, 26 September 2026
 * [Freakshow Website](https://freakshow.fm/)
 * [Freakshow @ Apple Podcasts](https://podcasts.apple.com/de/podcast/277518737)
-* [Freakshow Podcast RSS](https://feeds.metaebene.me/freakshow/m4a)
+* [Freakshow Podcast RSS](https://feeds.metaebene.me/freakshow/mp3)
+* Tags: Apple, Technologie, Gesellschaft
 
 ----
 
@@ -679,7 +711,7 @@ Nur etwas mehr als 60 Jahre liegen zwischen dem ersten Start eines Motorflugzeug
 
 * Number of published episodes: 199
 * Last episode published: 🟢 Wednesday, 30 September 2026
-* [IT ist alles Website](https://www.pco-online.de/magazin/2020/07/podcast)
+* [IT ist alles Website](https://www.pco-online.de/news/2020/07/podcast)
 * [IT ist alles @ Spotify](https://open.spotify.com/show/46EUTeJsHSfscbkrI38f6p)
 * [IT ist alles @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1524049773)
 * [IT ist alles Podcast RSS](https://it-ist-alles.podigee.io/feed/mp3)
@@ -731,7 +763,7 @@ Wie intelligent ist Künstliche Intelligenz eigentlich? Welche Folgen hat genera
 * [KI-Update @ Spotify](https://open.spotify.com/show/1rm6gMybQWnHePvY2eCpzp)
 * [KI-Update @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1691536182)
 * [KI-Update Podcast RSS](https://kiupdate.podigee.io/feed/mp3)
-* Tags: News, Business
+* Tags: Künstliche Intelligenz, News
 
 ----
 
@@ -743,10 +775,10 @@ Die IT-News des Tages von heise online
 
 * Number of published episodes: 1000
 * Last episode published: 🟢 Friday, 09 October 2026
-* [Kurz informiert by heise online Website](https://www.heise.de/Hoeren-Sie-von-uns-unsere-Podcasts-4206659.html)
+* [Kurz informiert by heise online Website](https://www.heise.de/heise-Podcasts-4206659.html)
 * [Kurz informiert by heise online @ Spotify](https://open.spotify.com/show/2etf1jog8leNHbnhIArM9Z)
-* [Kurz informiert by heise online Podcast RSS](https://kurzinformiert.podigee.io/feed/mp3)
-* Tags: News, Business
+* [Kurz informiert by heise online Podcast RSS](https://proxyfeed.svmaudio.com/feeds/heise/kurz-informiert)
+* Tags: News
 
 ----
 
@@ -791,7 +823,7 @@ Logbuch:Netzpolitik ist ein in der Regel wöchentlich erscheinender Podcast, der
 * Last episode published: 🟢 Saturday, 10 October 2026
 * [Logbuch: Netzpolitik Website](https://logbuch-netzpolitik.de/)
 * [Logbuch: Netzpolitik @ Apple Podcasts](https://podcasts.apple.com/de/podcast/476856034)
-* [Logbuch: Netzpolitik Podcast RSS](https://feeds.metaebene.me/lnp/m4a)
+* [Logbuch: Netzpolitik Podcast RSS](https://feeds.metaebene.me/lnp/mp3)
 * Tags: Politik, Gesellschaft, Internet
 
 ----
@@ -804,10 +836,10 @@ Hintergründe, Einschätzungen, Tipps und Neuigkeiten: Im Zweiwochenrhythmus unt
 
 * Number of published episodes: 132
 * Last episode published: 🟢 Monday, 05 October 2026
-* [Mac &amp; i - der Apple-Podcast Website](https://www.heise.de/mac-and-i/meldung/Mac-i-Der-Apple-Podcast-4681220.html)
+* [Mac &amp; i - der Apple-Podcast Website](https://www.heise.de/thema/mac-and-i-podcast)
 * [Mac &amp; i - der Apple-Podcast @ Spotify](https://open.spotify.com/show/5Tcgc97HvYREYM7kIRsxii)
 * [Mac &amp; i - der Apple-Podcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1499510618)
-* [Mac &amp; i - der Apple-Podcast Podcast RSS](https://heise.de/mac-and-i/mac-and-i-audio-podcast.rss)
+* [Mac &amp; i - der Apple-Podcast Podcast RSS](https://mac-and-i.podigee.io/feed/mp3)
 * Tags: Hardware, Apple
 
 ----
@@ -833,14 +865,14 @@ Scrum kann doch inzwischen eh jeder? Von wegen! Denn - ganz unter uns: genug fal
 
 <img align="right" width="215" height="215" src="./generated/images/netzpolitik.jpg" />
 
-Wir thematisieren die wichtigen Fragestellungen rund um Internet, Gesellschaft und Politik und zeigen Wege auf, wie man sich auch selbst mit Hilfe des Netzes für digitale Freiheiten und Offenheit engagieren kann. Mit netzpolitik.org beschreiben wir, wie die Politik das Internet durch Regulierung verändert und wie das Netz Politik, Öffentlichkeiten und alles andere verändert.
+Wir sind netzpolitik.org, das Medium für digitale Freiheitsrechte. In unserem Podcast &#34;Off/On&#34; wechseln sich zwei Formate ab: Bei &#34;Off The Record&#34; führen wir euch in den Maschinenraum von netzpolitik.org. Wir erzählen, wie unsere Recherchen entstehen, und machen transparent, wie wir arbeiten. Bei &#34;On The Record&#34; interviewen wir Menschen, die unsere digitale Gesellschaft prägen.
 
 * Number of published episodes: 30
 * Last episode published: 🟢 Saturday, 05 September 2026
-* [Off/On – der Podcast von netzpolitik.org Website](https://netzpolitik.org/podcast/)
+* [Off/On – der Podcast von netzpolitik.org Website](https://netzpolitik.org/podcasts/)
 * [Off/On – der Podcast von netzpolitik.org @ Spotify](https://open.spotify.com/show/2GLuMhSNEFzUIXfx9BDxBt)
 * [Off/On – der Podcast von netzpolitik.org @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1281525246)
-* [Off/On – der Podcast von netzpolitik.org Podcast RSS](https://netzpolitik.org/category/netzpolitik-podcast/?feed=itunes&amp;)
+* [Off/On – der Podcast von netzpolitik.org Podcast RSS](https://netzpolitik.org/feed/podcast/off-on/)
 * Tags: Internet, Gesellschaft, Politik
 
 ----
@@ -857,7 +889,7 @@ Mit geballter Dev-Power nehmen Dennis, Fabi, Sebi und Jojo neue Podcastfolgen au
 * [programmier.bar Website](https://www.programmier.bar/podcast)
 * [programmier.bar @ Spotify](https://open.spotify.com/show/0ik0sXv9paTQCeThcOLCCJ)
 * [programmier.bar @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1371409964)
-* [programmier.bar Podcast RSS](https://feeds.buzzsprout.com/176239.rss)
+* [programmier.bar Podcast RSS](https://rss.buzzsprout.com/176239.rss)
 * Tags: Softwareentwicklung, News
 
 ----
@@ -903,7 +935,7 @@ Wie können wir Cybersicherheit als gesamtgesellschaftliches Problem verstehen? 
 
 * Number of published episodes: 31
 * Last episode published: 🟡 Monday, 15 June 2026
-* [Rheingehäckt Website](https://www.at-yet.de/aktuelles)
+* [Rheingehäckt Website](https://www.at-yet.de/ueber-uns/aktuelles)
 * [Rheingehäckt @ Spotify](https://open.spotify.com/show/1CFAcjQuET8Yv35k6v38fs)
 * [Rheingehäckt @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1585954195)
 * [Rheingehäckt Podcast RSS](https://2axxur.podcaster.de/rheingehaeckt.rss)
@@ -987,7 +1019,7 @@ Live-Diskussion zu Software-Architektur im Stream. Einmal in der Woche diskutier
 * [SoftwareArchitektur im Stream @ Spotify](https://open.spotify.com/show/7ySg1eZoWYBshd6QpGaW8B)
 * [SoftwareArchitektur im Stream @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1538545458)
 * [SoftwareArchitektur im Stream Podcast RSS](https://1evriw.podcaster.de/software-architektur-im-stream.rss)
-* Tags: Bildung, How To, Technologie
+* Tags: Softwarearchitektur, Softwareentwicklung, Bildung
 
 ----
 
@@ -999,26 +1031,11 @@ Der SoftwerkerCast präsentiert euch Softwerker-Wissen zum Reinhören und Nachh�
 
 * Number of published episodes: 83
 * Last episode published: 🟢 Friday, 25 September 2026
-* [SoftwerkerCast Website](https://www.codecentric.de/softwerkercast)
+* [SoftwerkerCast Website](https://www.codecentric.de/wissens-hub/softwerker/softwerkercast)
 * [SoftwerkerCast @ Spotify](https://open.spotify.com/show/0GMFlDJabOtXYm8u8HfAvL)
 * [SoftwerkerCast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1592472699)
 * [SoftwerkerCast Podcast RSS](https://anchor.fm/s/e5a1a244/podcast/rss)
 * Tags: Softwareentwicklung, Cloud, IT-Sicherheit, Platform Engineering
-
-----
-
-<h3 id="t3n-interview">t3n Interview</h3>
-
-<img align="right" width="215" height="215" src="./generated/images/t3n-interview.jpg" />
-
-In diesem Podcast diskutiert die t3n-Redaktion mit Gästen über die spannendsten digitalen Themen unserer Zeit. Ob innovative Führungskonzepte, die Digitalisierung der Gesellschaft, smarte Gadgets, neue Mobilität oder Zukunftstechnologien. Jeden Freitag um 10 Uhr!
-
-* Number of published episodes: 757
-* Last episode published: 🟢 Friday, 09 October 2026
-* [t3n Interview Website](https://t3n.de/podcast#interview)
-* [t3n Interview @ Spotify](https://open.spotify.com/show/7obTbZaywhQEiUUOMswQBQ)
-* [t3n Interview @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1115601393)
-* [t3n Interview Podcast RSS](https://t3n-podcast.podigee.io/feed/mp3)
 
 ----
 
@@ -1034,6 +1051,7 @@ Wöchentlich am Mittwoch stellen Prompt-Expertin Susanne Renate Schneider und t3
 * [t3n MeisterPrompter @ Spotify](https://open.spotify.com/show/0vgZKlXhSZ12WovlEAgCgX)
 * [t3n MeisterPrompter @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1796409152)
 * [t3n MeisterPrompter Podcast RSS](https://t3n-meisterprompter.podigee.io/feed/mp3)
+* Tags: Künstliche Intelligenz, Prompting
 
 ----
 
@@ -1049,7 +1067,7 @@ Willkommen bei &#34;Technik-Tales: Kuriose Technikgeschichten&#34; – dem Podca
 * [Technik Tales Website](http://www.techniktales.com/)
 * [Technik Tales @ Spotify](https://open.spotify.com/show/7k6FWQiFXbaQenxDHNpKuP)
 * [Technik Tales Podcast RSS](https://www.techniktales.com/feed/mp3)
-* Tags: Technik, Geschichte, Wissenschaft
+* Tags: Technikgeschichte, Wissenschaft
 
 ----
 
@@ -1066,22 +1084,6 @@ Irgendwas mit Technik
 * [TechnikTechnik @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1285407879)
 * [TechnikTechnik Podcast RSS](https://techniktechnik.de/?feed=mp3)
 * Tags: Open Source, Female host
-
-----
-
-<h3 id="the-world-of-it-security">The World of IT-Security</h3>
-
-<img align="right" width="215" height="215" src="./generated/images/the-world-of-it-security.jpg" />
-
-IT-Security, unendliche Weiten ... So oder so ähnlich lässt sich die Größenordnung von alldem, was IT-Security betrifft, beschreiben - Netzwerk, Cloud, Endpoint, E-Mail, SOC, Schwachstellen, Sicherheitsvorfall, Awareness und vieeeles mehr. Klingt unfassbar kompliziert – ist aber auch unfassbar spannend. In unserem Podcast berichten wir über aktuelle Themen und zeigen euch, warum das Thema IT-Sicherheit auch für euren Alltag extrem wichtig ist. Denn das ist unsere Leidenschaft: eure Unternehmen und eure Arbeit sicher zu machen. Habt ihr heute schon auf einen Link geklickt? 😉
-
-* Number of published episodes: 102
-* Last episode published: 🟢 Thursday, 08 October 2026
-* [The World of IT-Security Website](https://www.suresecure.de/aktuelles/podcast)
-* [The World of IT-Security @ Spotify](https://open.spotify.com/show/38ro5pDX7ToVMA9w6RVyNM)
-* [The World of IT-Security @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1567043544)
-* [The World of IT-Security Podcast RSS](https://feeds.buzzsprout.com/1779426.rss)
-* Tags: IT-Sicherheit
 
 ----
 
@@ -1159,9 +1161,9 @@ Wir sind UNMUTE IT, der Podcast von und mit Frauen aus der IT. Wir erzählen von
 * Number of published episodes: 107
 * Last episode published: 🟢 Thursday, 01 October 2026
 * Weekly downloads (avg): 177 (updated: 2023-01-21)
-* [Unmute IT Website](https://linkr.bio/unmute-it)
+* [Unmute IT Website](https://linktr.ee/unmute_it)
 * [Unmute IT @ Spotify](https://open.spotify.com/show/4v3xXuY5Km98xnmeXeGZgx)
-* [Unmute IT Podcast RSS](https://feeds.soundcloud.com/users/soundcloud:users:965624446/sounds.rss)
+* [Unmute IT Podcast RSS](https://anchor.fm/s/fe2a4730/podcast/rss)
 * Tags: Female host, Softwareentwicklung
 
 ----
@@ -1196,22 +1198,6 @@ Alle 14 Tage laden wir zu einer kleinen Kaminzimmerrunde über IT-Kram ein. In E
 * [Wartungsfenster @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1607047978)
 * [Wartungsfenster Podcast RSS](https://wartungsfenster.podigee.io/feed/mp3)
 * Tags: Datacenter, Cloud, IT-Sicherheit, Female host
-
-----
-
-<h3 id="web-and-design-podcast">Web &amp; Design Podcast</h3>
-
-<img align="right" width="215" height="215" src="./generated/images/web-und-design-podcast.jpg" />
-
-In diesem Podcast geht es um Web und User Interface Design, Freelancing, Arbeitsprozesse, Kunden und alles, wo sich diese Bereiche überschneiden.
-
-* Number of published episodes: 242
-* Last episode published: 🟢 Tuesday, 22 September 2026
-* [Web &amp; Design Podcast Website](https://www.jonasarleth.com/podcast)
-* [Web &amp; Design Podcast @ Spotify](https://open.spotify.com/show/6P3ovTvnUXUQZdjEMLEBer)
-* [Web &amp; Design Podcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1197452865)
-* [Web &amp; Design Podcast Podcast RSS](https://feeds.soundcloud.com/users/soundcloud:users:283362505/sounds.rss)
-* Tags: User Interface Design, Web Design, Freelancing
 
 ----
 
@@ -1293,6 +1279,7 @@ Zwei Softwareentwickler — Max und Nathan — unterhalten sich ein Getränk lan
 * [Codestammtisch Website](https://codestammtis.ch/)
 * [Codestammtisch @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1410854302)
 * [Codestammtisch Podcast RSS](https://codestammtis.ch/feed/mp3/)
+* Tags: Softwareentwicklung
 
 ----
 
@@ -1307,7 +1294,7 @@ Wir sind ein Laber-Technik-Lebensweisheiten-Podcast, mit News, Retrogeschichten 
 * [DAS WAR SCHON KAPUTT Website](http://daswarschonkaputt.de/)
 * [DAS WAR SCHON KAPUTT @ Spotify](https://open.spotify.com/show/5F92Db3OFLQXxdh2OIXEzI)
 * [DAS WAR SCHON KAPUTT Podcast RSS](https://daswarschonkaputt.de/feed/dwsk.xml)
-* Tags: Technews, Linux, Darknet, Retro-Tech
+* Tags: News, Linux, Darknet, Retrocomputing
 
 ----
 
@@ -1339,7 +1326,8 @@ Der einzige IT Podcast in dem es nicht um IT geht. Ivan Ushmorov spricht mit Men
 * [dev.env Website](https://shows.acast.com/dev-env)
 * [dev.env @ Spotify](https://open.spotify.com/show/6e9gpjtx54G0293RsH6agn)
 * [dev.env @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1667384138)
-* [dev.env Podcast RSS](https://python-podcast.de/show/feed/podcast/m4a/rss.xml)
+* [dev.env Podcast RSS](https://feeds.acast.com/public/shows/6339fdba344e60001238ce7f)
+* Tags: Karriere, Interviews, Tech-Kultur
 
 ----
 
@@ -1395,7 +1383,7 @@ Der FOCUS ON: DevOps Podcast beschäftigt sich mit verschiedenen Methoden und We
 
 <img align="right" width="215" height="215" src="./generated/images/focus-on-linux.jpg" />
 
-Der FOCUS ON: Linux Podcast beschäftigt sich mit verschiedenen Themen rund um Linux. Unser Ziel ist es, euch monatlich über die Entwicklungen und Neuigkeiten zu informieren und auch praktische Tool-Tipps an die Hand zu geben.
+Der FOCUS ON: Linux Podcast beschäftigt sich mit verschiedenen Themen rund um Linux, Tools und Open Source und gibt praktische Tool-Tipps an die Hand. Seit 2025 pausiert der Podcast auf unbestimmte Zeit.
 
 * Number of published episodes: 151
 * Last episode published: 🔴 Thursday, 08 May 2025
@@ -1416,7 +1404,7 @@ Nothing But Tech - Aus Deutschland, der Schweiz und den USA. geek-week.de berich
 
 * Number of published episodes: 100
 * Last episode published: 🔴 Monday, 10 July 2023
-* [GeekWeek Website](https://geek-week.de/)
+* [GeekWeek Website](https://geekweek.de/)
 * [GeekWeek @ Spotify](https://open.spotify.com/show/4GrgnNFNgHNbZxu6DVxJIy)
 * [GeekWeek Podcast RSS](https://geekweekde.libsyn.com/rss)
 * Tags: News, Hardware, Cloud
@@ -1462,11 +1450,11 @@ Dieser Podcast ist ein Hörsaal für die Ohren meiner Studierenden an der THM un
 
 * Number of published episodes: 107
 * Last episode published: 🔴 Monday, 11 March 2024
-* [Herzbergs Hörsaal Website](https://www.thm.de/site/hochschule/service/schulportal/lehrerinnen-und-lehrer/studieren-probieren/podcast-herzbergs-hoersaal.html)
+* [Herzbergs Hörsaal Website](https://www.thm.de/mni/dominikus-herzberg)
 * [Herzbergs Hörsaal @ Spotify](https://open.spotify.com/show/5FDlXkn4fnAgp2ucaT7hL6)
 * [Herzbergs Hörsaal @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1510742953)
 * [Herzbergs Hörsaal Podcast RSS](https://anchor.fm/s/ba9c0bc/podcast/rss)
-* Tags: Bildung
+* Tags: Bildung, Informatik, Java
 
 ----
 
@@ -1486,21 +1474,6 @@ In diesem Podcast sprechen wir über die Grundlagen von IT-Security. Ein praktis
 
 ----
 
-<h3 id="itatdb">IT@DB</h3>
-
-<img align="right" width="215" height="215" src="./generated/images/it-at-db.png" />
-
-IT@DB ist ein Podcast für IT Fach- und Führungskräfte (w/m/d). Hier erhältst du einen exklusiven Einblick zu spannenden IT Projekten der Deutschen Bahn.
-
-* Number of published episodes: 94
-* Last episode published: 🔴 Tuesday, 12 August 2025
-* [IT@DB Website](https://cqlshb.podcaster.de/)
-* [IT@DB @ Spotify](https://open.spotify.com/show/3uV0oOeigGJCAAQbXZ49Dv)
-* [IT@DB @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1462447493)
-* [IT@DB Podcast RSS](https://cqlshb.podcaster.de/it-at-db.rss)
-
-----
-
 <h3 id="ja-sia">Ja sia!</h3>
 
 <img align="right" width="215" height="215" src="./generated/images/ja-sia.jpg" />
@@ -1512,7 +1485,8 @@ Ja sia! Der Technikpodcast von und mit Chris und Pati. Wir bringen euch regelmä
 * [Ja sia! Website](https://www.ja-sia.de/)
 * [Ja sia! @ Spotify](https://open.spotify.com/show/6hjVDLM5ldA2t3YEwLfeKI)
 * [Ja sia! @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1527996174)
-* [Ja sia! Podcast RSS](https://www.ja-sia.de/jasia.rss)
+* [Ja sia! Podcast RSS](https://anchor.fm/s/10be323c4/podcast/rss)
+* Tags: Technologie, Wissenschaft
 
 ----
 
@@ -1528,7 +1502,7 @@ know Information Technology (kurz knowIT) - in diesem Sinne behandelt der Podcas
 * [knowIT @ Spotify](https://open.spotify.com/show/3DPCT4FTVIhmllxyZ31Z3l)
 * [knowIT @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1564646449)
 * [knowIT Podcast RSS](https://anchor.fm/s/57935150/podcast/rss)
-* Tags: Female host
+* Tags: Female host, Informatik, Forschung
 
 ----
 
@@ -1544,7 +1518,7 @@ Mind the Tech ist ein Podcast, der die dunklen Seiten der IT- und Tech-Welt bele
 * [Mind the Tech @ Spotify](https://open.spotify.com/show/6FydYmBjELizU8k8DOIcaA)
 * [Mind the Tech @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1515173582)
 * [Mind the Tech Podcast RSS](https://mind-the-tech.podigee.io/feed/mp3)
-* Tags: Cyber, Crime, Gesellschaft, Female host, IT-Sicherheit
+* Tags: Cybercrime, Gesellschaft, Female host, IT-Sicherheit
 
 ----
 
@@ -1653,7 +1627,7 @@ Ein deutschsprachiger Podcast rund um die Programmiersprache Python
 * Number of published episodes: 67
 * Last episode published: 🔴 Monday, 08 December 2025
 * Weekly downloads (avg): 3470 (updated: 2023-02-15)
-* [Python Podcast Website](https://python-podcast.de/)
+* [Python Podcast Website](https://python-podcast.de/show/)
 * [Python Podcast @ Spotify](https://open.spotify.com/show/5AvPhPaP1ZNSjNUXY3Gf6M)
 * [Python Podcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1445331513)
 * [Python Podcast Podcast RSS](https://python-podcast.de/show/feed/podcast/m4a/rss.xml)
@@ -1672,6 +1646,7 @@ RFC definieren das Internet. Nahezu jeder Informationsaustausch zwischen zwei Re
 * [Request for Comments Website](https://requestforcomments.de/)
 * [Request for Comments @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1082223939)
 * [Request for Comments Podcast RSS](https://requestforcomments.de/feed/m4a)
+* Tags: Internet, Protokolle
 
 ----
 
@@ -1683,10 +1658,10 @@ Digitalisierung in Deutschland? Sagen wir mal so: Niemand klebt sich heute das Q
 
 * Number of published episodes: 17
 * Last episode published: 🔴 Saturday, 27 May 2023
-* [Schwarz, Code, Gold – Deutschland, Entwicklungsland? Website](https://www.brandad-systems.de/podcast-schwarz-code-gold-deutschland-entwicklungsland)
+* [Schwarz, Code, Gold – Deutschland, Entwicklungsland? Website](https://letscast.fm/sites/schwarz-code-gold-deutschland-entwicklungsland-7fdeaf79)
 * [Schwarz, Code, Gold – Deutschland, Entwicklungsland? @ Spotify](https://open.spotify.com/show/5hXUx2Y3sbCL9O5xPdE8i6)
 * [Schwarz, Code, Gold – Deutschland, Entwicklungsland? @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1597296417)
-* [Schwarz, Code, Gold – Deutschland, Entwicklungsland? Podcast RSS](https://feed.schwarz-code-gold.de)
+* [Schwarz, Code, Gold – Deutschland, Entwicklungsland? Podcast RSS](https://letscast.fm/podcasts/schwarz-code-gold-deutschland-entwicklungsland-7fdeaf79/feed)
 * Tags: Softwareentwicklung, Made in Germany, Computerspiele, Digitalisierung, E-Health, Startups
 
 ----
@@ -1699,7 +1674,7 @@ Der etwas andere Podcast über IT-Themen. Echte Erfahrungen aus dem Feld. Ungefi
 
 * Number of published episodes: 7
 * Last episode published: 🔴 Saturday, 02 July 2022
-* [SELECTrageFROMit; Website](https://linktr.ee/selectragefromit)
+* [SELECTrageFROMit; Website](https://creators.spotify.com/pod/profile/selectragefromit/)
 * [SELECTrageFROMit; @ Spotify](https://open.spotify.com/show/0grOBOKTLvtBKwj9ZpxpAW)
 * [SELECTrageFROMit; @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1547576873)
 * [SELECTrageFROMit; Podcast RSS](https://anchor.fm/s/6c46c0c8/podcast/rss)
@@ -1735,7 +1710,7 @@ Fünf schnelle Fragen an…. In unserem She for IT Podcast geht es um Themen run
 * [She for what? She for IT! @ Spotify](https://open.spotify.com/show/2WKgGIRsBWp7VkC5hMI66p)
 * [She for what? She for IT! @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1538127890)
 * [She for what? She for IT! Podcast RSS](https://sheforwhat-sheforit.podigee.io/feed/mp3)
-* Tags: Female host
+* Tags: Female host, Karriere, Digitalisierung
 
 ----
 
@@ -1751,7 +1726,7 @@ Bei &#34;Software-Architektur als Beruf&#34; erzählen Menschen, wie ihr berufli
 * [Software-Architektur als Beruf @ Spotify](https://open.spotify.com/show/2DpgXYFgzqOvNy30pLRj0S)
 * [Software-Architektur als Beruf @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1609845784)
 * [Software-Architektur als Beruf Podcast RSS](https://1evriw.podcaster.de/software-architektur-als-beruf.rss)
-* Tags: Karriere, Technologie
+* Tags: Karriere, Softwarearchitektur
 
 ----
 
@@ -1766,7 +1741,7 @@ Der Podcast für praktische Softwarearchitektur. Mit: Carola Lilienthal, Patrick
 * [SoftwareArchitekTOUR - von Entwicklern für Entwickler Website](https://www.heise.de/thema/softwarearchitektour)
 * [SoftwareArchitekTOUR - von Entwicklern für Entwickler @ Spotify](https://open.spotify.com/show/2Uc7vL8U6kUZYSCOvDIJ67)
 * [SoftwareArchitekTOUR - von Entwicklern für Entwickler @ Apple Podcasts](https://podcasts.apple.com/de/podcast/313825047)
-* [SoftwareArchitekTOUR - von Entwicklern für Entwickler Podcast RSS](https://www.heise.de/developer/rss/podcast-softwarearchitektour.rss)
+* [SoftwareArchitekTOUR - von Entwicklern für Entwickler Podcast RSS](https://softwarearchitektour.podigee.io/feed/mp3)
 * Tags: Softwarearchitektur
 
 ----
@@ -1804,37 +1779,6 @@ Jede Woche setzen wir uns mit Expert:innen aus der Webentwicklung zusammen. Imme
 
 ----
 
-<h3 id="t3n-catch-up">t3n Catch up</h3>
-
-<img align="right" width="215" height="215" src="./generated/images/t3n-catch-up.jpg" />
-
-Digitalisierung ist komplex. Heute entsteht dies, morgen das. Und was übermorgen noch wichtig ist, wissen die wenigsten. Wir schon! Im Podcast besprechen wir mit den Expert:innen unserer Redaktion die wichtigsten Entwicklungen der Woche und der Zukunft. Wir geben Wissensvorsprung und Impulse.
-
-* Number of published episodes: 92
-* Last episode published: 🔴 Wednesday, 24 April 2024
-* [t3n Catch up Website](https://t3n.de/podcast#catchup)
-* [t3n Catch up @ Spotify](https://open.spotify.com/show/0Bjrzu6l2RtRRyvTf0QEKQ)
-* [t3n Catch up @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1627024991)
-* [t3n Catch up Podcast RSS](https://t3n-catch-up.podigee.io/feed/mp3)
-
-----
-
-<h3 id="t3n-daily">t3n Daily</h3>
-
-<img align="right" width="215" height="215" src="./generated/images/t3n-daily.jpg" />
-
-Dein täglicher Podcast mit dem, was wichtig war und was wichtig wird im digitalen Kosmos und dem Arbeitsleben der Zukunft. Die perfekte Begleitung zum Abschluss des Arbeitstages und auf dem Weg in den Abend.
-
-* Number of published episodes: 183
-* Last episode published: 🔴 Thursday, 01 June 2023
-* [t3n Daily Website](https://t3n.de/podcast#daily)
-* [t3n Daily @ Spotify](https://open.spotify.com/show/1Fc1zS8yvRS7Zf0leKn54o)
-* [t3n Daily @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1643152920)
-* [t3n Daily Podcast RSS](https://t3n-daily.podigee.io/feed/mp3)
-* Tags: News
-
-----
-
 <h3 id="tech-me-if-you-can">Tech me if you can</h3>
 
 <img align="right" width="215" height="215" src="./generated/images/tech-me-if-you-can.jpg" />
@@ -1847,7 +1791,7 @@ Der Podcast rund um Technologie, Smart Home, Gadgets und mehr. Patrick und Ingo 
 * [Tech me if you can @ Spotify](https://open.spotify.com/show/34sAq6pHjadCQyPoydwZfN?si=5a0cf3dda5f74983)
 * [Tech me if you can @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1674729698)
 * [Tech me if you can Podcast RSS](https://letscast.fm/podcasts/tech-me-if-you-can-24f146bd/feed)
-* Tags: Hardware, Apple
+* Tags: Hardware, Apple, Smart Home
 
 ----
 
@@ -1893,7 +1837,7 @@ Wir berichten zweiwöchentlich über News und Updates aus dem WordPress Universu
 * [WP Sofa Website](https://wp-sofa.de/)
 * [WP Sofa @ Spotify](https://open.spotify.com/show/5deyJkxMw1cAMKGxnrx5wO)
 * [WP Sofa Podcast RSS](https://mp3.wp-sofa.de/)
-* Tags: Wordpress
+* Tags: WordPress
 
 ----
 

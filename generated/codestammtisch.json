@@ -6,7 +6,9 @@
  "rssFeed": "https://codestammtis.ch/feed/mp3/",
  "spotify": "",
  "description": "Zwei Softwareentwickler — Max und Nathan — unterhalten sich ein Getränk lang über Themen aus der Softwareentwicklung. Da beide keine Ahnung von Bier haben, aber es gerne trinken, trinken die beiden meistens Bier.",
- "tags": null,
+ "tags": [
+  "Softwareentwicklung"
+ ],
  "weekly_downloads_avg": {
   "value": 0,
   "updated": ""

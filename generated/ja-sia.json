@@ -3,10 +3,13 @@
  "slug": "ja-sia",
  "website": "https://www.ja-sia.de/",
  "podcastIndexID": 1311798,
- "rssFeed": "https://www.ja-sia.de/jasia.rss",
+ "rssFeed": "https://anchor.fm/s/10be323c4/podcast/rss",
  "spotify": "https://open.spotify.com/show/6hjVDLM5ldA2t3YEwLfeKI",
  "description": "Ja sia! Der Technikpodcast von und mit Chris und Pati. Wir bringen euch regelmäßig neue Infos zu aktuellen technologischen- und dazugehörigen wissenschaftlichen Themen kombiniert mit der einen oder anderen unterhaltsamen Spaßrubrik. ;)",
- "tags": null,
+ "tags": [
+  "Technologie",
+  "Wissenschaft"
+ ],
  "weekly_downloads_avg": {
   "value": 0,
   "updated": ""
