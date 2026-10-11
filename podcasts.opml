@@ -2,7 +2,7 @@
  <opml version="2.0">
    <head>
      <title>Deutschsprachige Tech Podcasts</title>
-     <dateCreated>Sat, 10 Oct 2026 09:52:55 UTC</dateCreated>
+     <dateCreated>Sun, 11 Oct 2026 08:24:07 UTC</dateCreated>
      <ownerName>Engineering Kiosk</ownerName>
      <ownerEmail>stehtisch@engineeringkiosk.dev</ownerEmail>
    </head>
@@ -20,6 +20,7 @@
      <outline title="Bits und so" text="Bits und so" type="rss" xmlUrl="http://www.bitsundso.de/feed/" htmlUrl="http://www.bitsundso.de/"></outline>
      <outline title="Breach FM" text="Breach FM" type="rss" xmlUrl="https://anchor.fm/s/fcc344f0/podcast/rss" htmlUrl="https://creators.spotify.com/pod/profile/superrobeert1/"></outline>
      <outline title="BuzzZoom" text="BuzzZoom" type="rss" xmlUrl="https://buzzzoom.de/?feed=podcast" htmlUrl="https://buzzzoom.de/"></outline>
+     <outline title="c&#39;t 4004 – der c&#39;t-3003-Podcast" text="c&#39;t 4004 – der c&#39;t-3003-Podcast" type="rss" xmlUrl="https://ct-3003.podigee.io/feed/mp3" htmlUrl="https://ct-3003.podigee.io/"></outline>
      <outline title="c&#39;t uplink" text="c&#39;t uplink" type="rss" xmlUrl="https://ct-uplink.podigee.io/feed/mp3" htmlUrl="https://www.heise.de/thema/ct-uplink"></outline>
      <outline title="Chaosradio" text="Chaosradio" type="rss" xmlUrl="https://chaosradio.de/feed/m4a" htmlUrl="https://chaosradio.de/"></outline>
      <outline title="Click! Clack! Hack!" text="Click! Clack! Hack!" type="rss" xmlUrl="https://www.clickclackhack.de/feed/feed.xml" htmlUrl="https://www.clickclackhack.de/"></outline>

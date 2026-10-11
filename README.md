@@ -6,7 +6,7 @@ All listed podcasts are available as an [OPML file (podcasts.opml)](./podcasts.o
 
 ## Table of Contents
 
-* [Podcasts](#podcasts) (69 podcasts)
+* [Podcasts](#podcasts) (70 podcasts)
   * [#heiseshow](#heiseshow)
   * [((c3d2)) Pentaradio 24](#c3d2-pentaradio-24)
   * [0d - Zeroday](#0d-zeroday)
@@ -19,6 +19,7 @@ All listed podcasts are available as an [OPML file (podcasts.opml)](./podcasts.o
   * [Bits und so](#bits-und-so)
   * [Breach FM](#breach-fm)
   * [BuzzZoom](#buzzzoom)
+  * [c&#39;t 4004 – der c&#39;t-3003-Podcast](#ct-4004-der-ct-3003-podcast)
   * [c&#39;t uplink](#ct-uplink)
   * [Click! Clack! Hack!](#click-clack-hack)
   * [Co-Op Mode](#co-op-mode)
@@ -148,7 +149,7 @@ Immer donnerstags live um 17 Uhr sprechen Anna Kalinowsky, Malte Kirchner und Vo
 Pentaradio24 ist eine Sendung, die jeden vierten Dienstag im Monat zwischen 21:30 und 23:00 Uhr auf coloRadio live ausgestrahlt wird, bestehend aus einem informativen Rahmenprogramm und Beiträgen zu einem sendungsspezifischen Thema.
 
 
-* Number of published episodes: 27
+* Number of published episodes: 25
 * Last episode published: 🟢 Tuesday, 06 October 2026
 * [((c3d2)) Pentaradio 24 Website](https://www.c3d2.de/radio.html)
 * [((c3d2)) Pentaradio 24 @ Apple Podcasts](https://podcasts.apple.com/de/podcast/350873124)
@@ -317,6 +318,22 @@ Zwei Admins sprechen über die Buzzwords, die ihr jeden Tag hört und benutzt, d
 
 ----
 
+<h3 id="ct-4004-der-ct-3003-podcast">c&#39;t 4004 – der c&#39;t-3003-Podcast</h3>
+
+<img align="right" width="215" height="215" src="./generated/images/ct-4004.jpg" />
+
+c&#39;t-3003-Host Jan-Keno Janssen redet mit seinem Freund Christian Lutz-Weicken über Technik. Im schlechtesten Fall kommt da ein Tech-Wochenrückblick raus, im besten Fall: Magie. Außerdem plaudern die beiden hier jeden Donnerstag brühwarme Betriebsgeheimnisse aus der Tech-Journalisten-Bubble aus.
+
+* Number of published episodes: 42
+* Last episode published: 🟢 Thursday, 08 October 2026
+* [c&#39;t 4004 – der c&#39;t-3003-Podcast Website](https://ct-3003.podigee.io/)
+* [c&#39;t 4004 – der c&#39;t-3003-Podcast @ Spotify](https://open.spotify.com/show/32NViv1m1HmHRNQg0opNVB)
+* [c&#39;t 4004 – der c&#39;t-3003-Podcast @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1824196283)
+* [c&#39;t 4004 – der c&#39;t-3003-Podcast Podcast RSS](https://ct-3003.podigee.io/feed/mp3)
+* Tags: Technologie, News, Künstliche Intelligenz
+
+----
+
 <h3 id="ct-uplink">c&#39;t uplink</h3>
 
 <img align="right" width="215" height="215" src="./generated/images/ct-uplink.jpg" />
@@ -403,7 +420,7 @@ Dein Podcast rund um Softwareentwicklung und aktueller Tech News. Lernt die Codi
 Jeden Samstag das Neueste aus Computertechnik und Informationstechnologie. Beiträge, Reportagen und Interviews zu IT-Sicherheit, Informatik, Datenschutz, Smartphones, Cloud-Computing und IT-Politik. Die Trends der IT werden kompakt und informativ zusammengefasst.
 
 * Number of published episodes: 20
-* Last episode published: 🟢 Saturday, 26 September 2026
+* Last episode published: 🟢 Saturday, 10 October 2026
 * [Computer und Kommunikation (Deutschlandfunk) Website](https://www.deutschlandfunk.de/computer-und-kommunikation-102.html)
 * [Computer und Kommunikation (Deutschlandfunk) @ Spotify](https://open.spotify.com/show/4uy56W83RGe8SKmzNpyfAc)
 * [Computer und Kommunikation (Deutschlandfunk) @ Apple Podcasts](https://podcasts.apple.com/de/podcast/173754605)
@@ -799,7 +816,7 @@ Der monatliche Podcast vom Linux-Magazin 🐧🎤
 
 <h3 id="logbuch-digitalien">Logbuch Digitalien</h3>
 
-<img align="right" width="215" height="215" src="./generated/images/logbuch-digitalien.jpg" />
+<img align="right" width="215" height="215" src="./generated/generated/images/logbuch-digitalien.jpg" />
 
 Der Podcast über unsere digitale Lebens- und Arbeitswelt mit Markus Hörster und Christian Cordes. Alle vier Wochen dienstags um 19.00 Uhr im Radio auf Radio Okerwelle (UKW 104,6 in der Region Braunschweig) und nach der Ausstrahlung als Podcast. Wir beschäftigen uns mit allen Themen, die etwas mit Digitalien zu tun haben.
 
@@ -867,8 +884,8 @@ Scrum kann doch inzwischen eh jeder? Von wegen! Denn - ganz unter uns: genug fal
 
 Wir sind netzpolitik.org, das Medium für digitale Freiheitsrechte. In unserem Podcast &#34;Off/On&#34; wechseln sich zwei Formate ab: Bei &#34;Off The Record&#34; führen wir euch in den Maschinenraum von netzpolitik.org. Wir erzählen, wie unsere Recherchen entstehen, und machen transparent, wie wir arbeiten. Bei &#34;On The Record&#34; interviewen wir Menschen, die unsere digitale Gesellschaft prägen.
 
-* Number of published episodes: 30
-* Last episode published: 🟢 Saturday, 05 September 2026
+* Number of published episodes: 31
+* Last episode published: 🟢 Saturday, 10 October 2026
 * [Off/On – der Podcast von netzpolitik.org Website](https://netzpolitik.org/podcasts/)
 * [Off/On – der Podcast von netzpolitik.org @ Spotify](https://open.spotify.com/show/2GLuMhSNEFzUIXfx9BDxBt)
 * [Off/On – der Podcast von netzpolitik.org @ Apple Podcasts](https://podcasts.apple.com/de/podcast/1281525246)
@@ -896,7 +913,7 @@ Mit geballter Dev-Power nehmen Dennis, Fabi, Sebi und Jojo neue Podcastfolgen au
 
 <h3 id="radiotux">RadioTux</h3>
 
-<img align="right" width="215" height="215" src="./generated/images/radiotux.png" />
+<img align="right" width="215" height="215" src="./generated/generated/images/radiotux.png" />
 
 Rund um Open Source, Freie Software, Linux und gesellschaftspolitische Themen.
 
@@ -916,8 +933,8 @@ Rund um Open Source, Freie Software, Linux und gesellschaftspolitische Themen.
 
 Sandra Parsick &amp; Daniel Zenzes präsentieren mit Ready for Review einen bunten Mix aus aktuellen IT-Themen und ihrem täglichen Entwickler-Alltag.
 
-* Number of published episodes: 118
-* Last episode published: 🟢 Friday, 18 September 2026
+* Number of published episodes: 119
+* Last episode published: 🟢 Saturday, 10 October 2026
 * Weekly downloads (avg): 66 (updated: 2022-07-29)
 * [Ready for Review Website](https://ready-for-review.dev/)
 * [Ready for Review @ Spotify](https://open.spotify.com/show/7dxK2wi4ZMGEYO3UHhTSc4)

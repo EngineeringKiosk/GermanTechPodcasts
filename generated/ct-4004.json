@@ -1,0 +1,23 @@
+{
+ "name": "c't 4004 – der c't-3003-Podcast",
+ "slug": "ct-4004-der-ct-3003-podcast",
+ "website": "https://ct-3003.podigee.io/",
+ "podcastIndexID": 7401319,
+ "rssFeed": "https://ct-3003.podigee.io/feed/mp3",
+ "spotify": "https://open.spotify.com/show/32NViv1m1HmHRNQg0opNVB",
+ "description": "c't-3003-Host Jan-Keno Janssen redet mit seinem Freund Christian Lutz-Weicken über Technik. Im schlechtesten Fall kommt da ein Tech-Wochenrückblick raus, im besten Fall: Magie. Außerdem plaudern die beiden hier jeden Donnerstag brühwarme Betriebsgeheimnisse aus der Tech-Journalisten-Bubble aus.",
+ "tags": [
+  "Technologie",
+  "News",
+  "Künstliche Intelligenz"
+ ],
+ "weekly_downloads_avg": {
+  "value": 0,
+  "updated": ""
+ },
+ "episodeCount": 42,
+ "latestEpisodePublished": 1791477366,
+ "archive": false,
+ "itunesID": 1824196283,
+ "image": "images/ct-4004.jpg"
+}
