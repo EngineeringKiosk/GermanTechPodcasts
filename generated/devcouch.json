@@ -15,7 +15,7 @@
  },
  "episodeCount": 121,
  "latestEpisodePublished": 1777409009,
- "archive": false,
+ "archive": true,
  "itunesID": 1249563765,
  "image": "images/devcouch.jpg"
 }
